@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Toronto Election Results — Live Mayoral Tracker (Chow vs Bradford)</title>
+  <meta name="description" content="Live results and ward-by-ward analysis for the Toronto Mayoral Election, focusing on Olivia Chow vs Brad Bradford.">
+  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+  
+  <!-- Application CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Sticky Header -->
+  <header class="header">
+    <div class="header-container">
+      <div class="brand">
+        <div class="brand-badge">TORONTO 2026</div>
+        <div class="brand-text">
+          <h1>Mayoral Election Results</h1>
+          <p>Live Head-to-Head Tracker & Ward Analysis</p>
+        </div>
+      </div>
+      <div class="header-controls">
+        <div id="liveStatusPill" class="status-pill awaiting">
+          <span class="status-pulse"></span>
+          <span id="liveStatusText">Connecting to live feed...</span>
+        </div>
+        <span id="lastUpdatedTime" class="ticker-sub" style="font-size: 0.8rem; margin-right: 0.25rem;"></span>
+        <label style="display:flex; align-items:center; gap:0.4rem; font-size:0.8rem; color:var(--text-muted); cursor:pointer;">
+          <input type="checkbox" id="chkAutoRefresh" checked> Auto-refresh (45s)
+        </label>
+        <button id="btnRefresh" class="btn btn-primary" title="Refresh live results">
+          <svg id="refreshIcon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
+          </svg>
+          Refresh
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="main-content">
+
+    <!-- Summary Ticker Bar -->
+    <section class="ticker-card">
+      <div class="ticker-grid">
+        <div class="ticker-item">
+          <span class="ticker-label">Polls Reporting</span>
+          <span id="tickerPollsVal" class="ticker-val">0 / 1,431</span>
+          <div class="progress-track">
+            <div id="tickerPollsBar" class="progress-bar-fill" style="width: 0%"></div>
+          </div>
+          <span id="tickerPollsPct" class="ticker-sub">0.0% reporting</span>
+        </div>
+        <div class="ticker-item">
+          <span class="ticker-label">Total Votes Counted</span>
+          <span id="tickerVotesVal" class="ticker-val">0</span>
+          <span class="ticker-sub">City-wide ballots recorded</span>
+        </div>
+        <div class="ticker-item">
+          <span class="ticker-label">Voter Turnout</span>
+          <span id="tickerTurnoutVal" class="ticker-val">0.0%</span>
+          <span id="tickerTurnoutSub" class="ticker-sub">of 2,143,771 registered</span>
+        </div>
+        <div class="ticker-item">
+          <span class="ticker-label">Reporting Wards</span>
+          <span id="tickerWardsReportingVal" class="ticker-val">25 / 25 Wards</span>
+          <span class="ticker-sub">All city districts active</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- SHOWDOWN SECTION: Olivia Chow vs Brad Bradford -->
+    <section class="showdown-section">
+      <div class="section-title-wrap">
+        <h2 class="section-title">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"/><path d="m4.93 4.93 4.24 4.24"/><path d="m14.83 9.17 4.24-4.24"/><path d="m14.83 14.83 4.24 4.24"/><path d="m9.17 14.83-4.24 4.24"/>
+          </svg>
+          Head-to-Head Showdown: Olivia Chow vs Brad Bradford
+        </h2>
+        <span class="ticker-sub">Key Mayoral Contenders</span>
+      </div>
+
+      <div class="showdown-grid">
+        <!-- Olivia Chow Card -->
+        <div class="candidate-card chow">
+          <div class="candidate-header">
+            <div class="candidate-meta">
+              <h3>Olivia Chow</h3>
+              <span class="subtitle">Incumbent Mayor</span>
+            </div>
+            <span class="cand-badge">CHOW</span>
+          </div>
+
+          <div class="candidate-metrics">
+            <div>
+              <div class="ticker-label">City-wide Votes</div>
+              <div id="chowVotes" class="cand-votes">0</div>
+            </div>
+            <div id="chowPct" class="cand-pct">0.0%</div>
+          </div>
+
+          <div class="cand-footer-stats">
+            <div class="cand-stat-box">
+              <div class="stat-label">Wards Led</div>
+              <div id="chowWardsLed" class="stat-val">0 Wards</div>
+            </div>
+            <div class="cand-stat-box">
+              <div class="stat-label">Two-Way Share</div>
+              <div id="chowTwoWayPct" class="stat-val">50.0%</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Center VS / Margin Indicator -->
+        <div class="showdown-center">
+          <div class="vs-badge">VS</div>
+          <div id="h2hMarginPill" class="margin-pill pending">
+            POLLS REPORTING SOON
+          </div>
+
+          <!-- Two-way Progress Bar -->
+          <div class="two-way-meter-wrap">
+            <div class="two-way-meter">
+              <div id="twoWayChowBar" class="two-way-chow" style="width: 50%"></div>
+              <div id="twoWayBradfordBar" class="two-way-bradford" style="width: 50%"></div>
+            </div>
+            <div class="two-way-labels">
+              <span style="color:#fdba74">Chow</span>
+              <span style="color:#93c5fd">Bradford</span>
+            </div>
+          </div>
+
+          <!-- Scoreboard -->
+          <div class="ward-scoreboard">
+            <span class="ward-score-chow" id="scoreboardChow">0 Wards</span>
+            <span style="color:var(--text-dim); font-size: 0.75rem;">WARDS LED</span>
+            <span class="ward-score-bradford" id="scoreboardBradford">0 Wards</span>
+          </div>
+        </div>
+
+        <!-- Brad Bradford Card -->
+        <div class="candidate-card bradford">
+          <div class="candidate-header">
+            <div class="candidate-meta">
+              <h3>Brad Bradford</h3>
+              <span class="subtitle">Councillor & Challenger</span>
+            </div>
+            <span class="cand-badge">BRADFORD</span>
+          </div>
+
+          <div class="candidate-metrics">
+            <div>
+              <div class="ticker-label">City-wide Votes</div>
+              <div id="bradfordVotes" class="cand-votes">0</div>
+            </div>
+            <div id="bradfordPct" class="cand-pct">0.0%</div>
+          </div>
+
+          <div class="cand-footer-stats">
+            <div class="cand-stat-box">
+              <div class="stat-label">Wards Led</div>
+              <div id="bradfordWardsLed" class="stat-val">0 Wards</div>
+            </div>
+            <div class="cand-stat-box">
+              <div class="stat-label">Two-Way Share</div>
+              <div id="bradfordTwoWayPct" class="stat-val">50.0%</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TOP 5 CANDIDATES SECTION -->
+    <section class="top5-section">
+      <div class="section-title-wrap">
+        <h2 class="section-title">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.45 1-1 1H7"/><path d="M14 14.66V17c0 .55.45 1 1 1h2"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/>
+          </svg>
+          Top 5 Mayoral Candidates
+        </h2>
+        <span class="ticker-sub">Showing Top 5 out of 53 Candidates</span>
+      </div>
+
+      <div id="top5Container" class="top5-list">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+
+      <div style="margin-top: 1rem; text-align: right;">
+        <button id="btnToggleAllCandidates" class="btn btn-sm">Show full candidate list (53 candidates)</button>
+        <div id="fullCandidatesList" class="hidden" style="margin-top: 1rem; font-size: 0.85rem; color: var(--text-muted); text-align: left; background: var(--bg-card); padding: 1rem; border-radius: var(--radius-sm); border: 1px solid var(--border-color);">
+          <p>Full candidate results are accessible via the official City of Toronto portal feed. Filtering is applied to spotlight the top 5 frontrunners and the Chow vs Bradford race.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- MAP & INSPECTOR GRID -->
+    <div class="map-inspector-grid">
+      <!-- Interactive Map Column -->
+      <section class="map-card">
+        <div class="map-toolbar">
+          <div class="map-view-toggles">
+            <button class="toggle-btn active" data-view="margin">Chow vs Bradford Margin</button>
+            <button class="toggle-btn" data-view="winner">Ward Winner</button>
+            <button class="toggle-btn" data-view="turnout">Polls Reporting</button>
+          </div>
+          <button id="btnResetMap" class="btn btn-sm" title="Reset Map View">Reset View</button>
+        </div>
+
+        <div id="map"></div>
+
+        <div id="mapLegend" class="map-legend">
+          <!-- Dynamically updated -->
+        </div>
+      </section>
+
+      <!-- Ward Inspector Column -->
+      <section id="wardInspectorCard" class="inspector-card">
+        <div class="inspector-header">
+          <div class="inspector-title">
+            <h4 id="inspectorWardTitle">Select a Ward</h4>
+            <span id="inspectorReporting">Click any ward on map or table</span>
+          </div>
+        </div>
+
+        <div class="ward-breakdown-box">
+          <div class="h2h-row">
+            <span class="h2h-name" style="color: #fdba74;">Olivia Chow</span>
+            <span class="h2h-stat" id="inspChowVotes">0</span>
+            <span class="ticker-sub" id="inspChowPct">0.0%</span>
+          </div>
+          <div class="h2h-row">
+            <span class="h2h-name" style="color: #93c5fd;">Brad Bradford</span>
+            <span class="h2h-stat" id="inspBradfordVotes">0</span>
+            <span class="ticker-sub" id="inspBradfordPct">0.0%</span>
+          </div>
+
+          <!-- Mini bar -->
+          <div class="two-way-meter" style="height: 8px;">
+            <div id="inspChowMiniBar" class="two-way-chow" style="width: 50%"></div>
+            <div id="inspBradfordMiniBar" class="two-way-bradford" style="width: 50%"></div>
+          </div>
+
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-top:0.25rem;">
+            <span class="ticker-label" style="font-size:0.7rem;">Ward Margin:</span>
+            <span id="inspMargin" class="table-badge pending">Pending</span>
+          </div>
+        </div>
+
+        <div>
+          <span class="ticker-label" style="margin-bottom: 0.5rem; display:block;">Ward Top Candidates</span>
+          <div id="inspectorTopCandidates" class="inspector-candidates-list">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+
+        <div id="inspectorStats" style="border-top: 1px solid var(--border-color); padding-top: 0.75rem;">
+          <!-- Turnout and votes in ward -->
+        </div>
+      </section>
+    </div>
+
+    <!-- KEY BATTLEGROUNDS -->
+    <section class="ticker-card">
+      <div class="section-title-wrap" style="margin-bottom: 0.5rem;">
+        <h3 class="section-title" style="font-size: 1.05rem;">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+          </svg>
+          Key Battlegrounds & Swing Wards
+        </h3>
+        <span class="ticker-sub">Districts with the closest vote margin</span>
+      </div>
+      <div id="battlegroundsContainer" class="battleground-cards">
+        <!-- Rendered by app.js -->
+      </div>
+    </section>
+
+    <!-- WARD RESULTS TABLE -->
+    <section class="table-section">
+      <div class="table-toolbar">
+        <h3 class="section-title" style="font-size: 1.05rem;">
+          Ward-by-Ward Results Explorer
+        </h3>
+        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+          <input type="text" id="tableSearch" class="search-input" placeholder="Search ward name or number...">
+          <div class="filter-pills">
+            <button class="filter-pill active" data-filter="all">All Wards (25)</button>
+            <button class="filter-pill" data-filter="chow">Chow Leading</button>
+            <button class="filter-pill" data-filter="bradford">Bradford Leading</button>
+            <button class="filter-pill" data-filter="battleground">Battlegrounds</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="table-wrap">
+        <table class="ward-table">
+          <thead>
+            <tr>
+              <th>Ward #</th>
+              <th>Ward Name</th>
+              <th>Polls Reporting</th>
+              <th>Total Votes</th>
+              <th>Olivia Chow</th>
+              <th>Brad Bradford</th>
+              <th>Lead Margin</th>
+            </tr>
+          </thead>
+          <tbody id="wardTableBody">
+            <!-- Dynamic table rows -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- HISTORY / TIMELINE CHART -->
+    <section class="chart-section">
+      <div class="section-title-wrap">
+        <h3 class="section-title" style="font-size: 1.05rem;">
+          Vote Progression Timeline
+        </h3>
+        <span class="ticker-sub">Real-time cumulative votes by scrape snapshot</span>
+      </div>
+      <div class="chart-container">
+        <canvas id="historyChart"></canvas>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>Data scraped automatically from the <a href="https://electionresults.toronto.ca/" target="_blank" rel="noopener">City of Toronto Official Election Results Portal</a>.</p>
+    <p>Ward boundaries provided by the <a href="https://open.toronto.ca/dataset/city-wards/" target="_blank" rel="noopener">City of Toronto Open Data Catalog</a>.</p>
+    <p>Scraping & Continuous Deployment powered by GitHub Actions in the cloud. Source code on <a href="https://github.com/J7892/torontoelxn" target="_blank" rel="noopener">GitHub</a>.</p>
+  </footer>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <!-- App JS -->
+  <script src="app.js"></script>
+</body>
+</html>

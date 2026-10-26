@@ -1,0 +1,1451 @@
+{
+  "metadata": {
+    "last_updated_utc": "2026-10-26T23:50:39.468331+00:00",
+    "election_desc": "2026 Municipal Election",
+    "seq": "1790647481807",
+    "status": "Awaiting Results - Polls Closing",
+    "source_url": "https://electionresults.toronto.ca/"
+  },
+  "citywide": {
+    "total_polls": 1431,
+    "polls_reported": 0,
+    "polls_reporting_pct": 0.0,
+    "total_votes": 0,
+    "registered_voters": 2143771,
+    "turnout_pct": 0.0
+  },
+  "head_to_head": {
+    "leader": "Pending",
+    "vote_margin": 0,
+    "pct_margin": 0.0,
+    "total_head_to_head_votes": 0,
+    "chow": {
+      "name": "Olivia Chow",
+      "votes": 0,
+      "percentage": 0.0,
+      "two_way_percentage": 50.0,
+      "wards_leading": 0,
+      "color": "#e05a1e"
+    },
+    "bradford": {
+      "name": "Brad Bradford",
+      "votes": 0,
+      "percentage": 0.0,
+      "two_way_percentage": 50.0,
+      "wards_leading": 0,
+      "color": "#0d6efd"
+    }
+  },
+  "top5_candidates": [
+    {
+      "name": "Imad Abdulkadir",
+      "votes": 0,
+      "percentage": 0.0,
+      "rank": 1,
+      "margin_from_leader": 0
+    },
+    {
+      "name": "Bahira Abdulsalam",
+      "votes": 0,
+      "percentage": 0.0,
+      "rank": 2,
+      "margin_from_leader": 0
+    },
+    {
+      "name": "Chris Alexander",
+      "votes": 0,
+      "percentage": 0.0,
+      "rank": 3,
+      "margin_from_leader": 0
+    },
+    {
+      "name": "Jamie Atkinson",
+      "votes": 0,
+      "percentage": 0.0,
+      "rank": 4,
+      "margin_from_leader": 0
+    },
+    {
+      "name": "Brad Bradford",
+      "votes": 0,
+      "percentage": 0.0,
+      "rank": 5,
+      "margin_from_leader": 0
+    }
+  ],
+  "all_candidates_count": 53,
+  "wards": [
+    {
+      "ward_num": 1,
+      "ward_name": "Etobicoke North",
+      "polls_total": 46,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 78411,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 2,
+      "ward_name": "Etobicoke Centre",
+      "polls_total": 67,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 97554,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 3,
+      "ward_name": "Etobicoke-Lakeshore",
+      "polls_total": 82,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 116485,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 4,
+      "ward_name": "Parkdale-High Park",
+      "polls_total": 67,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 88529,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 5,
+      "ward_name": "York South-Weston",
+      "polls_total": 62,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 83515,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 6,
+      "ward_name": "York Centre",
+      "polls_total": 50,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 79015,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 7,
+      "ward_name": "Humber River-Black Creek",
+      "polls_total": 45,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 73832,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 8,
+      "ward_name": "Eglinton-Lawrence",
+      "polls_total": 61,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 89581,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 9,
+      "ward_name": "Davenport",
+      "polls_total": 53,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 84706,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 10,
+      "ward_name": "Spadina-Fort York",
+      "polls_total": 80,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 123597,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 11,
+      "ward_name": "University-Rosedale",
+      "polls_total": 72,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 90868,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 12,
+      "ward_name": "Toronto-St. Paul's",
+      "polls_total": 58,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 95032,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 13,
+      "ward_name": "Toronto Centre",
+      "polls_total": 78,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 101769,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 14,
+      "ward_name": "Toronto-Danforth",
+      "polls_total": 48,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 85786,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 15,
+      "ward_name": "Don Valley West",
+      "polls_total": 49,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 76936,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 16,
+      "ward_name": "Don Valley East",
+      "polls_total": 62,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 70080,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 17,
+      "ward_name": "Don Valley North",
+      "polls_total": 60,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 81623,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 18,
+      "ward_name": "Willowdale",
+      "polls_total": 56,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 84671,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 19,
+      "ward_name": "Beaches-East York",
+      "polls_total": 53,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 85048,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 20,
+      "ward_name": "Scarborough Southwest",
+      "polls_total": 61,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 82427,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 21,
+      "ward_name": "Scarborough Centre",
+      "polls_total": 49,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 80557,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 22,
+      "ward_name": "Scarborough-Agincourt",
+      "polls_total": 47,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 75224,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 23,
+      "ward_name": "Scarborough North",
+      "polls_total": 37,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 66760,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 24,
+      "ward_name": "Scarborough-Guildwood",
+      "polls_total": 48,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 72345,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    },
+    {
+      "ward_num": 25,
+      "ward_name": "Scarborough-Rouge Park",
+      "polls_total": 40,
+      "polls_reported": 0,
+      "polls_reporting_pct": 0.0,
+      "total_votes": 0,
+      "registered_voters": 79420,
+      "turnout_pct": 0.0,
+      "chow": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "bradford": {
+        "votes": 0,
+        "percentage": 0.0
+      },
+      "head_to_head_margin": 0,
+      "head_to_head_margin_pct": 0.0,
+      "leader": "Pending",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Imad Abdulkadir",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "Bahira Abdulsalam",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "Chris Alexander",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 4,
+          "name": "Jamie Atkinson",
+          "votes": 0,
+          "percentage": 0.0
+        },
+        {
+          "rank": 5,
+          "name": "Brad Bradford",
+          "votes": 0,
+          "percentage": 0.0
+        }
+      ]
+    }
+  ],
+  "battlegrounds": [
+    {
+      "ward_num": 1,
+      "ward_name": "Etobicoke North",
+      "chow_votes": 0,
+      "bradford_votes": 0,
+      "margin": 0,
+      "margin_pct": 0.0,
+      "leader": "Pending"
+    },
+    {
+      "ward_num": 2,
+      "ward_name": "Etobicoke Centre",
+      "chow_votes": 0,
+      "bradford_votes": 0,
+      "margin": 0,
+      "margin_pct": 0.0,
+      "leader": "Pending"
+    },
+    {
+      "ward_num": 3,
+      "ward_name": "Etobicoke-Lakeshore",
+      "chow_votes": 0,
+      "bradford_votes": 0,
+      "margin": 0,
+      "margin_pct": 0.0,
+      "leader": "Pending"
+    },
+    {
+      "ward_num": 4,
+      "ward_name": "Parkdale-High Park",
+      "chow_votes": 0,
+      "bradford_votes": 0,
+      "margin": 0,
+      "margin_pct": 0.0,
+      "leader": "Pending"
+    },
+    {
+      "ward_num": 5,
+      "ward_name": "York South-Weston",
+      "chow_votes": 0,
+      "bradford_votes": 0,
+      "margin": 0,
+      "margin_pct": 0.0,
+      "leader": "Pending"
+    }
+  ]
+}
