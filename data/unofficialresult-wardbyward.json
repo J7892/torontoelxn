@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "414",
+    "pollsReceived": "415",
     "totalVoters": "2143771",
-    "votesReceived": "402851",
+    "votesReceived": "403021",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "209645",
+        "votesReceived": "209738",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -69,10 +69,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "4298"
+            "votesCounted": "8830",
+            "votesReceived": "4391"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -240,7 +240,7 @@
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "173399",
+        "votesReceived": "173448",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -300,10 +300,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "3431"
+            "votesCounted": "8830",
+            "votesReceived": "3480"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -471,7 +471,7 @@
       },
       {
         "name": "Braeden Chow",
-        "votesReceived": "3288",
+        "votesReceived": "3291",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -531,10 +531,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "145"
+            "votesCounted": "8830",
+            "votesReceived": "148"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -702,7 +702,7 @@
       },
       {
         "name": "Chris Alexander",
-        "votesReceived": "1928",
+        "votesReceived": "1930",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -762,10 +762,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "83"
+            "votesCounted": "8830",
+            "votesReceived": "85"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -993,9 +993,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "55"
           },
           {
@@ -1164,7 +1164,7 @@
       },
       {
         "name": "Imad Abdulkadir",
-        "votesReceived": "857",
+        "votesReceived": "858",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1224,10 +1224,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "37"
+            "votesCounted": "8830",
+            "votesReceived": "38"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -1455,9 +1455,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "41"
           },
           {
@@ -1686,9 +1686,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "18"
           },
           {
@@ -1857,7 +1857,7 @@
       },
       {
         "name": "Bahira Abdulsalam",
-        "votesReceived": "711",
+        "votesReceived": "713",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1917,10 +1917,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "21"
+            "votesCounted": "8830",
+            "votesReceived": "23"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -2148,9 +2148,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "5"
           },
           {
@@ -2319,7 +2319,7 @@
       },
       {
         "name": "Rick Lee",
-        "votesReceived": "556",
+        "votesReceived": "557",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2379,10 +2379,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "35"
+            "votesCounted": "8830",
+            "votesReceived": "36"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -2550,7 +2550,7 @@
       },
       {
         "name": "Logan Choy",
-        "votesReceived": "538",
+        "votesReceived": "539",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2610,10 +2610,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "23"
+            "votesCounted": "8830",
+            "votesReceived": "24"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -2781,7 +2781,7 @@
       },
       {
         "name": "Kevin Clarke",
-        "votesReceived": "501",
+        "votesReceived": "504",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2841,10 +2841,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "34"
+            "votesCounted": "8830",
+            "votesReceived": "37"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -3072,9 +3072,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "14"
           },
           {
@@ -3303,9 +3303,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "13"
           },
           {
@@ -3474,7 +3474,7 @@
       },
       {
         "name": "Roberto Curto",
-        "votesReceived": "396",
+        "votesReceived": "397",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3534,10 +3534,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "27"
+            "votesCounted": "8830",
+            "votesReceived": "28"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -3704,6 +3704,237 @@
         ]
       },
       {
+        "name": "Sarah McVie",
+        "votesReceived": "394",
+        "ward": [
+          {
+            "name": "Etobicoke North",
+            "num": "1",
+            "polls": "46",
+            "pollsReceived": "22",
+            "totalVoters": "78411",
+            "votesCounted": "13887",
+            "votesReceived": "22"
+          },
+          {
+            "name": "Etobicoke Centre",
+            "num": "2",
+            "polls": "67",
+            "pollsReceived": "22",
+            "totalVoters": "97554",
+            "votesCounted": "21200",
+            "votesReceived": "16"
+          },
+          {
+            "name": "Etobicoke-Lakeshore",
+            "num": "3",
+            "polls": "82",
+            "pollsReceived": "15",
+            "totalVoters": "116485",
+            "votesCounted": "20889",
+            "votesReceived": "13"
+          },
+          {
+            "name": "Parkdale-High Park",
+            "num": "4",
+            "polls": "67",
+            "pollsReceived": "16",
+            "totalVoters": "88529",
+            "votesCounted": "17053",
+            "votesReceived": "22"
+          },
+          {
+            "name": "York South-Weston",
+            "num": "5",
+            "polls": "62",
+            "pollsReceived": "12",
+            "totalVoters": "83515",
+            "votesCounted": "10882",
+            "votesReceived": "52"
+          },
+          {
+            "name": "York Centre",
+            "num": "6",
+            "polls": "50",
+            "pollsReceived": "14",
+            "totalVoters": "79015",
+            "votesCounted": "12783",
+            "votesReceived": "11"
+          },
+          {
+            "name": "Humber River-Black Creek",
+            "num": "7",
+            "polls": "45",
+            "pollsReceived": "17",
+            "totalVoters": "73832",
+            "votesCounted": "8830",
+            "votesReceived": "8"
+          },
+          {
+            "name": "Eglinton-Lawrence",
+            "num": "8",
+            "polls": "61",
+            "pollsReceived": "12",
+            "totalVoters": "89581",
+            "votesCounted": "21849",
+            "votesReceived": "13"
+          },
+          {
+            "name": "Davenport",
+            "num": "9",
+            "polls": "53",
+            "pollsReceived": "12",
+            "totalVoters": "84706",
+            "votesCounted": "14002",
+            "votesReceived": "9"
+          },
+          {
+            "name": "Spadina-Fort York",
+            "num": "10",
+            "polls": "80",
+            "pollsReceived": "16",
+            "totalVoters": "123597",
+            "votesCounted": "15715",
+            "votesReceived": "13"
+          },
+          {
+            "name": "University-Rosedale",
+            "num": "11",
+            "polls": "72",
+            "pollsReceived": "20",
+            "totalVoters": "90868",
+            "votesCounted": "18558",
+            "votesReceived": "15"
+          },
+          {
+            "name": "Toronto-St. Paul's",
+            "num": "12",
+            "polls": "58",
+            "pollsReceived": "17",
+            "totalVoters": "95032",
+            "votesCounted": "23174",
+            "votesReceived": "23"
+          },
+          {
+            "name": "Toronto Centre",
+            "num": "13",
+            "polls": "78",
+            "pollsReceived": "14",
+            "totalVoters": "101769",
+            "votesCounted": "16107",
+            "votesReceived": "22"
+          },
+          {
+            "name": "Toronto-Danforth",
+            "num": "14",
+            "polls": "48",
+            "pollsReceived": "6",
+            "totalVoters": "85786",
+            "votesCounted": "13167",
+            "votesReceived": "12"
+          },
+          {
+            "name": "Don Valley West",
+            "num": "15",
+            "polls": "49",
+            "pollsReceived": "15",
+            "totalVoters": "76936",
+            "votesCounted": "16448",
+            "votesReceived": "4"
+          },
+          {
+            "name": "Don Valley East",
+            "num": "16",
+            "polls": "62",
+            "pollsReceived": "20",
+            "totalVoters": "70080",
+            "votesCounted": "13783",
+            "votesReceived": "11"
+          },
+          {
+            "name": "Don Valley North",
+            "num": "17",
+            "polls": "60",
+            "pollsReceived": "26",
+            "totalVoters": "81623",
+            "votesCounted": "16149",
+            "votesReceived": "12"
+          },
+          {
+            "name": "Willowdale",
+            "num": "18",
+            "polls": "56",
+            "pollsReceived": "15",
+            "totalVoters": "84671",
+            "votesCounted": "13815",
+            "votesReceived": "9"
+          },
+          {
+            "name": "Beaches-East York",
+            "num": "19",
+            "polls": "53",
+            "pollsReceived": "13",
+            "totalVoters": "85048",
+            "votesCounted": "18642",
+            "votesReceived": "28"
+          },
+          {
+            "name": "Scarborough Southwest",
+            "num": "20",
+            "polls": "61",
+            "pollsReceived": "19",
+            "totalVoters": "82427",
+            "votesCounted": "15272",
+            "votesReceived": "13"
+          },
+          {
+            "name": "Scarborough Centre",
+            "num": "21",
+            "polls": "49",
+            "pollsReceived": "26",
+            "totalVoters": "80557",
+            "votesCounted": "19030",
+            "votesReceived": "10"
+          },
+          {
+            "name": "Scarborough-Agincourt",
+            "num": "22",
+            "polls": "47",
+            "pollsReceived": "13",
+            "totalVoters": "75224",
+            "votesCounted": "10904",
+            "votesReceived": "9"
+          },
+          {
+            "name": "Scarborough North",
+            "num": "23",
+            "polls": "37",
+            "pollsReceived": "20",
+            "totalVoters": "66760",
+            "votesCounted": "20101",
+            "votesReceived": "14"
+          },
+          {
+            "name": "Scarborough-Guildwood",
+            "num": "24",
+            "polls": "48",
+            "pollsReceived": "14",
+            "totalVoters": "72345",
+            "votesCounted": "11175",
+            "votesReceived": "14"
+          },
+          {
+            "name": "Scarborough-Rouge Park",
+            "num": "25",
+            "polls": "40",
+            "pollsReceived": "19",
+            "totalVoters": "79420",
+            "votesCounted": "19606",
+            "votesReceived": "19"
+          }
+        ]
+      },
+      {
         "name": "Jamie Atkinson",
         "votesReceived": "393",
         "ward": [
@@ -3765,9 +3996,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "29"
           },
           {
@@ -3935,239 +4166,8 @@
         ]
       },
       {
-        "name": "Sarah McVie",
-        "votesReceived": "392",
-        "ward": [
-          {
-            "name": "Etobicoke North",
-            "num": "1",
-            "polls": "46",
-            "pollsReceived": "22",
-            "totalVoters": "78411",
-            "votesCounted": "13887",
-            "votesReceived": "22"
-          },
-          {
-            "name": "Etobicoke Centre",
-            "num": "2",
-            "polls": "67",
-            "pollsReceived": "22",
-            "totalVoters": "97554",
-            "votesCounted": "21200",
-            "votesReceived": "16"
-          },
-          {
-            "name": "Etobicoke-Lakeshore",
-            "num": "3",
-            "polls": "82",
-            "pollsReceived": "15",
-            "totalVoters": "116485",
-            "votesCounted": "20889",
-            "votesReceived": "13"
-          },
-          {
-            "name": "Parkdale-High Park",
-            "num": "4",
-            "polls": "67",
-            "pollsReceived": "16",
-            "totalVoters": "88529",
-            "votesCounted": "17053",
-            "votesReceived": "22"
-          },
-          {
-            "name": "York South-Weston",
-            "num": "5",
-            "polls": "62",
-            "pollsReceived": "12",
-            "totalVoters": "83515",
-            "votesCounted": "10882",
-            "votesReceived": "52"
-          },
-          {
-            "name": "York Centre",
-            "num": "6",
-            "polls": "50",
-            "pollsReceived": "14",
-            "totalVoters": "79015",
-            "votesCounted": "12783",
-            "votesReceived": "11"
-          },
-          {
-            "name": "Humber River-Black Creek",
-            "num": "7",
-            "polls": "45",
-            "pollsReceived": "16",
-            "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "6"
-          },
-          {
-            "name": "Eglinton-Lawrence",
-            "num": "8",
-            "polls": "61",
-            "pollsReceived": "12",
-            "totalVoters": "89581",
-            "votesCounted": "21849",
-            "votesReceived": "13"
-          },
-          {
-            "name": "Davenport",
-            "num": "9",
-            "polls": "53",
-            "pollsReceived": "12",
-            "totalVoters": "84706",
-            "votesCounted": "14002",
-            "votesReceived": "9"
-          },
-          {
-            "name": "Spadina-Fort York",
-            "num": "10",
-            "polls": "80",
-            "pollsReceived": "16",
-            "totalVoters": "123597",
-            "votesCounted": "15715",
-            "votesReceived": "13"
-          },
-          {
-            "name": "University-Rosedale",
-            "num": "11",
-            "polls": "72",
-            "pollsReceived": "20",
-            "totalVoters": "90868",
-            "votesCounted": "18558",
-            "votesReceived": "15"
-          },
-          {
-            "name": "Toronto-St. Paul's",
-            "num": "12",
-            "polls": "58",
-            "pollsReceived": "17",
-            "totalVoters": "95032",
-            "votesCounted": "23174",
-            "votesReceived": "23"
-          },
-          {
-            "name": "Toronto Centre",
-            "num": "13",
-            "polls": "78",
-            "pollsReceived": "14",
-            "totalVoters": "101769",
-            "votesCounted": "16107",
-            "votesReceived": "22"
-          },
-          {
-            "name": "Toronto-Danforth",
-            "num": "14",
-            "polls": "48",
-            "pollsReceived": "6",
-            "totalVoters": "85786",
-            "votesCounted": "13167",
-            "votesReceived": "12"
-          },
-          {
-            "name": "Don Valley West",
-            "num": "15",
-            "polls": "49",
-            "pollsReceived": "15",
-            "totalVoters": "76936",
-            "votesCounted": "16448",
-            "votesReceived": "4"
-          },
-          {
-            "name": "Don Valley East",
-            "num": "16",
-            "polls": "62",
-            "pollsReceived": "20",
-            "totalVoters": "70080",
-            "votesCounted": "13783",
-            "votesReceived": "11"
-          },
-          {
-            "name": "Don Valley North",
-            "num": "17",
-            "polls": "60",
-            "pollsReceived": "26",
-            "totalVoters": "81623",
-            "votesCounted": "16149",
-            "votesReceived": "12"
-          },
-          {
-            "name": "Willowdale",
-            "num": "18",
-            "polls": "56",
-            "pollsReceived": "15",
-            "totalVoters": "84671",
-            "votesCounted": "13815",
-            "votesReceived": "9"
-          },
-          {
-            "name": "Beaches-East York",
-            "num": "19",
-            "polls": "53",
-            "pollsReceived": "13",
-            "totalVoters": "85048",
-            "votesCounted": "18642",
-            "votesReceived": "28"
-          },
-          {
-            "name": "Scarborough Southwest",
-            "num": "20",
-            "polls": "61",
-            "pollsReceived": "19",
-            "totalVoters": "82427",
-            "votesCounted": "15272",
-            "votesReceived": "13"
-          },
-          {
-            "name": "Scarborough Centre",
-            "num": "21",
-            "polls": "49",
-            "pollsReceived": "26",
-            "totalVoters": "80557",
-            "votesCounted": "19030",
-            "votesReceived": "10"
-          },
-          {
-            "name": "Scarborough-Agincourt",
-            "num": "22",
-            "polls": "47",
-            "pollsReceived": "13",
-            "totalVoters": "75224",
-            "votesCounted": "10904",
-            "votesReceived": "9"
-          },
-          {
-            "name": "Scarborough North",
-            "num": "23",
-            "polls": "37",
-            "pollsReceived": "20",
-            "totalVoters": "66760",
-            "votesCounted": "20101",
-            "votesReceived": "14"
-          },
-          {
-            "name": "Scarborough-Guildwood",
-            "num": "24",
-            "polls": "48",
-            "pollsReceived": "14",
-            "totalVoters": "72345",
-            "votesCounted": "11175",
-            "votesReceived": "14"
-          },
-          {
-            "name": "Scarborough-Rouge Park",
-            "num": "25",
-            "polls": "40",
-            "pollsReceived": "19",
-            "totalVoters": "79420",
-            "votesCounted": "19606",
-            "votesReceived": "19"
-          }
-        ]
-      },
-      {
         "name": "Paul Collins",
-        "votesReceived": "344",
+        "votesReceived": "345",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4227,10 +4227,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "34"
+            "votesCounted": "8830",
+            "votesReceived": "35"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -4398,7 +4398,7 @@
       },
       {
         "name": "Lyall Sanders",
-        "votesReceived": "319",
+        "votesReceived": "321",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4458,10 +4458,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "16"
+            "votesCounted": "8830",
+            "votesReceived": "18"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -4689,9 +4689,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "17"
           },
           {
@@ -4920,9 +4920,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "22"
           },
           {
@@ -5091,7 +5091,7 @@
       },
       {
         "name": "Michael Lamoureux",
-        "votesReceived": "253",
+        "votesReceived": "255",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5151,10 +5151,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "17"
+            "votesCounted": "8830",
+            "votesReceived": "19"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -5322,7 +5322,7 @@
       },
       {
         "name": "Laura Ellis",
-        "votesReceived": "247",
+        "votesReceived": "249",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5382,10 +5382,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "16"
+            "votesCounted": "8830",
+            "votesReceived": "18"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -5553,7 +5553,7 @@
       },
       {
         "name": "Brian Buffey",
-        "votesReceived": "243",
+        "votesReceived": "244",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5613,10 +5613,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "14"
+            "votesCounted": "8830",
+            "votesReceived": "15"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -5844,9 +5844,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "7"
           },
           {
@@ -6075,9 +6075,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "5"
           },
           {
@@ -6306,9 +6306,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "5"
           },
           {
@@ -6537,9 +6537,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "6"
           },
           {
@@ -6768,9 +6768,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "7"
           },
           {
@@ -6999,9 +6999,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "5"
           },
           {
@@ -7170,7 +7170,7 @@
       },
       {
         "name": "Martin Fraser",
-        "votesReceived": "171",
+        "votesReceived": "172",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7230,10 +7230,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "12"
+            "votesCounted": "8830",
+            "votesReceived": "13"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -7401,7 +7401,7 @@
       },
       {
         "name": "Cory Deville",
-        "votesReceived": "163",
+        "votesReceived": "164",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7461,10 +7461,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "8"
+            "votesCounted": "8830",
+            "votesReceived": "9"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -7692,9 +7692,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "8"
           },
           {
@@ -7923,9 +7923,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "13"
           },
           {
@@ -8154,9 +8154,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "12"
           },
           {
@@ -8385,9 +8385,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "7"
           },
           {
@@ -8616,9 +8616,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "7"
           },
           {
@@ -8847,9 +8847,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "8"
           },
           {
@@ -9018,7 +9018,7 @@
       },
       {
         "name": "Thomas Hall",
-        "votesReceived": "133",
+        "votesReceived": "134",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9078,10 +9078,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "9"
+            "votesCounted": "8830",
+            "votesReceived": "10"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -9309,9 +9309,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "5"
           },
           {
@@ -9540,9 +9540,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "17"
           },
           {
@@ -9771,9 +9771,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "5"
           },
           {
@@ -9942,7 +9942,7 @@
       },
       {
         "name": "Gus Prokos",
-        "votesReceived": "110",
+        "votesReceived": "111",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10002,10 +10002,10 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
-            "votesReceived": "4"
+            "votesCounted": "8830",
+            "votesReceived": "5"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -10233,9 +10233,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "8"
           },
           {
@@ -10464,9 +10464,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "9"
           },
           {
@@ -10695,9 +10695,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "4"
           },
           {
@@ -10926,9 +10926,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "5"
           },
           {
@@ -11157,9 +11157,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "13"
           },
           {
@@ -11388,9 +11388,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "9"
           },
           {
@@ -11619,9 +11619,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "4"
           },
           {
@@ -11850,9 +11850,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "4"
           },
           {
@@ -12081,9 +12081,9 @@
             "name": "Humber River-Black Creek",
             "num": "7",
             "polls": "45",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "73832",
-            "votesCounted": "8660",
+            "votesCounted": "8830",
             "votesReceived": "3"
           },
           {
@@ -12252,5 +12252,5 @@
       }
     ]
   },
-  "seq": "1793065805307"
+  "seq": "1793065865224"
 }

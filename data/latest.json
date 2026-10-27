@@ -1,37 +1,37 @@
 {
   "metadata": {
-    "last_updated_utc": "2026-10-27T01:50:05.906051+00:00",
+    "last_updated_utc": "2026-10-27T01:51:23.364416+00:00",
     "election_desc": "2026 Municipal Election",
-    "seq": "1793065775227",
+    "seq": "1793065865238",
     "status": "Live - Polls Open / Reporting",
     "source_url": "https://electionresults.toronto.ca/"
   },
   "citywide": {
     "total_polls": 1431,
-    "polls_reported": 408,
-    "polls_reporting_pct": 28.51,
-    "total_votes": 402401,
+    "polls_reported": 415,
+    "polls_reporting_pct": 29.0,
+    "total_votes": 403021,
     "registered_voters": 2143771,
-    "turnout_pct": 18.77
+    "turnout_pct": 18.8
   },
   "head_to_head": {
     "leader": "Olivia Chow",
-    "vote_margin": 36109,
-    "pct_margin": 8.97,
-    "total_head_to_head_votes": 382651,
+    "vote_margin": 36290,
+    "pct_margin": 9.0,
+    "total_head_to_head_votes": 383186,
     "chow": {
       "name": "Olivia Chow",
-      "votes": 209380,
-      "percentage": 52.03,
-      "two_way_percentage": 54.72,
+      "votes": 209738,
+      "percentage": 52.04,
+      "two_way_percentage": 54.74,
       "wards_leading": 17,
       "color": "#e05a1e"
     },
     "bradford": {
       "name": "Brad Bradford",
-      "votes": 173271,
-      "percentage": 43.06,
-      "two_way_percentage": 45.28,
+      "votes": 173448,
+      "percentage": 43.04,
+      "two_way_percentage": 45.26,
       "wards_leading": 8,
       "color": "#0d6efd"
     }
@@ -39,38 +39,38 @@
   "top5_candidates": [
     {
       "name": "Olivia Chow",
-      "votes": 209380,
-      "percentage": 52.03,
+      "votes": 209738,
+      "percentage": 52.04,
       "rank": 1,
       "margin_from_leader": 0
     },
     {
       "name": "Brad Bradford",
-      "votes": 173271,
-      "percentage": 43.06,
+      "votes": 173448,
+      "percentage": 43.04,
       "rank": 2,
-      "margin_from_leader": -36109
+      "margin_from_leader": -36290
     },
     {
       "name": "Braeden Chow",
-      "votes": 3278,
-      "percentage": 0.81,
+      "votes": 3291,
+      "percentage": 0.82,
       "rank": 3,
-      "margin_from_leader": -206102
+      "margin_from_leader": -206447
     },
     {
       "name": "Chris Alexander",
-      "votes": 1923,
+      "votes": 1930,
       "percentage": 0.48,
       "rank": 4,
-      "margin_from_leader": -207457
+      "margin_from_leader": -207808
     },
     {
       "name": "Edward Gong",
       "votes": 1510,
-      "percentage": 0.38,
+      "percentage": 0.37,
       "rank": 5,
-      "margin_from_leader": -207870
+      "margin_from_leader": -208228
     }
   ],
   "all_candidates_count": 53,
@@ -276,52 +276,52 @@
       ],
       "council": {
         "polls_total": 67,
-        "polls_reported": 21,
-        "polls_reporting_pct": 31.34,
-        "total_votes": 20220,
+        "polls_reported": 22,
+        "polls_reporting_pct": 32.84,
+        "total_votes": 20236,
         "candidates_count": 3,
         "leader": "Stephen Holyday",
         "runner_up": "Katie Andrachuk",
-        "margin_votes": 6653,
-        "margin_pct": 32.9,
+        "margin_votes": 6660,
+        "margin_pct": 32.91,
         "is_close_race": false,
         "top3": [
           {
             "name": "Stephen Holyday",
-            "votes": 12031,
+            "votes": 12041,
             "percentage": 59.5,
             "rank": 1
           },
           {
             "name": "Katie Andrachuk",
-            "votes": 5378,
-            "percentage": 26.6,
+            "votes": 5381,
+            "percentage": 26.59,
             "rank": 2
           },
           {
             "name": "Jennifer Alexander",
-            "votes": 2811,
-            "percentage": 13.9,
+            "votes": 2814,
+            "percentage": 13.91,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Stephen Holyday",
-            "votes": 12031,
+            "votes": 12041,
             "percentage": 59.5,
             "rank": 1
           },
           {
             "name": "Katie Andrachuk",
-            "votes": 5378,
-            "percentage": 26.6,
+            "votes": 5381,
+            "percentage": 26.59,
             "rank": 2
           },
           {
             "name": "Jennifer Alexander",
-            "votes": 2811,
-            "percentage": 13.9,
+            "votes": 2814,
+            "percentage": 13.91,
             "rank": 3
           }
         ]
@@ -381,58 +381,58 @@
       ],
       "council": {
         "polls_total": 82,
-        "polls_reported": 14,
-        "polls_reporting_pct": 17.07,
-        "total_votes": 19888,
+        "polls_reported": 15,
+        "polls_reporting_pct": 18.29,
+        "total_votes": 20066,
         "candidates_count": 4,
         "leader": "Amber Morley",
         "runner_up": "Ted Opitz",
-        "margin_votes": 1833,
-        "margin_pct": 9.21,
+        "margin_votes": 1877,
+        "margin_pct": 9.35,
         "is_close_race": false,
         "top3": [
           {
             "name": "Amber Morley",
-            "votes": 9483,
-            "percentage": 47.68,
+            "votes": 9572,
+            "percentage": 47.7,
             "rank": 1
           },
           {
             "name": "Ted Opitz",
-            "votes": 7650,
-            "percentage": 38.47,
+            "votes": 7695,
+            "percentage": 38.35,
             "rank": 2
           },
           {
             "name": "Mihaela Andrei",
-            "votes": 1920,
-            "percentage": 9.65,
+            "votes": 1948,
+            "percentage": 9.71,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Amber Morley",
-            "votes": 9483,
-            "percentage": 47.68,
+            "votes": 9572,
+            "percentage": 47.7,
             "rank": 1
           },
           {
             "name": "Ted Opitz",
-            "votes": 7650,
-            "percentage": 38.47,
+            "votes": 7695,
+            "percentage": 38.35,
             "rank": 2
           },
           {
             "name": "Mihaela Andrei",
-            "votes": 1920,
-            "percentage": 9.65,
+            "votes": 1948,
+            "percentage": 9.71,
             "rank": 3
           },
           {
             "name": "Anthony Internicola",
-            "votes": 835,
-            "percentage": 4.2,
+            "votes": 851,
+            "percentage": 4.24,
             "rank": 4
           }
         ]
@@ -492,31 +492,31 @@
       ],
       "council": {
         "polls_total": 67,
-        "polls_reported": 15,
-        "polls_reporting_pct": 22.39,
-        "total_votes": 16500,
+        "polls_reported": 16,
+        "polls_reporting_pct": 23.88,
+        "total_votes": 16528,
         "candidates_count": 10,
         "leader": "Diana Chan McNally",
         "runner_up": "Nadia Guerrera",
-        "margin_votes": 2273,
-        "margin_pct": 13.78,
+        "margin_votes": 2276,
+        "margin_pct": 13.77,
         "is_close_race": false,
         "top3": [
           {
             "name": "Diana Chan McNally",
-            "votes": 6816,
-            "percentage": 41.31,
+            "votes": 6820,
+            "percentage": 41.26,
             "rank": 1
           },
           {
             "name": "Nadia Guerrera",
-            "votes": 4543,
-            "percentage": 27.53,
+            "votes": 4544,
+            "percentage": 27.49,
             "rank": 2
           },
           {
             "name": "Adam Pham",
-            "votes": 2442,
+            "votes": 2446,
             "percentage": 14.8,
             "rank": 3
           }
@@ -524,62 +524,62 @@
         "all_candidates": [
           {
             "name": "Diana Chan McNally",
-            "votes": 6816,
-            "percentage": 41.31,
+            "votes": 6820,
+            "percentage": 41.26,
             "rank": 1
           },
           {
             "name": "Nadia Guerrera",
-            "votes": 4543,
-            "percentage": 27.53,
+            "votes": 4544,
+            "percentage": 27.49,
             "rank": 2
           },
           {
             "name": "Adam Pham",
-            "votes": 2442,
+            "votes": 2446,
             "percentage": 14.8,
             "rank": 3
           },
           {
             "name": "Debbie King",
-            "votes": 1058,
-            "percentage": 6.41,
+            "votes": 1063,
+            "percentage": 6.43,
             "rank": 4
           },
           {
             "name": "Vanessa Raponi",
-            "votes": 611,
-            "percentage": 3.7,
+            "votes": 613,
+            "percentage": 3.71,
             "rank": 5
           },
           {
             "name": "Holly Weber",
-            "votes": 314,
-            "percentage": 1.9,
+            "votes": 318,
+            "percentage": 1.92,
             "rank": 6
           },
           {
             "name": "Bridget Ogundipe",
-            "votes": 293,
-            "percentage": 1.78,
+            "votes": 296,
+            "percentage": 1.79,
             "rank": 7
           },
           {
             "name": "Michael Corcoran",
-            "votes": 196,
+            "votes": 197,
             "percentage": 1.19,
             "rank": 8
           },
           {
             "name": "Steve Yuen",
-            "votes": 147,
-            "percentage": 0.89,
+            "votes": 149,
+            "percentage": 0.9,
             "rank": 9
           },
           {
             "name": "Andy Potega",
-            "votes": 80,
-            "percentage": 0.48,
+            "votes": 82,
+            "percentage": 0.5,
             "rank": 10
           }
         ]
@@ -835,102 +835,102 @@
       "ward_num": 7,
       "ward_name": "Humber River-Black Creek",
       "polls_total": 45,
-      "polls_reported": 16,
-      "polls_reporting_pct": 35.56,
-      "total_votes": 8660,
+      "polls_reported": 17,
+      "polls_reporting_pct": 37.78,
+      "total_votes": 8830,
       "registered_voters": 73832,
-      "turnout_pct": 11.73,
+      "turnout_pct": 11.96,
       "chow": {
-        "votes": 4298,
-        "percentage": 49.63
+        "votes": 4391,
+        "percentage": 49.73
       },
       "bradford": {
-        "votes": 3431,
-        "percentage": 39.62
+        "votes": 3480,
+        "percentage": 39.41
       },
-      "head_to_head_margin": 867,
-      "head_to_head_margin_pct": 10.01,
+      "head_to_head_margin": 911,
+      "head_to_head_margin_pct": 10.32,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 4298,
-          "percentage": 49.63
+          "votes": 4391,
+          "percentage": 49.73
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 3431,
-          "percentage": 39.62
+          "votes": 3480,
+          "percentage": 39.41
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 145,
-          "percentage": 1.67
+          "votes": 148,
+          "percentage": 1.68
         },
         {
           "rank": 4,
           "name": "Chris Alexander",
-          "votes": 83,
+          "votes": 85,
           "percentage": 0.96
         },
         {
           "rank": 5,
           "name": "Edward Gong",
           "votes": 55,
-          "percentage": 0.64
+          "percentage": 0.62
         }
       ],
       "council": {
         "polls_total": 45,
-        "polls_reported": 16,
-        "polls_reporting_pct": 35.56,
-        "total_votes": 8494,
+        "polls_reported": 17,
+        "polls_reporting_pct": 37.78,
+        "total_votes": 8673,
         "candidates_count": 3,
         "leader": "Anthony Perruzza",
         "runner_up": "Amanda Coombs",
-        "margin_votes": 3690,
-        "margin_pct": 43.44,
+        "margin_votes": 3755,
+        "margin_pct": 43.29,
         "is_close_race": false,
         "top3": [
           {
             "name": "Anthony Perruzza",
-            "votes": 5777,
-            "percentage": 68.01,
+            "votes": 5883,
+            "percentage": 67.83,
             "rank": 1
           },
           {
             "name": "Amanda Coombs",
-            "votes": 2087,
-            "percentage": 24.57,
+            "votes": 2128,
+            "percentage": 24.54,
             "rank": 2
           },
           {
             "name": "Lorna Antwi",
-            "votes": 630,
-            "percentage": 7.42,
+            "votes": 662,
+            "percentage": 7.63,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Anthony Perruzza",
-            "votes": 5777,
-            "percentage": 68.01,
+            "votes": 5883,
+            "percentage": 67.83,
             "rank": 1
           },
           {
             "name": "Amanda Coombs",
-            "votes": 2087,
-            "percentage": 24.57,
+            "votes": 2128,
+            "percentage": 24.54,
             "rank": 2
           },
           {
             "name": "Lorna Antwi",
-            "votes": 630,
-            "percentage": 7.42,
+            "votes": 662,
+            "percentage": 7.63,
             "rank": 3
           }
         ]
@@ -1500,9 +1500,9 @@
       ],
       "council": {
         "polls_total": 58,
-        "polls_reported": 16,
-        "polls_reporting_pct": 27.59,
-        "total_votes": 21735,
+        "polls_reported": 17,
+        "polls_reporting_pct": 29.31,
+        "total_votes": 21741,
         "candidates_count": 6,
         "leader": "Josh Matlow",
         "runner_up": "Jenny Kalimbet",
@@ -1512,46 +1512,46 @@
         "top3": [
           {
             "name": "Josh Matlow",
-            "votes": 14535,
-            "percentage": 66.87,
+            "votes": 14536,
+            "percentage": 66.86,
             "rank": 1
           },
           {
             "name": "Jenny Kalimbet",
-            "votes": 4796,
-            "percentage": 22.07,
+            "votes": 4797,
+            "percentage": 22.06,
             "rank": 2
           },
           {
             "name": "David Cottrell",
-            "votes": 881,
-            "percentage": 4.05,
+            "votes": 882,
+            "percentage": 4.06,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Josh Matlow",
-            "votes": 14535,
-            "percentage": 66.87,
+            "votes": 14536,
+            "percentage": 66.86,
             "rank": 1
           },
           {
             "name": "Jenny Kalimbet",
-            "votes": 4796,
-            "percentage": 22.07,
+            "votes": 4797,
+            "percentage": 22.06,
             "rank": 2
           },
           {
             "name": "David Cottrell",
-            "votes": 881,
-            "percentage": 4.05,
+            "votes": 882,
+            "percentage": 4.06,
             "rank": 3
           },
           {
             "name": "Bob Murphy",
-            "votes": 535,
-            "percentage": 2.46,
+            "votes": 538,
+            "percentage": 2.47,
             "rank": 4
           },
           {
@@ -2187,76 +2187,76 @@
       ],
       "council": {
         "polls_total": 60,
-        "polls_reported": 25,
-        "polls_reporting_pct": 41.67,
-        "total_votes": 15047,
+        "polls_reported": 26,
+        "polls_reporting_pct": 43.33,
+        "total_votes": 15130,
         "candidates_count": 7,
         "leader": "Shelley Carroll",
         "runner_up": "Sabrina Zuniga",
-        "margin_votes": 7700,
-        "margin_pct": 51.17,
+        "margin_votes": 7746,
+        "margin_pct": 51.19,
         "is_close_race": false,
         "top3": [
           {
             "name": "Shelley Carroll",
-            "votes": 9672,
-            "percentage": 64.28,
+            "votes": 9720,
+            "percentage": 64.24,
             "rank": 1
           },
           {
             "name": "Sabrina Zuniga",
-            "votes": 1972,
-            "percentage": 13.11,
+            "votes": 1974,
+            "percentage": 13.05,
             "rank": 2
           },
           {
             "name": "Hong Xiao",
-            "votes": 1053,
-            "percentage": 7.0,
+            "votes": 1064,
+            "percentage": 7.03,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Shelley Carroll",
-            "votes": 9672,
-            "percentage": 64.28,
+            "votes": 9720,
+            "percentage": 64.24,
             "rank": 1
           },
           {
             "name": "Sabrina Zuniga",
-            "votes": 1972,
-            "percentage": 13.11,
+            "votes": 1974,
+            "percentage": 13.05,
             "rank": 2
           },
           {
             "name": "Hong Xiao",
-            "votes": 1053,
-            "percentage": 7.0,
+            "votes": 1064,
+            "percentage": 7.03,
             "rank": 3
           },
           {
             "name": "Jeffery Adamson",
-            "votes": 1039,
+            "votes": 1045,
             "percentage": 6.91,
             "rank": 4
           },
           {
             "name": "Hassan Mubarak Noor Mohamed",
-            "votes": 830,
-            "percentage": 5.52,
+            "votes": 833,
+            "percentage": 5.51,
             "rank": 5
           },
           {
             "name": "Roy Samathanam",
-            "votes": 286,
-            "percentage": 1.9,
+            "votes": 294,
+            "percentage": 1.94,
             "rank": 6
           },
           {
             "name": "Jethro Adir Kavod",
-            "votes": 195,
-            "percentage": 1.3,
+            "votes": 200,
+            "percentage": 1.32,
             "rank": 7
           }
         ]
@@ -2439,76 +2439,76 @@
       ],
       "council": {
         "polls_total": 53,
-        "polls_reported": 12,
-        "polls_reporting_pct": 22.64,
-        "total_votes": 18219,
+        "polls_reported": 13,
+        "polls_reporting_pct": 24.53,
+        "total_votes": 18238,
         "candidates_count": 13,
         "leader": "Nate Erskine-Smith",
         "runner_up": "Natalie Johnson",
-        "margin_votes": 3361,
-        "margin_pct": 18.45,
+        "margin_votes": 3358,
+        "margin_pct": 18.41,
         "is_close_race": false,
         "top3": [
           {
             "name": "Nate Erskine-Smith",
-            "votes": 8321,
-            "percentage": 45.67,
+            "votes": 8326,
+            "percentage": 45.65,
             "rank": 1
           },
           {
             "name": "Natalie Johnson",
-            "votes": 4960,
-            "percentage": 27.22,
+            "votes": 4968,
+            "percentage": 27.24,
             "rank": 2
           },
           {
             "name": "James Dann",
             "votes": 1886,
-            "percentage": 10.35,
+            "percentage": 10.34,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Nate Erskine-Smith",
-            "votes": 8321,
-            "percentage": 45.67,
+            "votes": 8326,
+            "percentage": 45.65,
             "rank": 1
           },
           {
             "name": "Natalie Johnson",
-            "votes": 4960,
-            "percentage": 27.22,
+            "votes": 4968,
+            "percentage": 27.24,
             "rank": 2
           },
           {
             "name": "James Dann",
             "votes": 1886,
-            "percentage": 10.35,
+            "percentage": 10.34,
             "rank": 3
           },
           {
             "name": "Jennie Worden",
-            "votes": 1544,
+            "votes": 1545,
             "percentage": 8.47,
             "rank": 4
           },
           {
             "name": "Adam Smith",
-            "votes": 406,
-            "percentage": 2.23,
+            "votes": 409,
+            "percentage": 2.24,
             "rank": 5
           },
           {
             "name": "Kevin Morrison",
-            "votes": 348,
+            "votes": 349,
             "percentage": 1.91,
             "rank": 6
           },
           {
             "name": "Karsten Riedel",
-            "votes": 159,
-            "percentage": 0.87,
+            "votes": 160,
+            "percentage": 0.88,
             "rank": 7
           },
           {
@@ -2520,7 +2520,7 @@
           {
             "name": "Syeda Jaana Ali",
             "votes": 134,
-            "percentage": 0.74,
+            "percentage": 0.73,
             "rank": 9
           },
           {
