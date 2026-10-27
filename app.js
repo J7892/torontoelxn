@@ -16,32 +16,93 @@ let autoRefreshTimer = null;
 let autoRefreshIntervalSec = 45;
 let isRefreshing = false;
 
-// Color scales
-const COLORS = {
-  chow: {
-    strong: '#c2410c',   // >15% lead
-    medium: '#ea580c',   // 5-15% lead
-    lean: '#fb923c',     // <5% lead
-    light: '#fdba74'
-  },
-  bradford: {
-    strong: '#1d4ed8',   // >15% lead
-    medium: '#2563eb',   // 5-15% lead
-    lean: '#60a5fa',     // <5% lead
-    light: '#93c5fd'
-  },
-  neutral: '#334155',
-  pending: '#1e293b',
-  border: '#475569',
-  borderHighlight: '#f8fafc'
-};
+// Theme & Basemap State
+let currentThemePreference = 'auto'; // 'auto' | 'light' | 'dark'
+let currentBasemapType = 'canvas';   // 'canvas' | 'osm'
+let currentTileLayer = null;
+
+/**
+ * Returns effective theme ('light' or 'dark') taking into account system preference if set to auto.
+ */
+function getEffectiveTheme() {
+  const saved = localStorage.getItem('theme-preference') || 'auto';
+  if (saved === 'light' || saved === 'dark') {
+    return saved;
+  }
+  return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+}
+
+/**
+ * Dynamic color palette adapting to theme
+ */
+function getThemePalette() {
+  const isDark = getEffectiveTheme() === 'dark';
+  return {
+    chow: {
+      strong: isDark ? '#c2410c' : '#c2410c',
+      medium: isDark ? '#ea580c' : '#ea580c',
+      lean: isDark ? '#fb923c' : '#f97316',
+      light: isDark ? '#fdba74' : '#fb923c'
+    },
+    bradford: {
+      strong: isDark ? '#1d4ed8' : '#1d4ed8',
+      medium: isDark ? '#2563eb' : '#2563eb',
+      lean: isDark ? '#60a5fa' : '#3b82f6',
+      light: isDark ? '#93c5fd' : '#60a5fa'
+    },
+    neutral: isDark ? '#334155' : '#cbd5e1',
+    pending: isDark ? '#1e293b' : '#e2e8f0',
+    border: isDark ? '#475569' : '#94a3b8',
+    borderHighlight: isDark ? '#f8fafc' : '#0f172a'
+  };
+}
 
 document.addEventListener('DOMContentLoaded', () => {
+  initTheme();
   initMap();
   setupEventListeners();
   loadAllData();
   startAutoRefresh();
 });
+
+/**
+ * Initialize Theme setting
+ */
+function initTheme() {
+  const saved = localStorage.getItem('theme-preference') || 'auto';
+  setThemePreference(saved, false);
+}
+
+/**
+ * Set theme preference ('auto', 'light', or 'dark')
+ */
+function setThemePreference(theme, save = true) {
+  currentThemePreference = theme;
+  if (save) {
+    if (theme === 'auto') {
+      localStorage.removeItem('theme-preference');
+    } else {
+      localStorage.setItem('theme-preference', theme);
+    }
+  }
+
+  // Update meta color-scheme
+  const meta = document.querySelector('meta[name="color-scheme"]');
+  if (meta) {
+    meta.content = theme === 'auto' ? 'light dark' : theme;
+  }
+  document.documentElement.setAttribute('data-theme', theme);
+
+  // Update active state on toggle buttons
+  document.querySelectorAll('.theme-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.themeValue === theme);
+  });
+
+  // Refresh map tiles, polygon styles, and charts
+  updateMapBasemap();
+  updateMapStyles();
+  updateChartTheme();
+}
 
 /**
  * Initialize Leaflet Map
@@ -57,16 +118,48 @@ function initMap() {
     attributionControl: false
   });
 
-  // Base CartoDB Dark Matter / Positron tiles for a sleek civic dashboard
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
-    subdomains: 'abcd',
-    maxZoom: 19
-  }).addTo(leafletMap);
+  updateMapBasemap();
 
   L.control.attribution({ position: 'bottomright' })
-    .addAttribution('&copy; <a href="https://open.toronto.ca">City of Toronto Open Data</a>')
     .addTo(leafletMap);
+}
+
+/**
+ * Update Leaflet Basemap (Free, No API Key, Zero Watermark)
+ */
+function updateMapBasemap() {
+  if (!leafletMap) return;
+
+  if (currentTileLayer) {
+    leafletMap.removeLayer(currentTileLayer);
+  }
+
+  const effectiveTheme = getEffectiveTheme();
+  let tileUrl = '';
+  let attribution = '';
+  let maxZoom = 16;
+
+  if (currentBasemapType === 'osm') {
+    // OpenStreetMap standard tiles (Zero watermark, no API key required)
+    tileUrl = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
+    attribution = '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors &copy; <a href="https://open.toronto.ca" target="_blank" rel="noopener">City of Toronto</a>';
+    maxZoom = 19;
+  } else {
+    // Esri Gray Canvas (Clean choropleth canvas, theme-matched, zero watermark, no API key required)
+    if (effectiveTheme === 'dark') {
+      tileUrl = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}';
+    } else {
+      tileUrl = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}';
+    }
+    attribution = 'Tiles &copy; <a href="https://www.esri.com/" target="_blank" rel="noopener">Esri</a>, HERE &copy; <a href="https://open.toronto.ca" target="_blank" rel="noopener">City of Toronto</a>';
+  }
+
+  currentTileLayer = L.tileLayer(tileUrl, {
+    attribution: attribution,
+    maxZoom: maxZoom
+  }).addTo(leafletMap);
+
+  currentTileLayer.bringToBack();
 }
 
 /**
@@ -143,6 +236,48 @@ function setupEventListeners() {
       }
     });
   }
+
+  // Theme Toggle Buttons (Auto / Light / Dark)
+  document.querySelectorAll('.theme-btn').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      const target = e.currentTarget;
+      const themeVal = target.dataset.themeValue;
+      if (themeVal) {
+        setThemePreference(themeVal);
+      }
+    });
+  });
+
+  // Basemap Switcher Buttons (Canvas vs OSM Streets)
+  document.querySelectorAll('.basemap-btn').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      const target = e.currentTarget;
+      document.querySelectorAll('.basemap-btn').forEach(b => b.classList.remove('active'));
+      target.classList.add('active');
+      currentBasemapType = target.dataset.basemap;
+      updateMapBasemap();
+    });
+  });
+
+  // System OS theme change listener (Auto mode)
+  if (window.matchMedia) {
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+      const saved = localStorage.getItem('theme-preference') || 'auto';
+      if (saved === 'auto') {
+        updateMapBasemap();
+        updateMapStyles();
+        updateChartTheme();
+      }
+    });
+  }
+
+  // Multi-tab sync via storage event
+  window.addEventListener('storage', (e) => {
+    if (e.key === 'theme-preference') {
+      const newTheme = e.newValue || 'auto';
+      setThemePreference(newTheme, false);
+    }
+  });
 }
 
 /**
@@ -426,8 +561,9 @@ function renderGeoJSONLayer() {
 function styleFeature(feature) {
   const wardNum = parseInt(feature.properties.AREA_SHORT_CODE, 10);
   const wardData = getWardData(wardNum);
+  const palette = getThemePalette();
 
-  let fillColor = COLORS.pending;
+  let fillColor = palette.pending;
   let fillOpacity = 0.75;
   const isSelected = selectedWardNum === wardNum;
 
@@ -437,37 +573,37 @@ function styleFeature(feature) {
       const reported = wardData.polls_reported > 0;
 
       if (!reported || (wardData.chow.votes === 0 && wardData.bradford.votes === 0)) {
-        fillColor = COLORS.pending;
+        fillColor = palette.pending;
         fillOpacity = 0.55;
       } else if (margin > 15) {
-        fillColor = COLORS.chow.strong;
+        fillColor = palette.chow.strong;
       } else if (margin > 5) {
-        fillColor = COLORS.chow.medium;
+        fillColor = palette.chow.medium;
       } else if (margin > 0) {
-        fillColor = COLORS.chow.lean;
+        fillColor = palette.chow.lean;
       } else if (margin < -15) {
-        fillColor = COLORS.bradford.strong;
+        fillColor = palette.bradford.strong;
       } else if (margin < -5) {
-        fillColor = COLORS.bradford.medium;
+        fillColor = palette.bradford.medium;
       } else if (margin < 0) {
-        fillColor = COLORS.bradford.lean;
+        fillColor = palette.bradford.lean;
       } else {
-        fillColor = COLORS.neutral;
+        fillColor = palette.neutral;
       }
     } else if (currentMapView === 'winner') {
       if (wardData.leader === 'Olivia Chow') {
-        fillColor = COLORS.chow.medium;
+        fillColor = palette.chow.medium;
       } else if (wardData.leader === 'Brad Bradford') {
-        fillColor = COLORS.bradford.medium;
+        fillColor = palette.bradford.medium;
       } else if (wardData.leader === 'Pending') {
-        fillColor = COLORS.pending;
+        fillColor = palette.pending;
         fillOpacity = 0.5;
       } else {
         fillColor = '#8b5cf6'; // Other candidate
       }
     } else if (currentMapView === 'turnout') {
       const pct = wardData.polls_reporting_pct || 0;
-      if (pct === 0) fillColor = '#1e293b';
+      if (pct === 0) fillColor = palette.pending;
       else if (pct < 25) fillColor = '#1e3a8a';
       else if (pct < 50) fillColor = '#0284c7';
       else if (pct < 75) fillColor = '#0d9488';
@@ -479,7 +615,7 @@ function styleFeature(feature) {
     fillColor: fillColor,
     weight: isSelected ? 3.5 : 1.5,
     opacity: 1,
-    color: isSelected ? COLORS.borderHighlight : COLORS.border,
+    color: isSelected ? palette.borderHighlight : palette.border,
     fillOpacity: fillOpacity
   };
 }
@@ -797,6 +933,14 @@ function renderHistoryChart() {
     return;
   }
 
+  const isDark = getEffectiveTheme() === 'dark';
+  const gridColor = isDark ? '#1e293b' : '#e2e8f0';
+  const textColor = isDark ? '#94a3b8' : '#64748b';
+  const titleColor = isDark ? '#ffffff' : '#0f172a';
+  const legendColor = isDark ? '#cbd5e1' : '#334155';
+  const tooltipBg = isDark ? '#1e293b' : '#ffffff';
+  const tooltipBorder = isDark ? '#334155' : '#cbd5e1';
+
   historyChart = new Chart(ctx, {
     type: 'line',
     data: {
@@ -805,8 +949,8 @@ function renderHistoryChart() {
         {
           label: 'Olivia Chow',
           data: chowVotes,
-          borderColor: '#f97316',
-          backgroundColor: 'rgba(249, 115, 22, 0.1)',
+          borderColor: '#ea580c',
+          backgroundColor: 'rgba(234, 88, 12, 0.12)',
           fill: true,
           tension: 0.3,
           borderWidth: 2.5,
@@ -815,8 +959,8 @@ function renderHistoryChart() {
         {
           label: 'Brad Bradford',
           data: bradfordVotes,
-          borderColor: '#3b82f6',
-          backgroundColor: 'rgba(59, 130, 246, 0.1)',
+          borderColor: '#2563eb',
+          backgroundColor: 'rgba(37, 99, 235, 0.12)',
           fill: true,
           tension: 0.3,
           borderWidth: 2.5,
@@ -829,25 +973,25 @@ function renderHistoryChart() {
       maintainAspectRatio: false,
       plugins: {
         legend: {
-          labels: { color: '#cbd5e1', font: { size: 12, weight: 'bold' } }
+          labels: { color: legendColor, font: { size: 12, weight: 'bold' } }
         },
         tooltip: {
-          backgroundColor: '#1e293b',
-          titleColor: '#fff',
-          bodyColor: '#cbd5e1',
-          borderColor: '#334155',
+          backgroundColor: tooltipBg,
+          titleColor: titleColor,
+          bodyColor: legendColor,
+          borderColor: tooltipBorder,
           borderWidth: 1
         }
       },
       scales: {
         x: {
-          grid: { color: '#1e293b' },
-          ticks: { color: '#94a3b8' }
+          grid: { color: gridColor },
+          ticks: { color: textColor }
         },
         y: {
-          grid: { color: '#1e293b' },
+          grid: { color: gridColor },
           ticks: {
-            color: '#94a3b8',
+            color: textColor,
             callback: (val) => val.toLocaleString()
           }
         }
@@ -857,29 +1001,55 @@ function renderHistoryChart() {
 }
 
 /**
+ * Update Chart theme styling dynamically
+ */
+function updateChartTheme() {
+  if (!historyChart) return;
+  const isDark = getEffectiveTheme() === 'dark';
+  const gridColor = isDark ? '#1e293b' : '#e2e8f0';
+  const textColor = isDark ? '#94a3b8' : '#64748b';
+  const titleColor = isDark ? '#ffffff' : '#0f172a';
+  const legendColor = isDark ? '#cbd5e1' : '#334155';
+  const tooltipBg = isDark ? '#1e293b' : '#ffffff';
+  const tooltipBorder = isDark ? '#334155' : '#cbd5e1';
+
+  historyChart.options.plugins.legend.labels.color = legendColor;
+  historyChart.options.plugins.tooltip.backgroundColor = tooltipBg;
+  historyChart.options.plugins.tooltip.titleColor = titleColor;
+  historyChart.options.plugins.tooltip.bodyColor = legendColor;
+  historyChart.options.plugins.tooltip.borderColor = tooltipBorder;
+  historyChart.options.scales.x.grid.color = gridColor;
+  historyChart.options.scales.x.ticks.color = textColor;
+  historyChart.options.scales.y.grid.color = gridColor;
+  historyChart.options.scales.y.ticks.color = textColor;
+  historyChart.update();
+}
+
+/**
  * Update Map Legend based on active mode
  */
 function updateMapLegend() {
   const legend = document.getElementById('mapLegend');
   if (!legend) return;
+  const palette = getThemePalette();
 
   if (currentMapView === 'margin') {
     legend.innerHTML = `
       <span style="font-weight:700; margin-right: 4px;">Chow vs Bradford Margin:</span>
-      <div class="legend-item"><div class="legend-swatch" style="background:${COLORS.chow.strong};"></div> Chow +15%</div>
-      <div class="legend-item"><div class="legend-swatch" style="background:${COLORS.chow.medium};"></div> Chow +5-15%</div>
-      <div class="legend-item"><div class="legend-swatch" style="background:${COLORS.chow.lean};"></div> Chow <5%</div>
-      <div class="legend-item"><div class="legend-swatch" style="background:${COLORS.bradford.lean};"></div> Bradford <5%</div>
-      <div class="legend-item"><div class="legend-swatch" style="background:${COLORS.bradford.medium};"></div> Bradford +5-15%</div>
-      <div class="legend-item"><div class="legend-swatch" style="background:${COLORS.bradford.strong};"></div> Bradford +15%</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:${palette.chow.strong};"></div> Chow +15%</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:${palette.chow.medium};"></div> Chow +5-15%</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:${palette.chow.lean};"></div> Chow <5%</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:${palette.bradford.lean};"></div> Bradford <5%</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:${palette.bradford.medium};"></div> Bradford +5-15%</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:${palette.bradford.strong};"></div> Bradford +15%</div>
     `;
   } else if (currentMapView === 'winner') {
     legend.innerHTML = `
       <span style="font-weight:700; margin-right: 4px;">Ward Winner:</span>
-      <div class="legend-item"><div class="legend-swatch" style="background:${COLORS.chow.medium};"></div> Olivia Chow</div>
-      <div class="legend-item"><div class="legend-swatch" style="background:${COLORS.bradford.medium};"></div> Brad Bradford</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:${palette.chow.medium};"></div> Olivia Chow</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:${palette.bradford.medium};"></div> Brad Bradford</div>
       <div class="legend-item"><div class="legend-swatch" style="background:#8b5cf6;"></div> Other Candidate</div>
-      <div class="legend-item"><div class="legend-swatch" style="background:${COLORS.pending};"></div> Awaiting Reports</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:${palette.pending};"></div> Awaiting Reports</div>
     `;
   } else if (currentMapView === 'turnout') {
     legend.innerHTML = `

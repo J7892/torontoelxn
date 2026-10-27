@@ -6,6 +6,23 @@
   <title>Toronto Election Results — Live Mayoral Tracker (Chow vs Bradford)</title>
   <meta name="description" content="Live results and ward-by-ward analysis for the Toronto Mayoral Election, focusing on Olivia Chow vs Brad Bradford.">
   
+  <!-- Color Scheme & Theme Initialization (Prevents FOUC) -->
+  <meta name="color-scheme" content="light dark">
+  <script>
+    (function() {
+      try {
+        var saved = localStorage.getItem('theme-preference');
+        if (saved === 'light' || saved === 'dark') {
+          document.querySelector('meta[name="color-scheme"]').content = saved;
+          document.documentElement.setAttribute('data-theme', saved);
+        } else {
+          document.querySelector('meta[name="color-scheme"]').content = 'light dark';
+          document.documentElement.setAttribute('data-theme', 'auto');
+        }
+      } catch (e) {}
+    })();
+  </script>
+
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
   
@@ -30,6 +47,39 @@
           <span id="liveStatusText">Connecting to live feed...</span>
         </div>
         <span id="lastUpdatedTime" class="ticker-sub" style="font-size: 0.8rem; margin-right: 0.25rem;"></span>
+        
+        <!-- Theme Mode Toggle (Default: Auto) -->
+        <div class="theme-toggle-group" role="radiogroup" aria-label="Color theme">
+          <button type="button" class="theme-btn active" data-theme-value="auto" title="Follow system setting (Auto)">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+              <line x1="8" y1="21" x2="16" y2="21"></line>
+              <line x1="12" y1="17" x2="12" y2="21"></line>
+            </svg>
+            <span>Auto</span>
+          </button>
+          <button type="button" class="theme-btn" data-theme-value="light" title="Light theme">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="5"></circle>
+              <line x1="12" y1="1" x2="12" y2="3"></line>
+              <line x1="12" y1="21" x2="12" y2="23"></line>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+              <line x1="1" y1="12" x2="3" y2="12"></line>
+              <line x1="21" y1="12" x2="23" y2="12"></line>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+            </svg>
+            <span>Light</span>
+          </button>
+          <button type="button" class="theme-btn" data-theme-value="dark" title="Dark theme">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+            </svg>
+            <span>Dark</span>
+          </button>
+        </div>
+
         <label style="display:flex; align-items:center; gap:0.4rem; font-size:0.8rem; color:var(--text-muted); cursor:pointer;">
           <input type="checkbox" id="chkAutoRefresh" checked> Auto-refresh (45s)
         </label>
@@ -206,12 +256,25 @@
       <!-- Interactive Map Column -->
       <section class="map-card">
         <div class="map-toolbar">
-          <div class="map-view-toggles">
+          <div class="map-view-toggles" role="group" aria-label="Map Data Mode">
             <button class="toggle-btn active" data-view="margin">Chow vs Bradford Margin</button>
             <button class="toggle-btn" data-view="winner">Ward Winner</button>
             <button class="toggle-btn" data-view="turnout">Polls Reporting</button>
           </div>
-          <button id="btnResetMap" class="btn btn-sm" title="Reset Map View">Reset View</button>
+          <div class="map-toolbar-actions">
+            <!-- Basemap Style Selector (Zero Watermark / No API Key) -->
+            <div class="map-basemap-group" role="radiogroup" aria-label="Basemap style">
+              <button type="button" class="basemap-btn active" data-basemap="canvas" title="Clean Minimal Canvas — Theme matched, no API key, no watermark">Canvas</button>
+              <button type="button" class="basemap-btn" data-basemap="osm" title="OpenStreetMap Streets — Free, no API key, no watermark">Streets (OSM)</button>
+            </div>
+            <button id="btnResetMap" class="btn btn-sm" title="Reset Map View">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/>
+                <path d="M3 3v5h5"/>
+              </svg>
+              Reset View
+            </button>
+          </div>
         </div>
 
         <div id="map"></div>

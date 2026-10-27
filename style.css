@@ -1,33 +1,65 @@
 :root {
-  --bg-primary: #0b0f19;
-  --bg-secondary: #131b2e;
-  --bg-card: #1a233b;
-  --bg-card-hover: #222d4a;
-  --border-color: #273553;
-  --text-main: #f1f5f9;
-  --text-muted: #94a3b8;
-  --text-dim: #64748b;
-  
-  --chow-primary: #f97316;
-  --chow-light: #fb923c;
-  --chow-bg: rgba(249, 115, 22, 0.15);
-  --chow-border: rgba(249, 115, 22, 0.4);
+  color-scheme: light dark;
 
-  --bradford-primary: #3b82f6;
-  --bradford-light: #60a5fa;
-  --bradford-bg: rgba(59, 130, 246, 0.15);
-  --bradford-border: rgba(59, 130, 246, 0.4);
+  /* Theme color palettes using modern light-dark() */
+  --bg-primary: light-dark(#f8fafc, #0b0f19);
+  --bg-secondary: light-dark(#ffffff, #131b2e);
+  --bg-card: light-dark(#ffffff, #1a233b);
+  --bg-card-hover: light-dark(#f1f5f9, #222d4a);
+  --border-color: light-dark(#cbd5e1, #273553);
+  --border-subtle: light-dark(#e2e8f0, #1e293b);
+  --text-main: light-dark(#0f172a, #f1f5f9);
+  --text-muted: light-dark(#475569, #94a3b8);
+  --text-dim: light-dark(#64748b, #64748b);
+  --text-contrast: light-dark(#0f172a, #ffffff);
+  
+  --chow-primary: #ea580c;
+  --chow-light: light-dark(#c2410c, #fb923c);
+  --chow-text: light-dark(#9a3412, #fdba74);
+  --chow-bg: light-dark(rgba(234, 88, 12, 0.12), rgba(249, 115, 22, 0.15));
+  --chow-border: light-dark(rgba(234, 88, 12, 0.35), rgba(249, 115, 22, 0.4));
+
+  --bradford-primary: #2563eb;
+  --bradford-light: light-dark(#1d4ed8, #60a5fa);
+  --bradford-text: light-dark(#1e40af, #93c5fd);
+  --bradford-bg: light-dark(rgba(37, 99, 235, 0.12), rgba(59, 130, 246, 0.15));
+  --bradford-border: light-dark(rgba(37, 99, 235, 0.35), rgba(59, 130, 246, 0.4));
 
   --accent-green: #10b981;
   --accent-amber: #f59e0b;
   --accent-purple: #8b5cf6;
 
-  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.25);
-  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.35), 0 2px 4px -2px rgba(0, 0, 0, 0.25);
-  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.5), 0 4px 6px -4px rgba(0, 0, 0, 0.35);
+  --shadow-sm: light-dark(0 1px 3px 0 rgba(0, 0, 0, 0.08), 0 1px 2px 0 rgba(0, 0, 0, 0.25));
+  --shadow-md: light-dark(0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 4px 6px -1px rgba(0, 0, 0, 0.35));
+  --shadow-lg: light-dark(0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 10px 15px -3px rgba(0, 0, 0, 0.5));
+
+  --progress-track: light-dark(#e2e8f0, #1e293b);
+  --table-border: light-dark(#e2e8f0, rgba(255, 255, 255, 0.05));
+  --table-hover: light-dark(#f8fafc, #222d4a);
+  --box-inset: light-dark(#f8fafc, rgba(0, 0, 0, 0.2));
+  --vs-bg: light-dark(#f1f5f9, #273553);
+  --vs-border: light-dark(#cbd5e1, #3e507b);
+  --vs-color: light-dark(#334155, #ffffff);
+
+  --map-bg: light-dark(#e2e8f0, #0f172a);
+  --leaflet-popup-bg: light-dark(#ffffff, #1e293b);
+  --leaflet-popup-text: light-dark(#0f172a, #ffffff);
+  --leaflet-popup-border: light-dark(#cbd5e1, #334155);
+
   --radius-sm: 6px;
   --radius-md: 10px;
   --radius-lg: 16px;
+}
+
+/* Color scheme overrides per modern-web-guidance */
+:root:has(> head > meta[name="color-scheme"][content="dark"]),
+:root[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+:root:has(> head > meta[name="color-scheme"][content="light"]),
+:root[data-theme="light"] {
+  color-scheme: light;
 }
 
 * {
@@ -46,13 +78,14 @@ body {
 
 /* Header */
 .header {
-  background: linear-gradient(180deg, #162038 0%, var(--bg-secondary) 100%);
+  background: light-dark(#ffffff, linear-gradient(180deg, #162038 0%, var(--bg-secondary) 100%));
   border-bottom: 1px solid var(--border-color);
-  padding: 1.25rem 1.5rem;
+  padding: 1.1rem 1.5rem;
   position: sticky;
   top: 0;
   z-index: 1000;
-  box-shadow: var(--shadow-md);
+  box-shadow: var(--shadow-sm);
+  transition: background-color 0.25s ease, border-color 0.25s ease;
 }
 
 .header-container {
@@ -85,7 +118,7 @@ body {
 .brand-text h1 {
   font-size: 1.35rem;
   font-weight: 700;
-  color: #fff;
+  color: var(--text-contrast);
   letter-spacing: -0.02em;
 }
 
@@ -99,6 +132,44 @@ body {
   align-items: center;
   gap: 0.75rem;
   flex-wrap: wrap;
+}
+
+/* Theme Toggle Component (Auto / Light / Dark) */
+.theme-toggle-group {
+  display: inline-flex;
+  align-items: center;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  padding: 2px;
+  gap: 2px;
+}
+
+.theme-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.3rem 0.55rem;
+  border-radius: 4px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: all 0.15s ease;
+  line-height: 1;
+}
+
+.theme-btn:hover {
+  color: var(--text-main);
+  background: var(--bg-card-hover);
+}
+
+.theme-btn.active {
+  background: #2563eb;
+  color: #ffffff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
 }
 
 .status-pill {
@@ -217,7 +288,7 @@ body {
 .ticker-val {
   font-size: 1.4rem;
   font-weight: 700;
-  color: #fff;
+  color: var(--text-contrast);
 }
 
 .ticker-sub {
@@ -228,7 +299,7 @@ body {
 .progress-track {
   width: 100%;
   height: 8px;
-  background: #1e293b;
+  background: var(--progress-track);
   border-radius: 4px;
   overflow: hidden;
   margin-top: 0.35rem;
@@ -243,7 +314,7 @@ body {
 
 /* SHOWDOWN SECTION: Olivia Chow vs Brad Bradford */
 .showdown-section {
-  background: linear-gradient(145deg, #141c30 0%, #17223b 100%);
+  background: light-dark(linear-gradient(145deg, #ffffff 0%, #f8fafc 100%), linear-gradient(145deg, #141c30 0%, #17223b 100%));
   border: 1px solid var(--border-color);
   border-radius: var(--radius-lg);
   padding: 1.5rem;
@@ -274,6 +345,7 @@ body {
 .section-title {
   font-size: 1.15rem;
   font-weight: 700;
+  color: var(--text-contrast);
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -324,7 +396,7 @@ body {
 .candidate-meta h3 {
   font-size: 1.45rem;
   font-weight: 800;
-  color: #fff;
+  color: var(--text-contrast);
   letter-spacing: -0.01em;
 }
 
@@ -365,29 +437,29 @@ body {
 }
 
 .chow .cand-votes {
-  color: #fdba74;
+  color: var(--chow-text);
 }
 
 .bradford .cand-votes {
-  color: #93c5fd;
+  color: var(--bradford-text);
 }
 
 .cand-pct {
   font-size: 1.6rem;
   font-weight: 700;
-  color: #fff;
+  color: var(--text-contrast);
 }
 
 .cand-footer-stats {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0.75rem;
-  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  border-top: 1px solid var(--border-color);
   padding-top: 0.85rem;
 }
 
 .cand-stat-box {
-  background: rgba(0, 0, 0, 0.2);
+  background: var(--box-inset);
   padding: 0.5rem 0.75rem;
   border-radius: var(--radius-sm);
 }
@@ -401,7 +473,7 @@ body {
 .cand-stat-box .stat-val {
   font-size: 0.95rem;
   font-weight: 700;
-  color: #fff;
+  color: var(--text-contrast);
 }
 
 /* Center VS / Margin Column */
@@ -419,14 +491,14 @@ body {
   width: 44px;
   height: 44px;
   border-radius: 50%;
-  background: #273553;
-  border: 2px solid #3e507b;
+  background: var(--vs-bg);
+  border: 2px solid var(--vs-border);
   display: flex;
   align-items: center;
   justify-content: center;
   font-weight: 800;
   font-size: 0.9rem;
-  color: #fff;
+  color: var(--vs-color);
 }
 
 .margin-pill {
@@ -439,18 +511,18 @@ body {
 
 .margin-pill.chow-lead {
   background: var(--chow-bg);
-  color: #fdba74;
+  color: var(--chow-text);
   border: 1px solid var(--chow-border);
 }
 
 .margin-pill.bradford-lead {
   background: var(--bradford-bg);
-  color: #93c5fd;
+  color: var(--bradford-text);
   border: 1px solid var(--bradford-border);
 }
 
 .margin-pill.pending {
-  background: rgba(255, 255, 255, 0.05);
+  background: var(--box-inset);
   color: var(--text-muted);
   border: 1px solid var(--border-color);
 }
@@ -467,7 +539,7 @@ body {
   height: 12px;
   border-radius: 6px;
   overflow: hidden;
-  background: #1e293b;
+  background: var(--progress-track);
 }
 
 .two-way-chow {
@@ -490,7 +562,7 @@ body {
 
 .ward-scoreboard {
   width: 100%;
-  background: rgba(0, 0, 0, 0.25);
+  background: var(--box-inset);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-sm);
   padding: 0.5rem 0.75rem;
@@ -501,12 +573,12 @@ body {
 }
 
 .ward-score-chow {
-  color: #fdba74;
+  color: var(--chow-text);
   font-weight: 700;
 }
 
 .ward-score-bradford {
-  color: #93c5fd;
+  color: var(--bradford-text);
   font-weight: 700;
 }
 
@@ -577,7 +649,7 @@ body {
 .cand-name-col .c-name {
   font-weight: 700;
   font-size: 0.95rem;
-  color: #fff;
+  color: var(--text-contrast);
 }
 
 .cand-name-col .c-tag {
@@ -593,7 +665,7 @@ body {
 
 .cand-bar-outer {
   height: 8px;
-  background: #1e293b;
+  background: var(--progress-track);
   border-radius: 4px;
   overflow: hidden;
 }
@@ -622,7 +694,7 @@ body {
 .cand-votes-col .v-num {
   font-weight: 700;
   font-size: 1.05rem;
-  color: #fff;
+  color: var(--text-contrast);
 }
 
 .cand-votes-col .v-pct {
@@ -672,7 +744,7 @@ body {
 
 .map-view-toggles {
   display: inline-flex;
-  background: var(--bg-primary);
+  background: var(--bg-card);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-sm);
   padding: 0.2rem;
@@ -691,7 +763,51 @@ body {
   transition: all 0.15s ease;
 }
 
+.toggle-btn:hover {
+  color: var(--text-main);
+}
+
 .toggle-btn.active {
+  background: #2563eb;
+  color: #fff;
+}
+
+/* Map Toolbar Actions & Basemap Group */
+.map-toolbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.map-basemap-group {
+  display: inline-flex;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  padding: 0.2rem;
+  gap: 0.2rem;
+}
+
+.basemap-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.28rem 0.55rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  line-height: 1;
+}
+
+.basemap-btn:hover {
+  color: var(--text-main);
+}
+
+.basemap-btn.active {
+  background: var(--text-dim);
   background: #2563eb;
   color: #fff;
 }
@@ -699,7 +815,7 @@ body {
 #map {
   width: 100%;
   height: 480px;
-  background: #0f172a;
+  background: var(--map-bg);
   border-radius: var(--radius-sm);
   border: 1px solid var(--border-color);
   z-index: 10;
@@ -754,7 +870,7 @@ body {
 .inspector-title h4 {
   font-size: 1.15rem;
   font-weight: 700;
-  color: #fff;
+  color: var(--text-contrast);
 }
 
 .inspector-title span {
@@ -799,7 +915,7 @@ body {
   justify-content: space-between;
   font-size: 0.8rem;
   padding: 0.35rem 0.5rem;
-  background: rgba(0, 0, 0, 0.2);
+  background: var(--box-inset);
   border-radius: 4px;
 }
 
@@ -823,7 +939,7 @@ body {
 .search-input {
   background: var(--bg-primary);
   border: 1px solid var(--border-color);
-  color: #fff;
+  color: var(--text-main);
   padding: 0.45rem 0.85rem;
   border-radius: var(--radius-sm);
   font-size: 0.85rem;
@@ -881,17 +997,17 @@ body {
 }
 
 .ward-table th:hover {
-  color: #fff;
+  color: var(--text-contrast);
 }
 
 .ward-table td {
   padding: 0.65rem 0.85rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  border-bottom: 1px solid var(--table-border);
   white-space: nowrap;
 }
 
 .ward-table tr:hover td {
-  background: var(--bg-card-hover);
+  background: var(--table-hover);
 }
 
 .table-badge {
@@ -904,16 +1020,16 @@ body {
 
 .table-badge.chow {
   background: var(--chow-bg);
-  color: #fdba74;
+  color: var(--chow-text);
 }
 
 .table-badge.bradford {
   background: var(--bradford-bg);
-  color: #93c5fd;
+  color: var(--bradford-text);
 }
 
 .table-badge.pending {
-  background: rgba(255, 255, 255, 0.06);
+  background: var(--box-inset);
   color: var(--text-dim);
 }
 
@@ -951,7 +1067,7 @@ body {
 .battle-name {
   font-weight: 700;
   font-size: 0.9rem;
-  color: #fff;
+  color: var(--text-contrast);
 }
 
 .battle-margin {
@@ -987,7 +1103,7 @@ body {
 }
 
 .footer a {
-  color: #60a5fa;
+  color: #3b82f6;
   text-decoration: none;
 }
 
@@ -997,30 +1113,55 @@ body {
 
 /* Leaflet Custom Styles */
 .leaflet-container {
-  background-color: #0b1120 !important;
+  background-color: var(--map-bg) !important;
 }
 
 .leaflet-popup-content-wrapper {
-  background: #1e293b !important;
-  color: #fff !important;
+  background: var(--leaflet-popup-bg) !important;
+  color: var(--leaflet-popup-text) !important;
   border-radius: 8px !important;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.6) !important;
-  border: 1px solid #334155;
+  box-shadow: var(--shadow-lg) !important;
+  border: 1px solid var(--leaflet-popup-border) !important;
 }
 
 .leaflet-popup-tip {
-  background: #1e293b !important;
+  background: var(--leaflet-popup-bg) !important;
 }
 
 .custom-ward-tooltip {
-  background: #0f172a;
-  border: 1px solid #334155;
-  color: #fff;
+  background: var(--leaflet-popup-bg);
+  border: 1px solid var(--leaflet-popup-border);
+  color: var(--leaflet-popup-text);
   border-radius: 6px;
   padding: 6px 10px;
   font-size: 0.8rem;
   box-shadow: var(--shadow-md);
 }
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .header {
+    padding: 1rem;
+  }
+  .header-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .header-controls {
+    width: 100%;
+    justify-content: space-between;
+  }
+  .theme-toggle-group {
+    order: -1;
+  }
+}
+
+/* Utilities */
+.text-chow { color: var(--chow-light); }
+.text-bradford { color: var(--bradford-light); }
+.text-muted { color: var(--text-muted); }
+.font-bold { font-weight: 700; }
+.hidden { display: none !important; }
 
 /* Utilities */
 .text-chow { color: var(--chow-light); }
