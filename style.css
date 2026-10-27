@@ -1408,6 +1408,25 @@ body {
 /* Leaflet Custom Styles */
 .leaflet-container {
   background-color: var(--map-bg) !important;
+  outline: none !important;
+}
+
+/* Prevent Chrome/Safari from drawing a rectangular focus bounding box when clicking SVG ward polygons */
+.leaflet-container path:focus,
+.leaflet-container path:focus-visible,
+.leaflet-container path:active,
+.leaflet-container svg:focus,
+.leaflet-container svg:focus-visible,
+.leaflet-interactive:focus,
+.leaflet-interactive:focus-visible,
+.leaflet-interactive:active,
+path.leaflet-interactive:focus,
+path.leaflet-interactive:focus-visible,
+.leaflet-pane > svg path:focus,
+.leaflet-pane > svg path:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
+  -webkit-tap-highlight-color: transparent !important;
 }
 
 .leaflet-popup-content-wrapper {

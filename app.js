@@ -717,7 +717,10 @@ function onEachFeature(feature, layer) {
         geojsonLayer.resetStyle(l);
       }
     },
-    click: () => {
+    click: (e) => {
+      if (e && e.originalEvent && e.originalEvent.target && typeof e.originalEvent.target.blur === 'function') {
+        e.originalEvent.target.blur();
+      }
       selectWard(wardNum, layer);
     }
   });
