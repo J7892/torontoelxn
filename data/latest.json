@@ -1,27 +1,27 @@
 {
   "metadata": {
-    "last_updated_utc": "2026-10-27T04:50:13.261622+00:00",
+    "last_updated_utc": "2026-10-27T04:51:30.650538+00:00",
     "election_desc": "2026 Municipal Election",
-    "seq": "1793076576013",
+    "seq": "1793076636196",
     "status": "Live - Polls Open / Reporting",
     "source_url": "https://electionresults.toronto.ca/"
   },
   "citywide": {
     "total_polls": 1431,
-    "polls_reported": 1429,
-    "polls_reporting_pct": 99.86,
-    "total_votes": 981041,
+    "polls_reported": 1430,
+    "polls_reporting_pct": 99.93,
+    "total_votes": 981062,
     "registered_voters": 2143771,
     "turnout_pct": 45.76
   },
   "head_to_head": {
     "leader": "Olivia Chow",
-    "vote_margin": 128138,
+    "vote_margin": 128134,
     "pct_margin": 13.06,
-    "total_head_to_head_votes": 934666,
+    "total_head_to_head_votes": 934678,
     "chow": {
       "name": "Olivia Chow",
-      "votes": 531402,
+      "votes": 531406,
       "percentage": 54.17,
       "two_way_percentage": 56.85,
       "wards_leading": 19,
@@ -29,7 +29,7 @@
     },
     "bradford": {
       "name": "Brad Bradford",
-      "votes": 403264,
+      "votes": 403272,
       "percentage": 41.11,
       "two_way_percentage": 43.15,
       "wards_leading": 6,
@@ -39,38 +39,38 @@
   "top5_candidates": [
     {
       "name": "Olivia Chow",
-      "votes": 531402,
+      "votes": 531406,
       "percentage": 54.17,
       "rank": 1,
       "margin_from_leader": 0
     },
     {
       "name": "Brad Bradford",
-      "votes": 403264,
+      "votes": 403272,
       "percentage": 41.11,
       "rank": 2,
-      "margin_from_leader": -128138
+      "margin_from_leader": -128134
     },
     {
       "name": "Braeden Chow",
       "votes": 8084,
       "percentage": 0.82,
       "rank": 3,
-      "margin_from_leader": -523318
+      "margin_from_leader": -523322
     },
     {
       "name": "Chris Alexander",
       "votes": 3547,
       "percentage": 0.36,
       "rank": 4,
-      "margin_from_leader": -527855
+      "margin_from_leader": -527859
     },
     {
       "name": "Edward Gong",
       "votes": 3439,
       "percentage": 0.35,
       "rank": 5,
-      "margin_from_leader": -527963
+      "margin_from_leader": -527967
     }
   ],
   "all_candidates_count": 53,
@@ -940,34 +940,34 @@
       "ward_num": 8,
       "ward_name": "Eglinton-Lawrence",
       "polls_total": 61,
-      "polls_reported": 60,
-      "polls_reporting_pct": 98.36,
-      "total_votes": 48332,
+      "polls_reported": 61,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 48353,
       "registered_voters": 89581,
-      "turnout_pct": 53.95,
+      "turnout_pct": 53.98,
       "chow": {
-        "votes": 16547,
-        "percentage": 34.24
+        "votes": 16551,
+        "percentage": 34.23
       },
       "bradford": {
-        "votes": 30333,
-        "percentage": 62.76
+        "votes": 30341,
+        "percentage": 62.75
       },
-      "head_to_head_margin": -13786,
+      "head_to_head_margin": -13790,
       "head_to_head_margin_pct": -28.52,
       "leader": "Brad Bradford",
       "top5": [
         {
           "rank": 1,
           "name": "Brad Bradford",
-          "votes": 30333,
-          "percentage": 62.76
+          "votes": 30341,
+          "percentage": 62.75
         },
         {
           "rank": 2,
           "name": "Olivia Chow",
-          "votes": 16547,
-          "percentage": 34.24
+          "votes": 16551,
+          "percentage": 34.23
         },
         {
           "rank": 3,
@@ -990,31 +990,31 @@
       ],
       "council": {
         "polls_total": 61,
-        "polls_reported": 60,
-        "polls_reporting_pct": 98.36,
-        "total_votes": 45645,
+        "polls_reported": 61,
+        "polls_reporting_pct": 100.0,
+        "total_votes": 45665,
         "candidates_count": 6,
         "leader": "Mike Colle",
         "runner_up": "Liz Grade",
-        "margin_votes": 27166,
-        "margin_pct": 59.52,
+        "margin_votes": 27171,
+        "margin_pct": 59.5,
         "is_close_race": false,
         "top3": [
           {
             "name": "Mike Colle",
-            "votes": 32078,
-            "percentage": 70.28,
+            "votes": 32085,
+            "percentage": 70.26,
             "rank": 1
           },
           {
             "name": "Liz Grade",
-            "votes": 4912,
+            "votes": 4914,
             "percentage": 10.76,
             "rank": 2
           },
           {
             "name": "Jason McDonald",
-            "votes": 4414,
+            "votes": 4417,
             "percentage": 9.67,
             "rank": 3
           }
@@ -1022,38 +1022,38 @@
         "all_candidates": [
           {
             "name": "Mike Colle",
-            "votes": 32078,
-            "percentage": 70.28,
+            "votes": 32085,
+            "percentage": 70.26,
             "rank": 1
           },
           {
             "name": "Liz Grade",
-            "votes": 4912,
+            "votes": 4914,
             "percentage": 10.76,
             "rank": 2
           },
           {
             "name": "Jason McDonald",
-            "votes": 4414,
+            "votes": 4417,
             "percentage": 9.67,
             "rank": 3
           },
           {
             "name": "Enzo Torrone",
-            "votes": 2586,
+            "votes": 2591,
             "percentage": 5.67,
             "rank": 4
           },
           {
             "name": "Domenico Maiolo",
-            "votes": 1000,
+            "votes": 1001,
             "percentage": 2.19,
             "rank": 5
           },
           {
             "name": "Daniel Trayes",
-            "votes": 655,
-            "percentage": 1.43,
+            "votes": 657,
+            "percentage": 1.44,
             "rank": 6
           }
         ]

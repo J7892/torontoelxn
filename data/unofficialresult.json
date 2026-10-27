@@ -9,18 +9,18 @@
           "name": "City-wide",
           "num": "0",
           "polls": "1431",
-          "pollsReceived": "1429",
+          "pollsReceived": "1430",
           "totalVoters": "2143771",
-          "votesReceived": "981041",
+          "votesReceived": "981062",
           "candidate": [
             {
               "name": "Olivia Chow",
-              "votesReceived": "531402",
+              "votesReceived": "531406",
               "percentage": "54.17"
             },
             {
               "name": "Brad Bradford",
-              "votesReceived": "403264",
+              "votesReceived": "403272",
               "percentage": "41.11"
             },
             {
@@ -96,11 +96,11 @@
             {
               "name": "Jamie Atkinson",
               "votesReceived": "932",
-              "percentage": "0.10"
+              "percentage": "0.09"
             },
             {
               "name": "Amy Rosen",
-              "votesReceived": "916",
+              "votesReceived": "917",
               "percentage": "0.09"
             },
             {
@@ -120,17 +120,17 @@
             },
             {
               "name": "Joshua Thompson",
-              "votesReceived": "705",
+              "votesReceived": "707",
               "percentage": "0.07"
             },
             {
               "name": "Brian Buffey",
-              "votesReceived": "648",
+              "votesReceived": "649",
               "percentage": "0.07"
             },
             {
               "name": "Laura Ellis",
-              "votesReceived": "628",
+              "votesReceived": "630",
               "percentage": "0.06"
             },
             {
@@ -235,12 +235,12 @@
             },
             {
               "name": "Peter Handjis",
-              "votesReceived": "268",
+              "votesReceived": "269",
               "percentage": "0.03"
             },
             {
               "name": "Isidoros Kyrlangitses",
-              "votesReceived": "255",
+              "votesReceived": "256",
               "percentage": "0.03"
             },
             {
@@ -255,7 +255,7 @@
             },
             {
               "name": "Eddie Mayanja",
-              "votesReceived": "192",
+              "votesReceived": "193",
               "percentage": "0.02"
             },
             {
@@ -570,39 +570,39 @@
           "name": "Eglinton-Lawrence",
           "num": "8",
           "polls": "61",
-          "pollsReceived": "60",
+          "pollsReceived": "61",
           "totalVoters": "89581",
-          "votesReceived": "45645",
+          "votesReceived": "45665",
           "candidate": [
             {
               "name": "Mike Colle",
-              "votesReceived": "32078",
-              "percentage": "70.28"
+              "votesReceived": "32085",
+              "percentage": "70.26"
             },
             {
               "name": "Liz Grade",
-              "votesReceived": "4912",
+              "votesReceived": "4914",
               "percentage": "10.76"
             },
             {
               "name": "Jason McDonald",
-              "votesReceived": "4414",
+              "votesReceived": "4417",
               "percentage": "9.67"
             },
             {
               "name": "Enzo Torrone",
-              "votesReceived": "2586",
+              "votesReceived": "2591",
               "percentage": "5.67"
             },
             {
               "name": "Domenico Maiolo",
-              "votesReceived": "1000",
+              "votesReceived": "1001",
               "percentage": "2.19"
             },
             {
               "name": "Daniel Trayes",
-              "votesReceived": "655",
-              "percentage": "1.43"
+              "votesReceived": "657",
+              "percentage": "1.44"
             }
           ]
         },
@@ -1690,28 +1690,28 @@
         {
           "num": "6",
           "polls": "123",
-          "pollsReceived": "122",
+          "pollsReceived": "123",
           "totalVoters": "79015",
-          "votesReceived": "55226",
+          "votesReceived": "55237",
           "candidate": [
             {
               "name": "Stacey Cline",
-              "votesReceived": "31713",
+              "votesReceived": "31715",
               "percentage": "57.42"
             },
             {
               "name": "Sarah Smithies",
-              "votesReceived": "9940",
+              "votesReceived": "9945",
               "percentage": "18.00"
             },
             {
               "name": "Saherla Osman",
-              "votesReceived": "7742",
+              "votesReceived": "7745",
               "percentage": "14.02"
             },
             {
               "name": "John Vassal",
-              "votesReceived": "5831",
+              "votesReceived": "5832",
               "percentage": "10.56"
             }
           ]
@@ -2080,19 +2080,19 @@
         {
           "num": "5",
           "polls": "167",
-          "pollsReceived": "166",
+          "pollsReceived": "167",
           "totalVoters": "83515",
-          "votesReceived": "16565",
+          "votesReceived": "16572",
           "candidate": [
             {
               "name": "Maria Rizzo",
-              "votesReceived": "8406",
-              "percentage": "50.75"
+              "votesReceived": "8409",
+              "percentage": "50.74"
             },
             {
               "name": "Gianfranco Cristiano",
-              "votesReceived": "8159",
-              "percentage": "49.25"
+              "votesReceived": "8163",
+              "percentage": "49.26"
             }
           ]
         },
@@ -2296,7 +2296,7 @@
         {
           "num": "4",
           "polls": "483",
-          "pollsReceived": "481",
+          "pollsReceived": "482",
           "totalVoters": "88529",
           "votesReceived": "0",
           "candidate": [
@@ -2316,7 +2316,7 @@
         {
           "num": "3",
           "polls": "877",
-          "pollsReceived": "875",
+          "pollsReceived": "876",
           "totalVoters": "116485",
           "votesReceived": "1984",
           "candidate": [
@@ -2364,5 +2364,5 @@
       ]
     }
   ],
-  "seq": "1793076576013"
+  "seq": "1793076636196"
 }

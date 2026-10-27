@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "1429",
+    "pollsReceived": "1430",
     "totalVoters": "2143771",
-    "votesReceived": "981041",
+    "votesReceived": "981062",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "531402",
+        "votesReceived": "531406",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -78,10 +78,10 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "16547"
+            "votesCounted": "48353",
+            "votesReceived": "16551"
           },
           {
             "name": "Davenport",
@@ -240,7 +240,7 @@
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "403264",
+        "votesReceived": "403272",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -309,10 +309,10 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "30333"
+            "votesCounted": "48353",
+            "votesReceived": "30341"
           },
           {
             "name": "Davenport",
@@ -540,9 +540,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "297"
           },
           {
@@ -771,9 +771,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "107"
           },
           {
@@ -1002,9 +1002,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "98"
           },
           {
@@ -1233,9 +1233,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "105"
           },
           {
@@ -1464,9 +1464,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "69"
           },
           {
@@ -1695,9 +1695,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "30"
           },
           {
@@ -1926,9 +1926,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "30"
           },
           {
@@ -2157,9 +2157,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "27"
           },
           {
@@ -2388,9 +2388,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "44"
           },
           {
@@ -2619,9 +2619,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "11"
           },
           {
@@ -2850,9 +2850,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "29"
           },
           {
@@ -3081,9 +3081,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "19"
           },
           {
@@ -3312,9 +3312,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "50"
           },
           {
@@ -3543,9 +3543,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "31"
           },
           {
@@ -3774,9 +3774,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "35"
           },
           {
@@ -3936,7 +3936,7 @@
       },
       {
         "name": "Amy Rosen",
-        "votesReceived": "916",
+        "votesReceived": "917",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4005,10 +4005,10 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "54"
+            "votesCounted": "48353",
+            "votesReceived": "55"
           },
           {
             "name": "Davenport",
@@ -4236,9 +4236,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "49"
           },
           {
@@ -4467,9 +4467,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "23"
           },
           {
@@ -4698,9 +4698,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "16"
           },
           {
@@ -4860,7 +4860,7 @@
       },
       {
         "name": "Joshua Thompson",
-        "votesReceived": "705",
+        "votesReceived": "707",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4929,10 +4929,10 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "19"
+            "votesCounted": "48353",
+            "votesReceived": "21"
           },
           {
             "name": "Davenport",
@@ -5091,7 +5091,7 @@
       },
       {
         "name": "Brian Buffey",
-        "votesReceived": "648",
+        "votesReceived": "649",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5160,10 +5160,10 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "20"
+            "votesCounted": "48353",
+            "votesReceived": "21"
           },
           {
             "name": "Davenport",
@@ -5322,7 +5322,7 @@
       },
       {
         "name": "Laura Ellis",
-        "votesReceived": "628",
+        "votesReceived": "630",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5391,10 +5391,10 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "24"
+            "votesCounted": "48353",
+            "votesReceived": "26"
           },
           {
             "name": "Davenport",
@@ -5622,9 +5622,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "16"
           },
           {
@@ -5853,9 +5853,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "24"
           },
           {
@@ -6084,9 +6084,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "15"
           },
           {
@@ -6315,9 +6315,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "11"
           },
           {
@@ -6546,9 +6546,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "15"
           },
           {
@@ -6777,9 +6777,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "15"
           },
           {
@@ -7008,9 +7008,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "9"
           },
           {
@@ -7239,9 +7239,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "12"
           },
           {
@@ -7470,9 +7470,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "1"
           },
           {
@@ -7701,9 +7701,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "13"
           },
           {
@@ -7932,9 +7932,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "3"
           },
           {
@@ -8163,9 +8163,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "3"
           },
           {
@@ -8394,9 +8394,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "5"
           },
           {
@@ -8625,9 +8625,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "12"
           },
           {
@@ -8856,9 +8856,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "7"
           },
           {
@@ -9087,9 +9087,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "12"
           },
           {
@@ -9318,9 +9318,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "14"
           },
           {
@@ -9549,9 +9549,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "14"
           },
           {
@@ -9780,9 +9780,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "7"
           },
           {
@@ -10011,9 +10011,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "9"
           },
           {
@@ -10173,7 +10173,7 @@
       },
       {
         "name": "Peter Handjis",
-        "votesReceived": "268",
+        "votesReceived": "269",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10242,10 +10242,10 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "13"
+            "votesCounted": "48353",
+            "votesReceived": "14"
           },
           {
             "name": "Davenport",
@@ -10404,7 +10404,7 @@
       },
       {
         "name": "Isidoros Kyrlangitses",
-        "votesReceived": "255",
+        "votesReceived": "256",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10473,10 +10473,10 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "2"
+            "votesCounted": "48353",
+            "votesReceived": "3"
           },
           {
             "name": "Davenport",
@@ -10704,9 +10704,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "6"
           },
           {
@@ -10935,9 +10935,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "3"
           },
           {
@@ -11097,7 +11097,7 @@
       },
       {
         "name": "Eddie Mayanja",
-        "votesReceived": "192",
+        "votesReceived": "193",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -11166,10 +11166,10 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "6"
+            "votesCounted": "48353",
+            "votesReceived": "7"
           },
           {
             "name": "Davenport",
@@ -11397,9 +11397,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "4"
           },
           {
@@ -11628,9 +11628,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "10"
           },
           {
@@ -11859,9 +11859,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "4"
           },
           {
@@ -12090,9 +12090,9 @@
             "name": "Eglinton-Lawrence",
             "num": "8",
             "polls": "61",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "89581",
-            "votesCounted": "48332",
+            "votesCounted": "48353",
             "votesReceived": "0"
           },
           {
@@ -12252,5 +12252,5 @@
       }
     ]
   },
-  "seq": "1793076606048"
+  "seq": "1793076665907"
 }
