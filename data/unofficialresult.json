@@ -9,18 +9,18 @@
           "name": "City-wide",
           "num": "0",
           "polls": "1431",
-          "pollsReceived": "1428",
+          "pollsReceived": "1429",
           "totalVoters": "2143771",
-          "votesReceived": "980753",
+          "votesReceived": "981041",
           "candidate": [
             {
               "name": "Olivia Chow",
-              "votesReceived": "531224",
-              "percentage": "54.16"
+              "votesReceived": "531402",
+              "percentage": "54.17"
             },
             {
               "name": "Brad Bradford",
-              "votesReceived": "403160",
+              "votesReceived": "403264",
               "percentage": "41.11"
             },
             {
@@ -35,7 +35,7 @@
             },
             {
               "name": "Edward Gong",
-              "votesReceived": "3438",
+              "votesReceived": "3439",
               "percentage": "0.35"
             },
             {
@@ -50,22 +50,22 @@
             },
             {
               "name": "Imad Abdulkadir",
-              "votesReceived": "1869",
+              "votesReceived": "1870",
               "percentage": "0.19"
             },
             {
               "name": "Bahira Abdulsalam",
-              "votesReceived": "1691",
+              "votesReceived": "1692",
               "percentage": "0.17"
             },
             {
               "name": "Rick Lee",
-              "votesReceived": "1286",
+              "votesReceived": "1287",
               "percentage": "0.13"
             },
             {
               "name": "Logan Choy",
-              "votesReceived": "1278",
+              "votesReceived": "1279",
               "percentage": "0.13"
             },
             {
@@ -185,7 +185,7 @@
             },
             {
               "name": "Kuo Yu Tong",
-              "votesReceived": "365",
+              "votesReceived": "366",
               "percentage": "0.04"
             },
             {
@@ -640,49 +640,49 @@
           "name": "Spadina-Fort York",
           "num": "10",
           "polls": "80",
-          "pollsReceived": "79",
+          "pollsReceived": "80",
           "totalVoters": "123597",
-          "votesReceived": "46220",
+          "votesReceived": "46471",
           "candidate": [
             {
               "name": "Ausma Malik",
-              "votesReceived": "21902",
-              "percentage": "47.39"
+              "votesReceived": "21975",
+              "percentage": "47.29"
             },
             {
               "name": "Ian Cunningham",
-              "votesReceived": "13343",
-              "percentage": "28.87"
+              "votesReceived": "13405",
+              "percentage": "28.85"
             },
             {
               "name": "Xue Ding",
-              "votesReceived": "3720",
-              "percentage": "8.05"
+              "votesReceived": "3767",
+              "percentage": "8.11"
             },
             {
               "name": "Paul Nash",
-              "votesReceived": "2780",
-              "percentage": "6.01"
+              "votesReceived": "2805",
+              "percentage": "6.04"
             },
             {
               "name": "Andi Ho\u00e0ng-Lefranc",
-              "votesReceived": "2103",
+              "votesReceived": "2113",
               "percentage": "4.55"
             },
             {
               "name": "Bashar Kassir",
-              "votesReceived": "929",
-              "percentage": "2.01"
+              "votesReceived": "940",
+              "percentage": "2.02"
             },
             {
               "name": "Aanchal Vashistha",
-              "votesReceived": "909",
-              "percentage": "1.97"
+              "votesReceived": "930",
+              "percentage": "2.00"
             },
             {
               "name": "Husain Neemuchwala",
-              "votesReceived": "534",
-              "percentage": "1.16"
+              "votesReceived": "536",
+              "percentage": "1.15"
             }
           ]
         },
@@ -1636,53 +1636,53 @@
         {
           "num": "5",
           "polls": "128",
-          "pollsReceived": "127",
+          "pollsReceived": "128",
           "totalVoters": "83515",
-          "votesReceived": "68959",
+          "votesReceived": "69158",
           "candidate": [
             {
               "name": "Jennifer Volk",
-              "votesReceived": "28480",
-              "percentage": "41.30"
+              "votesReceived": "28535",
+              "percentage": "41.26"
             },
             {
               "name": "Andrew Massey",
-              "votesReceived": "9006",
-              "percentage": "13.06"
+              "votesReceived": "9051",
+              "percentage": "13.09"
             },
             {
               "name": "Maureen Larkin",
-              "votesReceived": "8324",
+              "votesReceived": "8346",
               "percentage": "12.07"
             },
             {
               "name": "Elina Feyginberg",
-              "votesReceived": "6422",
-              "percentage": "9.31"
+              "votesReceived": "6443",
+              "percentage": "9.32"
             },
             {
               "name": "Gus Stefanis",
-              "votesReceived": "4746",
+              "votesReceived": "4757",
               "percentage": "6.88"
             },
             {
               "name": "Andrene Gregory",
-              "votesReceived": "4729",
+              "votesReceived": "4744",
               "percentage": "6.86"
             },
             {
               "name": "Jared Kolb",
-              "votesReceived": "3478",
-              "percentage": "5.04"
+              "votesReceived": "3496",
+              "percentage": "5.06"
             },
             {
               "name": "Janine Viret",
-              "votesReceived": "1989",
+              "votesReceived": "1995",
               "percentage": "2.88"
             },
             {
               "name": "David Gulyas",
-              "votesReceived": "1785",
+              "votesReceived": "1791",
               "percentage": "2.59"
             }
           ]
@@ -2161,28 +2161,28 @@
         {
           "num": "9",
           "polls": "288",
-          "pollsReceived": "287",
+          "pollsReceived": "288",
           "totalVoters": "84706",
-          "votesReceived": "10726",
+          "votesReceived": "10737",
           "candidate": [
             {
               "name": "Jonathan Santos",
-              "votesReceived": "4143",
+              "votesReceived": "4148",
               "percentage": "38.63"
             },
             {
               "name": "Rosina Bonavota",
-              "votesReceived": "3790",
+              "votesReceived": "3793",
               "percentage": "35.33"
             },
             {
               "name": "David Le",
-              "votesReceived": "1651",
-              "percentage": "15.39"
+              "votesReceived": "1653",
+              "percentage": "15.40"
             },
             {
               "name": "Renato Fallico",
-              "votesReceived": "1142",
+              "votesReceived": "1143",
               "percentage": "10.65"
             }
           ]
@@ -2277,7 +2277,7 @@
         {
           "num": "3",
           "polls": "389",
-          "pollsReceived": "388",
+          "pollsReceived": "389",
           "totalVoters": "116485",
           "votesReceived": "2652",
           "candidate": [
@@ -2316,7 +2316,7 @@
         {
           "num": "3",
           "polls": "877",
-          "pollsReceived": "874",
+          "pollsReceived": "875",
           "totalVoters": "116485",
           "votesReceived": "1984",
           "candidate": [
@@ -2364,5 +2364,5 @@
       ]
     }
   ],
-  "seq": "1793075135981"
+  "seq": "1793075196178"
 }

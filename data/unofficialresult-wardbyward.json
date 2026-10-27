@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "1428",
+    "pollsReceived": "1429",
     "totalVoters": "2143771",
-    "votesReceived": "980753",
+    "votesReceived": "981041",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "531224",
+        "votesReceived": "531402",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -96,10 +96,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
-            "votesReceived": "34171"
+            "votesCounted": "51271",
+            "votesReceived": "34349"
           },
           {
             "name": "University-Rosedale",
@@ -240,7 +240,7 @@
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "403160",
+        "votesReceived": "403264",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -327,10 +327,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
-            "votesReceived": "15364"
+            "votesCounted": "51271",
+            "votesReceived": "15468"
           },
           {
             "name": "University-Rosedale",
@@ -558,9 +558,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "299"
           },
           {
@@ -789,9 +789,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "144"
           },
           {
@@ -933,7 +933,7 @@
       },
       {
         "name": "Edward Gong",
-        "votesReceived": "3438",
+        "votesReceived": "3439",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1020,10 +1020,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
-            "votesReceived": "59"
+            "votesCounted": "51271",
+            "votesReceived": "60"
           },
           {
             "name": "University-Rosedale",
@@ -1251,9 +1251,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "150"
           },
           {
@@ -1482,9 +1482,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "63"
           },
           {
@@ -1626,7 +1626,7 @@
       },
       {
         "name": "Imad Abdulkadir",
-        "votesReceived": "1869",
+        "votesReceived": "1870",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1713,10 +1713,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
-            "votesReceived": "31"
+            "votesCounted": "51271",
+            "votesReceived": "32"
           },
           {
             "name": "University-Rosedale",
@@ -1857,7 +1857,7 @@
       },
       {
         "name": "Bahira Abdulsalam",
-        "votesReceived": "1691",
+        "votesReceived": "1692",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1944,10 +1944,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
-            "votesReceived": "59"
+            "votesCounted": "51271",
+            "votesReceived": "60"
           },
           {
             "name": "University-Rosedale",
@@ -2088,7 +2088,7 @@
       },
       {
         "name": "Rick Lee",
-        "votesReceived": "1286",
+        "votesReceived": "1287",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2175,10 +2175,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
-            "votesReceived": "35"
+            "votesCounted": "51271",
+            "votesReceived": "36"
           },
           {
             "name": "University-Rosedale",
@@ -2319,7 +2319,7 @@
       },
       {
         "name": "Logan Choy",
-        "votesReceived": "1278",
+        "votesReceived": "1279",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2406,10 +2406,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
-            "votesReceived": "47"
+            "votesCounted": "51271",
+            "votesReceived": "48"
           },
           {
             "name": "University-Rosedale",
@@ -2637,9 +2637,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "41"
           },
           {
@@ -2868,9 +2868,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "28"
           },
           {
@@ -3099,9 +3099,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "19"
           },
           {
@@ -3330,9 +3330,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "32"
           },
           {
@@ -3561,9 +3561,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "39"
           },
           {
@@ -3792,9 +3792,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "21"
           },
           {
@@ -4023,9 +4023,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "31"
           },
           {
@@ -4254,9 +4254,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "19"
           },
           {
@@ -4485,9 +4485,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "16"
           },
           {
@@ -4716,9 +4716,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "11"
           },
           {
@@ -4947,9 +4947,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "14"
           },
           {
@@ -5178,9 +5178,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "22"
           },
           {
@@ -5409,9 +5409,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "17"
           },
           {
@@ -5640,9 +5640,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "19"
           },
           {
@@ -5871,9 +5871,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "12"
           },
           {
@@ -6102,9 +6102,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "20"
           },
           {
@@ -6333,9 +6333,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "28"
           },
           {
@@ -6564,9 +6564,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "20"
           },
           {
@@ -6795,9 +6795,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "6"
           },
           {
@@ -7026,9 +7026,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "13"
           },
           {
@@ -7257,9 +7257,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "5"
           },
           {
@@ -7488,9 +7488,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "6"
           },
           {
@@ -7719,9 +7719,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "7"
           },
           {
@@ -7863,7 +7863,7 @@
       },
       {
         "name": "Kuo Yu Tong",
-        "votesReceived": "365",
+        "votesReceived": "366",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7950,10 +7950,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
-            "votesReceived": "9"
+            "votesCounted": "51271",
+            "votesReceived": "10"
           },
           {
             "name": "University-Rosedale",
@@ -8181,9 +8181,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "11"
           },
           {
@@ -8412,9 +8412,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "13"
           },
           {
@@ -8643,9 +8643,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "6"
           },
           {
@@ -8874,9 +8874,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "9"
           },
           {
@@ -9105,9 +9105,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "8"
           },
           {
@@ -9336,9 +9336,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "5"
           },
           {
@@ -9567,9 +9567,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "13"
           },
           {
@@ -9798,9 +9798,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "3"
           },
           {
@@ -10029,9 +10029,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "8"
           },
           {
@@ -10260,9 +10260,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "3"
           },
           {
@@ -10491,9 +10491,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "1"
           },
           {
@@ -10722,9 +10722,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "9"
           },
           {
@@ -10953,9 +10953,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "4"
           },
           {
@@ -11184,9 +11184,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "6"
           },
           {
@@ -11415,9 +11415,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "2"
           },
           {
@@ -11646,9 +11646,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "2"
           },
           {
@@ -11877,9 +11877,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "2"
           },
           {
@@ -12108,9 +12108,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "79",
+            "pollsReceived": "80",
             "totalVoters": "123597",
-            "votesCounted": "50983",
+            "votesCounted": "51271",
             "votesReceived": "1"
           },
           {
@@ -12252,5 +12252,5 @@
       }
     ]
   },
-  "seq": "1793075135947"
+  "seq": "1793075225950"
 }

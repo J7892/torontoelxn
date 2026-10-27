@@ -1,35 +1,35 @@
 {
   "metadata": {
-    "last_updated_utc": "2026-10-27T04:25:56.366790+00:00",
+    "last_updated_utc": "2026-10-27T04:27:13.599423+00:00",
     "election_desc": "2026 Municipal Election",
-    "seq": "1793075135981",
+    "seq": "1793075196178",
     "status": "Live - Polls Open / Reporting",
     "source_url": "https://electionresults.toronto.ca/"
   },
   "citywide": {
     "total_polls": 1431,
-    "polls_reported": 1428,
-    "polls_reporting_pct": 99.79,
-    "total_votes": 980753,
+    "polls_reported": 1429,
+    "polls_reporting_pct": 99.86,
+    "total_votes": 981041,
     "registered_voters": 2143771,
-    "turnout_pct": 45.75
+    "turnout_pct": 45.76
   },
   "head_to_head": {
     "leader": "Olivia Chow",
-    "vote_margin": 128064,
-    "pct_margin": 13.05,
-    "total_head_to_head_votes": 934384,
+    "vote_margin": 128138,
+    "pct_margin": 13.06,
+    "total_head_to_head_votes": 934666,
     "chow": {
       "name": "Olivia Chow",
-      "votes": 531224,
-      "percentage": 54.16,
+      "votes": 531402,
+      "percentage": 54.17,
       "two_way_percentage": 56.85,
       "wards_leading": 19,
       "color": "#e05a1e"
     },
     "bradford": {
       "name": "Brad Bradford",
-      "votes": 403160,
+      "votes": 403264,
       "percentage": 41.11,
       "two_way_percentage": 43.15,
       "wards_leading": 6,
@@ -39,38 +39,38 @@
   "top5_candidates": [
     {
       "name": "Olivia Chow",
-      "votes": 531224,
-      "percentage": 54.16,
+      "votes": 531402,
+      "percentage": 54.17,
       "rank": 1,
       "margin_from_leader": 0
     },
     {
       "name": "Brad Bradford",
-      "votes": 403160,
+      "votes": 403264,
       "percentage": 41.11,
       "rank": 2,
-      "margin_from_leader": -128064
+      "margin_from_leader": -128138
     },
     {
       "name": "Braeden Chow",
       "votes": 8084,
       "percentage": 0.82,
       "rank": 3,
-      "margin_from_leader": -523140
+      "margin_from_leader": -523318
     },
     {
       "name": "Chris Alexander",
       "votes": 3547,
       "percentage": 0.36,
       "rank": 4,
-      "margin_from_leader": -527677
+      "margin_from_leader": -527855
     },
     {
       "name": "Edward Gong",
-      "votes": 3438,
+      "votes": 3439,
       "percentage": 0.35,
       "rank": 5,
-      "margin_from_leader": -527786
+      "margin_from_leader": -527963
     }
   ],
   "all_candidates_count": 53,
@@ -1174,40 +1174,40 @@
       "ward_num": 10,
       "ward_name": "Spadina-Fort York",
       "polls_total": 80,
-      "polls_reported": 79,
-      "polls_reporting_pct": 98.75,
-      "total_votes": 50983,
+      "polls_reported": 80,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 51271,
       "registered_voters": 123597,
-      "turnout_pct": 41.25,
+      "turnout_pct": 41.48,
       "chow": {
-        "votes": 34171,
-        "percentage": 67.02
+        "votes": 34349,
+        "percentage": 66.99
       },
       "bradford": {
-        "votes": 15364,
-        "percentage": 30.14
+        "votes": 15468,
+        "percentage": 30.17
       },
-      "head_to_head_margin": 18807,
-      "head_to_head_margin_pct": 36.88,
+      "head_to_head_margin": 18881,
+      "head_to_head_margin_pct": 36.82,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 34171,
-          "percentage": 67.02
+          "votes": 34349,
+          "percentage": 66.99
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 15364,
-          "percentage": 30.14
+          "votes": 15468,
+          "percentage": 30.17
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
           "votes": 299,
-          "percentage": 0.59
+          "percentage": 0.58
         },
         {
           "rank": 4,
@@ -1224,82 +1224,82 @@
       ],
       "council": {
         "polls_total": 80,
-        "polls_reported": 79,
-        "polls_reporting_pct": 98.75,
-        "total_votes": 46220,
+        "polls_reported": 80,
+        "polls_reporting_pct": 100.0,
+        "total_votes": 46471,
         "candidates_count": 8,
         "leader": "Ausma Malik",
         "runner_up": "Ian Cunningham",
-        "margin_votes": 8559,
-        "margin_pct": 18.52,
+        "margin_votes": 8570,
+        "margin_pct": 18.44,
         "is_close_race": false,
         "top3": [
           {
             "name": "Ausma Malik",
-            "votes": 21902,
-            "percentage": 47.39,
+            "votes": 21975,
+            "percentage": 47.29,
             "rank": 1
           },
           {
             "name": "Ian Cunningham",
-            "votes": 13343,
-            "percentage": 28.87,
+            "votes": 13405,
+            "percentage": 28.85,
             "rank": 2
           },
           {
             "name": "Xue Ding",
-            "votes": 3720,
-            "percentage": 8.05,
+            "votes": 3767,
+            "percentage": 8.11,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Ausma Malik",
-            "votes": 21902,
-            "percentage": 47.39,
+            "votes": 21975,
+            "percentage": 47.29,
             "rank": 1
           },
           {
             "name": "Ian Cunningham",
-            "votes": 13343,
-            "percentage": 28.87,
+            "votes": 13405,
+            "percentage": 28.85,
             "rank": 2
           },
           {
             "name": "Xue Ding",
-            "votes": 3720,
-            "percentage": 8.05,
+            "votes": 3767,
+            "percentage": 8.11,
             "rank": 3
           },
           {
             "name": "Paul Nash",
-            "votes": 2780,
-            "percentage": 6.01,
+            "votes": 2805,
+            "percentage": 6.04,
             "rank": 4
           },
           {
             "name": "Andi Ho\u00e0ng-Lefranc",
-            "votes": 2103,
+            "votes": 2113,
             "percentage": 4.55,
             "rank": 5
           },
           {
             "name": "Bashar Kassir",
-            "votes": 929,
-            "percentage": 2.01,
+            "votes": 940,
+            "percentage": 2.02,
             "rank": 6
           },
           {
             "name": "Aanchal Vashistha",
-            "votes": 909,
-            "percentage": 1.97,
+            "votes": 930,
+            "percentage": 2.0,
             "rank": 7
           },
           {
             "name": "Husain Neemuchwala",
-            "votes": 534,
-            "percentage": 1.16,
+            "votes": 536,
+            "percentage": 1.15,
             "rank": 8
           }
         ]
