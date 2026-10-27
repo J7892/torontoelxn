@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "1253",
+    "pollsReceived": "1309",
     "totalVoters": "2143771",
-    "votesReceived": "882687",
+    "votesReceived": "908734",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "477031",
+        "votesReceived": "490912",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -33,19 +33,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "24071"
+            "votesCounted": "52932",
+            "votesReceived": "24930"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "33467"
+            "votesCounted": "49469",
+            "votesReceived": "34127"
           },
           {
             "name": "York South-Weston",
@@ -96,10 +96,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "32747"
+            "votesCounted": "50983",
+            "votesReceived": "34171"
           },
           {
             "name": "University-Rosedale",
@@ -114,19 +114,19 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
-            "votesReceived": "26528"
+            "votesCounted": "52118",
+            "votesReceived": "26635"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
-            "votesReceived": "32233"
+            "votesCounted": "44715",
+            "votesReceived": "32365"
           },
           {
             "name": "Toronto-Danforth",
@@ -150,19 +150,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "10524"
+            "votesCounted": "28614",
+            "votesReceived": "15257"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "9085"
+            "votesCounted": "31610",
+            "votesReceived": "15051"
           },
           {
             "name": "Willowdale",
@@ -240,7 +240,7 @@
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "363764",
+        "votesReceived": "374608",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -264,19 +264,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "25306"
+            "votesCounted": "52932",
+            "votesReceived": "26153"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "13242"
+            "votesCounted": "49469",
+            "votesReceived": "13427"
           },
           {
             "name": "York South-Weston",
@@ -327,10 +327,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "14692"
+            "votesCounted": "50983",
+            "votesReceived": "15364"
           },
           {
             "name": "University-Rosedale",
@@ -345,19 +345,19 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
-            "votesReceived": "23855"
+            "votesCounted": "52118",
+            "votesReceived": "23963"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
-            "votesReceived": "10420"
+            "votesCounted": "44715",
+            "votesReceived": "10483"
           },
           {
             "name": "Toronto-Danforth",
@@ -381,19 +381,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "8735"
+            "votesCounted": "28614",
+            "votesReceived": "11832"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "9030"
+            "votesCounted": "31610",
+            "votesReceived": "14902"
           },
           {
             "name": "Willowdale",
@@ -471,7 +471,7 @@
       },
       {
         "name": "Braeden Chow",
-        "votesReceived": "7297",
+        "votesReceived": "7502",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -495,19 +495,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "373"
+            "votesCounted": "52932",
+            "votesReceived": "383"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "403"
+            "votesCounted": "49469",
+            "votesReceived": "406"
           },
           {
             "name": "York South-Weston",
@@ -558,10 +558,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "293"
+            "votesCounted": "50983",
+            "votesReceived": "299"
           },
           {
             "name": "University-Rosedale",
@@ -576,18 +576,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
-            "votesReceived": "356"
+            "votesCounted": "52118",
+            "votesReceived": "358"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "363"
           },
           {
@@ -612,19 +612,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "186"
+            "votesCounted": "28614",
+            "votesReceived": "283"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "139"
+            "votesCounted": "31610",
+            "votesReceived": "226"
           },
           {
             "name": "Willowdale",
@@ -702,7 +702,7 @@
       },
       {
         "name": "Chris Alexander",
-        "votesReceived": "3300",
+        "votesReceived": "3380",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -726,19 +726,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "156"
+            "votesCounted": "52932",
+            "votesReceived": "162"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "155"
+            "votesCounted": "49469",
+            "votesReceived": "156"
           },
           {
             "name": "York South-Weston",
@@ -789,10 +789,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "142"
+            "votesCounted": "50983",
+            "votesReceived": "144"
           },
           {
             "name": "University-Rosedale",
@@ -807,18 +807,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "146"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "172"
           },
           {
@@ -843,19 +843,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "76"
+            "votesCounted": "28614",
+            "votesReceived": "109"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "108"
+            "votesCounted": "31610",
+            "votesReceived": "146"
           },
           {
             "name": "Willowdale",
@@ -933,7 +933,7 @@
       },
       {
         "name": "Edward Gong",
-        "votesReceived": "3070",
+        "votesReceived": "3182",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -957,18 +957,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "108"
+            "votesCounted": "52932",
+            "votesReceived": "110"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "53"
           },
           {
@@ -1020,10 +1020,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "57"
+            "votesCounted": "50983",
+            "votesReceived": "59"
           },
           {
             "name": "University-Rosedale",
@@ -1038,18 +1038,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "38"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "57"
           },
           {
@@ -1074,19 +1074,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "73"
+            "votesCounted": "28614",
+            "votesReceived": "113"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "115"
+            "votesCounted": "31610",
+            "votesReceived": "183"
           },
           {
             "name": "Willowdale",
@@ -1164,7 +1164,7 @@
       },
       {
         "name": "Laura Dean",
-        "votesReceived": "2004",
+        "votesReceived": "2057",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1188,19 +1188,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "117"
+            "votesCounted": "52932",
+            "votesReceived": "119"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "169"
+            "votesCounted": "49469",
+            "votesReceived": "171"
           },
           {
             "name": "York South-Weston",
@@ -1251,10 +1251,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "147"
+            "votesCounted": "50983",
+            "votesReceived": "150"
           },
           {
             "name": "University-Rosedale",
@@ -1269,18 +1269,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "133"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "117"
           },
           {
@@ -1305,19 +1305,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "34"
+            "votesCounted": "28614",
+            "votesReceived": "44"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "43"
+            "votesCounted": "31610",
+            "votesReceived": "79"
           },
           {
             "name": "Willowdale",
@@ -1395,7 +1395,7 @@
       },
       {
         "name": "Darrell Brown",
-        "votesReceived": "1861",
+        "votesReceived": "1926",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1419,19 +1419,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "92"
+            "votesCounted": "52932",
+            "votesReceived": "94"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "113"
+            "votesCounted": "49469",
+            "votesReceived": "116"
           },
           {
             "name": "York South-Weston",
@@ -1482,10 +1482,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "62"
+            "votesCounted": "50983",
+            "votesReceived": "63"
           },
           {
             "name": "University-Rosedale",
@@ -1500,18 +1500,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "75"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "82"
           },
           {
@@ -1536,19 +1536,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "38"
+            "votesCounted": "28614",
+            "votesReceived": "57"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "49"
+            "votesCounted": "31610",
+            "votesReceived": "89"
           },
           {
             "name": "Willowdale",
@@ -1626,7 +1626,7 @@
       },
       {
         "name": "Imad Abdulkadir",
-        "votesReceived": "1699",
+        "votesReceived": "1755",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1650,18 +1650,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "45"
+            "votesCounted": "52932",
+            "votesReceived": "47"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "46"
           },
           {
@@ -1713,9 +1713,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "31"
           },
           {
@@ -1731,18 +1731,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "18"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "113"
           },
           {
@@ -1767,19 +1767,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "47"
+            "votesCounted": "28614",
+            "votesReceived": "84"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "26"
+            "votesCounted": "31610",
+            "votesReceived": "43"
           },
           {
             "name": "Willowdale",
@@ -1857,7 +1857,7 @@
       },
       {
         "name": "Bahira Abdulsalam",
-        "votesReceived": "1528",
+        "votesReceived": "1596",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1881,18 +1881,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "28"
+            "votesCounted": "52932",
+            "votesReceived": "31"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "47"
           },
           {
@@ -1944,9 +1944,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "59"
           },
           {
@@ -1962,18 +1962,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "26"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "79"
           },
           {
@@ -1998,19 +1998,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "67"
+            "votesCounted": "28614",
+            "votesReceived": "105"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "35"
+            "votesCounted": "31610",
+            "votesReceived": "62"
           },
           {
             "name": "Willowdale",
@@ -2088,7 +2088,7 @@
       },
       {
         "name": "Logan Choy",
-        "votesReceived": "1155",
+        "votesReceived": "1176",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2112,19 +2112,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "39"
+            "votesCounted": "52932",
+            "votesReceived": "40"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "45"
+            "votesCounted": "49469",
+            "votesReceived": "46"
           },
           {
             "name": "York South-Weston",
@@ -2175,9 +2175,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "47"
           },
           {
@@ -2193,18 +2193,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "36"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "48"
           },
           {
@@ -2229,19 +2229,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "20"
+            "votesCounted": "28614",
+            "votesReceived": "28"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "22"
+            "votesCounted": "31610",
+            "votesReceived": "33"
           },
           {
             "name": "Willowdale",
@@ -2319,7 +2319,7 @@
       },
       {
         "name": "Rick Lee",
-        "votesReceived": "1106",
+        "votesReceived": "1159",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2343,18 +2343,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "35"
+            "votesCounted": "52932",
+            "votesReceived": "39"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "26"
           },
           {
@@ -2406,10 +2406,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "34"
+            "votesCounted": "50983",
+            "votesReceived": "35"
           },
           {
             "name": "University-Rosedale",
@@ -2424,18 +2424,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "22"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "35"
           },
           {
@@ -2460,19 +2460,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "14"
+            "votesCounted": "28614",
+            "votesReceived": "38"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "40"
+            "votesCounted": "31610",
+            "votesReceived": "64"
           },
           {
             "name": "Willowdale",
@@ -2550,7 +2550,7 @@
       },
       {
         "name": "Sandeep Srivastava",
-        "votesReceived": "1036",
+        "votesReceived": "1078",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2574,19 +2574,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "24"
+            "votesCounted": "52932",
+            "votesReceived": "27"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "27"
+            "votesCounted": "49469",
+            "votesReceived": "28"
           },
           {
             "name": "York South-Weston",
@@ -2637,10 +2637,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "40"
+            "votesCounted": "50983",
+            "votesReceived": "41"
           },
           {
             "name": "University-Rosedale",
@@ -2655,18 +2655,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "11"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "19"
           },
           {
@@ -2691,19 +2691,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "13"
+            "votesCounted": "28614",
+            "votesReceived": "18"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "27"
+            "votesCounted": "31610",
+            "votesReceived": "59"
           },
           {
             "name": "Willowdale",
@@ -2781,7 +2781,7 @@
       },
       {
         "name": "Kevin Clarke",
-        "votesReceived": "997",
+        "votesReceived": "1014",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2805,19 +2805,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "40"
+            "votesCounted": "52932",
+            "votesReceived": "41"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "40"
+            "votesCounted": "49469",
+            "votesReceived": "41"
           },
           {
             "name": "York South-Weston",
@@ -2868,9 +2868,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "28"
           },
           {
@@ -2886,18 +2886,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
-            "votesReceived": "26"
+            "votesCounted": "52118",
+            "votesReceived": "27"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "40"
           },
           {
@@ -2922,19 +2922,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "13"
+            "votesCounted": "28614",
+            "votesReceived": "20"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "19"
+            "votesCounted": "31610",
+            "votesReceived": "26"
           },
           {
             "name": "Willowdale",
@@ -3012,7 +3012,7 @@
       },
       {
         "name": "Georgios Kalkounis",
-        "votesReceived": "950",
+        "votesReceived": "995",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3036,19 +3036,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "32"
+            "votesCounted": "52932",
+            "votesReceived": "34"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "29"
+            "votesCounted": "49469",
+            "votesReceived": "30"
           },
           {
             "name": "York South-Weston",
@@ -3099,10 +3099,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "18"
+            "votesCounted": "50983",
+            "votesReceived": "19"
           },
           {
             "name": "University-Rosedale",
@@ -3117,18 +3117,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "36"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "15"
           },
           {
@@ -3153,19 +3153,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "53"
+            "votesCounted": "28614",
+            "votesReceived": "82"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "39"
+            "votesCounted": "31610",
+            "votesReceived": "51"
           },
           {
             "name": "Willowdale",
@@ -3243,7 +3243,7 @@
       },
       {
         "name": "Roberto Curto",
-        "votesReceived": "893",
+        "votesReceived": "909",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3267,19 +3267,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "44"
+            "votesCounted": "52932",
+            "votesReceived": "47"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "47"
+            "votesCounted": "49469",
+            "votesReceived": "48"
           },
           {
             "name": "York South-Weston",
@@ -3330,10 +3330,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "30"
+            "votesCounted": "50983",
+            "votesReceived": "32"
           },
           {
             "name": "University-Rosedale",
@@ -3348,18 +3348,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "39"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "50"
           },
           {
@@ -3384,19 +3384,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "17"
+            "votesCounted": "28614",
+            "votesReceived": "21"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "18"
+            "votesCounted": "31610",
+            "votesReceived": "24"
           },
           {
             "name": "Willowdale",
@@ -3474,7 +3474,7 @@
       },
       {
         "name": "Sarah McVie",
-        "votesReceived": "875",
+        "votesReceived": "892",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3498,18 +3498,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "51"
+            "votesCounted": "52932",
+            "votesReceived": "53"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "69"
           },
           {
@@ -3561,10 +3561,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "37"
+            "votesCounted": "50983",
+            "votesReceived": "39"
           },
           {
             "name": "University-Rosedale",
@@ -3579,18 +3579,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "41"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "47"
           },
           {
@@ -3615,19 +3615,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "17"
+            "votesCounted": "28614",
+            "votesReceived": "20"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "15"
+            "votesCounted": "31610",
+            "votesReceived": "25"
           },
           {
             "name": "Willowdale",
@@ -3705,7 +3705,7 @@
       },
       {
         "name": "Jamie Atkinson",
-        "votesReceived": "848",
+        "votesReceived": "878",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3729,18 +3729,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "35"
+            "votesCounted": "52932",
+            "votesReceived": "37"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "33"
           },
           {
@@ -3792,10 +3792,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "20"
+            "votesCounted": "50983",
+            "votesReceived": "21"
           },
           {
             "name": "University-Rosedale",
@@ -3810,18 +3810,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
-            "votesReceived": "30"
+            "votesCounted": "52118",
+            "votesReceived": "31"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "36"
           },
           {
@@ -3846,19 +3846,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "22"
+            "votesCounted": "28614",
+            "votesReceived": "32"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "21"
+            "votesCounted": "31610",
+            "votesReceived": "37"
           },
           {
             "name": "Willowdale",
@@ -3936,7 +3936,7 @@
       },
       {
         "name": "Amy Rosen",
-        "votesReceived": "833",
+        "votesReceived": "857",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3960,19 +3960,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "37"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "62"
+            "votesCounted": "49469",
+            "votesReceived": "66"
           },
           {
             "name": "York South-Weston",
@@ -4023,10 +4023,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "30"
+            "votesCounted": "50983",
+            "votesReceived": "31"
           },
           {
             "name": "University-Rosedale",
@@ -4041,18 +4041,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "87"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "42"
           },
           {
@@ -4077,19 +4077,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "11"
+            "votesCounted": "28614",
+            "votesReceived": "17"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "10"
+            "votesCounted": "31610",
+            "votesReceived": "23"
           },
           {
             "name": "Willowdale",
@@ -4167,7 +4167,7 @@
       },
       {
         "name": "Paul Collins",
-        "votesReceived": "770",
+        "votesReceived": "794",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4191,18 +4191,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "32"
+            "votesCounted": "52932",
+            "votesReceived": "35"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "30"
           },
           {
@@ -4254,10 +4254,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "18"
+            "votesCounted": "50983",
+            "votesReceived": "19"
           },
           {
             "name": "University-Rosedale",
@@ -4272,18 +4272,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
-            "votesReceived": "19"
+            "votesCounted": "52118",
+            "votesReceived": "21"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "28"
           },
           {
@@ -4308,19 +4308,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "8"
+            "votesCounted": "28614",
+            "votesReceived": "10"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "15"
+            "votesCounted": "31610",
+            "votesReceived": "31"
           },
           {
             "name": "Willowdale",
@@ -4398,7 +4398,7 @@
       },
       {
         "name": "Lyall Sanders",
-        "votesReceived": "702",
+        "votesReceived": "726",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4422,19 +4422,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "33"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "35"
+            "votesCounted": "49469",
+            "votesReceived": "36"
           },
           {
             "name": "York South-Weston",
@@ -4485,10 +4485,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "15"
+            "votesCounted": "50983",
+            "votesReceived": "16"
           },
           {
             "name": "University-Rosedale",
@@ -4503,19 +4503,19 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "36"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
-            "votesReceived": "24"
+            "votesCounted": "44715",
+            "votesReceived": "25"
           },
           {
             "name": "Toronto-Danforth",
@@ -4539,19 +4539,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "20"
+            "votesCounted": "28614",
+            "votesReceived": "33"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "12"
+            "votesCounted": "31610",
+            "votesReceived": "20"
           },
           {
             "name": "Willowdale",
@@ -4629,7 +4629,7 @@
       },
       {
         "name": "Mohamad Kaaki",
-        "votesReceived": "656",
+        "votesReceived": "680",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4653,18 +4653,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "8"
+            "votesCounted": "52932",
+            "votesReceived": "9"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "20"
           },
           {
@@ -4716,9 +4716,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "11"
           },
           {
@@ -4734,18 +4734,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "10"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "55"
           },
           {
@@ -4770,19 +4770,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "19"
+            "votesCounted": "28614",
+            "votesReceived": "34"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "10"
+            "votesCounted": "31610",
+            "votesReceived": "18"
           },
           {
             "name": "Willowdale",
@@ -4860,7 +4860,7 @@
       },
       {
         "name": "Joshua Thompson",
-        "votesReceived": "634",
+        "votesReceived": "653",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4884,18 +4884,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "19"
+            "votesCounted": "52932",
+            "votesReceived": "21"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "17"
           },
           {
@@ -4947,9 +4947,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "14"
           },
           {
@@ -4965,18 +4965,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "21"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "16"
           },
           {
@@ -5001,19 +5001,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "12"
+            "votesCounted": "28614",
+            "votesReceived": "21"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "8"
+            "votesCounted": "31610",
+            "votesReceived": "16"
           },
           {
             "name": "Willowdale",
@@ -5091,7 +5091,7 @@
       },
       {
         "name": "Brian Buffey",
-        "votesReceived": "594",
+        "votesReceived": "610",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5115,19 +5115,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "34"
+            "votesCounted": "52932",
+            "votesReceived": "36"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "25"
+            "votesCounted": "49469",
+            "votesReceived": "26"
           },
           {
             "name": "York South-Weston",
@@ -5178,9 +5178,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "22"
           },
           {
@@ -5196,18 +5196,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "20"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "32"
           },
           {
@@ -5232,19 +5232,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "7"
+            "votesCounted": "28614",
+            "votesReceived": "12"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "15"
+            "votesCounted": "31610",
+            "votesReceived": "23"
           },
           {
             "name": "Willowdale",
@@ -5322,7 +5322,7 @@
       },
       {
         "name": "Laura Ellis",
-        "votesReceived": "576",
+        "votesReceived": "589",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5346,18 +5346,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "34"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "33"
           },
           {
@@ -5409,9 +5409,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "17"
           },
           {
@@ -5427,18 +5427,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "29"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "27"
           },
           {
@@ -5463,19 +5463,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "14"
+            "votesCounted": "28614",
+            "votesReceived": "18"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "12"
+            "votesCounted": "31610",
+            "votesReceived": "21"
           },
           {
             "name": "Willowdale",
@@ -5553,7 +5553,7 @@
       },
       {
         "name": "Michael Lamoureux",
-        "votesReceived": "513",
+        "votesReceived": "525",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5577,18 +5577,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "34"
+            "votesCounted": "52932",
+            "votesReceived": "35"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "21"
           },
           {
@@ -5640,9 +5640,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "19"
           },
           {
@@ -5658,18 +5658,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "14"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "21"
           },
           {
@@ -5694,19 +5694,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "11"
+            "votesCounted": "28614",
+            "votesReceived": "14"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "16"
+            "votesCounted": "31610",
+            "votesReceived": "24"
           },
           {
             "name": "Willowdale",
@@ -5784,7 +5784,7 @@
       },
       {
         "name": "Robert Shusterman",
-        "votesReceived": "446",
+        "votesReceived": "464",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5808,18 +5808,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "23"
+            "votesCounted": "52932",
+            "votesReceived": "28"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "14"
           },
           {
@@ -5871,9 +5871,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "12"
           },
           {
@@ -5889,18 +5889,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "22"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "10"
           },
           {
@@ -5925,19 +5925,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "10"
+            "votesCounted": "28614",
+            "votesReceived": "13"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "15"
+            "votesCounted": "31610",
+            "votesReceived": "25"
           },
           {
             "name": "Willowdale",
@@ -6015,7 +6015,7 @@
       },
       {
         "name": "Cory Deville",
-        "votesReceived": "434",
+        "votesReceived": "446",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6039,19 +6039,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "23"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "21"
+            "votesCounted": "49469",
+            "votesReceived": "22"
           },
           {
             "name": "York South-Weston",
@@ -6102,10 +6102,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "19"
+            "votesCounted": "50983",
+            "votesReceived": "20"
           },
           {
             "name": "University-Rosedale",
@@ -6120,18 +6120,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "14"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "39"
           },
           {
@@ -6156,19 +6156,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "8"
+            "votesCounted": "28614",
+            "votesReceived": "13"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "6"
+            "votesCounted": "31610",
+            "votesReceived": "11"
           },
           {
             "name": "Willowdale",
@@ -6246,7 +6246,7 @@
       },
       {
         "name": "Odessa Paloma Parker",
-        "votesReceived": "419",
+        "votesReceived": "433",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6270,19 +6270,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "24"
+            "votesCounted": "52932",
+            "votesReceived": "28"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "29"
+            "votesCounted": "49469",
+            "votesReceived": "30"
           },
           {
             "name": "York South-Weston",
@@ -6333,9 +6333,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "28"
           },
           {
@@ -6351,18 +6351,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "24"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "19"
           },
           {
@@ -6387,19 +6387,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "8"
+            "votesCounted": "28614",
+            "votesReceived": "14"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "8"
+            "votesCounted": "31610",
+            "votesReceived": "11"
           },
           {
             "name": "Willowdale",
@@ -6477,7 +6477,7 @@
       },
       {
         "name": "Martin Fraser",
-        "votesReceived": "401",
+        "votesReceived": "408",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6501,18 +6501,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "23"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "12"
           },
           {
@@ -6564,9 +6564,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "20"
           },
           {
@@ -6582,18 +6582,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "15"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "10"
           },
           {
@@ -6618,19 +6618,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "6"
+            "votesCounted": "28614",
+            "votesReceived": "9"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "8"
+            "votesCounted": "31610",
+            "votesReceived": "12"
           },
           {
             "name": "Willowdale",
@@ -6708,7 +6708,7 @@
       },
       {
         "name": "Alton Frederick",
-        "votesReceived": "390",
+        "votesReceived": "404",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6732,18 +6732,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "15"
+            "votesCounted": "52932",
+            "votesReceived": "16"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "8"
           },
           {
@@ -6795,9 +6795,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "6"
           },
           {
@@ -6813,18 +6813,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "6"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "11"
           },
           {
@@ -6849,19 +6849,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "7"
+            "votesCounted": "28614",
+            "votesReceived": "14"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "7"
+            "votesCounted": "31610",
+            "votesReceived": "13"
           },
           {
             "name": "Willowdale",
@@ -6939,7 +6939,7 @@
       },
       {
         "name": "Heather He",
-        "votesReceived": "374",
+        "votesReceived": "390",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6963,18 +6963,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "11"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "12"
           },
           {
@@ -7026,9 +7026,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "13"
           },
           {
@@ -7044,18 +7044,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "13"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "10"
           },
           {
@@ -7080,19 +7080,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "7"
+            "votesCounted": "28614",
+            "votesReceived": "12"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "31"
+            "votesCounted": "31610",
+            "votesReceived": "42"
           },
           {
             "name": "Willowdale",
@@ -7170,7 +7170,7 @@
       },
       {
         "name": "Mostafa Zandkarimi",
-        "votesReceived": "335",
+        "votesReceived": "357",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7194,18 +7194,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "7"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "15"
           },
           {
@@ -7257,9 +7257,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "5"
           },
           {
@@ -7275,18 +7275,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "12"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "20"
           },
           {
@@ -7311,19 +7311,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "13"
+            "votesCounted": "28614",
+            "votesReceived": "17"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "16"
+            "votesCounted": "31610",
+            "votesReceived": "34"
           },
           {
             "name": "Willowdale",
@@ -7401,7 +7401,7 @@
       },
       {
         "name": "Habiba Desai",
-        "votesReceived": "334",
+        "votesReceived": "347",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7425,18 +7425,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "12"
+            "votesCounted": "52932",
+            "votesReceived": "13"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "17"
           },
           {
@@ -7488,9 +7488,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "11"
           },
           {
@@ -7506,18 +7506,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "0"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "13"
           },
           {
@@ -7542,18 +7542,18 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "7"
+            "votesCounted": "28614",
+            "votesReceived": "19"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
+            "votesCounted": "31610",
             "votesReceived": "5"
           },
           {
@@ -7631,239 +7631,8 @@
         ]
       },
       {
-        "name": "Alex Cruze",
-        "votesReceived": "332",
-        "ward": [
-          {
-            "name": "Etobicoke North",
-            "num": "1",
-            "polls": "46",
-            "pollsReceived": "44",
-            "totalVoters": "78411",
-            "votesCounted": "27577",
-            "votesReceived": "38"
-          },
-          {
-            "name": "Etobicoke Centre",
-            "num": "2",
-            "polls": "67",
-            "pollsReceived": "66",
-            "totalVoters": "97554",
-            "votesCounted": "45351",
-            "votesReceived": "12"
-          },
-          {
-            "name": "Etobicoke-Lakeshore",
-            "num": "3",
-            "polls": "82",
-            "pollsReceived": "76",
-            "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "12"
-          },
-          {
-            "name": "Parkdale-High Park",
-            "num": "4",
-            "polls": "67",
-            "pollsReceived": "65",
-            "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "17"
-          },
-          {
-            "name": "York South-Weston",
-            "num": "5",
-            "polls": "62",
-            "pollsReceived": "59",
-            "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "25"
-          },
-          {
-            "name": "York Centre",
-            "num": "6",
-            "polls": "50",
-            "pollsReceived": "49",
-            "totalVoters": "79015",
-            "votesCounted": "34555",
-            "votesReceived": "10"
-          },
-          {
-            "name": "Humber River-Black Creek",
-            "num": "7",
-            "polls": "45",
-            "pollsReceived": "45",
-            "totalVoters": "73832",
-            "votesCounted": "24519",
-            "votesReceived": "16"
-          },
-          {
-            "name": "Eglinton-Lawrence",
-            "num": "8",
-            "polls": "61",
-            "pollsReceived": "60",
-            "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "13"
-          },
-          {
-            "name": "Davenport",
-            "num": "9",
-            "polls": "53",
-            "pollsReceived": "52",
-            "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "15"
-          },
-          {
-            "name": "Spadina-Fort York",
-            "num": "10",
-            "polls": "80",
-            "pollsReceived": "78",
-            "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "7"
-          },
-          {
-            "name": "University-Rosedale",
-            "num": "11",
-            "polls": "72",
-            "pollsReceived": "71",
-            "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "6"
-          },
-          {
-            "name": "Toronto-St. Paul's",
-            "num": "12",
-            "polls": "58",
-            "pollsReceived": "57",
-            "totalVoters": "95032",
-            "votesCounted": "51896",
-            "votesReceived": "10"
-          },
-          {
-            "name": "Toronto Centre",
-            "num": "13",
-            "polls": "78",
-            "pollsReceived": "75",
-            "totalVoters": "101769",
-            "votesCounted": "44519",
-            "votesReceived": "24"
-          },
-          {
-            "name": "Toronto-Danforth",
-            "num": "14",
-            "polls": "48",
-            "pollsReceived": "45",
-            "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "10"
-          },
-          {
-            "name": "Don Valley West",
-            "num": "15",
-            "polls": "49",
-            "pollsReceived": "49",
-            "totalVoters": "76936",
-            "votesCounted": "38242",
-            "votesReceived": "3"
-          },
-          {
-            "name": "Don Valley East",
-            "num": "16",
-            "polls": "62",
-            "pollsReceived": "36",
-            "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "5"
-          },
-          {
-            "name": "Don Valley North",
-            "num": "17",
-            "polls": "60",
-            "pollsReceived": "32",
-            "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "5"
-          },
-          {
-            "name": "Willowdale",
-            "num": "18",
-            "polls": "56",
-            "pollsReceived": "19",
-            "totalVoters": "84671",
-            "votesCounted": "15031",
-            "votesReceived": "6"
-          },
-          {
-            "name": "Beaches-East York",
-            "num": "19",
-            "polls": "53",
-            "pollsReceived": "17",
-            "totalVoters": "85048",
-            "votesCounted": "22273",
-            "votesReceived": "7"
-          },
-          {
-            "name": "Scarborough Southwest",
-            "num": "20",
-            "polls": "61",
-            "pollsReceived": "44",
-            "totalVoters": "82427",
-            "votesCounted": "27654",
-            "votesReceived": "9"
-          },
-          {
-            "name": "Scarborough Centre",
-            "num": "21",
-            "polls": "49",
-            "pollsReceived": "47",
-            "totalVoters": "80557",
-            "votesCounted": "31062",
-            "votesReceived": "12"
-          },
-          {
-            "name": "Scarborough-Agincourt",
-            "num": "22",
-            "polls": "47",
-            "pollsReceived": "47",
-            "totalVoters": "75224",
-            "votesCounted": "29394",
-            "votesReceived": "20"
-          },
-          {
-            "name": "Scarborough North",
-            "num": "23",
-            "polls": "37",
-            "pollsReceived": "35",
-            "totalVoters": "66760",
-            "votesCounted": "25637",
-            "votesReceived": "21"
-          },
-          {
-            "name": "Scarborough-Guildwood",
-            "num": "24",
-            "polls": "48",
-            "pollsReceived": "47",
-            "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "14"
-          },
-          {
-            "name": "Scarborough-Rouge Park",
-            "num": "25",
-            "polls": "40",
-            "pollsReceived": "38",
-            "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "15"
-          }
-        ]
-      },
-      {
         "name": "Faizan Haider",
-        "votesReceived": "326",
+        "votesReceived": "344",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7887,18 +7656,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "5"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "3"
           },
           {
@@ -7950,9 +7719,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "6"
           },
           {
@@ -7968,18 +7737,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "3"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "14"
           },
           {
@@ -8004,19 +7773,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "15"
+            "votesCounted": "28614",
+            "votesReceived": "28"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "8"
+            "votesCounted": "31610",
+            "votesReceived": "13"
           },
           {
             "name": "Willowdale",
@@ -8093,8 +7862,239 @@
         ]
       },
       {
+        "name": "Alex Cruze",
+        "votesReceived": "341",
+        "ward": [
+          {
+            "name": "Etobicoke North",
+            "num": "1",
+            "polls": "46",
+            "pollsReceived": "44",
+            "totalVoters": "78411",
+            "votesCounted": "27577",
+            "votesReceived": "38"
+          },
+          {
+            "name": "Etobicoke Centre",
+            "num": "2",
+            "polls": "67",
+            "pollsReceived": "66",
+            "totalVoters": "97554",
+            "votesCounted": "45351",
+            "votesReceived": "12"
+          },
+          {
+            "name": "Etobicoke-Lakeshore",
+            "num": "3",
+            "polls": "82",
+            "pollsReceived": "79",
+            "totalVoters": "116485",
+            "votesCounted": "52932",
+            "votesReceived": "13"
+          },
+          {
+            "name": "Parkdale-High Park",
+            "num": "4",
+            "polls": "67",
+            "pollsReceived": "66",
+            "totalVoters": "88529",
+            "votesCounted": "49469",
+            "votesReceived": "17"
+          },
+          {
+            "name": "York South-Weston",
+            "num": "5",
+            "polls": "62",
+            "pollsReceived": "59",
+            "totalVoters": "83515",
+            "votesCounted": "32652",
+            "votesReceived": "25"
+          },
+          {
+            "name": "York Centre",
+            "num": "6",
+            "polls": "50",
+            "pollsReceived": "49",
+            "totalVoters": "79015",
+            "votesCounted": "34555",
+            "votesReceived": "10"
+          },
+          {
+            "name": "Humber River-Black Creek",
+            "num": "7",
+            "polls": "45",
+            "pollsReceived": "45",
+            "totalVoters": "73832",
+            "votesCounted": "24519",
+            "votesReceived": "16"
+          },
+          {
+            "name": "Eglinton-Lawrence",
+            "num": "8",
+            "polls": "61",
+            "pollsReceived": "60",
+            "totalVoters": "89581",
+            "votesCounted": "48332",
+            "votesReceived": "13"
+          },
+          {
+            "name": "Davenport",
+            "num": "9",
+            "polls": "53",
+            "pollsReceived": "52",
+            "totalVoters": "84706",
+            "votesCounted": "43317",
+            "votesReceived": "15"
+          },
+          {
+            "name": "Spadina-Fort York",
+            "num": "10",
+            "polls": "80",
+            "pollsReceived": "79",
+            "totalVoters": "123597",
+            "votesCounted": "50983",
+            "votesReceived": "7"
+          },
+          {
+            "name": "University-Rosedale",
+            "num": "11",
+            "polls": "72",
+            "pollsReceived": "71",
+            "totalVoters": "90868",
+            "votesCounted": "45429",
+            "votesReceived": "6"
+          },
+          {
+            "name": "Toronto-St. Paul's",
+            "num": "12",
+            "polls": "58",
+            "pollsReceived": "58",
+            "totalVoters": "95032",
+            "votesCounted": "52118",
+            "votesReceived": "10"
+          },
+          {
+            "name": "Toronto Centre",
+            "num": "13",
+            "polls": "78",
+            "pollsReceived": "77",
+            "totalVoters": "101769",
+            "votesCounted": "44715",
+            "votesReceived": "24"
+          },
+          {
+            "name": "Toronto-Danforth",
+            "num": "14",
+            "polls": "48",
+            "pollsReceived": "45",
+            "totalVoters": "85786",
+            "votesCounted": "44695",
+            "votesReceived": "10"
+          },
+          {
+            "name": "Don Valley West",
+            "num": "15",
+            "polls": "49",
+            "pollsReceived": "49",
+            "totalVoters": "76936",
+            "votesCounted": "38242",
+            "votesReceived": "3"
+          },
+          {
+            "name": "Don Valley East",
+            "num": "16",
+            "polls": "62",
+            "pollsReceived": "60",
+            "totalVoters": "70080",
+            "votesCounted": "28614",
+            "votesReceived": "9"
+          },
+          {
+            "name": "Don Valley North",
+            "num": "17",
+            "polls": "60",
+            "pollsReceived": "56",
+            "totalVoters": "81623",
+            "votesCounted": "31610",
+            "votesReceived": "9"
+          },
+          {
+            "name": "Willowdale",
+            "num": "18",
+            "polls": "56",
+            "pollsReceived": "19",
+            "totalVoters": "84671",
+            "votesCounted": "15031",
+            "votesReceived": "6"
+          },
+          {
+            "name": "Beaches-East York",
+            "num": "19",
+            "polls": "53",
+            "pollsReceived": "17",
+            "totalVoters": "85048",
+            "votesCounted": "22273",
+            "votesReceived": "7"
+          },
+          {
+            "name": "Scarborough Southwest",
+            "num": "20",
+            "polls": "61",
+            "pollsReceived": "44",
+            "totalVoters": "82427",
+            "votesCounted": "27654",
+            "votesReceived": "9"
+          },
+          {
+            "name": "Scarborough Centre",
+            "num": "21",
+            "polls": "49",
+            "pollsReceived": "47",
+            "totalVoters": "80557",
+            "votesCounted": "31062",
+            "votesReceived": "12"
+          },
+          {
+            "name": "Scarborough-Agincourt",
+            "num": "22",
+            "polls": "47",
+            "pollsReceived": "47",
+            "totalVoters": "75224",
+            "votesCounted": "29394",
+            "votesReceived": "20"
+          },
+          {
+            "name": "Scarborough North",
+            "num": "23",
+            "polls": "37",
+            "pollsReceived": "35",
+            "totalVoters": "66760",
+            "votesCounted": "25637",
+            "votesReceived": "21"
+          },
+          {
+            "name": "Scarborough-Guildwood",
+            "num": "24",
+            "polls": "48",
+            "pollsReceived": "47",
+            "totalVoters": "72345",
+            "votesCounted": "28415",
+            "votesReceived": "14"
+          },
+          {
+            "name": "Scarborough-Rouge Park",
+            "num": "25",
+            "polls": "40",
+            "pollsReceived": "38",
+            "totalVoters": "79420",
+            "votesCounted": "34158",
+            "votesReceived": "15"
+          }
+        ]
+      },
+      {
         "name": "Kuo Yu Tong",
-        "votesReceived": "325",
+        "votesReceived": "339",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8118,18 +8118,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "9"
+            "votesCounted": "52932",
+            "votesReceived": "10"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "16"
           },
           {
@@ -8181,10 +8181,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "8"
+            "votesCounted": "50983",
+            "votesReceived": "9"
           },
           {
             "name": "University-Rosedale",
@@ -8199,18 +8199,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "12"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "15"
           },
           {
@@ -8235,19 +8235,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "10"
+            "votesCounted": "28614",
+            "votesReceived": "14"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "15"
+            "votesCounted": "31610",
+            "votesReceived": "23"
           },
           {
             "name": "Willowdale",
@@ -8325,7 +8325,7 @@
       },
       {
         "name": "Francis Mercieca",
-        "votesReceived": "324",
+        "votesReceived": "333",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8349,19 +8349,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "10"
+            "votesCounted": "52932",
+            "votesReceived": "12"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "16"
+            "votesCounted": "49469",
+            "votesReceived": "18"
           },
           {
             "name": "York South-Weston",
@@ -8412,9 +8412,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "6"
           },
           {
@@ -8430,18 +8430,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "3"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "9"
           },
           {
@@ -8466,19 +8466,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "7"
+            "votesCounted": "28614",
+            "votesReceived": "10"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "7"
+            "votesCounted": "31610",
+            "votesReceived": "9"
           },
           {
             "name": "Willowdale",
@@ -8555,239 +8555,8 @@
         ]
       },
       {
-        "name": "Faisal Razi",
-        "votesReceived": "308",
-        "ward": [
-          {
-            "name": "Etobicoke North",
-            "num": "1",
-            "polls": "46",
-            "pollsReceived": "44",
-            "totalVoters": "78411",
-            "votesCounted": "27577",
-            "votesReceived": "33"
-          },
-          {
-            "name": "Etobicoke Centre",
-            "num": "2",
-            "polls": "67",
-            "pollsReceived": "66",
-            "totalVoters": "97554",
-            "votesCounted": "45351",
-            "votesReceived": "11"
-          },
-          {
-            "name": "Etobicoke-Lakeshore",
-            "num": "3",
-            "polls": "82",
-            "pollsReceived": "76",
-            "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "12"
-          },
-          {
-            "name": "Parkdale-High Park",
-            "num": "4",
-            "polls": "67",
-            "pollsReceived": "65",
-            "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "5"
-          },
-          {
-            "name": "York South-Weston",
-            "num": "5",
-            "polls": "62",
-            "pollsReceived": "59",
-            "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "23"
-          },
-          {
-            "name": "York Centre",
-            "num": "6",
-            "polls": "50",
-            "pollsReceived": "49",
-            "totalVoters": "79015",
-            "votesCounted": "34555",
-            "votesReceived": "12"
-          },
-          {
-            "name": "Humber River-Black Creek",
-            "num": "7",
-            "polls": "45",
-            "pollsReceived": "45",
-            "totalVoters": "73832",
-            "votesCounted": "24519",
-            "votesReceived": "14"
-          },
-          {
-            "name": "Eglinton-Lawrence",
-            "num": "8",
-            "polls": "61",
-            "pollsReceived": "60",
-            "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "12"
-          },
-          {
-            "name": "Davenport",
-            "num": "9",
-            "polls": "53",
-            "pollsReceived": "52",
-            "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "8"
-          },
-          {
-            "name": "Spadina-Fort York",
-            "num": "10",
-            "polls": "80",
-            "pollsReceived": "78",
-            "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "8"
-          },
-          {
-            "name": "University-Rosedale",
-            "num": "11",
-            "polls": "72",
-            "pollsReceived": "71",
-            "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "1"
-          },
-          {
-            "name": "Toronto-St. Paul's",
-            "num": "12",
-            "polls": "58",
-            "pollsReceived": "57",
-            "totalVoters": "95032",
-            "votesCounted": "51896",
-            "votesReceived": "6"
-          },
-          {
-            "name": "Toronto Centre",
-            "num": "13",
-            "polls": "78",
-            "pollsReceived": "75",
-            "totalVoters": "101769",
-            "votesCounted": "44519",
-            "votesReceived": "9"
-          },
-          {
-            "name": "Toronto-Danforth",
-            "num": "14",
-            "polls": "48",
-            "pollsReceived": "45",
-            "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "7"
-          },
-          {
-            "name": "Don Valley West",
-            "num": "15",
-            "polls": "49",
-            "pollsReceived": "49",
-            "totalVoters": "76936",
-            "votesCounted": "38242",
-            "votesReceived": "14"
-          },
-          {
-            "name": "Don Valley East",
-            "num": "16",
-            "polls": "62",
-            "pollsReceived": "36",
-            "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "8"
-          },
-          {
-            "name": "Don Valley North",
-            "num": "17",
-            "polls": "60",
-            "pollsReceived": "32",
-            "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "3"
-          },
-          {
-            "name": "Willowdale",
-            "num": "18",
-            "polls": "56",
-            "pollsReceived": "19",
-            "totalVoters": "84671",
-            "votesCounted": "15031",
-            "votesReceived": "3"
-          },
-          {
-            "name": "Beaches-East York",
-            "num": "19",
-            "polls": "53",
-            "pollsReceived": "17",
-            "totalVoters": "85048",
-            "votesCounted": "22273",
-            "votesReceived": "4"
-          },
-          {
-            "name": "Scarborough Southwest",
-            "num": "20",
-            "polls": "61",
-            "pollsReceived": "44",
-            "totalVoters": "82427",
-            "votesCounted": "27654",
-            "votesReceived": "19"
-          },
-          {
-            "name": "Scarborough Centre",
-            "num": "21",
-            "polls": "49",
-            "pollsReceived": "47",
-            "totalVoters": "80557",
-            "votesCounted": "31062",
-            "votesReceived": "17"
-          },
-          {
-            "name": "Scarborough-Agincourt",
-            "num": "22",
-            "polls": "47",
-            "pollsReceived": "47",
-            "totalVoters": "75224",
-            "votesCounted": "29394",
-            "votesReceived": "14"
-          },
-          {
-            "name": "Scarborough North",
-            "num": "23",
-            "polls": "37",
-            "pollsReceived": "35",
-            "totalVoters": "66760",
-            "votesCounted": "25637",
-            "votesReceived": "19"
-          },
-          {
-            "name": "Scarborough-Guildwood",
-            "num": "24",
-            "polls": "48",
-            "pollsReceived": "47",
-            "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "21"
-          },
-          {
-            "name": "Scarborough-Rouge Park",
-            "num": "25",
-            "polls": "40",
-            "pollsReceived": "38",
-            "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "25"
-          }
-        ]
-      },
-      {
         "name": "Weizhen Tang",
-        "votesReceived": "303",
+        "votesReceived": "325",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8811,18 +8580,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "14"
+            "votesCounted": "52932",
+            "votesReceived": "15"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "10"
           },
           {
@@ -8874,10 +8643,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "11"
+            "votesCounted": "50983",
+            "votesReceived": "13"
           },
           {
             "name": "University-Rosedale",
@@ -8892,18 +8661,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "10"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "11"
           },
           {
@@ -8928,19 +8697,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "7"
+            "votesCounted": "28614",
+            "votesReceived": "13"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "17"
+            "votesCounted": "31610",
+            "votesReceived": "30"
           },
           {
             "name": "Willowdale",
@@ -9018,7 +8787,7 @@
       },
       {
         "name": "Thomas Hall",
-        "votesReceived": "301",
+        "votesReceived": "317",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9042,18 +8811,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "15"
+            "votesCounted": "52932",
+            "votesReceived": "17"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "18"
           },
           {
@@ -9105,9 +8874,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "9"
           },
           {
@@ -9123,18 +8892,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "8"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "11"
           },
           {
@@ -9159,19 +8928,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "7"
+            "votesCounted": "28614",
+            "votesReceived": "13"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "3"
+            "votesCounted": "31610",
+            "votesReceived": "11"
           },
           {
             "name": "Willowdale",
@@ -9248,8 +9017,239 @@
         ]
       },
       {
+        "name": "Faisal Razi",
+        "votesReceived": "317",
+        "ward": [
+          {
+            "name": "Etobicoke North",
+            "num": "1",
+            "polls": "46",
+            "pollsReceived": "44",
+            "totalVoters": "78411",
+            "votesCounted": "27577",
+            "votesReceived": "33"
+          },
+          {
+            "name": "Etobicoke Centre",
+            "num": "2",
+            "polls": "67",
+            "pollsReceived": "66",
+            "totalVoters": "97554",
+            "votesCounted": "45351",
+            "votesReceived": "11"
+          },
+          {
+            "name": "Etobicoke-Lakeshore",
+            "num": "3",
+            "polls": "82",
+            "pollsReceived": "79",
+            "totalVoters": "116485",
+            "votesCounted": "52932",
+            "votesReceived": "12"
+          },
+          {
+            "name": "Parkdale-High Park",
+            "num": "4",
+            "polls": "67",
+            "pollsReceived": "66",
+            "totalVoters": "88529",
+            "votesCounted": "49469",
+            "votesReceived": "5"
+          },
+          {
+            "name": "York South-Weston",
+            "num": "5",
+            "polls": "62",
+            "pollsReceived": "59",
+            "totalVoters": "83515",
+            "votesCounted": "32652",
+            "votesReceived": "23"
+          },
+          {
+            "name": "York Centre",
+            "num": "6",
+            "polls": "50",
+            "pollsReceived": "49",
+            "totalVoters": "79015",
+            "votesCounted": "34555",
+            "votesReceived": "12"
+          },
+          {
+            "name": "Humber River-Black Creek",
+            "num": "7",
+            "polls": "45",
+            "pollsReceived": "45",
+            "totalVoters": "73832",
+            "votesCounted": "24519",
+            "votesReceived": "14"
+          },
+          {
+            "name": "Eglinton-Lawrence",
+            "num": "8",
+            "polls": "61",
+            "pollsReceived": "60",
+            "totalVoters": "89581",
+            "votesCounted": "48332",
+            "votesReceived": "12"
+          },
+          {
+            "name": "Davenport",
+            "num": "9",
+            "polls": "53",
+            "pollsReceived": "52",
+            "totalVoters": "84706",
+            "votesCounted": "43317",
+            "votesReceived": "8"
+          },
+          {
+            "name": "Spadina-Fort York",
+            "num": "10",
+            "polls": "80",
+            "pollsReceived": "79",
+            "totalVoters": "123597",
+            "votesCounted": "50983",
+            "votesReceived": "8"
+          },
+          {
+            "name": "University-Rosedale",
+            "num": "11",
+            "polls": "72",
+            "pollsReceived": "71",
+            "totalVoters": "90868",
+            "votesCounted": "45429",
+            "votesReceived": "1"
+          },
+          {
+            "name": "Toronto-St. Paul's",
+            "num": "12",
+            "polls": "58",
+            "pollsReceived": "58",
+            "totalVoters": "95032",
+            "votesCounted": "52118",
+            "votesReceived": "6"
+          },
+          {
+            "name": "Toronto Centre",
+            "num": "13",
+            "polls": "78",
+            "pollsReceived": "77",
+            "totalVoters": "101769",
+            "votesCounted": "44715",
+            "votesReceived": "9"
+          },
+          {
+            "name": "Toronto-Danforth",
+            "num": "14",
+            "polls": "48",
+            "pollsReceived": "45",
+            "totalVoters": "85786",
+            "votesCounted": "44695",
+            "votesReceived": "7"
+          },
+          {
+            "name": "Don Valley West",
+            "num": "15",
+            "polls": "49",
+            "pollsReceived": "49",
+            "totalVoters": "76936",
+            "votesCounted": "38242",
+            "votesReceived": "14"
+          },
+          {
+            "name": "Don Valley East",
+            "num": "16",
+            "polls": "62",
+            "pollsReceived": "60",
+            "totalVoters": "70080",
+            "votesCounted": "28614",
+            "votesReceived": "13"
+          },
+          {
+            "name": "Don Valley North",
+            "num": "17",
+            "polls": "60",
+            "pollsReceived": "56",
+            "totalVoters": "81623",
+            "votesCounted": "31610",
+            "votesReceived": "7"
+          },
+          {
+            "name": "Willowdale",
+            "num": "18",
+            "polls": "56",
+            "pollsReceived": "19",
+            "totalVoters": "84671",
+            "votesCounted": "15031",
+            "votesReceived": "3"
+          },
+          {
+            "name": "Beaches-East York",
+            "num": "19",
+            "polls": "53",
+            "pollsReceived": "17",
+            "totalVoters": "85048",
+            "votesCounted": "22273",
+            "votesReceived": "4"
+          },
+          {
+            "name": "Scarborough Southwest",
+            "num": "20",
+            "polls": "61",
+            "pollsReceived": "44",
+            "totalVoters": "82427",
+            "votesCounted": "27654",
+            "votesReceived": "19"
+          },
+          {
+            "name": "Scarborough Centre",
+            "num": "21",
+            "polls": "49",
+            "pollsReceived": "47",
+            "totalVoters": "80557",
+            "votesCounted": "31062",
+            "votesReceived": "17"
+          },
+          {
+            "name": "Scarborough-Agincourt",
+            "num": "22",
+            "polls": "47",
+            "pollsReceived": "47",
+            "totalVoters": "75224",
+            "votesCounted": "29394",
+            "votesReceived": "14"
+          },
+          {
+            "name": "Scarborough North",
+            "num": "23",
+            "polls": "37",
+            "pollsReceived": "35",
+            "totalVoters": "66760",
+            "votesCounted": "25637",
+            "votesReceived": "19"
+          },
+          {
+            "name": "Scarborough-Guildwood",
+            "num": "24",
+            "polls": "48",
+            "pollsReceived": "47",
+            "totalVoters": "72345",
+            "votesCounted": "28415",
+            "votesReceived": "21"
+          },
+          {
+            "name": "Scarborough-Rouge Park",
+            "num": "25",
+            "polls": "40",
+            "pollsReceived": "38",
+            "totalVoters": "79420",
+            "votesCounted": "34158",
+            "votesReceived": "25"
+          }
+        ]
+      },
+      {
         "name": "Jack Hartley",
-        "votesReceived": "297",
+        "votesReceived": "301",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9273,18 +9273,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "21"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "12"
           },
           {
@@ -9336,9 +9336,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "13"
           },
           {
@@ -9354,18 +9354,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "3"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "16"
           },
           {
@@ -9390,19 +9390,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "9"
+            "votesCounted": "28614",
+            "votesReceived": "11"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "5"
+            "votesCounted": "31610",
+            "votesReceived": "7"
           },
           {
             "name": "Willowdale",
@@ -9480,7 +9480,7 @@
       },
       {
         "name": "Joseph Osuji",
-        "votesReceived": "296",
+        "votesReceived": "301",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9504,18 +9504,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "11"
+            "votesCounted": "52932",
+            "votesReceived": "12"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "14"
           },
           {
@@ -9567,9 +9567,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "3"
           },
           {
@@ -9585,18 +9585,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "9"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "14"
           },
           {
@@ -9621,19 +9621,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "9"
+            "votesCounted": "28614",
+            "votesReceived": "11"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "4"
+            "votesCounted": "31610",
+            "votesReceived": "6"
           },
           {
             "name": "Willowdale",
@@ -9711,7 +9711,7 @@
       },
       {
         "name": "Gus Prokos",
-        "votesReceived": "288",
+        "votesReceived": "297",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9735,18 +9735,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "9"
+            "votesCounted": "52932",
+            "votesReceived": "10"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "12"
           },
           {
@@ -9798,10 +9798,10 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "4"
+            "votesCounted": "50983",
+            "votesReceived": "5"
           },
           {
             "name": "University-Rosedale",
@@ -9816,18 +9816,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "29"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "7"
           },
           {
@@ -9852,19 +9852,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "5"
+            "votesCounted": "28614",
+            "votesReceived": "10"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "9"
+            "votesCounted": "31610",
+            "votesReceived": "11"
           },
           {
             "name": "Willowdale",
@@ -9942,7 +9942,7 @@
       },
       {
         "name": "Naomi Sayers",
-        "votesReceived": "250",
+        "votesReceived": "258",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9966,19 +9966,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "14"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "14"
+            "votesCounted": "49469",
+            "votesReceived": "15"
           },
           {
             "name": "York South-Weston",
@@ -10029,9 +10029,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "8"
           },
           {
@@ -10047,18 +10047,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "11"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "10"
           },
           {
@@ -10083,19 +10083,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "8"
+            "votesCounted": "28614",
+            "votesReceived": "10"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "6"
+            "votesCounted": "31610",
+            "votesReceived": "11"
           },
           {
             "name": "Willowdale",
@@ -10173,7 +10173,7 @@
       },
       {
         "name": "Peter Handjis",
-        "votesReceived": "240",
+        "votesReceived": "254",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10197,18 +10197,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "14"
+            "votesCounted": "52932",
+            "votesReceived": "16"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "14"
           },
           {
@@ -10260,9 +10260,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "3"
           },
           {
@@ -10278,18 +10278,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "9"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "3"
           },
           {
@@ -10314,19 +10314,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "8"
+            "votesCounted": "28614",
+            "votesReceived": "14"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "6"
+            "votesCounted": "31610",
+            "votesReceived": "12"
           },
           {
             "name": "Willowdale",
@@ -10404,7 +10404,7 @@
       },
       {
         "name": "Isidoros Kyrlangitses",
-        "votesReceived": "226",
+        "votesReceived": "240",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10428,19 +10428,19 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "9"
+            "votesCounted": "52932",
+            "votesReceived": "10"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "27"
+            "votesCounted": "49469",
+            "votesReceived": "29"
           },
           {
             "name": "York South-Weston",
@@ -10491,9 +10491,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "1"
           },
           {
@@ -10509,18 +10509,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "6"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "7"
           },
           {
@@ -10545,19 +10545,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "6"
+            "votesCounted": "28614",
+            "votesReceived": "14"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "3"
+            "votesCounted": "31610",
+            "votesReceived": "6"
           },
           {
             "name": "Willowdale",
@@ -10635,7 +10635,7 @@
       },
       {
         "name": "Leila Yohannes",
-        "votesReceived": "193",
+        "votesReceived": "195",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10659,18 +10659,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "3"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "9"
           },
           {
@@ -10722,9 +10722,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "9"
           },
           {
@@ -10740,18 +10740,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "4"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "13"
           },
           {
@@ -10776,18 +10776,18 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "5"
+            "votesCounted": "28614",
+            "votesReceived": "7"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
+            "votesCounted": "31610",
             "votesReceived": "3"
           },
           {
@@ -10866,7 +10866,7 @@
       },
       {
         "name": "Reagan Levermany",
-        "votesReceived": "189",
+        "votesReceived": "193",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10890,18 +10890,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "5"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "7"
           },
           {
@@ -10953,9 +10953,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "4"
           },
           {
@@ -10971,18 +10971,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
-            "votesReceived": "1"
+            "votesCounted": "52118",
+            "votesReceived": "2"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "6"
           },
           {
@@ -11007,19 +11007,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
+            "votesCounted": "28614",
             "votesReceived": "1"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "2"
+            "votesCounted": "31610",
+            "votesReceived": "5"
           },
           {
             "name": "Willowdale",
@@ -11097,7 +11097,7 @@
       },
       {
         "name": "Eddie Mayanja",
-        "votesReceived": "175",
+        "votesReceived": "180",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -11121,18 +11121,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "5"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "4"
           },
           {
@@ -11184,9 +11184,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "6"
           },
           {
@@ -11202,18 +11202,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "1"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "6"
           },
           {
@@ -11238,19 +11238,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "2"
+            "votesCounted": "28614",
+            "votesReceived": "4"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "4"
+            "votesCounted": "31610",
+            "votesReceived": "7"
           },
           {
             "name": "Willowdale",
@@ -11328,7 +11328,7 @@
       },
       {
         "name": "Wincess Dorville",
-        "votesReceived": "163",
+        "votesReceived": "166",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -11352,18 +11352,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "4"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "3"
           },
           {
@@ -11415,9 +11415,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "2"
           },
           {
@@ -11433,18 +11433,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "5"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "11"
           },
           {
@@ -11469,18 +11469,18 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "10"
+            "votesCounted": "28614",
+            "votesReceived": "13"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
+            "votesCounted": "31610",
             "votesReceived": "3"
           },
           {
@@ -11559,7 +11559,7 @@
       },
       {
         "name": "Henoke Yohannes",
-        "votesReceived": "142",
+        "votesReceived": "143",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -11583,18 +11583,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "3"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "6"
           },
           {
@@ -11646,9 +11646,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "2"
           },
           {
@@ -11664,18 +11664,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "4"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "16"
           },
           {
@@ -11700,19 +11700,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
+            "votesCounted": "28614",
             "votesReceived": "2"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "0"
+            "votesCounted": "31610",
+            "votesReceived": "1"
           },
           {
             "name": "Willowdale",
@@ -11790,7 +11790,7 @@
       },
       {
         "name": "Jeffery Tunney",
-        "votesReceived": "120",
+        "votesReceived": "123",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -11814,18 +11814,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
+            "votesCounted": "52932",
             "votesReceived": "5"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "7"
           },
           {
@@ -11877,9 +11877,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "2"
           },
           {
@@ -11895,18 +11895,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "2"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "7"
           },
           {
@@ -11931,19 +11931,19 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
-            "votesReceived": "2"
+            "votesCounted": "28614",
+            "votesReceived": "3"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
-            "votesReceived": "3"
+            "votesCounted": "31610",
+            "votesReceived": "5"
           },
           {
             "name": "Willowdale",
@@ -12021,7 +12021,7 @@
       },
       {
         "name": "Jack Weenen",
-        "votesReceived": "64",
+        "votesReceived": "65",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -12045,18 +12045,18 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "76",
+            "pollsReceived": "79",
             "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "3"
+            "votesCounted": "52932",
+            "votesReceived": "4"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "65",
+            "pollsReceived": "66",
             "totalVoters": "88529",
-            "votesCounted": "48597",
+            "votesCounted": "49469",
             "votesReceived": "1"
           },
           {
@@ -12108,9 +12108,9 @@
             "name": "Spadina-Fort York",
             "num": "10",
             "polls": "80",
-            "pollsReceived": "78",
+            "pollsReceived": "79",
             "totalVoters": "123597",
-            "votesCounted": "48857",
+            "votesCounted": "50983",
             "votesReceived": "1"
           },
           {
@@ -12126,18 +12126,18 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "57",
+            "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "51896",
+            "votesCounted": "52118",
             "votesReceived": "2"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "75",
+            "pollsReceived": "77",
             "totalVoters": "101769",
-            "votesCounted": "44519",
+            "votesCounted": "44715",
             "votesReceived": "7"
           },
           {
@@ -12162,18 +12162,18 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "36",
+            "pollsReceived": "60",
             "totalVoters": "70080",
-            "votesCounted": "20244",
+            "votesCounted": "28614",
             "votesReceived": "1"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "32",
+            "pollsReceived": "56",
             "totalVoters": "81623",
-            "votesCounted": "19133",
+            "votesCounted": "31610",
             "votesReceived": "2"
           },
           {
@@ -12252,5 +12252,5 @@
       }
     ]
   },
-  "seq": "1793066346099"
+  "seq": "1793066435898"
 }
