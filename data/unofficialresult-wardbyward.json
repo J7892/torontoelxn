@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "1425",
+    "pollsReceived": "1426",
     "totalVoters": "2143771",
-    "votesReceived": "978975",
+    "votesReceived": "979079",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "530392",
+        "votesReceived": "530460",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -177,10 +177,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
-            "votesReceived": "30730"
+            "votesCounted": "47059",
+            "votesReceived": "30798"
           },
           {
             "name": "Scarborough Southwest",
@@ -240,7 +240,7 @@
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "402329",
+        "votesReceived": "402358",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -408,10 +408,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
-            "votesReceived": "14548"
+            "votesCounted": "47059",
+            "votesReceived": "14577"
           },
           {
             "name": "Scarborough Southwest",
@@ -471,7 +471,7 @@
       },
       {
         "name": "Braeden Chow",
-        "votesReceived": "8062",
+        "votesReceived": "8064",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -639,10 +639,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
-            "votesReceived": "385"
+            "votesCounted": "47059",
+            "votesReceived": "387"
           },
           {
             "name": "Scarborough Southwest",
@@ -702,7 +702,7 @@
       },
       {
         "name": "Chris Alexander",
-        "votesReceived": "3537",
+        "votesReceived": "3538",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -870,10 +870,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
-            "votesReceived": "125"
+            "votesCounted": "47059",
+            "votesReceived": "126"
           },
           {
             "name": "Scarborough Southwest",
@@ -1101,9 +1101,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "107"
           },
           {
@@ -1164,7 +1164,7 @@
       },
       {
         "name": "Laura Dean",
-        "votesReceived": "2213",
+        "votesReceived": "2214",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1332,10 +1332,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
-            "votesReceived": "118"
+            "votesCounted": "47059",
+            "votesReceived": "119"
           },
           {
             "name": "Scarborough Southwest",
@@ -1563,9 +1563,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "66"
           },
           {
@@ -1794,9 +1794,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "40"
           },
           {
@@ -2025,9 +2025,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "42"
           },
           {
@@ -2256,9 +2256,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "24"
           },
           {
@@ -2319,7 +2319,7 @@
       },
       {
         "name": "Logan Choy",
-        "votesReceived": "1273",
+        "votesReceived": "1274",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2487,10 +2487,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
-            "votesReceived": "62"
+            "votesCounted": "47059",
+            "votesReceived": "63"
           },
           {
             "name": "Scarborough Southwest",
@@ -2718,9 +2718,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "15"
           },
           {
@@ -2949,9 +2949,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "57"
           },
           {
@@ -3180,9 +3180,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "45"
           },
           {
@@ -3411,9 +3411,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "26"
           },
           {
@@ -3642,9 +3642,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "58"
           },
           {
@@ -3873,9 +3873,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "35"
           },
           {
@@ -4104,9 +4104,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "35"
           },
           {
@@ -4335,9 +4335,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "17"
           },
           {
@@ -4566,9 +4566,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "45"
           },
           {
@@ -4629,7 +4629,7 @@
       },
       {
         "name": "Mohamad Kaaki",
-        "votesReceived": "724",
+        "votesReceived": "725",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4797,10 +4797,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
-            "votesReceived": "19"
+            "votesCounted": "47059",
+            "votesReceived": "20"
           },
           {
             "name": "Scarborough Southwest",
@@ -5028,9 +5028,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "18"
           },
           {
@@ -5259,9 +5259,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "16"
           },
           {
@@ -5490,9 +5490,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "29"
           },
           {
@@ -5721,9 +5721,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "19"
           },
           {
@@ -5952,9 +5952,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "20"
           },
           {
@@ -6183,9 +6183,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "25"
           },
           {
@@ -6414,9 +6414,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "11"
           },
           {
@@ -6645,9 +6645,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "16"
           },
           {
@@ -6708,7 +6708,7 @@
       },
       {
         "name": "Alton Frederick",
-        "votesReceived": "431",
+        "votesReceived": "432",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6876,10 +6876,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
-            "votesReceived": "13"
+            "votesCounted": "47059",
+            "votesReceived": "14"
           },
           {
             "name": "Scarborough Southwest",
@@ -7107,9 +7107,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "15"
           },
           {
@@ -7338,9 +7338,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "5"
           },
           {
@@ -7569,9 +7569,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "8"
           },
           {
@@ -7800,9 +7800,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "13"
           },
           {
@@ -8031,9 +8031,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "5"
           },
           {
@@ -8262,9 +8262,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "6"
           },
           {
@@ -8493,9 +8493,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "4"
           },
           {
@@ -8724,9 +8724,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "3"
           },
           {
@@ -8955,9 +8955,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "14"
           },
           {
@@ -9186,9 +9186,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "7"
           },
           {
@@ -9417,9 +9417,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "26"
           },
           {
@@ -9648,9 +9648,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "13"
           },
           {
@@ -9879,9 +9879,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "6"
           },
           {
@@ -10110,9 +10110,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "9"
           },
           {
@@ -10341,9 +10341,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "6"
           },
           {
@@ -10572,9 +10572,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "6"
           },
           {
@@ -10803,9 +10803,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "8"
           },
           {
@@ -11034,9 +11034,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "3"
           },
           {
@@ -11265,9 +11265,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "5"
           },
           {
@@ -11496,9 +11496,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "2"
           },
           {
@@ -11727,9 +11727,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "14"
           },
           {
@@ -11958,9 +11958,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "7"
           },
           {
@@ -12189,9 +12189,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "85048",
-            "votesCounted": "46955",
+            "votesCounted": "47059",
             "votesReceived": "4"
           },
           {
@@ -12252,5 +12252,5 @@
       }
     ]
   },
-  "seq": "1793073245956"
+  "seq": "1793073335880"
 }
