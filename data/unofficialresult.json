@@ -9,93 +9,93 @@
           "name": "City-wide",
           "num": "0",
           "polls": "1431",
-          "pollsReceived": "67",
+          "pollsReceived": "78",
           "totalVoters": "2143771",
-          "votesReceived": "77482",
+          "votesReceived": "82314",
           "candidate": [
             {
               "name": "Brad Bradford",
-              "votesReceived": "41531",
-              "percentage": "53.60"
+              "votesReceived": "43734",
+              "percentage": "53.13"
             },
             {
               "name": "Olivia Chow",
-              "votesReceived": "32119",
-              "percentage": "41.45"
+              "votesReceived": "34452",
+              "percentage": "41.85"
             },
             {
               "name": "Braeden Chow",
-              "votesReceived": "564",
-              "percentage": "0.73"
+              "votesReceived": "629",
+              "percentage": "0.76"
             },
             {
               "name": "Chris Alexander",
-              "votesReceived": "416",
-              "percentage": "0.54"
+              "votesReceived": "438",
+              "percentage": "0.53"
             },
             {
               "name": "Edward Gong",
-              "votesReceived": "314",
+              "votesReceived": "337",
               "percentage": "0.41"
             },
             {
               "name": "Darrell Brown",
-              "votesReceived": "155",
+              "votesReceived": "166",
               "percentage": "0.20"
             },
             {
               "name": "Laura Dean",
-              "votesReceived": "155",
+              "votesReceived": "163",
               "percentage": "0.20"
             },
             {
               "name": "Imad Abdulkadir",
-              "votesReceived": "138",
+              "votesReceived": "151",
               "percentage": "0.18"
             },
             {
               "name": "Rick Lee",
-              "votesReceived": "138",
-              "percentage": "0.18"
+              "votesReceived": "140",
+              "percentage": "0.17"
+            },
+            {
+              "name": "Bahira Abdulsalam",
+              "votesReceived": "108",
+              "percentage": "0.13"
             },
             {
               "name": "Logan Choy",
-              "votesReceived": "99",
-              "percentage": "0.13"
-            },
-            {
-              "name": "Roberto Curto",
-              "votesReceived": "99",
-              "percentage": "0.13"
-            },
-            {
-              "name": "Paul Collins",
-              "votesReceived": "98",
+              "votesReceived": "107",
               "percentage": "0.13"
             },
             {
               "name": "Kevin Clarke",
-              "votesReceived": "96",
-              "percentage": "0.12"
+              "votesReceived": "105",
+              "percentage": "0.13"
             },
             {
-              "name": "Bahira Abdulsalam",
-              "votesReceived": "95",
+              "name": "Roberto Curto",
+              "votesReceived": "105",
+              "percentage": "0.13"
+            },
+            {
+              "name": "Paul Collins",
+              "votesReceived": "103",
+              "percentage": "0.13"
+            },
+            {
+              "name": "Sandeep Srivastava",
+              "votesReceived": "97",
               "percentage": "0.12"
             },
             {
               "name": "Jamie Atkinson",
-              "votesReceived": "84",
+              "votesReceived": "87",
               "percentage": "0.11"
             },
             {
               "name": "Sarah McVie",
-              "votesReceived": "84",
-              "percentage": "0.11"
-            },
-            {
-              "name": "Sandeep Srivastava",
-              "votesReceived": "82",
+              "votesReceived": "87",
               "percentage": "0.11"
             },
             {
@@ -105,72 +105,82 @@
             },
             {
               "name": "Georgios Kalkounis",
-              "votesReceived": "70",
+              "votesReceived": "76",
               "percentage": "0.09"
             },
             {
               "name": "Amy Rosen",
-              "votesReceived": "69",
-              "percentage": "0.09"
-            },
-            {
-              "name": "Mohamad Kaaki",
-              "votesReceived": "66",
+              "votesReceived": "74",
               "percentage": "0.09"
             },
             {
               "name": "Lyall Sanders",
-              "votesReceived": "66",
+              "votesReceived": "73",
               "percentage": "0.09"
             },
             {
-              "name": "Laura Ellis",
-              "votesReceived": "52",
+              "name": "Mohamad Kaaki",
+              "votesReceived": "71",
+              "percentage": "0.09"
+            },
+            {
+              "name": "Joshua Thompson",
+              "votesReceived": "59",
               "percentage": "0.07"
             },
             {
               "name": "Michael Lamoureux",
-              "votesReceived": "52",
+              "votesReceived": "56",
               "percentage": "0.07"
             },
             {
               "name": "Robert Shusterman",
-              "votesReceived": "51",
+              "votesReceived": "55",
               "percentage": "0.07"
             },
             {
-              "name": "Joshua Thompson",
-              "votesReceived": "51",
-              "percentage": "0.07"
+              "name": "Laura Ellis",
+              "votesReceived": "53",
+              "percentage": "0.06"
             },
             {
               "name": "Brian Buffey",
-              "votesReceived": "50",
+              "votesReceived": "52",
               "percentage": "0.06"
             },
             {
               "name": "Heather He",
-              "votesReceived": "46",
+              "votesReceived": "47",
               "percentage": "0.06"
             },
             {
               "name": "Martin Fraser",
               "votesReceived": "43",
-              "percentage": "0.06"
-            },
-            {
-              "name": "Alton Frederick",
-              "votesReceived": "35",
               "percentage": "0.05"
             },
             {
+              "name": "Alton Frederick",
+              "votesReceived": "36",
+              "percentage": "0.04"
+            },
+            {
               "name": "Alex Cruze",
-              "votesReceived": "33",
+              "votesReceived": "35",
               "percentage": "0.04"
             },
             {
               "name": "Jack Hartley",
+              "votesReceived": "33",
+              "percentage": "0.04"
+            },
+            {
+              "name": "Joseph Osuji",
               "votesReceived": "32",
+              "percentage": "0.04"
+            },
+            {
+              "name": "Faisal Razi",
+              "votesReceived": "31",
               "percentage": "0.04"
             },
             {
@@ -179,103 +189,93 @@
               "percentage": "0.04"
             },
             {
-              "name": "Joseph Osuji",
+              "name": "Francis Mercieca",
               "votesReceived": "30",
               "percentage": "0.04"
             },
             {
-              "name": "Francis Mercieca",
-              "votesReceived": "27",
-              "percentage": "0.03"
-            },
-            {
               "name": "Weizhen Tang",
-              "votesReceived": "27",
-              "percentage": "0.03"
+              "votesReceived": "30",
+              "percentage": "0.04"
             },
             {
               "name": "Faizan Haider",
-              "votesReceived": "26",
-              "percentage": "0.03"
-            },
-            {
-              "name": "Faisal Razi",
-              "votesReceived": "26",
+              "votesReceived": "28",
               "percentage": "0.03"
             },
             {
               "name": "Kuo Yu Tong",
-              "votesReceived": "26",
+              "votesReceived": "28",
               "percentage": "0.03"
             },
             {
               "name": "Odessa Paloma Parker",
-              "votesReceived": "24",
-              "percentage": "0.03"
-            },
-            {
-              "name": "Habiba Desai",
-              "votesReceived": "22",
+              "votesReceived": "27",
               "percentage": "0.03"
             },
             {
               "name": "Gus Prokos",
+              "votesReceived": "25",
+              "percentage": "0.03"
+            },
+            {
+              "name": "Habiba Desai",
+              "votesReceived": "24",
+              "percentage": "0.03"
+            },
+            {
+              "name": "Eddie Mayanja",
+              "votesReceived": "22",
+              "percentage": "0.03"
+            },
+            {
+              "name": "Wincess Dorville",
               "votesReceived": "21",
               "percentage": "0.03"
             },
             {
-              "name": "Isidoros Kyrlangitses",
-              "votesReceived": "20",
-              "percentage": "0.03"
-            },
-            {
               "name": "Thomas Hall",
-              "votesReceived": "19",
+              "votesReceived": "20",
               "percentage": "0.02"
             },
             {
-              "name": "Wincess Dorville",
-              "votesReceived": "18",
+              "name": "Isidoros Kyrlangitses",
+              "votesReceived": "20",
               "percentage": "0.02"
             },
             {
               "name": "Reagan Levermany",
-              "votesReceived": "18",
-              "percentage": "0.02"
-            },
-            {
-              "name": "Eddie Mayanja",
-              "votesReceived": "18",
+              "votesReceived": "20",
               "percentage": "0.02"
             },
             {
               "name": "Naomi Sayers",
-              "votesReceived": "16",
+              "votesReceived": "17",
               "percentage": "0.02"
             },
             {
               "name": "Leila Yohannes",
-              "votesReceived": "16",
+              "votesReceived": "17",
               "percentage": "0.02"
             },
             {
               "name": "Peter Handjis",
-              "votesReceived": "15",
+              "votesReceived": "16",
               "percentage": "0.02"
             },
             {
               "name": "Jeffery Tunney",
-              "votesReceived": "12",
+              "votesReceived": "14",
               "percentage": "0.02"
             },
             {
               "name": "Henoke Yohannes",
-              "votesReceived": "6",
+              "votesReceived": "7",
               "percentage": "0.01"
             },
             {
               "name": "Jack Weenen",
-              "votesReceived": "3",
+              "votesReceived": "4",
               "percentage": "0.00"
             }
           ]
@@ -290,59 +290,59 @@
           "name": "Etobicoke North",
           "num": "1",
           "polls": "46",
-          "pollsReceived": "3",
+          "pollsReceived": "4",
           "totalVoters": "78411",
-          "votesReceived": "1019",
+          "votesReceived": "1551",
           "candidate": [
             {
               "name": "Vincent Crisanti",
-              "votesReceived": "416",
-              "percentage": "40.82"
+              "votesReceived": "612",
+              "percentage": "39.46"
             },
             {
               "name": "Chloe Brown",
-              "votesReceived": "129",
-              "percentage": "12.66"
-            },
-            {
-              "name": "Norman Hamilton",
-              "votesReceived": "128",
-              "percentage": "12.56"
-            },
-            {
-              "name": "Ala'a Adib",
-              "votesReceived": "81",
-              "percentage": "7.95"
+              "votesReceived": "191",
+              "percentage": "12.31"
             },
             {
               "name": "Saima Babar",
-              "votesReceived": "73",
-              "percentage": "7.16"
+              "votesReceived": "161",
+              "percentage": "10.38"
+            },
+            {
+              "name": "Norman Hamilton",
+              "votesReceived": "153",
+              "percentage": "9.86"
             },
             {
               "name": "Kristian Santos",
-              "votesReceived": "61",
-              "percentage": "5.99"
+              "votesReceived": "142",
+              "percentage": "9.16"
+            },
+            {
+              "name": "Ala'a Adib",
+              "votesReceived": "111",
+              "percentage": "7.16"
             },
             {
               "name": "Hard Parmar",
-              "votesReceived": "56",
-              "percentage": "5.50"
+              "votesReceived": "81",
+              "percentage": "5.22"
             },
             {
               "name": "Abraham Abbey",
-              "votesReceived": "32",
-              "percentage": "3.14"
+              "votesReceived": "39",
+              "percentage": "2.51"
             },
             {
               "name": "Joseph Martino",
-              "votesReceived": "29",
-              "percentage": "2.85"
+              "votesReceived": "38",
+              "percentage": "2.45"
             },
             {
               "name": "Nathen Masri",
-              "votesReceived": "14",
-              "percentage": "1.37"
+              "votesReceived": "23",
+              "percentage": "1.48"
             }
           ]
         },
@@ -350,24 +350,24 @@
           "name": "Etobicoke Centre",
           "num": "2",
           "polls": "67",
-          "pollsReceived": "4",
+          "pollsReceived": "5",
           "totalVoters": "97554",
-          "votesReceived": "1993",
+          "votesReceived": "2445",
           "candidate": [
             {
               "name": "Stephen Holyday",
-              "votesReceived": "1173",
-              "percentage": "58.86"
+              "votesReceived": "1423",
+              "percentage": "58.20"
             },
             {
               "name": "Katie Andrachuk",
-              "votesReceived": "613",
-              "percentage": "30.76"
+              "votesReceived": "757",
+              "percentage": "30.96"
             },
             {
               "name": "Jennifer Alexander",
-              "votesReceived": "207",
-              "percentage": "10.39"
+              "votesReceived": "265",
+              "percentage": "10.84"
             }
           ]
         },
@@ -545,24 +545,24 @@
           "name": "Humber River-Black Creek",
           "num": "7",
           "polls": "45",
-          "pollsReceived": "6",
+          "pollsReceived": "7",
           "totalVoters": "73832",
-          "votesReceived": "4967",
+          "votesReceived": "5391",
           "candidate": [
             {
               "name": "Anthony Perruzza",
-              "votesReceived": "3352",
-              "percentage": "67.49"
+              "votesReceived": "3680",
+              "percentage": "68.26"
             },
             {
               "name": "Amanda Coombs",
-              "votesReceived": "1247",
-              "percentage": "25.11"
+              "votesReceived": "1321",
+              "percentage": "24.50"
             },
             {
               "name": "Lorna Antwi",
-              "votesReceived": "368",
-              "percentage": "7.41"
+              "votesReceived": "390",
+              "percentage": "7.23"
             }
           ]
         },
@@ -785,64 +785,64 @@
           "name": "Toronto Centre",
           "num": "13",
           "polls": "78",
-          "pollsReceived": "1",
+          "pollsReceived": "3",
           "totalVoters": "101769",
-          "votesReceived": "43",
+          "votesReceived": "801",
           "candidate": [
             {
               "name": "Curran Stikuts",
-              "votesReceived": "20",
-              "percentage": "46.51"
+              "votesReceived": "233",
+              "percentage": "29.09"
             },
             {
               "name": "Chris Moise",
-              "votesReceived": "9",
-              "percentage": "20.93"
-            },
-            {
-              "name": "Walied Khogali Ali",
-              "votesReceived": "4",
-              "percentage": "9.30"
+              "votesReceived": "141",
+              "percentage": "17.60"
             },
             {
               "name": "Daniel Tate",
-              "votesReceived": "3",
-              "percentage": "6.98"
+              "votesReceived": "113",
+              "percentage": "14.11"
             },
             {
-              "name": "Nicki Ward",
-              "votesReceived": "3",
-              "percentage": "6.98"
-            },
-            {
-              "name": "Joe Cadeau",
-              "votesReceived": "1",
-              "percentage": "2.33"
-            },
-            {
-              "name": "Tom Cai",
-              "votesReceived": "1",
-              "percentage": "2.33"
+              "name": "Walied Khogali Ali",
+              "votesReceived": "111",
+              "percentage": "13.86"
             },
             {
               "name": "Victoria Davis",
-              "votesReceived": "1",
-              "percentage": "2.33"
+              "votesReceived": "61",
+              "percentage": "7.62"
             },
             {
-              "name": "Norman MacLeod",
-              "votesReceived": "1",
-              "percentage": "2.33"
+              "name": "Joe Cadeau",
+              "votesReceived": "43",
+              "percentage": "5.37"
+            },
+            {
+              "name": "Nicki Ward",
+              "votesReceived": "31",
+              "percentage": "3.87"
+            },
+            {
+              "name": "Tom Cai",
+              "votesReceived": "19",
+              "percentage": "2.37"
             },
             {
               "name": "Morgan Harris",
-              "votesReceived": "0",
-              "percentage": "0.00"
+              "votesReceived": "19",
+              "percentage": "2.37"
             },
             {
               "name": "Cleveland Marshall",
-              "votesReceived": "0",
-              "percentage": "0.00"
+              "votesReceived": "19",
+              "percentage": "2.37"
+            },
+            {
+              "name": "Norman MacLeod",
+              "votesReceived": "11",
+              "percentage": "1.37"
             }
           ]
         },
@@ -1005,44 +1005,44 @@
           "name": "Don Valley North",
           "num": "17",
           "polls": "60",
-          "pollsReceived": "7",
+          "pollsReceived": "9",
           "totalVoters": "81623",
-          "votesReceived": "8792",
+          "votesReceived": "9455",
           "candidate": [
             {
               "name": "Shelley Carroll",
-              "votesReceived": "5745",
-              "percentage": "65.34"
+              "votesReceived": "6188",
+              "percentage": "65.45"
             },
             {
               "name": "Sabrina Zuniga",
-              "votesReceived": "1108",
-              "percentage": "12.60"
+              "votesReceived": "1168",
+              "percentage": "12.35"
             },
             {
               "name": "Hong Xiao",
-              "votesReceived": "607",
-              "percentage": "6.90"
+              "votesReceived": "646",
+              "percentage": "6.83"
             },
             {
               "name": "Jeffery Adamson",
-              "votesReceived": "590",
-              "percentage": "6.71"
+              "votesReceived": "645",
+              "percentage": "6.82"
             },
             {
               "name": "Hassan Mubarak Noor Mohamed",
-              "votesReceived": "471",
-              "percentage": "5.36"
+              "votesReceived": "519",
+              "percentage": "5.49"
             },
             {
               "name": "Roy Samathanam",
-              "votesReceived": "160",
-              "percentage": "1.82"
+              "votesReceived": "165",
+              "percentage": "1.75"
             },
             {
               "name": "Jethro Adir Kavod",
-              "votesReceived": "111",
-              "percentage": "1.26"
+              "votesReceived": "124",
+              "percentage": "1.31"
             }
           ]
         },
@@ -1165,49 +1165,49 @@
           "name": "Scarborough Southwest",
           "num": "20",
           "polls": "61",
-          "pollsReceived": "1",
+          "pollsReceived": "2",
           "totalVoters": "82427",
-          "votesReceived": "560",
+          "votesReceived": "587",
           "candidate": [
             {
               "name": "Kevin Rupasinghe",
-              "votesReceived": "208",
-              "percentage": "37.14"
+              "votesReceived": "211",
+              "percentage": "35.95"
             },
             {
               "name": "Parthi Kandavel",
-              "votesReceived": "155",
-              "percentage": "27.68"
+              "votesReceived": "163",
+              "percentage": "27.77"
             },
             {
               "name": "Luigi Lisciandro",
-              "votesReceived": "46",
-              "percentage": "8.21"
+              "votesReceived": "47",
+              "percentage": "8.01"
+            },
+            {
+              "name": "Sharmina Nasrin",
+              "votesReceived": "44",
+              "percentage": "7.50"
+            },
+            {
+              "name": "Ariel-Rachel Karokis",
+              "votesReceived": "43",
+              "percentage": "7.33"
             },
             {
               "name": "Mohammad Ali Reza",
               "votesReceived": "43",
-              "percentage": "7.68"
-            },
-            {
-              "name": "Ariel-Rachel Karokis",
-              "votesReceived": "41",
-              "percentage": "7.32"
-            },
-            {
-              "name": "Sharmina Nasrin",
-              "votesReceived": "38",
-              "percentage": "6.79"
+              "percentage": "7.33"
             },
             {
               "name": "Laikul Choudhury",
-              "votesReceived": "22",
-              "percentage": "3.93"
+              "votesReceived": "28",
+              "percentage": "4.77"
             },
             {
               "name": "Naser Kaid",
-              "votesReceived": "7",
-              "percentage": "1.25"
+              "votesReceived": "8",
+              "percentage": "1.36"
             }
           ]
         },
@@ -1215,64 +1215,64 @@
           "name": "Scarborough Centre",
           "num": "21",
           "polls": "49",
-          "pollsReceived": "2",
+          "pollsReceived": "4",
           "totalVoters": "80557",
-          "votesReceived": "1105",
+          "votesReceived": "2270",
           "candidate": [
             {
               "name": "Michael Thompson",
-              "votesReceived": "551",
-              "percentage": "49.86"
+              "votesReceived": "1126",
+              "percentage": "49.60"
             },
             {
               "name": "Krissan Veerasingam",
-              "votesReceived": "173",
-              "percentage": "15.66"
-            },
-            {
-              "name": "Uthish Ganesh",
-              "votesReceived": "101",
-              "percentage": "9.14"
-            },
-            {
-              "name": "Taiba Ahmed",
-              "votesReceived": "63",
-              "percentage": "5.70"
+              "votesReceived": "357",
+              "percentage": "15.73"
             },
             {
               "name": "Stella Kargiannakis",
-              "votesReceived": "56",
-              "percentage": "5.07"
+              "votesReceived": "162",
+              "percentage": "7.14"
+            },
+            {
+              "name": "Uthish Ganesh",
+              "votesReceived": "154",
+              "percentage": "6.78"
+            },
+            {
+              "name": "Taiba Ahmed",
+              "votesReceived": "132",
+              "percentage": "5.81"
             },
             {
               "name": "Akina Lalla",
-              "votesReceived": "46",
-              "percentage": "4.16"
-            },
-            {
-              "name": "Madura Shanmugaratnam",
-              "votesReceived": "36",
-              "percentage": "3.26"
+              "votesReceived": "95",
+              "percentage": "4.19"
             },
             {
               "name": "Bahareh Barahmand",
-              "votesReceived": "35",
-              "percentage": "3.17"
+              "votesReceived": "87",
+              "percentage": "3.83"
             },
             {
               "name": "Willie Reodica",
-              "votesReceived": "24",
-              "percentage": "2.17"
+              "votesReceived": "61",
+              "percentage": "2.69"
+            },
+            {
+              "name": "Madura Shanmugaratnam",
+              "votesReceived": "59",
+              "percentage": "2.60"
             },
             {
               "name": "Nisha Kumari",
-              "votesReceived": "14",
-              "percentage": "1.27"
+              "votesReceived": "28",
+              "percentage": "1.23"
             },
             {
               "name": "Patience Evbagharu",
-              "votesReceived": "6",
-              "percentage": "0.54"
+              "votesReceived": "9",
+              "percentage": "0.40"
             }
           ]
         },
@@ -1390,39 +1390,39 @@
           "name": "Scarborough-Guildwood",
           "num": "24",
           "polls": "48",
-          "pollsReceived": "1",
+          "pollsReceived": "2",
           "totalVoters": "72345",
-          "votesReceived": "487",
+          "votesReceived": "1027",
           "candidate": [
             {
               "name": "Paul Ainslie",
-              "votesReceived": "331",
-              "percentage": "67.97"
+              "votesReceived": "772",
+              "percentage": "75.17"
             },
             {
               "name": "Robert Bazil",
-              "votesReceived": "60",
-              "percentage": "12.32"
+              "votesReceived": "107",
+              "percentage": "10.42"
             },
             {
               "name": "Nachi Ramasamy",
-              "votesReceived": "45",
-              "percentage": "9.24"
+              "votesReceived": "59",
+              "percentage": "5.74"
             },
             {
               "name": "Arun Sivanandan",
-              "votesReceived": "27",
-              "percentage": "5.54"
+              "votesReceived": "46",
+              "percentage": "4.48"
             },
             {
               "name": "An Wu",
-              "votesReceived": "18",
-              "percentage": "3.70"
+              "votesReceived": "31",
+              "percentage": "3.02"
             },
             {
               "name": "Jithender Mulamalla",
-              "votesReceived": "6",
-              "percentage": "1.23"
+              "votesReceived": "12",
+              "percentage": "1.17"
             }
           ]
         },
@@ -1495,63 +1495,63 @@
         {
           "num": "1",
           "polls": "91",
-          "pollsReceived": "9",
+          "pollsReceived": "11",
           "totalVoters": "78411",
-          "votesReceived": "4151",
+          "votesReceived": "4747",
           "candidate": [
             {
               "name": "Matias de Dovitiis",
-              "votesReceived": "1731",
-              "percentage": "41.70"
+              "votesReceived": "1868",
+              "percentage": "39.35"
             },
             {
               "name": "Rosemarie Bryan",
-              "votesReceived": "1018",
-              "percentage": "24.52"
+              "votesReceived": "1185",
+              "percentage": "24.96"
             },
             {
               "name": "Lakhan Kang",
-              "votesReceived": "429",
-              "percentage": "10.33"
+              "votesReceived": "566",
+              "percentage": "11.92"
             },
             {
               "name": "Antonius Clarke",
-              "votesReceived": "419",
-              "percentage": "10.09"
+              "votesReceived": "482",
+              "percentage": "10.15"
             },
             {
               "name": "Dennis Hastings",
-              "votesReceived": "295",
-              "percentage": "7.11"
+              "votesReceived": "363",
+              "percentage": "7.65"
             },
             {
               "name": "Amberley Ryan Henry",
-              "votesReceived": "259",
-              "percentage": "6.24"
+              "votesReceived": "283",
+              "percentage": "5.96"
             }
           ]
         },
         {
           "num": "2",
           "polls": "149",
-          "pollsReceived": "5",
+          "pollsReceived": "6",
           "totalVoters": "97554",
-          "votesReceived": "1779",
+          "votesReceived": "2005",
           "candidate": [
             {
               "name": "Matthew Zaffino",
-              "votesReceived": "839",
-              "percentage": "47.16"
+              "votesReceived": "951",
+              "percentage": "47.43"
             },
             {
               "name": "Timothy Ellis",
-              "votesReceived": "707",
-              "percentage": "39.74"
+              "votesReceived": "791",
+              "percentage": "39.45"
             },
             {
               "name": "Ivan Voitsytskyi",
-              "votesReceived": "233",
-              "percentage": "13.10"
+              "votesReceived": "263",
+              "percentage": "13.12"
             }
           ]
         },
@@ -1719,49 +1719,49 @@
         {
           "num": "7",
           "polls": "208",
-          "pollsReceived": "5",
+          "pollsReceived": "7",
           "totalVoters": "73832",
-          "votesReceived": "1016",
+          "votesReceived": "1580",
           "candidate": [
             {
               "name": "Deborah Williams",
-              "votesReceived": "417",
-              "percentage": "41.04"
+              "votesReceived": "656",
+              "percentage": "41.52"
             },
             {
               "name": "Tasha Kheiriddin",
-              "votesReceived": "251",
-              "percentage": "24.70"
+              "votesReceived": "333",
+              "percentage": "21.08"
             },
             {
               "name": "Adam Golding",
-              "votesReceived": "179",
-              "percentage": "17.62"
-            },
-            {
-              "name": "Gladstone Cherrington",
-              "votesReceived": "52",
-              "percentage": "5.12"
+              "votesReceived": "260",
+              "percentage": "16.46"
             },
             {
               "name": "Nasir Mohammad",
-              "votesReceived": "42",
-              "percentage": "4.13"
+              "votesReceived": "116",
+              "percentage": "7.34"
+            },
+            {
+              "name": "Gladstone Cherrington",
+              "votesReceived": "82",
+              "percentage": "5.19"
             },
             {
               "name": "Shaffni Nalir",
-              "votesReceived": "28",
-              "percentage": "2.76"
+              "votesReceived": "59",
+              "percentage": "3.73"
             },
             {
               "name": "Axel Arvizu",
-              "votesReceived": "24",
-              "percentage": "2.36"
+              "votesReceived": "38",
+              "percentage": "2.41"
             },
             {
               "name": "Theo Nazary",
-              "votesReceived": "23",
-              "percentage": "2.26"
+              "votesReceived": "36",
+              "percentage": "2.28"
             }
           ]
         },
@@ -1812,176 +1812,176 @@
         {
           "num": "9",
           "polls": "107",
-          "pollsReceived": "9",
+          "pollsReceived": "11",
           "totalVoters": "84706",
-          "votesReceived": "7457",
+          "votesReceived": "7986",
           "candidate": [
             {
               "name": "Christopher Mammoliti",
-              "votesReceived": "2850",
-              "percentage": "38.22"
+              "votesReceived": "3092",
+              "percentage": "38.72"
             },
             {
               "name": "Bill Wu",
-              "votesReceived": "2102",
-              "percentage": "28.19"
-            },
-            {
-              "name": "Sonny Yeung",
-              "votesReceived": "1253",
-              "percentage": "16.80"
+              "votesReceived": "2219",
+              "percentage": "27.79"
             },
             {
               "name": "Carey De Pass",
-              "votesReceived": "1252",
-              "percentage": "16.79"
+              "votesReceived": "1356",
+              "percentage": "16.98"
+            },
+            {
+              "name": "Sonny Yeung",
+              "votesReceived": "1319",
+              "percentage": "16.52"
             }
           ]
         },
         {
           "num": "10",
           "polls": "114",
-          "pollsReceived": "1",
+          "pollsReceived": "2",
           "totalVoters": "123597",
-          "votesReceived": "413",
+          "votesReceived": "433",
           "candidate": [
             {
               "name": "Marisa Sterling",
-              "votesReceived": "136",
-              "percentage": "32.93"
+              "votesReceived": "147",
+              "percentage": "33.95"
             },
             {
               "name": "Karen Emerson",
-              "votesReceived": "75",
-              "percentage": "18.16"
+              "votesReceived": "79",
+              "percentage": "18.24"
             },
             {
               "name": "Ahnaaf Hassan",
               "votesReceived": "47",
-              "percentage": "11.38"
+              "percentage": "10.85"
             },
             {
               "name": "Malik Ahmad",
-              "votesReceived": "42",
-              "percentage": "10.17"
+              "votesReceived": "43",
+              "percentage": "9.93"
             },
             {
               "name": "Jocelyne Poirier",
-              "votesReceived": "34",
-              "percentage": "8.23"
+              "votesReceived": "35",
+              "percentage": "8.08"
             },
             {
               "name": "Shawn Li",
               "votesReceived": "31",
-              "percentage": "7.51"
+              "percentage": "7.16"
             },
             {
               "name": "Glenn Kremp",
-              "votesReceived": "21",
-              "percentage": "5.08"
+              "votesReceived": "23",
+              "percentage": "5.31"
             },
             {
               "name": "Md Sazibul Islam",
               "votesReceived": "15",
-              "percentage": "3.63"
+              "percentage": "3.46"
             },
             {
               "name": "Azim Dewan",
-              "votesReceived": "12",
-              "percentage": "2.91"
+              "votesReceived": "13",
+              "percentage": "3.00"
             }
           ]
         },
         {
           "num": "11",
           "polls": "86",
-          "pollsReceived": "3",
+          "pollsReceived": "5",
           "totalVoters": "90868",
-          "votesReceived": "1500",
+          "votesReceived": "2438",
           "candidate": [
             {
               "name": "Ravicha Ravinthiran",
-              "votesReceived": "600",
-              "percentage": "40.00"
-            },
-            {
-              "name": "Abdul Azeem Mohammed",
-              "votesReceived": "264",
-              "percentage": "17.60"
+              "votesReceived": "792",
+              "percentage": "32.49"
             },
             {
               "name": "Curtis Jack",
-              "votesReceived": "262",
-              "percentage": "17.47"
+              "votesReceived": "532",
+              "percentage": "21.82"
             },
             {
               "name": "Angus Grant",
-              "votesReceived": "260",
-              "percentage": "17.33"
+              "votesReceived": "455",
+              "percentage": "18.66"
+            },
+            {
+              "name": "Abdul Azeem Mohammed",
+              "votesReceived": "451",
+              "percentage": "18.50"
             },
             {
               "name": "Dameon Halstead",
-              "votesReceived": "73",
-              "percentage": "4.87"
+              "votesReceived": "140",
+              "percentage": "5.74"
             },
             {
               "name": "Dedan Deus",
-              "votesReceived": "41",
-              "percentage": "2.73"
+              "votesReceived": "68",
+              "percentage": "2.79"
             }
           ]
         },
         {
           "num": "12",
           "polls": "88",
-          "pollsReceived": "9",
+          "pollsReceived": "10",
           "totalVoters": "95032",
-          "votesReceived": "3950",
+          "votesReceived": "4324",
           "candidate": [
             {
               "name": "Anu Sriskandarajah",
-              "votesReceived": "1350",
-              "percentage": "34.18"
+              "votesReceived": "1404",
+              "percentage": "32.47"
             },
             {
               "name": "Safiya Ansari",
-              "votesReceived": "512",
-              "percentage": "12.96"
+              "votesReceived": "554",
+              "percentage": "12.81"
             },
             {
               "name": "Gary McBean",
-              "votesReceived": "483",
-              "percentage": "12.23"
+              "votesReceived": "547",
+              "percentage": "12.65"
             },
             {
               "name": "Sherri Williams",
-              "votesReceived": "445",
-              "percentage": "11.27"
+              "votesReceived": "507",
+              "percentage": "11.73"
             },
             {
               "name": "Marcia Wilson",
-              "votesReceived": "365",
-              "percentage": "9.24"
+              "votesReceived": "407",
+              "percentage": "9.41"
             },
             {
               "name": "Aria Garcia",
-              "votesReceived": "247",
-              "percentage": "6.25"
+              "votesReceived": "276",
+              "percentage": "6.38"
             },
             {
               "name": "Darren Frake",
-              "votesReceived": "187",
-              "percentage": "4.73"
+              "votesReceived": "230",
+              "percentage": "5.32"
             },
             {
               "name": "Vimuththan Nantheeswarar",
-              "votesReceived": "182",
-              "percentage": "4.61"
+              "votesReceived": "204",
+              "percentage": "4.72"
             },
             {
               "name": "Ketan Purohit",
-              "votesReceived": "179",
-              "percentage": "4.53"
+              "votesReceived": "195",
+              "percentage": "4.51"
             }
           ]
         }
@@ -1994,62 +1994,62 @@
         {
           "num": "1",
           "polls": "46",
-          "pollsReceived": "3",
+          "pollsReceived": "4",
           "totalVoters": "78411",
-          "votesReceived": "123",
+          "votesReceived": "205",
           "candidate": [
             {
               "name": "Robert Pella",
-              "votesReceived": "51",
-              "percentage": "41.46"
+              "votesReceived": "88",
+              "percentage": "42.93"
             },
             {
               "name": "Jennifer Di Francesco",
-              "votesReceived": "50",
-              "percentage": "40.65"
+              "votesReceived": "75",
+              "percentage": "36.59"
             },
             {
               "name": "Maria Dias",
-              "votesReceived": "22",
-              "percentage": "17.89"
+              "votesReceived": "42",
+              "percentage": "20.49"
             }
           ]
         },
         {
           "num": "2",
           "polls": "67",
-          "pollsReceived": "4",
+          "pollsReceived": "5",
           "totalVoters": "97554",
-          "votesReceived": "728",
+          "votesReceived": "899",
           "candidate": [
             {
               "name": "Markus de Domenico",
-              "votesReceived": "427",
-              "percentage": "58.65"
+              "votesReceived": "519",
+              "percentage": "57.73"
             },
             {
               "name": "Sara Concordia",
-              "votesReceived": "301",
-              "percentage": "41.35"
+              "votesReceived": "380",
+              "percentage": "42.27"
             }
           ]
         },
         {
           "num": "3",
           "polls": "45",
-          "pollsReceived": "6",
+          "pollsReceived": "7",
           "totalVoters": "116485",
-          "votesReceived": "1455",
+          "votesReceived": "1676",
           "candidate": [
             {
               "name": "Ida Li Preti",
-              "votesReceived": "1160",
-              "percentage": "79.73"
+              "votesReceived": "1348",
+              "percentage": "80.43"
             },
             {
               "name": "Susel Munoz Plasencia",
-              "votesReceived": "295",
-              "percentage": "20.27"
+              "votesReceived": "328",
+              "percentage": "19.57"
             }
           ]
         },
@@ -2113,24 +2113,24 @@
         {
           "num": "7",
           "polls": "96",
-          "pollsReceived": "4",
+          "pollsReceived": "6",
           "totalVoters": "73832",
-          "votesReceived": "256",
+          "votesReceived": "396",
           "candidate": [
             {
               "name": "Marissa Largo",
-              "votesReceived": "100",
-              "percentage": "39.06"
+              "votesReceived": "158",
+              "percentage": "39.90"
             },
             {
               "name": "Celine DiNova",
-              "votesReceived": "84",
-              "percentage": "32.81"
+              "votesReceived": "126",
+              "percentage": "31.82"
             },
             {
               "name": "Gregory Rodriguez",
-              "votesReceived": "72",
-              "percentage": "28.13"
+              "votesReceived": "112",
+              "percentage": "28.28"
             }
           ]
         },
@@ -2161,29 +2161,29 @@
         {
           "num": "9",
           "polls": "288",
-          "pollsReceived": "6",
+          "pollsReceived": "8",
           "totalVoters": "84706",
-          "votesReceived": "72",
+          "votesReceived": "114",
           "candidate": [
             {
-              "name": "Rosina Bonavota",
-              "votesReceived": "31",
-              "percentage": "43.06"
+              "name": "Jonathan Santos",
+              "votesReceived": "48",
+              "percentage": "42.11"
             },
             {
-              "name": "Jonathan Santos",
-              "votesReceived": "27",
-              "percentage": "37.50"
+              "name": "Rosina Bonavota",
+              "votesReceived": "40",
+              "percentage": "35.09"
             },
             {
               "name": "Renato Fallico",
-              "votesReceived": "7",
-              "percentage": "9.72"
+              "votesReceived": "13",
+              "percentage": "11.40"
             },
             {
               "name": "David Le",
-              "votesReceived": "7",
-              "percentage": "9.72"
+              "votesReceived": "13",
+              "percentage": "11.40"
             }
           ]
         },
@@ -2224,26 +2224,26 @@
         {
           "num": "11",
           "polls": "272",
-          "pollsReceived": "11",
+          "pollsReceived": "13",
           "totalVoters": "90868",
-          "votesReceived": "1232",
+          "votesReceived": "1257",
           "candidate": [
             {
               "name": "Angela Kennedy",
-              "votesReceived": "906",
-              "percentage": "73.54"
+              "votesReceived": "926",
+              "percentage": "73.67"
             },
             {
               "name": "Anton Perera",
-              "votesReceived": "326",
-              "percentage": "26.46"
+              "votesReceived": "331",
+              "percentage": "26.33"
             }
           ]
         },
         {
           "num": "12",
           "polls": "109",
-          "pollsReceived": "2",
+          "pollsReceived": "4",
           "totalVoters": "95032",
           "votesReceived": "0",
           "candidate": [
@@ -2263,7 +2263,7 @@
         {
           "num": "2",
           "polls": "559",
-          "pollsReceived": "36",
+          "pollsReceived": "42",
           "totalVoters": "97554",
           "votesReceived": "1",
           "candidate": [
@@ -2277,26 +2277,26 @@
         {
           "num": "3",
           "polls": "389",
-          "pollsReceived": "6",
+          "pollsReceived": "8",
           "totalVoters": "116485",
-          "votesReceived": "9",
+          "votesReceived": "21",
           "candidate": [
             {
-              "name": "Jean-Fran\u00e7ois L'Heureux",
-              "votesReceived": "6",
-              "percentage": "66.67"
+              "name": "Anna-Karyna Ruszkowski",
+              "votesReceived": "12",
+              "percentage": "57.14"
             },
             {
-              "name": "Anna-Karyna Ruszkowski",
-              "votesReceived": "3",
-              "percentage": "33.33"
+              "name": "Jean-Fran\u00e7ois L'Heureux",
+              "votesReceived": "9",
+              "percentage": "42.86"
             }
           ]
         },
         {
           "num": "4",
           "polls": "483",
-          "pollsReceived": "25",
+          "pollsReceived": "28",
           "totalVoters": "88529",
           "votesReceived": "37",
           "candidate": [
@@ -2316,53 +2316,53 @@
         {
           "num": "3",
           "polls": "877",
-          "pollsReceived": "41",
+          "pollsReceived": "46",
           "totalVoters": "116485",
-          "votesReceived": "119",
+          "votesReceived": "128",
           "candidate": [
             {
               "name": "Yelena Nichilo",
-              "votesReceived": "55",
-              "percentage": "46.22"
+              "votesReceived": "60",
+              "percentage": "46.88"
             },
             {
               "name": "Josiane Aboungono",
-              "votesReceived": "43",
-              "percentage": "36.13"
+              "votesReceived": "47",
+              "percentage": "36.72"
             },
             {
               "name": "Angela Ogang",
               "votesReceived": "21",
-              "percentage": "17.65"
+              "percentage": "16.41"
             }
           ]
         },
         {
           "num": "4",
           "polls": "554",
-          "pollsReceived": "26",
+          "pollsReceived": "32",
           "totalVoters": "88529",
-          "votesReceived": "55",
+          "votesReceived": "63",
           "candidate": [
             {
               "name": "Rhea Dechaine",
-              "votesReceived": "37",
-              "percentage": "67.27"
+              "votesReceived": "43",
+              "percentage": "68.25"
             },
             {
               "name": "Clescadine Gustave",
-              "votesReceived": "9",
-              "percentage": "16.36"
+              "votesReceived": "10",
+              "percentage": "15.87"
             },
             {
               "name": "Derek McNulty",
-              "votesReceived": "9",
-              "percentage": "16.36"
+              "votesReceived": "10",
+              "percentage": "15.87"
             }
           ]
         }
       ]
     }
   ],
-  "seq": "1793063735075"
+  "seq": "1793063825052"
 }
