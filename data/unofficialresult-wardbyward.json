@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "408",
+    "pollsReceived": "414",
     "totalVoters": "2143771",
-    "votesReceived": "402401",
+    "votesReceived": "402851",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "209380",
+        "votesReceived": "209645",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -24,28 +24,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
-            "votesReceived": "7670"
+            "votesCounted": "21200",
+            "votesReceived": "7674"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
-            "votesReceived": "9382"
+            "votesCounted": "20889",
+            "votesReceived": "9501"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "11584"
+            "votesCounted": "17053",
+            "votesReceived": "11602"
           },
           {
             "name": "York South-Weston",
@@ -114,10 +114,10 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
-            "votesReceived": "10534"
+            "votesCounted": "23174",
+            "votesReceived": "10539"
           },
           {
             "name": "Toronto Centre",
@@ -159,10 +159,10 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
-            "votesReceived": "7516"
+            "votesCounted": "16149",
+            "votesReceived": "7621"
           },
           {
             "name": "Willowdale",
@@ -177,10 +177,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
-            "votesReceived": "11868"
+            "votesCounted": "18642",
+            "votesReceived": "11882"
           },
           {
             "name": "Scarborough Southwest",
@@ -240,7 +240,7 @@
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "173271",
+        "votesReceived": "173399",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -255,28 +255,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
-            "votesReceived": "12700"
+            "votesCounted": "21200",
+            "votesReceived": "12710"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
-            "votesReceived": "10614"
+            "votesCounted": "20889",
+            "votesReceived": "10681"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "4781"
+            "votesCounted": "17053",
+            "votesReceived": "4792"
           },
           {
             "name": "York South-Weston",
@@ -345,10 +345,10 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
-            "votesReceived": "12021"
+            "votesCounted": "23174",
+            "votesReceived": "12022"
           },
           {
             "name": "Toronto Centre",
@@ -390,10 +390,10 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
-            "votesReceived": "7667"
+            "votesCounted": "16149",
+            "votesReceived": "7701"
           },
           {
             "name": "Willowdale",
@@ -408,10 +408,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
-            "votesReceived": "6082"
+            "votesCounted": "18642",
+            "votesReceived": "6087"
           },
           {
             "name": "Scarborough Southwest",
@@ -471,7 +471,7 @@
       },
       {
         "name": "Braeden Chow",
-        "votesReceived": "3278",
+        "votesReceived": "3288",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -486,28 +486,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
-            "votesReceived": "104"
+            "votesCounted": "21200",
+            "votesReceived": "105"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
-            "votesReceived": "138"
+            "votesCounted": "20889",
+            "votesReceived": "140"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "134"
+            "votesCounted": "17053",
+            "votesReceived": "136"
           },
           {
             "name": "York South-Weston",
@@ -576,9 +576,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "167"
           },
           {
@@ -621,10 +621,10 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
-            "votesReceived": "100"
+            "votesCounted": "16149",
+            "votesReceived": "104"
           },
           {
             "name": "Willowdale",
@@ -639,10 +639,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
-            "votesReceived": "159"
+            "votesCounted": "18642",
+            "votesReceived": "160"
           },
           {
             "name": "Scarborough Southwest",
@@ -702,7 +702,7 @@
       },
       {
         "name": "Chris Alexander",
-        "votesReceived": "1923",
+        "votesReceived": "1928",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -717,28 +717,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
-            "votesReceived": "114"
+            "votesCounted": "21200",
+            "votesReceived": "115"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
-            "votesReceived": "77"
+            "votesCounted": "20889",
+            "votesReceived": "79"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "72"
+            "votesCounted": "17053",
+            "votesReceived": "73"
           },
           {
             "name": "York South-Weston",
@@ -807,9 +807,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "87"
           },
           {
@@ -852,10 +852,10 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
-            "votesReceived": "95"
+            "votesCounted": "16149",
+            "votesReceived": "96"
           },
           {
             "name": "Willowdale",
@@ -870,9 +870,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "72"
           },
           {
@@ -948,27 +948,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "70"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "46"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "16"
           },
           {
@@ -1038,9 +1038,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "9"
           },
           {
@@ -1083,9 +1083,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "94"
           },
           {
@@ -1101,9 +1101,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "42"
           },
           {
@@ -1164,7 +1164,7 @@
       },
       {
         "name": "Imad Abdulkadir",
-        "votesReceived": "856",
+        "votesReceived": "857",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1179,28 +1179,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "26"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "17"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "13"
+            "votesCounted": "17053",
+            "votesReceived": "14"
           },
           {
             "name": "York South-Weston",
@@ -1269,9 +1269,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "6"
           },
           {
@@ -1314,9 +1314,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "20"
           },
           {
@@ -1332,9 +1332,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "4"
           },
           {
@@ -1395,7 +1395,7 @@
       },
       {
         "name": "Darrell Brown",
-        "votesReceived": "813",
+        "votesReceived": "817",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1410,28 +1410,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "40"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "28"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "30"
+            "votesCounted": "17053",
+            "votesReceived": "32"
           },
           {
             "name": "York South-Weston",
@@ -1500,9 +1500,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "23"
           },
           {
@@ -1545,10 +1545,10 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
-            "votesReceived": "39"
+            "votesCounted": "16149",
+            "votesReceived": "41"
           },
           {
             "name": "Willowdale",
@@ -1563,9 +1563,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "22"
           },
           {
@@ -1641,27 +1641,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "28"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "41"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "55"
           },
           {
@@ -1731,9 +1731,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "45"
           },
           {
@@ -1776,9 +1776,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "38"
           },
           {
@@ -1794,9 +1794,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "42"
           },
           {
@@ -1857,7 +1857,7 @@
       },
       {
         "name": "Bahira Abdulsalam",
-        "votesReceived": "709",
+        "votesReceived": "711",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1872,27 +1872,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "22"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
-            "votesReceived": "8"
+            "votesCounted": "20889",
+            "votesReceived": "10"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "16"
           },
           {
@@ -1962,9 +1962,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "10"
           },
           {
@@ -2007,9 +2007,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "25"
           },
           {
@@ -2025,9 +2025,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "12"
           },
           {
@@ -2088,7 +2088,7 @@
       },
       {
         "name": "Sandeep Srivastava",
-        "votesReceived": "557",
+        "votesReceived": "560",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2103,28 +2103,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "8"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "8"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "11"
+            "votesCounted": "17053",
+            "votesReceived": "13"
           },
           {
             "name": "York South-Weston",
@@ -2193,9 +2193,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "1"
           },
           {
@@ -2238,9 +2238,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "22"
           },
           {
@@ -2256,10 +2256,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
-            "votesReceived": "6"
+            "votesCounted": "18642",
+            "votesReceived": "7"
           },
           {
             "name": "Scarborough Southwest",
@@ -2334,27 +2334,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "17"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "13"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "7"
           },
           {
@@ -2424,9 +2424,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "4"
           },
           {
@@ -2469,9 +2469,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "35"
           },
           {
@@ -2487,9 +2487,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "13"
           },
           {
@@ -2550,7 +2550,7 @@
       },
       {
         "name": "Logan Choy",
-        "votesReceived": "535",
+        "votesReceived": "538",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2565,27 +2565,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "12"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "14"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "13"
           },
           {
@@ -2655,9 +2655,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "12"
           },
           {
@@ -2700,10 +2700,10 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
-            "votesReceived": "18"
+            "votesCounted": "16149",
+            "votesReceived": "20"
           },
           {
             "name": "Willowdale",
@@ -2718,10 +2718,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
-            "votesReceived": "23"
+            "votesCounted": "18642",
+            "votesReceived": "24"
           },
           {
             "name": "Scarborough Southwest",
@@ -2781,7 +2781,7 @@
       },
       {
         "name": "Kevin Clarke",
-        "votesReceived": "500",
+        "votesReceived": "501",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2796,27 +2796,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
-            "votesReceived": "22"
+            "votesCounted": "21200",
+            "votesReceived": "23"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "18"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "15"
           },
           {
@@ -2886,9 +2886,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "10"
           },
           {
@@ -2931,9 +2931,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "17"
           },
           {
@@ -2949,9 +2949,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "17"
           },
           {
@@ -3027,27 +3027,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "24"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "17"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "8"
           },
           {
@@ -3117,9 +3117,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "12"
           },
           {
@@ -3162,9 +3162,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "27"
           },
           {
@@ -3180,9 +3180,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "21"
           },
           {
@@ -3243,7 +3243,7 @@
       },
       {
         "name": "Amy Rosen",
-        "votesReceived": "402",
+        "votesReceived": "403",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3258,27 +3258,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "12"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
-            "votesReceived": "15"
+            "votesCounted": "20889",
+            "votesReceived": "16"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "27"
           },
           {
@@ -3348,9 +3348,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "37"
           },
           {
@@ -3393,9 +3393,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "6"
           },
           {
@@ -3411,9 +3411,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "17"
           },
           {
@@ -3474,7 +3474,7 @@
       },
       {
         "name": "Roberto Curto",
-        "votesReceived": "394",
+        "votesReceived": "396",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3489,28 +3489,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "27"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "20"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "14"
+            "votesCounted": "17053",
+            "votesReceived": "15"
           },
           {
             "name": "York South-Weston",
@@ -3579,9 +3579,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "15"
           },
           {
@@ -3624,10 +3624,10 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
-            "votesReceived": "11"
+            "votesCounted": "16149",
+            "votesReceived": "12"
           },
           {
             "name": "Willowdale",
@@ -3642,9 +3642,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "8"
           },
           {
@@ -3705,7 +3705,7 @@
       },
       {
         "name": "Jamie Atkinson",
-        "votesReceived": "392",
+        "votesReceived": "393",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3720,28 +3720,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "33"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "16"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "6"
+            "votesCounted": "17053",
+            "votesReceived": "7"
           },
           {
             "name": "York South-Weston",
@@ -3810,9 +3810,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "10"
           },
           {
@@ -3855,9 +3855,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "15"
           },
           {
@@ -3873,9 +3873,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "19"
           },
           {
@@ -3936,7 +3936,7 @@
       },
       {
         "name": "Sarah McVie",
-        "votesReceived": "390",
+        "votesReceived": "392",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3951,27 +3951,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "16"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
-            "votesReceived": "12"
+            "votesCounted": "20889",
+            "votesReceived": "13"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "22"
           },
           {
@@ -4041,9 +4041,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "23"
           },
           {
@@ -4086,9 +4086,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "12"
           },
           {
@@ -4104,10 +4104,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
-            "votesReceived": "27"
+            "votesCounted": "18642",
+            "votesReceived": "28"
           },
           {
             "name": "Scarborough Southwest",
@@ -4167,7 +4167,7 @@
       },
       {
         "name": "Paul Collins",
-        "votesReceived": "343",
+        "votesReceived": "344",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4182,27 +4182,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "8"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
-            "votesReceived": "13"
+            "votesCounted": "20889",
+            "votesReceived": "14"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "11"
           },
           {
@@ -4272,9 +4272,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "8"
           },
           {
@@ -4317,9 +4317,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "13"
           },
           {
@@ -4335,9 +4335,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "7"
           },
           {
@@ -4413,27 +4413,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "11"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "15"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "12"
           },
           {
@@ -4503,9 +4503,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "12"
           },
           {
@@ -4548,9 +4548,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "9"
           },
           {
@@ -4566,9 +4566,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "23"
           },
           {
@@ -4629,7 +4629,7 @@
       },
       {
         "name": "Mohamad Kaaki",
-        "votesReceived": "315",
+        "votesReceived": "316",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4644,28 +4644,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "9"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "5"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "3"
+            "votesCounted": "17053",
+            "votesReceived": "4"
           },
           {
             "name": "York South-Weston",
@@ -4734,9 +4734,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "1"
           },
           {
@@ -4779,9 +4779,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "9"
           },
           {
@@ -4797,9 +4797,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "7"
           },
           {
@@ -4860,7 +4860,7 @@
       },
       {
         "name": "Joshua Thompson",
-        "votesReceived": "291",
+        "votesReceived": "292",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4875,27 +4875,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "11"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
-            "votesReceived": "9"
+            "votesCounted": "20889",
+            "votesReceived": "10"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "6"
           },
           {
@@ -4965,9 +4965,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "7"
           },
           {
@@ -5010,9 +5010,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "8"
           },
           {
@@ -5028,9 +5028,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "5"
           },
           {
@@ -5106,27 +5106,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "11"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "17"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "13"
           },
           {
@@ -5196,9 +5196,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "8"
           },
           {
@@ -5241,9 +5241,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "12"
           },
           {
@@ -5259,9 +5259,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "6"
           },
           {
@@ -5337,27 +5337,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "23"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "12"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "9"
           },
           {
@@ -5427,9 +5427,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "14"
           },
           {
@@ -5472,9 +5472,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "10"
           },
           {
@@ -5490,9 +5490,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "16"
           },
           {
@@ -5553,7 +5553,7 @@
       },
       {
         "name": "Brian Buffey",
-        "votesReceived": "240",
+        "votesReceived": "243",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5568,28 +5568,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "13"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "13"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "8"
+            "votesCounted": "17053",
+            "votesReceived": "10"
           },
           {
             "name": "York South-Weston",
@@ -5658,9 +5658,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "5"
           },
           {
@@ -5703,10 +5703,10 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
-            "votesReceived": "13"
+            "votesCounted": "16149",
+            "votesReceived": "14"
           },
           {
             "name": "Willowdale",
@@ -5721,9 +5721,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "5"
           },
           {
@@ -5799,27 +5799,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "16"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "9"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "17"
           },
           {
@@ -5889,9 +5889,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "15"
           },
           {
@@ -5934,9 +5934,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "6"
           },
           {
@@ -5952,9 +5952,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "4"
           },
           {
@@ -6030,27 +6030,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "3"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "4"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "4"
           },
           {
@@ -6120,9 +6120,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "7"
           },
           {
@@ -6165,9 +6165,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "26"
           },
           {
@@ -6183,9 +6183,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "5"
           },
           {
@@ -6246,7 +6246,7 @@
       },
       {
         "name": "Robert Shusterman",
-        "votesReceived": "208",
+        "votesReceived": "209",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6261,27 +6261,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "10"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "8"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "3"
           },
           {
@@ -6351,9 +6351,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "11"
           },
           {
@@ -6396,10 +6396,10 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
-            "votesReceived": "13"
+            "votesCounted": "16149",
+            "votesReceived": "14"
           },
           {
             "name": "Willowdale",
@@ -6414,9 +6414,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "4"
           },
           {
@@ -6492,27 +6492,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "3"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "6"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "1"
           },
           {
@@ -6582,9 +6582,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "0"
           },
           {
@@ -6627,9 +6627,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "4"
           },
           {
@@ -6645,9 +6645,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "3"
           },
           {
@@ -6723,27 +6723,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "3"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "2"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "6"
           },
           {
@@ -6813,9 +6813,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "4"
           },
           {
@@ -6858,9 +6858,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "11"
           },
           {
@@ -6876,9 +6876,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "0"
           },
           {
@@ -6954,27 +6954,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "7"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "1"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "0"
           },
           {
@@ -7044,9 +7044,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "2"
           },
           {
@@ -7089,9 +7089,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "7"
           },
           {
@@ -7107,9 +7107,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "3"
           },
           {
@@ -7170,7 +7170,7 @@
       },
       {
         "name": "Martin Fraser",
-        "votesReceived": "169",
+        "votesReceived": "171",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7185,28 +7185,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "8"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
-            "votesReceived": "7"
+            "votesCounted": "20889",
+            "votesReceived": "8"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "3"
+            "votesCounted": "17053",
+            "votesReceived": "4"
           },
           {
             "name": "York South-Weston",
@@ -7275,9 +7275,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "9"
           },
           {
@@ -7320,9 +7320,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "7"
           },
           {
@@ -7338,9 +7338,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "5"
           },
           {
@@ -7401,7 +7401,7 @@
       },
       {
         "name": "Cory Deville",
-        "votesReceived": "160",
+        "votesReceived": "163",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7416,28 +7416,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "11"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "7"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "5"
+            "votesCounted": "17053",
+            "votesReceived": "7"
           },
           {
             "name": "York South-Weston",
@@ -7506,10 +7506,10 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
-            "votesReceived": "6"
+            "votesCounted": "23174",
+            "votesReceived": "7"
           },
           {
             "name": "Toronto Centre",
@@ -7551,9 +7551,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "4"
           },
           {
@@ -7569,9 +7569,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "8"
           },
           {
@@ -7632,7 +7632,7 @@
       },
       {
         "name": "Alex Cruze",
-        "votesReceived": "158",
+        "votesReceived": "159",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7647,27 +7647,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "5"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "6"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "6"
           },
           {
@@ -7737,9 +7737,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "1"
           },
           {
@@ -7782,9 +7782,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "5"
           },
           {
@@ -7800,10 +7800,10 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
-            "votesReceived": "5"
+            "votesCounted": "18642",
+            "votesReceived": "6"
           },
           {
             "name": "Scarborough Southwest",
@@ -7863,7 +7863,7 @@
       },
       {
         "name": "Alton Frederick",
-        "votesReceived": "157",
+        "votesReceived": "159",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7878,28 +7878,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "6"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "2"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "3"
+            "votesCounted": "17053",
+            "votesReceived": "4"
           },
           {
             "name": "York South-Weston",
@@ -7968,9 +7968,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "3"
           },
           {
@@ -8013,10 +8013,10 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
-            "votesReceived": "3"
+            "votesCounted": "16149",
+            "votesReceived": "4"
           },
           {
             "name": "Willowdale",
@@ -8031,9 +8031,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "7"
           },
           {
@@ -8094,7 +8094,7 @@
       },
       {
         "name": "Kuo Yu Tong",
-        "votesReceived": "155",
+        "votesReceived": "156",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8109,28 +8109,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "5"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "2"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "4"
+            "votesCounted": "17053",
+            "votesReceived": "5"
           },
           {
             "name": "York South-Weston",
@@ -8199,9 +8199,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "1"
           },
           {
@@ -8244,9 +8244,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "12"
           },
           {
@@ -8262,9 +8262,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "3"
           },
           {
@@ -8340,27 +8340,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "6"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "5"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "1"
           },
           {
@@ -8430,9 +8430,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "1"
           },
           {
@@ -8475,9 +8475,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "2"
           },
           {
@@ -8493,9 +8493,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "3"
           },
           {
@@ -8571,27 +8571,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "7"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "6"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "4"
           },
           {
@@ -8661,9 +8661,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "3"
           },
           {
@@ -8706,9 +8706,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "16"
           },
           {
@@ -8724,9 +8724,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "2"
           },
           {
@@ -8787,7 +8787,7 @@
       },
       {
         "name": "Jack Hartley",
-        "votesReceived": "146",
+        "votesReceived": "147",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8802,27 +8802,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "6"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "10"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "4"
           },
           {
@@ -8892,9 +8892,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "1"
           },
           {
@@ -8937,10 +8937,10 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
-            "votesReceived": "1"
+            "votesCounted": "16149",
+            "votesReceived": "2"
           },
           {
             "name": "Willowdale",
@@ -8955,9 +8955,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "4"
           },
           {
@@ -9018,7 +9018,7 @@
       },
       {
         "name": "Thomas Hall",
-        "votesReceived": "132",
+        "votesReceived": "133",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9033,28 +9033,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "14"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "6"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "5"
+            "votesCounted": "17053",
+            "votesReceived": "6"
           },
           {
             "name": "York South-Weston",
@@ -9123,9 +9123,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "1"
           },
           {
@@ -9168,9 +9168,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "3"
           },
           {
@@ -9186,9 +9186,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "5"
           },
           {
@@ -9249,7 +9249,7 @@
       },
       {
         "name": "Naomi Sayers",
-        "votesReceived": "125",
+        "votesReceived": "126",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9264,28 +9264,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "2"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "5"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "4"
+            "votesCounted": "17053",
+            "votesReceived": "5"
           },
           {
             "name": "York South-Weston",
@@ -9354,9 +9354,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "6"
           },
           {
@@ -9399,9 +9399,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "6"
           },
           {
@@ -9417,9 +9417,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "4"
           },
           {
@@ -9495,27 +9495,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "4"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "5"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "8"
           },
           {
@@ -9585,9 +9585,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "3"
           },
           {
@@ -9630,9 +9630,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "3"
           },
           {
@@ -9648,9 +9648,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "2"
           },
           {
@@ -9711,7 +9711,7 @@
       },
       {
         "name": "Francis Mercieca",
-        "votesReceived": "116",
+        "votesReceived": "118",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9726,27 +9726,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "6"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
-            "votesReceived": "2"
+            "votesCounted": "20889",
+            "votesReceived": "3"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "1"
           },
           {
@@ -9816,9 +9816,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "0"
           },
           {
@@ -9861,10 +9861,10 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
-            "votesReceived": "6"
+            "votesCounted": "16149",
+            "votesReceived": "7"
           },
           {
             "name": "Willowdale",
@@ -9879,9 +9879,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "1"
           },
           {
@@ -9957,27 +9957,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "5"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "7"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "5"
           },
           {
@@ -10047,9 +10047,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "2"
           },
           {
@@ -10092,9 +10092,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "6"
           },
           {
@@ -10110,9 +10110,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "3"
           },
           {
@@ -10188,27 +10188,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "1"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "2"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "15"
           },
           {
@@ -10278,9 +10278,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "3"
           },
           {
@@ -10323,9 +10323,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "3"
           },
           {
@@ -10341,9 +10341,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "2"
           },
           {
@@ -10419,27 +10419,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "4"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "2"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "2"
           },
           {
@@ -10509,9 +10509,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "0"
           },
           {
@@ -10554,9 +10554,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "2"
           },
           {
@@ -10572,9 +10572,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "1"
           },
           {
@@ -10650,27 +10650,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "3"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "0"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "6"
           },
           {
@@ -10740,9 +10740,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "1"
           },
           {
@@ -10785,9 +10785,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "2"
           },
           {
@@ -10803,9 +10803,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "3"
           },
           {
@@ -10881,27 +10881,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "4"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "6"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "6"
           },
           {
@@ -10971,9 +10971,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "1"
           },
           {
@@ -11016,9 +11016,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "5"
           },
           {
@@ -11034,9 +11034,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "3"
           },
           {
@@ -11097,7 +11097,7 @@
       },
       {
         "name": "Eddie Mayanja",
-        "votesReceived": "77",
+        "votesReceived": "78",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -11112,28 +11112,28 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "4"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "3"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
-            "votesReceived": "1"
+            "votesCounted": "17053",
+            "votesReceived": "2"
           },
           {
             "name": "York South-Weston",
@@ -11202,9 +11202,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "1"
           },
           {
@@ -11247,9 +11247,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "4"
           },
           {
@@ -11265,9 +11265,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "2"
           },
           {
@@ -11343,27 +11343,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "2"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "2"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "0"
           },
           {
@@ -11433,9 +11433,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "2"
           },
           {
@@ -11478,9 +11478,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "3"
           },
           {
@@ -11496,9 +11496,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "1"
           },
           {
@@ -11574,27 +11574,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "2"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "1"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "1"
           },
           {
@@ -11664,9 +11664,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "1"
           },
           {
@@ -11709,9 +11709,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "0"
           },
           {
@@ -11727,9 +11727,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "7"
           },
           {
@@ -11805,27 +11805,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "1"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "4"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "1"
           },
           {
@@ -11895,9 +11895,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "0"
           },
           {
@@ -11940,9 +11940,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "3"
           },
           {
@@ -11958,9 +11958,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "4"
           },
           {
@@ -12036,27 +12036,27 @@
             "name": "Etobicoke Centre",
             "num": "2",
             "polls": "67",
-            "pollsReceived": "21",
+            "pollsReceived": "22",
             "totalVoters": "97554",
-            "votesCounted": "21183",
+            "votesCounted": "21200",
             "votesReceived": "4"
           },
           {
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "116485",
-            "votesCounted": "20691",
+            "votesCounted": "20889",
             "votesReceived": "3"
           },
           {
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "15",
+            "pollsReceived": "16",
             "totalVoters": "88529",
-            "votesCounted": "17003",
+            "votesCounted": "17053",
             "votesReceived": "1"
           },
           {
@@ -12126,9 +12126,9 @@
             "name": "Toronto-St. Paul's",
             "num": "12",
             "polls": "58",
-            "pollsReceived": "16",
+            "pollsReceived": "17",
             "totalVoters": "95032",
-            "votesCounted": "23167",
+            "votesCounted": "23174",
             "votesReceived": "1"
           },
           {
@@ -12171,9 +12171,9 @@
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "25",
+            "pollsReceived": "26",
             "totalVoters": "81623",
-            "votesCounted": "15995",
+            "votesCounted": "16149",
             "votesReceived": "1"
           },
           {
@@ -12189,9 +12189,9 @@
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "12",
+            "pollsReceived": "13",
             "totalVoters": "85048",
-            "votesCounted": "18618",
+            "votesCounted": "18642",
             "votesReceived": "1"
           },
           {
@@ -12252,5 +12252,5 @@
       }
     ]
   },
-  "seq": "1793065715225"
+  "seq": "1793065805307"
 }
