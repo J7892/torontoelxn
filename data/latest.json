@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated_utc": "2026-10-27T11:00:04.881612+00:00",
+    "last_updated_utc": "2026-10-27T11:01:22.478746+00:00",
     "election_desc": "2026 Municipal Election",
     "seq": "1793077835999",
     "status": "Live - Polls Open / Reporting",
@@ -24,7 +24,7 @@
       "votes": 532201,
       "percentage": 54.16,
       "two_way_percentage": 56.85,
-      "wards_leading": 0,
+      "wards_leading": 19,
       "color": "#e05a1e"
     },
     "bradford": {
@@ -32,7 +32,7 @@
       "votes": 404013,
       "percentage": 41.11,
       "two_way_percentage": 43.15,
-      "wards_leading": 0,
+      "wards_leading": 6,
       "color": "#0d6efd"
     }
   },
@@ -79,23 +79,54 @@
       "ward_num": 1,
       "ward_name": "Etobicoke North",
       "polls_total": 46,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 46,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 28692,
       "registered_voters": 78411,
-      "turnout_pct": 0.0,
+      "turnout_pct": 36.59,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 13020,
+        "percentage": 45.38
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 12795,
+        "percentage": 44.59
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 225,
+      "head_to_head_margin_pct": 0.79,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 13020,
+          "percentage": 45.38
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 12795,
+          "percentage": 44.59
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 372,
+          "percentage": 1.3
+        },
+        {
+          "rank": 4,
+          "name": "Imad Abdulkadir",
+          "votes": 290,
+          "percentage": 1.01
+        },
+        {
+          "rank": 5,
+          "name": "Edward Gong",
+          "votes": 202,
+          "percentage": 0.7
+        }
+      ],
       "council": {
         "polls_total": 46,
         "polls_reported": 46,
@@ -195,23 +226,54 @@
       "ward_num": 2,
       "ward_name": "Etobicoke Centre",
       "polls_total": 67,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 67,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 46826,
       "registered_voters": 97554,
-      "turnout_pct": 0.0,
+      "turnout_pct": 48.0,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 17336,
+        "percentage": 37.02
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 27623,
+        "percentage": 58.99
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": -10287,
+      "head_to_head_margin_pct": -21.97,
+      "leader": "Brad Bradford",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Brad Bradford",
+          "votes": 27623,
+          "percentage": 58.99
+        },
+        {
+          "rank": 2,
+          "name": "Olivia Chow",
+          "votes": 17336,
+          "percentage": 37.02
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 284,
+          "percentage": 0.61
+        },
+        {
+          "rank": 4,
+          "name": "Chris Alexander",
+          "votes": 218,
+          "percentage": 0.47
+        },
+        {
+          "rank": 5,
+          "name": "Edward Gong",
+          "votes": 147,
+          "percentage": 0.31
+        }
+      ],
       "council": {
         "polls_total": 67,
         "polls_reported": 67,
@@ -269,23 +331,54 @@
       "ward_num": 3,
       "ward_name": "Etobicoke-Lakeshore",
       "polls_total": 82,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 82,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 55344,
       "registered_voters": 116485,
-      "turnout_pct": 0.0,
+      "turnout_pct": 47.51,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 26086,
+        "percentage": 47.13
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 27310,
+        "percentage": 49.35
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": -1224,
+      "head_to_head_margin_pct": -2.22,
+      "leader": "Brad Bradford",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Brad Bradford",
+          "votes": 27310,
+          "percentage": 49.35
+        },
+        {
+          "rank": 2,
+          "name": "Olivia Chow",
+          "votes": 26086,
+          "percentage": 47.13
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 404,
+          "percentage": 0.73
+        },
+        {
+          "rank": 4,
+          "name": "Chris Alexander",
+          "votes": 166,
+          "percentage": 0.3
+        },
+        {
+          "rank": 5,
+          "name": "Laura Dean",
+          "votes": 125,
+          "percentage": 0.23
+        }
+      ],
       "council": {
         "polls_total": 82,
         "polls_reported": 82,
@@ -349,23 +442,54 @@
       "ward_num": 4,
       "ward_name": "Parkdale-High Park",
       "polls_total": 67,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 67,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 49565,
       "registered_voters": 88529,
-      "turnout_pct": 0.0,
+      "turnout_pct": 55.99,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 34191,
+        "percentage": 68.98
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 13449,
+        "percentage": 27.13
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 20742,
+      "head_to_head_margin_pct": 41.85,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 34191,
+          "percentage": 68.98
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 13449,
+          "percentage": 27.13
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 415,
+          "percentage": 0.84
+        },
+        {
+          "rank": 4,
+          "name": "Laura Dean",
+          "votes": 171,
+          "percentage": 0.35
+        },
+        {
+          "rank": 5,
+          "name": "Chris Alexander",
+          "votes": 156,
+          "percentage": 0.31
+        }
+      ],
       "council": {
         "polls_total": 67,
         "polls_reported": 67,
@@ -465,23 +589,54 @@
       "ward_num": 5,
       "ward_name": "York South-Weston",
       "polls_total": 62,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 62,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 34900,
       "registered_voters": 83515,
-      "turnout_pct": 0.0,
+      "turnout_pct": 41.79,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 17039,
+        "percentage": 48.82
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 15321,
+        "percentage": 43.9
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 1718,
+      "head_to_head_margin_pct": 4.92,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 17039,
+          "percentage": 48.82
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 15321,
+          "percentage": 43.9
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 389,
+          "percentage": 1.11
+        },
+        {
+          "rank": 4,
+          "name": "Chris Alexander",
+          "votes": 195,
+          "percentage": 0.56
+        },
+        {
+          "rank": 5,
+          "name": "Imad Abdulkadir",
+          "votes": 147,
+          "percentage": 0.42
+        }
+      ],
       "council": {
         "polls_total": 62,
         "polls_reported": 62,
@@ -575,23 +730,54 @@
       "ward_num": 6,
       "ward_name": "York Centre",
       "polls_total": 50,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 50,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 34592,
       "registered_voters": 79015,
-      "turnout_pct": 0.0,
+      "turnout_pct": 43.78,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 10914,
+        "percentage": 31.55
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 22197,
+        "percentage": 64.17
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": -11283,
+      "head_to_head_margin_pct": -32.62,
+      "leader": "Brad Bradford",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Brad Bradford",
+          "votes": 22197,
+          "percentage": 64.17
+        },
+        {
+          "rank": 2,
+          "name": "Olivia Chow",
+          "votes": 10914,
+          "percentage": 31.55
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 263,
+          "percentage": 0.76
+        },
+        {
+          "rank": 4,
+          "name": "Chris Alexander",
+          "votes": 148,
+          "percentage": 0.43
+        },
+        {
+          "rank": 5,
+          "name": "Edward Gong",
+          "votes": 94,
+          "percentage": 0.27
+        }
+      ],
       "council": {
         "polls_total": 50,
         "polls_reported": 50,
@@ -649,23 +835,54 @@
       "ward_num": 7,
       "ward_name": "Humber River-Black Creek",
       "polls_total": 45,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 45,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 24519,
       "registered_voters": 73832,
-      "turnout_pct": 0.0,
+      "turnout_pct": 33.21,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 12193,
+        "percentage": 49.73
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 9986,
+        "percentage": 40.73
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 2207,
+      "head_to_head_margin_pct": 9.0,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 12193,
+          "percentage": 49.73
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 9986,
+          "percentage": 40.73
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 364,
+          "percentage": 1.48
+        },
+        {
+          "rank": 4,
+          "name": "Chris Alexander",
+          "votes": 177,
+          "percentage": 0.72
+        },
+        {
+          "rank": 5,
+          "name": "Edward Gong",
+          "votes": 159,
+          "percentage": 0.65
+        }
+      ],
       "council": {
         "polls_total": 45,
         "polls_reported": 45,
@@ -723,23 +940,54 @@
       "ward_num": 8,
       "ward_name": "Eglinton-Lawrence",
       "polls_total": 61,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 61,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 48353,
       "registered_voters": 89581,
-      "turnout_pct": 0.0,
+      "turnout_pct": 53.98,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 16551,
+        "percentage": 34.23
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 30341,
+        "percentage": 62.75
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": -13790,
+      "head_to_head_margin_pct": -28.52,
+      "leader": "Brad Bradford",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Brad Bradford",
+          "votes": 30341,
+          "percentage": 62.75
+        },
+        {
+          "rank": 2,
+          "name": "Olivia Chow",
+          "votes": 16551,
+          "percentage": 34.23
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 297,
+          "percentage": 0.61
+        },
+        {
+          "rank": 4,
+          "name": "Chris Alexander",
+          "votes": 107,
+          "percentage": 0.22
+        },
+        {
+          "rank": 5,
+          "name": "Laura Dean",
+          "votes": 105,
+          "percentage": 0.22
+        }
+      ],
       "council": {
         "polls_total": 61,
         "polls_reported": 61,
@@ -815,23 +1063,54 @@
       "ward_num": 9,
       "ward_name": "Davenport",
       "polls_total": 53,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 53,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 44414,
       "registered_voters": 84706,
-      "turnout_pct": 0.0,
+      "turnout_pct": 52.43,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 30639,
+        "percentage": 68.99
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 12249,
+        "percentage": 27.58
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 18390,
+      "head_to_head_margin_pct": 41.41,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 30639,
+          "percentage": 68.99
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 12249,
+          "percentage": 27.58
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 280,
+          "percentage": 0.63
+        },
+        {
+          "rank": 4,
+          "name": "Chris Alexander",
+          "votes": 160,
+          "percentage": 0.36
+        },
+        {
+          "rank": 5,
+          "name": "Laura Dean",
+          "votes": 137,
+          "percentage": 0.31
+        }
+      ],
       "council": {
         "polls_total": 53,
         "polls_reported": 53,
@@ -895,23 +1174,54 @@
       "ward_num": 10,
       "ward_name": "Spadina-Fort York",
       "polls_total": 80,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 80,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 51271,
       "registered_voters": 123597,
-      "turnout_pct": 0.0,
+      "turnout_pct": 41.48,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 34349,
+        "percentage": 66.99
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 15468,
+        "percentage": 30.17
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 18881,
+      "head_to_head_margin_pct": 36.82,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 34349,
+          "percentage": 66.99
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 15468,
+          "percentage": 30.17
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 299,
+          "percentage": 0.58
+        },
+        {
+          "rank": 4,
+          "name": "Laura Dean",
+          "votes": 150,
+          "percentage": 0.29
+        },
+        {
+          "rank": 5,
+          "name": "Chris Alexander",
+          "votes": 144,
+          "percentage": 0.28
+        }
+      ],
       "council": {
         "polls_total": 80,
         "polls_reported": 80,
@@ -999,23 +1309,54 @@
       "ward_num": 11,
       "ward_name": "University-Rosedale",
       "polls_total": 72,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 72,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 45602,
       "registered_voters": 90868,
-      "turnout_pct": 0.0,
+      "turnout_pct": 50.18,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 28927,
+        "percentage": 63.43
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 15449,
+        "percentage": 33.88
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 13478,
+      "head_to_head_margin_pct": 29.55,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 28927,
+          "percentage": 63.43
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 15449,
+          "percentage": 33.88
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 311,
+          "percentage": 0.68
+        },
+        {
+          "rank": 4,
+          "name": "Chris Alexander",
+          "votes": 117,
+          "percentage": 0.26
+        },
+        {
+          "rank": 5,
+          "name": "Laura Dean",
+          "votes": 111,
+          "percentage": 0.24
+        }
+      ],
       "council": {
         "polls_total": 72,
         "polls_reported": 72,
@@ -1109,23 +1450,54 @@
       "ward_num": 12,
       "ward_name": "Toronto-St. Paul's",
       "polls_total": 58,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 58,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 52119,
       "registered_voters": 95032,
-      "turnout_pct": 0.0,
+      "turnout_pct": 54.84,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 26636,
+        "percentage": 51.11
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 23963,
+        "percentage": 45.98
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 2673,
+      "head_to_head_margin_pct": 5.13,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 26636,
+          "percentage": 51.11
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 23963,
+          "percentage": 45.98
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 358,
+          "percentage": 0.69
+        },
+        {
+          "rank": 4,
+          "name": "Chris Alexander",
+          "votes": 146,
+          "percentage": 0.28
+        },
+        {
+          "rank": 5,
+          "name": "Laura Dean",
+          "votes": 133,
+          "percentage": 0.26
+        }
+      ],
       "council": {
         "polls_total": 58,
         "polls_reported": 58,
@@ -1201,23 +1573,54 @@
       "ward_num": 13,
       "ward_name": "Toronto Centre",
       "polls_total": 78,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 78,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 44832,
       "registered_voters": 101769,
-      "turnout_pct": 0.0,
+      "turnout_pct": 44.05,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 32450,
+        "percentage": 72.38
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 10505,
+        "percentage": 23.43
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 21945,
+      "head_to_head_margin_pct": 48.95,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 32450,
+          "percentage": 72.38
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 10505,
+          "percentage": 23.43
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 369,
+          "percentage": 0.82
+        },
+        {
+          "rank": 4,
+          "name": "Chris Alexander",
+          "votes": 172,
+          "percentage": 0.38
+        },
+        {
+          "rank": 5,
+          "name": "Laura Dean",
+          "votes": 119,
+          "percentage": 0.27
+        }
+      ],
       "council": {
         "polls_total": 78,
         "polls_reported": 78,
@@ -1323,23 +1726,54 @@
       "ward_num": 14,
       "ward_name": "Toronto-Danforth",
       "polls_total": 48,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 48,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 48479,
       "registered_voters": 85786,
-      "turnout_pct": 0.0,
+      "turnout_pct": 56.51,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 34471,
+        "percentage": 71.11
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 12207,
+        "percentage": 25.18
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 22264,
+      "head_to_head_margin_pct": 45.93,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 34471,
+          "percentage": 71.11
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 12207,
+          "percentage": 25.18
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 418,
+          "percentage": 0.86
+        },
+        {
+          "rank": 4,
+          "name": "Laura Dean",
+          "votes": 142,
+          "percentage": 0.29
+        },
+        {
+          "rank": 5,
+          "name": "Georgios Kalkounis",
+          "votes": 129,
+          "percentage": 0.27
+        }
+      ],
       "council": {
         "polls_total": 48,
         "polls_reported": 48,
@@ -1487,23 +1921,54 @@
       "ward_num": 15,
       "ward_name": "Don Valley West",
       "polls_total": 49,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 49,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 38242,
       "registered_voters": 76936,
-      "turnout_pct": 0.0,
+      "turnout_pct": 49.71,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 17615,
+        "percentage": 46.06
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 19364,
+        "percentage": 50.64
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": -1749,
+      "head_to_head_margin_pct": -4.58,
+      "leader": "Brad Bradford",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Brad Bradford",
+          "votes": 19364,
+          "percentage": 50.64
+        },
+        {
+          "rank": 2,
+          "name": "Olivia Chow",
+          "votes": 17615,
+          "percentage": 46.06
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 243,
+          "percentage": 0.64
+        },
+        {
+          "rank": 4,
+          "name": "Bahira Abdulsalam",
+          "votes": 162,
+          "percentage": 0.42
+        },
+        {
+          "rank": 5,
+          "name": "Laura Dean",
+          "votes": 115,
+          "percentage": 0.3
+        }
+      ],
       "council": {
         "polls_total": 49,
         "polls_reported": 49,
@@ -1561,23 +2026,54 @@
       "ward_num": 16,
       "ward_name": "Don Valley East",
       "polls_total": 62,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 62,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 29582,
       "registered_voters": 70080,
-      "turnout_pct": 0.0,
+      "turnout_pct": 42.21,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 15767,
+        "percentage": 53.3
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 12246,
+        "percentage": 41.4
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 3521,
+      "head_to_head_margin_pct": 11.9,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 15767,
+          "percentage": 53.3
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 12246,
+          "percentage": 41.4
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 292,
+          "percentage": 0.99
+        },
+        {
+          "rank": 4,
+          "name": "Edward Gong",
+          "votes": 121,
+          "percentage": 0.41
+        },
+        {
+          "rank": 5,
+          "name": "Chris Alexander",
+          "votes": 111,
+          "percentage": 0.38
+        }
+      ],
       "council": {
         "polls_total": 62,
         "polls_reported": 62,
@@ -1641,23 +2137,54 @@
       "ward_num": 17,
       "ward_name": "Don Valley North",
       "polls_total": 60,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 60,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 32861,
       "registered_voters": 81623,
-      "turnout_pct": 0.0,
+      "turnout_pct": 40.26,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 15680,
+        "percentage": 47.72
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 15460,
+        "percentage": 47.05
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 220,
+      "head_to_head_margin_pct": 0.67,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 15680,
+          "percentage": 47.72
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 15460,
+          "percentage": 47.05
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 239,
+          "percentage": 0.73
+        },
+        {
+          "rank": 4,
+          "name": "Edward Gong",
+          "votes": 193,
+          "percentage": 0.59
+        },
+        {
+          "rank": 5,
+          "name": "Chris Alexander",
+          "votes": 150,
+          "percentage": 0.46
+        }
+      ],
       "council": {
         "polls_total": 60,
         "polls_reported": 60,
@@ -1739,23 +2266,54 @@
       "ward_num": 18,
       "ward_name": "Willowdale",
       "polls_total": 56,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 56,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 34223,
       "registered_voters": 84671,
-      "turnout_pct": 0.0,
+      "turnout_pct": 40.42,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 15525,
+        "percentage": 45.36
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 17238,
+        "percentage": 50.37
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": -1713,
+      "head_to_head_margin_pct": -5.01,
+      "leader": "Brad Bradford",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Brad Bradford",
+          "votes": 17238,
+          "percentage": 50.37
+        },
+        {
+          "rank": 2,
+          "name": "Olivia Chow",
+          "votes": 15525,
+          "percentage": 45.36
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 193,
+          "percentage": 0.56
+        },
+        {
+          "rank": 4,
+          "name": "Chris Alexander",
+          "votes": 144,
+          "percentage": 0.42
+        },
+        {
+          "rank": 5,
+          "name": "Edward Gong",
+          "votes": 137,
+          "percentage": 0.4
+        }
+      ],
       "council": {
         "polls_total": 56,
         "polls_reported": 56,
@@ -1831,23 +2389,54 @@
       "ward_num": 19,
       "ward_name": "Beaches-East York",
       "polls_total": 53,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 53,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 47059,
       "registered_voters": 85048,
-      "turnout_pct": 0.0,
+      "turnout_pct": 55.33,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 30798,
+        "percentage": 65.45
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 14577,
+        "percentage": 30.98
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 16221,
+      "head_to_head_margin_pct": 34.47,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 30798,
+          "percentage": 65.45
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 14577,
+          "percentage": 30.98
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 387,
+          "percentage": 0.82
+        },
+        {
+          "rank": 4,
+          "name": "Chris Alexander",
+          "votes": 126,
+          "percentage": 0.27
+        },
+        {
+          "rank": 5,
+          "name": "Laura Dean",
+          "votes": 119,
+          "percentage": 0.25
+        }
+      ],
       "council": {
         "polls_total": 53,
         "polls_reported": 53,
@@ -1965,23 +2554,54 @@
       "ward_num": 20,
       "ward_name": "Scarborough Southwest",
       "polls_total": 61,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 61,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 36538,
       "registered_voters": 82427,
-      "turnout_pct": 0.0,
+      "turnout_pct": 44.33,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 20047,
+        "percentage": 54.87
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 14520,
+        "percentage": 39.74
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 5527,
+      "head_to_head_margin_pct": 15.13,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 20047,
+          "percentage": 54.87
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 14520,
+          "percentage": 39.74
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 350,
+          "percentage": 0.96
+        },
+        {
+          "rank": 4,
+          "name": "Edward Gong",
+          "votes": 225,
+          "percentage": 0.62
+        },
+        {
+          "rank": 5,
+          "name": "Chris Alexander",
+          "votes": 115,
+          "percentage": 0.31
+        }
+      ],
       "council": {
         "polls_total": 61,
         "polls_reported": 61,
@@ -2069,23 +2689,54 @@
       "ward_num": 21,
       "ward_name": "Scarborough Centre",
       "polls_total": 49,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 49,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 32532,
       "registered_voters": 80557,
-      "turnout_pct": 0.0,
+      "turnout_pct": 40.38,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 16890,
+        "percentage": 51.92
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 13405,
+        "percentage": 41.21
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 3485,
+      "head_to_head_margin_pct": 10.71,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 16890,
+          "percentage": 51.92
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 13405,
+          "percentage": 41.21
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 346,
+          "percentage": 1.06
+        },
+        {
+          "rank": 4,
+          "name": "Edward Gong",
+          "votes": 218,
+          "percentage": 0.67
+        },
+        {
+          "rank": 5,
+          "name": "Joshua Thompson",
+          "votes": 136,
+          "percentage": 0.42
+        }
+      ],
       "council": {
         "polls_total": 49,
         "polls_reported": 49,
@@ -2191,23 +2842,54 @@
       "ward_num": 22,
       "ward_name": "Scarborough-Agincourt",
       "polls_total": 47,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 47,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 29394,
       "registered_voters": 75224,
-      "turnout_pct": 0.0,
+      "turnout_pct": 39.08,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 15554,
+        "percentage": 52.92
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 11784,
+        "percentage": 40.09
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 3770,
+      "head_to_head_margin_pct": 12.83,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 15554,
+          "percentage": 52.92
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 11784,
+          "percentage": 40.09
+        },
+        {
+          "rank": 3,
+          "name": "Edward Gong",
+          "votes": 336,
+          "percentage": 1.14
+        },
+        {
+          "rank": 4,
+          "name": "Braeden Chow",
+          "votes": 275,
+          "percentage": 0.94
+        },
+        {
+          "rank": 5,
+          "name": "Chris Alexander",
+          "votes": 146,
+          "percentage": 0.5
+        }
+      ],
       "council": {
         "polls_total": 47,
         "polls_reported": 47,
@@ -2307,23 +2989,54 @@
       "ward_num": 23,
       "ward_name": "Scarborough North",
       "polls_total": 37,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 37,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 27490,
       "registered_voters": 66760,
-      "turnout_pct": 0.0,
+      "turnout_pct": 41.18,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 15598,
+        "percentage": 56.74
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 9497,
+        "percentage": 34.55
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 6101,
+      "head_to_head_margin_pct": 22.19,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 15598,
+          "percentage": 56.74
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 9497,
+          "percentage": 34.55
+        },
+        {
+          "rank": 3,
+          "name": "Edward Gong",
+          "votes": 305,
+          "percentage": 1.11
+        },
+        {
+          "rank": 4,
+          "name": "Braeden Chow",
+          "votes": 297,
+          "percentage": 1.08
+        },
+        {
+          "rank": 5,
+          "name": "Rick Lee",
+          "votes": 188,
+          "percentage": 0.68
+        }
+      ],
       "council": {
         "polls_total": 37,
         "polls_reported": 37,
@@ -2411,23 +3124,54 @@
       "ward_num": 24,
       "ward_name": "Scarborough-Guildwood",
       "polls_total": 48,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 48,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 29274,
       "registered_voters": 72345,
-      "turnout_pct": 0.0,
+      "turnout_pct": 40.46,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 15657,
+        "percentage": 53.48
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 11623,
+        "percentage": 39.7
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 4034,
+      "head_to_head_margin_pct": 13.78,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 15657,
+          "percentage": 53.48
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 11623,
+          "percentage": 39.7
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 318,
+          "percentage": 1.09
+        },
+        {
+          "rank": 4,
+          "name": "Edward Gong",
+          "votes": 179,
+          "percentage": 0.61
+        },
+        {
+          "rank": 5,
+          "name": "Sandeep Srivastava",
+          "votes": 141,
+          "percentage": 0.48
+        }
+      ],
       "council": {
         "polls_total": 48,
         "polls_reported": 48,
@@ -2503,23 +3247,54 @@
       "ward_num": 25,
       "ward_name": "Scarborough-Rouge Park",
       "polls_total": 40,
-      "polls_reported": 0,
-      "polls_reporting_pct": 0.0,
-      "total_votes": 0,
+      "polls_reported": 40,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 35957,
       "registered_voters": 79420,
-      "turnout_pct": 0.0,
+      "turnout_pct": 45.27,
       "chow": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 18268,
+        "percentage": 50.81
       },
       "bradford": {
-        "votes": 0,
-        "percentage": 0.0
+        "votes": 15436,
+        "percentage": 42.93
       },
-      "head_to_head_margin": 0,
-      "head_to_head_margin_pct": 0.0,
-      "leader": "Pending",
-      "top5": [],
+      "head_to_head_margin": 2832,
+      "head_to_head_margin_pct": 7.88,
+      "leader": "Olivia Chow",
+      "top5": [
+        {
+          "rank": 1,
+          "name": "Olivia Chow",
+          "votes": 18268,
+          "percentage": 50.81
+        },
+        {
+          "rank": 2,
+          "name": "Brad Bradford",
+          "votes": 15436,
+          "percentage": 42.93
+        },
+        {
+          "rank": 3,
+          "name": "Braeden Chow",
+          "votes": 339,
+          "percentage": 0.94
+        },
+        {
+          "rank": 4,
+          "name": "Edward Gong",
+          "votes": 208,
+          "percentage": 0.58
+        },
+        {
+          "rank": 5,
+          "name": "Imad Abdulkadir",
+          "votes": 137,
+          "percentage": 0.38
+        }
+      ],
       "council": {
         "polls_total": 40,
         "polls_reported": 40,
@@ -2618,49 +3393,49 @@
   ],
   "battlegrounds": [
     {
-      "ward_num": 1,
-      "ward_name": "Etobicoke North",
-      "chow_votes": 0,
-      "bradford_votes": 0,
-      "margin": 0,
-      "margin_pct": 0.0,
-      "leader": "Pending"
+      "ward_num": 17,
+      "ward_name": "Don Valley North",
+      "chow_votes": 15680,
+      "bradford_votes": 15460,
+      "margin": 220,
+      "margin_pct": 0.67,
+      "leader": "Olivia Chow"
     },
     {
-      "ward_num": 2,
-      "ward_name": "Etobicoke Centre",
-      "chow_votes": 0,
-      "bradford_votes": 0,
-      "margin": 0,
-      "margin_pct": 0.0,
-      "leader": "Pending"
+      "ward_num": 1,
+      "ward_name": "Etobicoke North",
+      "chow_votes": 13020,
+      "bradford_votes": 12795,
+      "margin": 225,
+      "margin_pct": 0.79,
+      "leader": "Olivia Chow"
     },
     {
       "ward_num": 3,
       "ward_name": "Etobicoke-Lakeshore",
-      "chow_votes": 0,
-      "bradford_votes": 0,
-      "margin": 0,
-      "margin_pct": 0.0,
-      "leader": "Pending"
+      "chow_votes": 26086,
+      "bradford_votes": 27310,
+      "margin": -1224,
+      "margin_pct": -2.22,
+      "leader": "Brad Bradford"
     },
     {
-      "ward_num": 4,
-      "ward_name": "Parkdale-High Park",
-      "chow_votes": 0,
-      "bradford_votes": 0,
-      "margin": 0,
-      "margin_pct": 0.0,
-      "leader": "Pending"
+      "ward_num": 18,
+      "ward_name": "Willowdale",
+      "chow_votes": 15525,
+      "bradford_votes": 17238,
+      "margin": -1713,
+      "margin_pct": -5.01,
+      "leader": "Brad Bradford"
     },
     {
       "ward_num": 5,
       "ward_name": "York South-Weston",
-      "chow_votes": 0,
-      "bradford_votes": 0,
-      "margin": 0,
-      "margin_pct": 0.0,
-      "leader": "Pending"
+      "chow_votes": 17039,
+      "bradford_votes": 15321,
+      "margin": 1718,
+      "margin_pct": 4.92,
+      "leader": "Olivia Chow"
     }
   ]
 }
