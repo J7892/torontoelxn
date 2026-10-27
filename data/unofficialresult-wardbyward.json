@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "1408",
+    "pollsReceived": "1418",
     "totalVoters": "2143771",
-    "votesReceived": "967556",
+    "votesReceived": "975131",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "523641",
+        "votesReceived": "528166",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -33,10 +33,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "24930"
+            "votesCounted": "53745",
+            "votesReceived": "25291"
           },
           {
             "name": "Parkdale-High Park",
@@ -51,19 +51,19 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "16341"
+            "votesCounted": "34900",
+            "votesReceived": "17039"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
-            "votesReceived": "10900"
+            "votesCounted": "34592",
+            "votesReceived": "10914"
           },
           {
             "name": "Humber River-Black Creek",
@@ -132,10 +132,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "31747"
+            "votesCounted": "47360",
+            "votesReceived": "33675"
           },
           {
             "name": "Don Valley West",
@@ -150,10 +150,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "15430"
+            "votesCounted": "29582",
+            "votesReceived": "15767"
           },
           {
             "name": "Don Valley North",
@@ -213,19 +213,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "14908"
+            "votesCounted": "27490",
+            "votesReceived": "15598"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "15160"
+            "votesCounted": "29274",
+            "votesReceived": "15657"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -240,7 +240,7 @@
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "398274",
+        "votesReceived": "400936",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -264,10 +264,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "26153"
+            "votesCounted": "53745",
+            "votesReceived": "26569"
           },
           {
             "name": "Parkdale-High Park",
@@ -282,19 +282,19 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "14746"
+            "votesCounted": "34900",
+            "votesReceived": "15321"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
-            "votesReceived": "22177"
+            "votesCounted": "34592",
+            "votesReceived": "22197"
           },
           {
             "name": "Humber River-Black Creek",
@@ -363,10 +363,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "11269"
+            "votesCounted": "47360",
+            "votesReceived": "11931"
           },
           {
             "name": "Don Valley West",
@@ -381,10 +381,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "11916"
+            "votesCounted": "29582",
+            "votesReceived": "12246"
           },
           {
             "name": "Don Valley North",
@@ -444,19 +444,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "9132"
+            "votesCounted": "27490",
+            "votesReceived": "9497"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "11329"
+            "votesCounted": "29274",
+            "votesReceived": "11623"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -471,7 +471,7 @@
       },
       {
         "name": "Braeden Chow",
-        "votesReceived": "7951",
+        "votesReceived": "8015",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -495,10 +495,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "383"
+            "votesCounted": "53745",
+            "votesReceived": "386"
           },
           {
             "name": "Parkdale-High Park",
@@ -513,19 +513,19 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "374"
+            "votesCounted": "34900",
+            "votesReceived": "389"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
-            "votesReceived": "262"
+            "votesCounted": "34592",
+            "votesReceived": "263"
           },
           {
             "name": "Humber River-Black Creek",
@@ -594,10 +594,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "394"
+            "votesCounted": "47360",
+            "votesReceived": "409"
           },
           {
             "name": "Don Valley West",
@@ -612,10 +612,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "287"
+            "votesCounted": "29582",
+            "votesReceived": "292"
           },
           {
             "name": "Don Valley North",
@@ -675,19 +675,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "281"
+            "votesCounted": "27490",
+            "votesReceived": "297"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "309"
+            "votesCounted": "29274",
+            "votesReceived": "318"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -702,7 +702,7 @@
       },
       {
         "name": "Chris Alexander",
-        "votesReceived": "3507",
+        "votesReceived": "3524",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -726,10 +726,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "162"
+            "votesCounted": "53745",
+            "votesReceived": "163"
           },
           {
             "name": "Parkdale-High Park",
@@ -744,18 +744,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "189"
+            "votesCounted": "34900",
+            "votesReceived": "195"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "148"
           },
           {
@@ -825,10 +825,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "116"
+            "votesCounted": "47360",
+            "votesReceived": "119"
           },
           {
             "name": "Don Valley West",
@@ -843,10 +843,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "110"
+            "votesCounted": "29582",
+            "votesReceived": "111"
           },
           {
             "name": "Don Valley North",
@@ -906,19 +906,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "110"
+            "votesCounted": "27490",
+            "votesReceived": "115"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "115"
+            "votesCounted": "29274",
+            "votesReceived": "116"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -933,7 +933,7 @@
       },
       {
         "name": "Edward Gong",
-        "votesReceived": "3393",
+        "votesReceived": "3424",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -957,10 +957,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "110"
+            "votesCounted": "53745",
+            "votesReceived": "112"
           },
           {
             "name": "Parkdale-High Park",
@@ -975,18 +975,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "126"
+            "votesCounted": "34900",
+            "votesReceived": "128"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "94"
           },
           {
@@ -1056,10 +1056,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "76"
+            "votesCounted": "47360",
+            "votesReceived": "77"
           },
           {
             "name": "Don Valley West",
@@ -1074,10 +1074,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "116"
+            "votesCounted": "29582",
+            "votesReceived": "121"
           },
           {
             "name": "Don Valley North",
@@ -1137,19 +1137,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "289"
+            "votesCounted": "27490",
+            "votesReceived": "305"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "174"
+            "votesCounted": "29274",
+            "votesReceived": "179"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -1164,7 +1164,7 @@
       },
       {
         "name": "Laura Dean",
-        "votesReceived": "2176",
+        "votesReceived": "2197",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1188,10 +1188,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "119"
+            "votesCounted": "53745",
+            "votesReceived": "121"
           },
           {
             "name": "Parkdale-High Park",
@@ -1206,18 +1206,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "96"
+            "votesCounted": "34900",
+            "votesReceived": "101"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "65"
           },
           {
@@ -1287,10 +1287,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "128"
+            "votesCounted": "47360",
+            "votesReceived": "140"
           },
           {
             "name": "Don Valley West",
@@ -1305,10 +1305,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "44"
+            "votesCounted": "29582",
+            "votesReceived": "45"
           },
           {
             "name": "Don Valley North",
@@ -1368,18 +1368,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "29"
+            "votesCounted": "27490",
+            "votesReceived": "30"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "21"
           },
           {
@@ -1395,7 +1395,7 @@
       },
       {
         "name": "Darrell Brown",
-        "votesReceived": "2038",
+        "votesReceived": "2063",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1419,10 +1419,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "94"
+            "votesCounted": "53745",
+            "votesReceived": "99"
           },
           {
             "name": "Parkdale-High Park",
@@ -1437,18 +1437,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "107"
+            "votesCounted": "34900",
+            "votesReceived": "109"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "70"
           },
           {
@@ -1518,10 +1518,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "47"
+            "votesCounted": "47360",
+            "votesReceived": "55"
           },
           {
             "name": "Don Valley West",
@@ -1536,10 +1536,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "58"
+            "votesCounted": "29582",
+            "votesReceived": "61"
           },
           {
             "name": "Don Valley North",
@@ -1599,19 +1599,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "73"
+            "votesCounted": "27490",
+            "votesReceived": "75"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "73"
+            "votesCounted": "29274",
+            "votesReceived": "78"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -1626,7 +1626,7 @@
       },
       {
         "name": "Imad Abdulkadir",
-        "votesReceived": "1840",
+        "votesReceived": "1856",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1650,9 +1650,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "47"
           },
           {
@@ -1668,18 +1668,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "142"
+            "votesCounted": "34900",
+            "votesReceived": "147"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "37"
           },
           {
@@ -1749,9 +1749,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "34"
           },
           {
@@ -1767,9 +1767,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "84"
           },
           {
@@ -1830,19 +1830,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "104"
+            "votesCounted": "27490",
+            "votesReceived": "108"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "97"
+            "votesCounted": "29274",
+            "votesReceived": "104"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -1857,7 +1857,7 @@
       },
       {
         "name": "Bahira Abdulsalam",
-        "votesReceived": "1673",
+        "votesReceived": "1682",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1881,10 +1881,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "31"
+            "votesCounted": "53745",
+            "votesReceived": "32"
           },
           {
             "name": "Parkdale-High Park",
@@ -1899,18 +1899,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "80"
+            "votesCounted": "34900",
+            "votesReceived": "81"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "34"
           },
           {
@@ -1980,10 +1980,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "36"
+            "votesCounted": "47360",
+            "votesReceived": "37"
           },
           {
             "name": "Don Valley West",
@@ -1998,9 +1998,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "107"
           },
           {
@@ -2061,19 +2061,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "78"
+            "votesCounted": "27490",
+            "votesReceived": "80"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "78"
+            "votesCounted": "29274",
+            "votesReceived": "82"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -2087,8 +2087,239 @@
         ]
       },
       {
+        "name": "Rick Lee",
+        "votesReceived": "1273",
+        "ward": [
+          {
+            "name": "Etobicoke North",
+            "num": "1",
+            "polls": "46",
+            "pollsReceived": "44",
+            "totalVoters": "78411",
+            "votesCounted": "27577",
+            "votesReceived": "48"
+          },
+          {
+            "name": "Etobicoke Centre",
+            "num": "2",
+            "polls": "67",
+            "pollsReceived": "67",
+            "totalVoters": "97554",
+            "votesCounted": "46826",
+            "votesReceived": "36"
+          },
+          {
+            "name": "Etobicoke-Lakeshore",
+            "num": "3",
+            "polls": "82",
+            "pollsReceived": "81",
+            "totalVoters": "116485",
+            "votesCounted": "53745",
+            "votesReceived": "39"
+          },
+          {
+            "name": "Parkdale-High Park",
+            "num": "4",
+            "polls": "67",
+            "pollsReceived": "66",
+            "totalVoters": "88529",
+            "votesCounted": "49469",
+            "votesReceived": "26"
+          },
+          {
+            "name": "York South-Weston",
+            "num": "5",
+            "polls": "62",
+            "pollsReceived": "62",
+            "totalVoters": "83515",
+            "votesCounted": "34900",
+            "votesReceived": "52"
+          },
+          {
+            "name": "York Centre",
+            "num": "6",
+            "polls": "50",
+            "pollsReceived": "50",
+            "totalVoters": "79015",
+            "votesCounted": "34592",
+            "votesReceived": "45"
+          },
+          {
+            "name": "Humber River-Black Creek",
+            "num": "7",
+            "polls": "45",
+            "pollsReceived": "45",
+            "totalVoters": "73832",
+            "votesCounted": "24519",
+            "votesReceived": "79"
+          },
+          {
+            "name": "Eglinton-Lawrence",
+            "num": "8",
+            "polls": "61",
+            "pollsReceived": "60",
+            "totalVoters": "89581",
+            "votesCounted": "48332",
+            "votesReceived": "27"
+          },
+          {
+            "name": "Davenport",
+            "num": "9",
+            "polls": "53",
+            "pollsReceived": "52",
+            "totalVoters": "84706",
+            "votesCounted": "43317",
+            "votesReceived": "35"
+          },
+          {
+            "name": "Spadina-Fort York",
+            "num": "10",
+            "polls": "80",
+            "pollsReceived": "79",
+            "totalVoters": "123597",
+            "votesCounted": "50983",
+            "votesReceived": "35"
+          },
+          {
+            "name": "University-Rosedale",
+            "num": "11",
+            "polls": "72",
+            "pollsReceived": "71",
+            "totalVoters": "90868",
+            "votesCounted": "45429",
+            "votesReceived": "18"
+          },
+          {
+            "name": "Toronto-St. Paul's",
+            "num": "12",
+            "polls": "58",
+            "pollsReceived": "58",
+            "totalVoters": "95032",
+            "votesCounted": "52118",
+            "votesReceived": "22"
+          },
+          {
+            "name": "Toronto Centre",
+            "num": "13",
+            "polls": "78",
+            "pollsReceived": "77",
+            "totalVoters": "101769",
+            "votesCounted": "44715",
+            "votesReceived": "35"
+          },
+          {
+            "name": "Toronto-Danforth",
+            "num": "14",
+            "polls": "48",
+            "pollsReceived": "47",
+            "totalVoters": "85786",
+            "votesCounted": "47360",
+            "votesReceived": "35"
+          },
+          {
+            "name": "Don Valley West",
+            "num": "15",
+            "polls": "49",
+            "pollsReceived": "49",
+            "totalVoters": "76936",
+            "votesCounted": "38242",
+            "votesReceived": "25"
+          },
+          {
+            "name": "Don Valley East",
+            "num": "16",
+            "polls": "62",
+            "pollsReceived": "62",
+            "totalVoters": "70080",
+            "votesCounted": "29582",
+            "votesReceived": "38"
+          },
+          {
+            "name": "Don Valley North",
+            "num": "17",
+            "polls": "60",
+            "pollsReceived": "60",
+            "totalVoters": "81623",
+            "votesCounted": "32861",
+            "votesReceived": "68"
+          },
+          {
+            "name": "Willowdale",
+            "num": "18",
+            "polls": "56",
+            "pollsReceived": "56",
+            "totalVoters": "84671",
+            "votesCounted": "34223",
+            "votesReceived": "118"
+          },
+          {
+            "name": "Beaches-East York",
+            "num": "19",
+            "polls": "53",
+            "pollsReceived": "52",
+            "totalVoters": "85048",
+            "votesCounted": "46955",
+            "votesReceived": "24"
+          },
+          {
+            "name": "Scarborough Southwest",
+            "num": "20",
+            "polls": "61",
+            "pollsReceived": "61",
+            "totalVoters": "82427",
+            "votesCounted": "36538",
+            "votesReceived": "31"
+          },
+          {
+            "name": "Scarborough Centre",
+            "num": "21",
+            "polls": "49",
+            "pollsReceived": "49",
+            "totalVoters": "80557",
+            "votesCounted": "32532",
+            "votesReceived": "52"
+          },
+          {
+            "name": "Scarborough-Agincourt",
+            "num": "22",
+            "polls": "47",
+            "pollsReceived": "47",
+            "totalVoters": "75224",
+            "votesCounted": "29394",
+            "votesReceived": "120"
+          },
+          {
+            "name": "Scarborough North",
+            "num": "23",
+            "polls": "37",
+            "pollsReceived": "37",
+            "totalVoters": "66760",
+            "votesCounted": "27490",
+            "votesReceived": "188"
+          },
+          {
+            "name": "Scarborough-Guildwood",
+            "num": "24",
+            "polls": "48",
+            "pollsReceived": "48",
+            "totalVoters": "72345",
+            "votesCounted": "29274",
+            "votesReceived": "32"
+          },
+          {
+            "name": "Scarborough-Rouge Park",
+            "num": "25",
+            "polls": "40",
+            "pollsReceived": "38",
+            "totalVoters": "79420",
+            "votesCounted": "34158",
+            "votesReceived": "45"
+          }
+        ]
+      },
+      {
         "name": "Logan Choy",
-        "votesReceived": "1260",
+        "votesReceived": "1266",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2112,9 +2343,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "40"
           },
           {
@@ -2130,18 +2361,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "56"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "43"
           },
           {
@@ -2211,10 +2442,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "49"
+            "votesCounted": "47360",
+            "votesReceived": "50"
           },
           {
             "name": "Don Valley West",
@@ -2229,9 +2460,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "28"
           },
           {
@@ -2292,19 +2523,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "103"
+            "votesCounted": "27490",
+            "votesReceived": "105"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "71"
+            "votesCounted": "29274",
+            "votesReceived": "74"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -2318,239 +2549,8 @@
         ]
       },
       {
-        "name": "Rick Lee",
-        "votesReceived": "1258",
-        "ward": [
-          {
-            "name": "Etobicoke North",
-            "num": "1",
-            "polls": "46",
-            "pollsReceived": "44",
-            "totalVoters": "78411",
-            "votesCounted": "27577",
-            "votesReceived": "48"
-          },
-          {
-            "name": "Etobicoke Centre",
-            "num": "2",
-            "polls": "67",
-            "pollsReceived": "67",
-            "totalVoters": "97554",
-            "votesCounted": "46826",
-            "votesReceived": "36"
-          },
-          {
-            "name": "Etobicoke-Lakeshore",
-            "num": "3",
-            "polls": "82",
-            "pollsReceived": "79",
-            "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "39"
-          },
-          {
-            "name": "Parkdale-High Park",
-            "num": "4",
-            "polls": "67",
-            "pollsReceived": "66",
-            "totalVoters": "88529",
-            "votesCounted": "49469",
-            "votesReceived": "26"
-          },
-          {
-            "name": "York South-Weston",
-            "num": "5",
-            "polls": "62",
-            "pollsReceived": "60",
-            "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "51"
-          },
-          {
-            "name": "York Centre",
-            "num": "6",
-            "polls": "50",
-            "pollsReceived": "49",
-            "totalVoters": "79015",
-            "votesCounted": "34555",
-            "votesReceived": "45"
-          },
-          {
-            "name": "Humber River-Black Creek",
-            "num": "7",
-            "polls": "45",
-            "pollsReceived": "45",
-            "totalVoters": "73832",
-            "votesCounted": "24519",
-            "votesReceived": "79"
-          },
-          {
-            "name": "Eglinton-Lawrence",
-            "num": "8",
-            "polls": "61",
-            "pollsReceived": "60",
-            "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "27"
-          },
-          {
-            "name": "Davenport",
-            "num": "9",
-            "polls": "53",
-            "pollsReceived": "52",
-            "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "35"
-          },
-          {
-            "name": "Spadina-Fort York",
-            "num": "10",
-            "polls": "80",
-            "pollsReceived": "79",
-            "totalVoters": "123597",
-            "votesCounted": "50983",
-            "votesReceived": "35"
-          },
-          {
-            "name": "University-Rosedale",
-            "num": "11",
-            "polls": "72",
-            "pollsReceived": "71",
-            "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "18"
-          },
-          {
-            "name": "Toronto-St. Paul's",
-            "num": "12",
-            "polls": "58",
-            "pollsReceived": "58",
-            "totalVoters": "95032",
-            "votesCounted": "52118",
-            "votesReceived": "22"
-          },
-          {
-            "name": "Toronto Centre",
-            "num": "13",
-            "polls": "78",
-            "pollsReceived": "77",
-            "totalVoters": "101769",
-            "votesCounted": "44715",
-            "votesReceived": "35"
-          },
-          {
-            "name": "Toronto-Danforth",
-            "num": "14",
-            "polls": "48",
-            "pollsReceived": "45",
-            "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "34"
-          },
-          {
-            "name": "Don Valley West",
-            "num": "15",
-            "polls": "49",
-            "pollsReceived": "49",
-            "totalVoters": "76936",
-            "votesCounted": "38242",
-            "votesReceived": "25"
-          },
-          {
-            "name": "Don Valley East",
-            "num": "16",
-            "polls": "62",
-            "pollsReceived": "61",
-            "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "38"
-          },
-          {
-            "name": "Don Valley North",
-            "num": "17",
-            "polls": "60",
-            "pollsReceived": "60",
-            "totalVoters": "81623",
-            "votesCounted": "32861",
-            "votesReceived": "68"
-          },
-          {
-            "name": "Willowdale",
-            "num": "18",
-            "polls": "56",
-            "pollsReceived": "56",
-            "totalVoters": "84671",
-            "votesCounted": "34223",
-            "votesReceived": "118"
-          },
-          {
-            "name": "Beaches-East York",
-            "num": "19",
-            "polls": "53",
-            "pollsReceived": "52",
-            "totalVoters": "85048",
-            "votesCounted": "46955",
-            "votesReceived": "24"
-          },
-          {
-            "name": "Scarborough Southwest",
-            "num": "20",
-            "polls": "61",
-            "pollsReceived": "61",
-            "totalVoters": "82427",
-            "votesCounted": "36538",
-            "votesReceived": "31"
-          },
-          {
-            "name": "Scarborough Centre",
-            "num": "21",
-            "polls": "49",
-            "pollsReceived": "49",
-            "totalVoters": "80557",
-            "votesCounted": "32532",
-            "votesReceived": "52"
-          },
-          {
-            "name": "Scarborough-Agincourt",
-            "num": "22",
-            "polls": "47",
-            "pollsReceived": "47",
-            "totalVoters": "75224",
-            "votesCounted": "29394",
-            "votesReceived": "120"
-          },
-          {
-            "name": "Scarborough North",
-            "num": "23",
-            "polls": "37",
-            "pollsReceived": "36",
-            "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "176"
-          },
-          {
-            "name": "Scarborough-Guildwood",
-            "num": "24",
-            "polls": "48",
-            "pollsReceived": "47",
-            "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "31"
-          },
-          {
-            "name": "Scarborough-Rouge Park",
-            "num": "25",
-            "polls": "40",
-            "pollsReceived": "38",
-            "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "45"
-          }
-        ]
-      },
-      {
         "name": "Sandeep Srivastava",
-        "votesReceived": "1131",
+        "votesReceived": "1138",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2574,9 +2574,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "27"
           },
           {
@@ -2592,18 +2592,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "17"
+            "votesCounted": "34900",
+            "votesReceived": "19"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "10"
           },
           {
@@ -2673,10 +2673,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "10"
+            "votesCounted": "47360",
+            "votesReceived": "11"
           },
           {
             "name": "Don Valley West",
@@ -2691,9 +2691,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "21"
           },
           {
@@ -2754,19 +2754,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "133"
+            "votesCounted": "27490",
+            "votesReceived": "134"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "138"
+            "votesCounted": "29274",
+            "votesReceived": "141"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -2780,239 +2780,8 @@
         ]
       },
       {
-        "name": "Georgios Kalkounis",
-        "votesReceived": "1071",
-        "ward": [
-          {
-            "name": "Etobicoke North",
-            "num": "1",
-            "polls": "46",
-            "pollsReceived": "44",
-            "totalVoters": "78411",
-            "votesCounted": "27577",
-            "votesReceived": "36"
-          },
-          {
-            "name": "Etobicoke Centre",
-            "num": "2",
-            "polls": "67",
-            "pollsReceived": "67",
-            "totalVoters": "97554",
-            "votesCounted": "46826",
-            "votesReceived": "50"
-          },
-          {
-            "name": "Etobicoke-Lakeshore",
-            "num": "3",
-            "polls": "82",
-            "pollsReceived": "79",
-            "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "34"
-          },
-          {
-            "name": "Parkdale-High Park",
-            "num": "4",
-            "polls": "67",
-            "pollsReceived": "66",
-            "totalVoters": "88529",
-            "votesCounted": "49469",
-            "votesReceived": "30"
-          },
-          {
-            "name": "York South-Weston",
-            "num": "5",
-            "polls": "62",
-            "pollsReceived": "60",
-            "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "51"
-          },
-          {
-            "name": "York Centre",
-            "num": "6",
-            "polls": "50",
-            "pollsReceived": "49",
-            "totalVoters": "79015",
-            "votesCounted": "34555",
-            "votesReceived": "34"
-          },
-          {
-            "name": "Humber River-Black Creek",
-            "num": "7",
-            "polls": "45",
-            "pollsReceived": "45",
-            "totalVoters": "73832",
-            "votesCounted": "24519",
-            "votesReceived": "28"
-          },
-          {
-            "name": "Eglinton-Lawrence",
-            "num": "8",
-            "polls": "61",
-            "pollsReceived": "60",
-            "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "19"
-          },
-          {
-            "name": "Davenport",
-            "num": "9",
-            "polls": "53",
-            "pollsReceived": "52",
-            "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "20"
-          },
-          {
-            "name": "Spadina-Fort York",
-            "num": "10",
-            "polls": "80",
-            "pollsReceived": "79",
-            "totalVoters": "123597",
-            "votesCounted": "50983",
-            "votesReceived": "19"
-          },
-          {
-            "name": "University-Rosedale",
-            "num": "11",
-            "polls": "72",
-            "pollsReceived": "71",
-            "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "18"
-          },
-          {
-            "name": "Toronto-St. Paul's",
-            "num": "12",
-            "polls": "58",
-            "pollsReceived": "58",
-            "totalVoters": "95032",
-            "votesCounted": "52118",
-            "votesReceived": "36"
-          },
-          {
-            "name": "Toronto Centre",
-            "num": "13",
-            "polls": "78",
-            "pollsReceived": "77",
-            "totalVoters": "101769",
-            "votesCounted": "44715",
-            "votesReceived": "15"
-          },
-          {
-            "name": "Toronto-Danforth",
-            "num": "14",
-            "polls": "48",
-            "pollsReceived": "45",
-            "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "124"
-          },
-          {
-            "name": "Don Valley West",
-            "num": "15",
-            "polls": "49",
-            "pollsReceived": "49",
-            "totalVoters": "76936",
-            "votesCounted": "38242",
-            "votesReceived": "31"
-          },
-          {
-            "name": "Don Valley East",
-            "num": "16",
-            "polls": "62",
-            "pollsReceived": "61",
-            "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "82"
-          },
-          {
-            "name": "Don Valley North",
-            "num": "17",
-            "polls": "60",
-            "pollsReceived": "60",
-            "totalVoters": "81623",
-            "votesCounted": "32861",
-            "votesReceived": "54"
-          },
-          {
-            "name": "Willowdale",
-            "num": "18",
-            "polls": "56",
-            "pollsReceived": "56",
-            "totalVoters": "84671",
-            "votesCounted": "34223",
-            "votesReceived": "21"
-          },
-          {
-            "name": "Beaches-East York",
-            "num": "19",
-            "polls": "53",
-            "pollsReceived": "52",
-            "totalVoters": "85048",
-            "votesCounted": "46955",
-            "votesReceived": "57"
-          },
-          {
-            "name": "Scarborough Southwest",
-            "num": "20",
-            "polls": "61",
-            "pollsReceived": "61",
-            "totalVoters": "82427",
-            "votesCounted": "36538",
-            "votesReceived": "56"
-          },
-          {
-            "name": "Scarborough Centre",
-            "num": "21",
-            "polls": "49",
-            "pollsReceived": "49",
-            "totalVoters": "80557",
-            "votesCounted": "32532",
-            "votesReceived": "97"
-          },
-          {
-            "name": "Scarborough-Agincourt",
-            "num": "22",
-            "polls": "47",
-            "pollsReceived": "47",
-            "totalVoters": "75224",
-            "votesCounted": "29394",
-            "votesReceived": "71"
-          },
-          {
-            "name": "Scarborough North",
-            "num": "23",
-            "polls": "37",
-            "pollsReceived": "36",
-            "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "22"
-          },
-          {
-            "name": "Scarborough-Guildwood",
-            "num": "24",
-            "polls": "48",
-            "pollsReceived": "47",
-            "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "41"
-          },
-          {
-            "name": "Scarborough-Rouge Park",
-            "num": "25",
-            "polls": "40",
-            "pollsReceived": "38",
-            "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "25"
-          }
-        ]
-      },
-      {
         "name": "Kevin Clarke",
-        "votesReceived": "1068",
+        "votesReceived": "1079",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3036,9 +2805,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "41"
           },
           {
@@ -3054,18 +2823,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "47"
+            "votesCounted": "34900",
+            "votesReceived": "52"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "23"
           },
           {
@@ -3135,9 +2904,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "28"
           },
           {
@@ -3153,10 +2922,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "21"
+            "votesCounted": "29582",
+            "votesReceived": "22"
           },
           {
             "name": "Don Valley North",
@@ -3216,19 +2985,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "107"
+            "votesCounted": "27490",
+            "votesReceived": "111"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "45"
+            "votesCounted": "29274",
+            "votesReceived": "46"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -3242,8 +3011,239 @@
         ]
       },
       {
+        "name": "Georgios Kalkounis",
+        "votesReceived": "1079",
+        "ward": [
+          {
+            "name": "Etobicoke North",
+            "num": "1",
+            "polls": "46",
+            "pollsReceived": "44",
+            "totalVoters": "78411",
+            "votesCounted": "27577",
+            "votesReceived": "36"
+          },
+          {
+            "name": "Etobicoke Centre",
+            "num": "2",
+            "polls": "67",
+            "pollsReceived": "67",
+            "totalVoters": "97554",
+            "votesCounted": "46826",
+            "votesReceived": "50"
+          },
+          {
+            "name": "Etobicoke-Lakeshore",
+            "num": "3",
+            "polls": "82",
+            "pollsReceived": "81",
+            "totalVoters": "116485",
+            "votesCounted": "53745",
+            "votesReceived": "34"
+          },
+          {
+            "name": "Parkdale-High Park",
+            "num": "4",
+            "polls": "67",
+            "pollsReceived": "66",
+            "totalVoters": "88529",
+            "votesCounted": "49469",
+            "votesReceived": "30"
+          },
+          {
+            "name": "York South-Weston",
+            "num": "5",
+            "polls": "62",
+            "pollsReceived": "62",
+            "totalVoters": "83515",
+            "votesCounted": "34900",
+            "votesReceived": "54"
+          },
+          {
+            "name": "York Centre",
+            "num": "6",
+            "polls": "50",
+            "pollsReceived": "50",
+            "totalVoters": "79015",
+            "votesCounted": "34592",
+            "votesReceived": "34"
+          },
+          {
+            "name": "Humber River-Black Creek",
+            "num": "7",
+            "polls": "45",
+            "pollsReceived": "45",
+            "totalVoters": "73832",
+            "votesCounted": "24519",
+            "votesReceived": "28"
+          },
+          {
+            "name": "Eglinton-Lawrence",
+            "num": "8",
+            "polls": "61",
+            "pollsReceived": "60",
+            "totalVoters": "89581",
+            "votesCounted": "48332",
+            "votesReceived": "19"
+          },
+          {
+            "name": "Davenport",
+            "num": "9",
+            "polls": "53",
+            "pollsReceived": "52",
+            "totalVoters": "84706",
+            "votesCounted": "43317",
+            "votesReceived": "20"
+          },
+          {
+            "name": "Spadina-Fort York",
+            "num": "10",
+            "polls": "80",
+            "pollsReceived": "79",
+            "totalVoters": "123597",
+            "votesCounted": "50983",
+            "votesReceived": "19"
+          },
+          {
+            "name": "University-Rosedale",
+            "num": "11",
+            "polls": "72",
+            "pollsReceived": "71",
+            "totalVoters": "90868",
+            "votesCounted": "45429",
+            "votesReceived": "18"
+          },
+          {
+            "name": "Toronto-St. Paul's",
+            "num": "12",
+            "polls": "58",
+            "pollsReceived": "58",
+            "totalVoters": "95032",
+            "votesCounted": "52118",
+            "votesReceived": "36"
+          },
+          {
+            "name": "Toronto Centre",
+            "num": "13",
+            "polls": "78",
+            "pollsReceived": "77",
+            "totalVoters": "101769",
+            "votesCounted": "44715",
+            "votesReceived": "15"
+          },
+          {
+            "name": "Toronto-Danforth",
+            "num": "14",
+            "polls": "48",
+            "pollsReceived": "47",
+            "totalVoters": "85786",
+            "votesCounted": "47360",
+            "votesReceived": "125"
+          },
+          {
+            "name": "Don Valley West",
+            "num": "15",
+            "polls": "49",
+            "pollsReceived": "49",
+            "totalVoters": "76936",
+            "votesCounted": "38242",
+            "votesReceived": "31"
+          },
+          {
+            "name": "Don Valley East",
+            "num": "16",
+            "polls": "62",
+            "pollsReceived": "62",
+            "totalVoters": "70080",
+            "votesCounted": "29582",
+            "votesReceived": "85"
+          },
+          {
+            "name": "Don Valley North",
+            "num": "17",
+            "polls": "60",
+            "pollsReceived": "60",
+            "totalVoters": "81623",
+            "votesCounted": "32861",
+            "votesReceived": "54"
+          },
+          {
+            "name": "Willowdale",
+            "num": "18",
+            "polls": "56",
+            "pollsReceived": "56",
+            "totalVoters": "84671",
+            "votesCounted": "34223",
+            "votesReceived": "21"
+          },
+          {
+            "name": "Beaches-East York",
+            "num": "19",
+            "polls": "53",
+            "pollsReceived": "52",
+            "totalVoters": "85048",
+            "votesCounted": "46955",
+            "votesReceived": "57"
+          },
+          {
+            "name": "Scarborough Southwest",
+            "num": "20",
+            "polls": "61",
+            "pollsReceived": "61",
+            "totalVoters": "82427",
+            "votesCounted": "36538",
+            "votesReceived": "56"
+          },
+          {
+            "name": "Scarborough Centre",
+            "num": "21",
+            "polls": "49",
+            "pollsReceived": "49",
+            "totalVoters": "80557",
+            "votesCounted": "32532",
+            "votesReceived": "97"
+          },
+          {
+            "name": "Scarborough-Agincourt",
+            "num": "22",
+            "polls": "47",
+            "pollsReceived": "47",
+            "totalVoters": "75224",
+            "votesCounted": "29394",
+            "votesReceived": "71"
+          },
+          {
+            "name": "Scarborough North",
+            "num": "23",
+            "polls": "37",
+            "pollsReceived": "37",
+            "totalVoters": "66760",
+            "votesCounted": "27490",
+            "votesReceived": "22"
+          },
+          {
+            "name": "Scarborough-Guildwood",
+            "num": "24",
+            "polls": "48",
+            "pollsReceived": "48",
+            "totalVoters": "72345",
+            "votesCounted": "29274",
+            "votesReceived": "42"
+          },
+          {
+            "name": "Scarborough-Rouge Park",
+            "num": "25",
+            "polls": "40",
+            "pollsReceived": "38",
+            "totalVoters": "79420",
+            "votesCounted": "34158",
+            "votesReceived": "25"
+          }
+        ]
+      },
+      {
         "name": "Roberto Curto",
-        "votesReceived": "945",
+        "votesReceived": "955",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3267,9 +3267,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "47"
           },
           {
@@ -3285,18 +3285,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "102"
+            "votesCounted": "34900",
+            "votesReceived": "106"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "49"
           },
           {
@@ -3366,10 +3366,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "18"
+            "votesCounted": "47360",
+            "votesReceived": "22"
           },
           {
             "name": "Don Valley West",
@@ -3384,10 +3384,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "21"
+            "votesCounted": "29582",
+            "votesReceived": "22"
           },
           {
             "name": "Don Valley North",
@@ -3447,18 +3447,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "11"
+            "votesCounted": "27490",
+            "votesReceived": "12"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "28"
           },
           {
@@ -3474,7 +3474,7 @@
       },
       {
         "name": "Sarah McVie",
-        "votesReceived": "944",
+        "votesReceived": "948",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3498,9 +3498,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "53"
           },
           {
@@ -3516,18 +3516,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "107"
+            "votesCounted": "34900",
+            "votesReceived": "108"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "31"
           },
           {
@@ -3597,10 +3597,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "57"
+            "votesCounted": "47360",
+            "votesReceived": "60"
           },
           {
             "name": "Don Valley West",
@@ -3615,9 +3615,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "20"
           },
           {
@@ -3678,18 +3678,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "15"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "34"
           },
           {
@@ -3705,7 +3705,7 @@
       },
       {
         "name": "Jamie Atkinson",
-        "votesReceived": "917",
+        "votesReceived": "927",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3729,10 +3729,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "37"
+            "votesCounted": "53745",
+            "votesReceived": "38"
           },
           {
             "name": "Parkdale-High Park",
@@ -3747,18 +3747,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "57"
+            "votesCounted": "34900",
+            "votesReceived": "60"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "44"
           },
           {
@@ -3828,9 +3828,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "35"
           },
           {
@@ -3846,9 +3846,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "32"
           },
           {
@@ -3909,19 +3909,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "39"
+            "votesCounted": "27490",
+            "votesReceived": "43"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "33"
+            "votesCounted": "29274",
+            "votesReceived": "35"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -3936,7 +3936,7 @@
       },
       {
         "name": "Amy Rosen",
-        "votesReceived": "904",
+        "votesReceived": "912",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3960,10 +3960,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "37"
+            "votesCounted": "53745",
+            "votesReceived": "38"
           },
           {
             "name": "Parkdale-High Park",
@@ -3978,18 +3978,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "34"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "45"
           },
           {
@@ -4059,10 +4059,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "48"
+            "votesCounted": "47360",
+            "votesReceived": "52"
           },
           {
             "name": "Don Valley West",
@@ -4077,9 +4077,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "17"
           },
           {
@@ -4140,19 +4140,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "22"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "28"
+            "votesCounted": "29274",
+            "votesReceived": "31"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -4167,7 +4167,7 @@
       },
       {
         "name": "Paul Collins",
-        "votesReceived": "830",
+        "votesReceived": "839",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4191,9 +4191,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "35"
           },
           {
@@ -4209,19 +4209,19 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "62"
+            "votesCounted": "34900",
+            "votesReceived": "65"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
-            "votesReceived": "22"
+            "votesCounted": "34592",
+            "votesReceived": "23"
           },
           {
             "name": "Humber River-Black Creek",
@@ -4290,9 +4290,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "18"
           },
           {
@@ -4308,9 +4308,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "11"
           },
           {
@@ -4371,19 +4371,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "21"
+            "votesCounted": "27490",
+            "votesReceived": "23"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "101"
+            "votesCounted": "29274",
+            "votesReceived": "104"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -4398,7 +4398,7 @@
       },
       {
         "name": "Lyall Sanders",
-        "votesReceived": "772",
+        "votesReceived": "775",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4422,10 +4422,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "33"
+            "votesCounted": "53745",
+            "votesReceived": "34"
           },
           {
             "name": "Parkdale-High Park",
@@ -4440,18 +4440,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "41"
+            "votesCounted": "34900",
+            "votesReceived": "42"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "30"
           },
           {
@@ -4521,9 +4521,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "34"
           },
           {
@@ -4539,9 +4539,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "33"
           },
           {
@@ -4602,18 +4602,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "30"
+            "votesCounted": "27490",
+            "votesReceived": "31"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "25"
           },
           {
@@ -4629,7 +4629,7 @@
       },
       {
         "name": "Mohamad Kaaki",
-        "votesReceived": "716",
+        "votesReceived": "719",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4653,10 +4653,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "9"
+            "votesCounted": "53745",
+            "votesReceived": "10"
           },
           {
             "name": "Parkdale-High Park",
@@ -4671,18 +4671,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "62"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "17"
           },
           {
@@ -4752,9 +4752,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "17"
           },
           {
@@ -4770,9 +4770,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "34"
           },
           {
@@ -4833,19 +4833,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "46"
+            "votesCounted": "27490",
+            "votesReceived": "47"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "44"
+            "votesCounted": "29274",
+            "votesReceived": "45"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -4860,7 +4860,7 @@
       },
       {
         "name": "Joshua Thompson",
-        "votesReceived": "695",
+        "votesReceived": "702",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4884,10 +4884,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "21"
+            "votesCounted": "53745",
+            "votesReceived": "23"
           },
           {
             "name": "Parkdale-High Park",
@@ -4902,18 +4902,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "35"
+            "votesCounted": "34900",
+            "votesReceived": "36"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "23"
           },
           {
@@ -4983,9 +4983,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "13"
           },
           {
@@ -5001,9 +5001,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "23"
           },
           {
@@ -5064,19 +5064,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "24"
+            "votesCounted": "27490",
+            "votesReceived": "26"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "22"
+            "votesCounted": "29274",
+            "votesReceived": "24"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -5091,7 +5091,7 @@
       },
       {
         "name": "Brian Buffey",
-        "votesReceived": "639",
+        "votesReceived": "647",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5115,10 +5115,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "36"
+            "votesCounted": "53745",
+            "votesReceived": "38"
           },
           {
             "name": "Parkdale-High Park",
@@ -5133,19 +5133,19 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "43"
+            "votesCounted": "34900",
+            "votesReceived": "46"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
-            "votesReceived": "17"
+            "votesCounted": "34592",
+            "votesReceived": "18"
           },
           {
             "name": "Humber River-Black Creek",
@@ -5214,9 +5214,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "26"
           },
           {
@@ -5232,9 +5232,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "12"
           },
           {
@@ -5295,19 +5295,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "32"
+            "votesCounted": "27490",
+            "votesReceived": "33"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "33"
+            "votesCounted": "29274",
+            "votesReceived": "34"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -5322,7 +5322,7 @@
       },
       {
         "name": "Laura Ellis",
-        "votesReceived": "617",
+        "votesReceived": "624",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5346,9 +5346,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "34"
           },
           {
@@ -5364,18 +5364,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "44"
+            "votesCounted": "34900",
+            "votesReceived": "46"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "24"
           },
           {
@@ -5445,10 +5445,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "29"
+            "votesCounted": "47360",
+            "votesReceived": "32"
           },
           {
             "name": "Don Valley West",
@@ -5463,10 +5463,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "18"
+            "votesCounted": "29582",
+            "votesReceived": "19"
           },
           {
             "name": "Don Valley North",
@@ -5526,18 +5526,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "18"
+            "votesCounted": "27490",
+            "votesReceived": "19"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "12"
           },
           {
@@ -5553,7 +5553,7 @@
       },
       {
         "name": "Michael Lamoureux",
-        "votesReceived": "551",
+        "votesReceived": "561",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5577,10 +5577,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "35"
+            "votesCounted": "53745",
+            "votesReceived": "36"
           },
           {
             "name": "Parkdale-High Park",
@@ -5595,18 +5595,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "21"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "22"
           },
           {
@@ -5676,10 +5676,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "23"
+            "votesCounted": "47360",
+            "votesReceived": "29"
           },
           {
             "name": "Don Valley West",
@@ -5694,10 +5694,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "14"
+            "votesCounted": "29582",
+            "votesReceived": "15"
           },
           {
             "name": "Don Valley North",
@@ -5757,19 +5757,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "27"
+            "votesCounted": "27490",
+            "votesReceived": "28"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "12"
+            "votesCounted": "29274",
+            "votesReceived": "13"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -5784,7 +5784,7 @@
       },
       {
         "name": "Robert Shusterman",
-        "votesReceived": "507",
+        "votesReceived": "512",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5808,10 +5808,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "28"
+            "votesCounted": "53745",
+            "votesReceived": "30"
           },
           {
             "name": "Parkdale-High Park",
@@ -5826,18 +5826,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "17"
+            "votesCounted": "34900",
+            "votesReceived": "18"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "31"
           },
           {
@@ -5907,9 +5907,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "7"
           },
           {
@@ -5925,9 +5925,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "13"
           },
           {
@@ -5988,19 +5988,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "22"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "16"
+            "votesCounted": "29274",
+            "votesReceived": "18"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -6015,7 +6015,7 @@
       },
       {
         "name": "Cory Deville",
-        "votesReceived": "474",
+        "votesReceived": "478",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6039,9 +6039,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "23"
           },
           {
@@ -6057,18 +6057,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "34"
+            "votesCounted": "34900",
+            "votesReceived": "35"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "20"
           },
           {
@@ -6138,10 +6138,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "10"
+            "votesCounted": "47360",
+            "votesReceived": "11"
           },
           {
             "name": "Don Valley West",
@@ -6156,9 +6156,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "13"
           },
           {
@@ -6219,19 +6219,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "7"
+            "votesCounted": "27490",
+            "votesReceived": "8"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "24"
+            "votesCounted": "29274",
+            "votesReceived": "25"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -6246,7 +6246,7 @@
       },
       {
         "name": "Odessa Paloma Parker",
-        "votesReceived": "448",
+        "votesReceived": "452",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6270,9 +6270,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "28"
           },
           {
@@ -6288,18 +6288,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "27"
+            "votesCounted": "34900",
+            "votesReceived": "29"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "18"
           },
           {
@@ -6369,10 +6369,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "19"
+            "votesCounted": "47360",
+            "votesReceived": "20"
           },
           {
             "name": "Don Valley West",
@@ -6387,9 +6387,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "14"
           },
           {
@@ -6450,18 +6450,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "12"
+            "votesCounted": "27490",
+            "votesReceived": "13"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "13"
           },
           {
@@ -6477,7 +6477,7 @@
       },
       {
         "name": "Martin Fraser",
-        "votesReceived": "432",
+        "votesReceived": "436",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6501,9 +6501,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "23"
           },
           {
@@ -6519,18 +6519,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "33"
+            "votesCounted": "34900",
+            "votesReceived": "35"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "11"
           },
           {
@@ -6600,9 +6600,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "17"
           },
           {
@@ -6618,9 +6618,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "9"
           },
           {
@@ -6681,18 +6681,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "8"
+            "votesCounted": "27490",
+            "votesReceived": "10"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "13"
           },
           {
@@ -6708,7 +6708,7 @@
       },
       {
         "name": "Alton Frederick",
-        "votesReceived": "424",
+        "votesReceived": "428",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6732,10 +6732,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "16"
+            "votesCounted": "53745",
+            "votesReceived": "17"
           },
           {
             "name": "Parkdale-High Park",
@@ -6750,18 +6750,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "37"
+            "votesCounted": "34900",
+            "votesReceived": "38"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "19"
           },
           {
@@ -6831,9 +6831,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "29"
           },
           {
@@ -6849,9 +6849,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "14"
           },
           {
@@ -6912,19 +6912,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "28"
+            "votesCounted": "27490",
+            "votesReceived": "29"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "21"
+            "votesCounted": "29274",
+            "votesReceived": "22"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -6939,7 +6939,7 @@
       },
       {
         "name": "Heather He",
-        "votesReceived": "416",
+        "votesReceived": "419",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6963,9 +6963,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "11"
           },
           {
@@ -6981,18 +6981,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "14"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "14"
           },
           {
@@ -7062,10 +7062,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "11"
+            "votesCounted": "47360",
+            "votesReceived": "12"
           },
           {
             "name": "Don Valley West",
@@ -7080,9 +7080,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "12"
           },
           {
@@ -7143,18 +7143,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "42"
+            "votesCounted": "27490",
+            "votesReceived": "44"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "14"
           },
           {
@@ -7170,7 +7170,7 @@
       },
       {
         "name": "Mostafa Zandkarimi",
-        "votesReceived": "391",
+        "votesReceived": "392",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7194,9 +7194,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "7"
           },
           {
@@ -7212,18 +7212,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "17"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "10"
           },
           {
@@ -7293,9 +7293,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "6"
           },
           {
@@ -7311,9 +7311,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "17"
           },
           {
@@ -7374,18 +7374,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "15"
+            "votesCounted": "27490",
+            "votesReceived": "16"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "14"
           },
           {
@@ -7401,7 +7401,7 @@
       },
       {
         "name": "Faizan Haider",
-        "votesReceived": "362",
+        "votesReceived": "366",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7425,10 +7425,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "5"
+            "votesCounted": "53745",
+            "votesReceived": "6"
           },
           {
             "name": "Parkdale-High Park",
@@ -7443,18 +7443,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "21"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "6"
           },
           {
@@ -7524,9 +7524,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "6"
           },
           {
@@ -7542,9 +7542,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "29"
           },
           {
@@ -7605,19 +7605,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "26"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "25"
+            "votesCounted": "29274",
+            "votesReceived": "28"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -7632,7 +7632,7 @@
       },
       {
         "name": "Alex Cruze",
-        "votesReceived": "359",
+        "votesReceived": "363",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7656,9 +7656,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "13"
           },
           {
@@ -7674,18 +7674,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "26"
+            "votesCounted": "34900",
+            "votesReceived": "27"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "10"
           },
           {
@@ -7755,9 +7755,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "10"
           },
           {
@@ -7773,9 +7773,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "9"
           },
           {
@@ -7836,265 +7836,34 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "21"
+            "votesCounted": "27490",
+            "votesReceived": "22"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "14"
-          },
-          {
-            "name": "Scarborough-Rouge Park",
-            "num": "25",
-            "polls": "40",
-            "pollsReceived": "38",
-            "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "15"
-          }
-        ]
-      },
-      {
-        "name": "Kuo Yu Tong",
-        "votesReceived": "358",
-        "ward": [
-          {
-            "name": "Etobicoke North",
-            "num": "1",
-            "polls": "46",
-            "pollsReceived": "44",
-            "totalVoters": "78411",
-            "votesCounted": "27577",
-            "votesReceived": "13"
-          },
-          {
-            "name": "Etobicoke Centre",
-            "num": "2",
-            "polls": "67",
-            "pollsReceived": "67",
-            "totalVoters": "97554",
-            "votesCounted": "46826",
-            "votesReceived": "11"
-          },
-          {
-            "name": "Etobicoke-Lakeshore",
-            "num": "3",
-            "polls": "82",
-            "pollsReceived": "79",
-            "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "10"
-          },
-          {
-            "name": "Parkdale-High Park",
-            "num": "4",
-            "polls": "67",
-            "pollsReceived": "66",
-            "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "29274",
             "votesReceived": "16"
           },
           {
-            "name": "York South-Weston",
-            "num": "5",
-            "polls": "62",
-            "pollsReceived": "60",
-            "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "13"
-          },
-          {
-            "name": "York Centre",
-            "num": "6",
-            "polls": "50",
-            "pollsReceived": "49",
-            "totalVoters": "79015",
-            "votesCounted": "34555",
-            "votesReceived": "15"
-          },
-          {
-            "name": "Humber River-Black Creek",
-            "num": "7",
-            "polls": "45",
-            "pollsReceived": "45",
-            "totalVoters": "73832",
-            "votesCounted": "24519",
-            "votesReceived": "25"
-          },
-          {
-            "name": "Eglinton-Lawrence",
-            "num": "8",
-            "polls": "61",
-            "pollsReceived": "60",
-            "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "3"
-          },
-          {
-            "name": "Davenport",
-            "num": "9",
-            "polls": "53",
-            "pollsReceived": "52",
-            "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "7"
-          },
-          {
-            "name": "Spadina-Fort York",
-            "num": "10",
-            "polls": "80",
-            "pollsReceived": "79",
-            "totalVoters": "123597",
-            "votesCounted": "50983",
-            "votesReceived": "9"
-          },
-          {
-            "name": "University-Rosedale",
-            "num": "11",
-            "polls": "72",
-            "pollsReceived": "71",
-            "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "12"
-          },
-          {
-            "name": "Toronto-St. Paul's",
-            "num": "12",
-            "polls": "58",
-            "pollsReceived": "58",
-            "totalVoters": "95032",
-            "votesCounted": "52118",
-            "votesReceived": "12"
-          },
-          {
-            "name": "Toronto Centre",
-            "num": "13",
-            "polls": "78",
-            "pollsReceived": "77",
-            "totalVoters": "101769",
-            "votesCounted": "44715",
-            "votesReceived": "15"
-          },
-          {
-            "name": "Toronto-Danforth",
-            "num": "14",
-            "polls": "48",
-            "pollsReceived": "45",
-            "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "9"
-          },
-          {
-            "name": "Don Valley West",
-            "num": "15",
-            "polls": "49",
-            "pollsReceived": "49",
-            "totalVoters": "76936",
-            "votesCounted": "38242",
-            "votesReceived": "2"
-          },
-          {
-            "name": "Don Valley East",
-            "num": "16",
-            "polls": "62",
-            "pollsReceived": "61",
-            "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "14"
-          },
-          {
-            "name": "Don Valley North",
-            "num": "17",
-            "polls": "60",
-            "pollsReceived": "60",
-            "totalVoters": "81623",
-            "votesCounted": "32861",
-            "votesReceived": "24"
-          },
-          {
-            "name": "Willowdale",
-            "num": "18",
-            "polls": "56",
-            "pollsReceived": "56",
-            "totalVoters": "84671",
-            "votesCounted": "34223",
-            "votesReceived": "17"
-          },
-          {
-            "name": "Beaches-East York",
-            "num": "19",
-            "polls": "53",
-            "pollsReceived": "52",
-            "totalVoters": "85048",
-            "votesCounted": "46955",
-            "votesReceived": "5"
-          },
-          {
-            "name": "Scarborough Southwest",
-            "num": "20",
-            "polls": "61",
-            "pollsReceived": "61",
-            "totalVoters": "82427",
-            "votesCounted": "36538",
-            "votesReceived": "10"
-          },
-          {
-            "name": "Scarborough Centre",
-            "num": "21",
-            "polls": "49",
-            "pollsReceived": "49",
-            "totalVoters": "80557",
-            "votesCounted": "32532",
-            "votesReceived": "14"
-          },
-          {
-            "name": "Scarborough-Agincourt",
-            "num": "22",
-            "polls": "47",
-            "pollsReceived": "47",
-            "totalVoters": "75224",
-            "votesCounted": "29394",
-            "votesReceived": "29"
-          },
-          {
-            "name": "Scarborough North",
-            "num": "23",
-            "polls": "37",
-            "pollsReceived": "36",
-            "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "48"
-          },
-          {
-            "name": "Scarborough-Guildwood",
-            "num": "24",
-            "polls": "48",
-            "pollsReceived": "47",
-            "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "11"
-          },
-          {
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
             "pollsReceived": "38",
             "totalVoters": "79420",
             "votesCounted": "34158",
-            "votesReceived": "14"
+            "votesReceived": "15"
           }
         ]
       },
       {
         "name": "Habiba Desai",
-        "votesReceived": "357",
+        "votesReceived": "360",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8118,9 +7887,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "13"
           },
           {
@@ -8136,18 +7905,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "11"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "10"
           },
           {
@@ -8217,9 +7986,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "12"
           },
           {
@@ -8235,9 +8004,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "19"
           },
           {
@@ -8298,19 +8067,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "36"
+            "votesCounted": "27490",
+            "votesReceived": "37"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "28"
+            "votesCounted": "29274",
+            "votesReceived": "30"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -8324,8 +8093,239 @@
         ]
       },
       {
+        "name": "Kuo Yu Tong",
+        "votesReceived": "360",
+        "ward": [
+          {
+            "name": "Etobicoke North",
+            "num": "1",
+            "polls": "46",
+            "pollsReceived": "44",
+            "totalVoters": "78411",
+            "votesCounted": "27577",
+            "votesReceived": "13"
+          },
+          {
+            "name": "Etobicoke Centre",
+            "num": "2",
+            "polls": "67",
+            "pollsReceived": "67",
+            "totalVoters": "97554",
+            "votesCounted": "46826",
+            "votesReceived": "11"
+          },
+          {
+            "name": "Etobicoke-Lakeshore",
+            "num": "3",
+            "polls": "82",
+            "pollsReceived": "81",
+            "totalVoters": "116485",
+            "votesCounted": "53745",
+            "votesReceived": "11"
+          },
+          {
+            "name": "Parkdale-High Park",
+            "num": "4",
+            "polls": "67",
+            "pollsReceived": "66",
+            "totalVoters": "88529",
+            "votesCounted": "49469",
+            "votesReceived": "16"
+          },
+          {
+            "name": "York South-Weston",
+            "num": "5",
+            "polls": "62",
+            "pollsReceived": "62",
+            "totalVoters": "83515",
+            "votesCounted": "34900",
+            "votesReceived": "13"
+          },
+          {
+            "name": "York Centre",
+            "num": "6",
+            "polls": "50",
+            "pollsReceived": "50",
+            "totalVoters": "79015",
+            "votesCounted": "34592",
+            "votesReceived": "15"
+          },
+          {
+            "name": "Humber River-Black Creek",
+            "num": "7",
+            "polls": "45",
+            "pollsReceived": "45",
+            "totalVoters": "73832",
+            "votesCounted": "24519",
+            "votesReceived": "25"
+          },
+          {
+            "name": "Eglinton-Lawrence",
+            "num": "8",
+            "polls": "61",
+            "pollsReceived": "60",
+            "totalVoters": "89581",
+            "votesCounted": "48332",
+            "votesReceived": "3"
+          },
+          {
+            "name": "Davenport",
+            "num": "9",
+            "polls": "53",
+            "pollsReceived": "52",
+            "totalVoters": "84706",
+            "votesCounted": "43317",
+            "votesReceived": "7"
+          },
+          {
+            "name": "Spadina-Fort York",
+            "num": "10",
+            "polls": "80",
+            "pollsReceived": "79",
+            "totalVoters": "123597",
+            "votesCounted": "50983",
+            "votesReceived": "9"
+          },
+          {
+            "name": "University-Rosedale",
+            "num": "11",
+            "polls": "72",
+            "pollsReceived": "71",
+            "totalVoters": "90868",
+            "votesCounted": "45429",
+            "votesReceived": "12"
+          },
+          {
+            "name": "Toronto-St. Paul's",
+            "num": "12",
+            "polls": "58",
+            "pollsReceived": "58",
+            "totalVoters": "95032",
+            "votesCounted": "52118",
+            "votesReceived": "12"
+          },
+          {
+            "name": "Toronto Centre",
+            "num": "13",
+            "polls": "78",
+            "pollsReceived": "77",
+            "totalVoters": "101769",
+            "votesCounted": "44715",
+            "votesReceived": "15"
+          },
+          {
+            "name": "Toronto-Danforth",
+            "num": "14",
+            "polls": "48",
+            "pollsReceived": "47",
+            "totalVoters": "85786",
+            "votesCounted": "47360",
+            "votesReceived": "10"
+          },
+          {
+            "name": "Don Valley West",
+            "num": "15",
+            "polls": "49",
+            "pollsReceived": "49",
+            "totalVoters": "76936",
+            "votesCounted": "38242",
+            "votesReceived": "2"
+          },
+          {
+            "name": "Don Valley East",
+            "num": "16",
+            "polls": "62",
+            "pollsReceived": "62",
+            "totalVoters": "70080",
+            "votesCounted": "29582",
+            "votesReceived": "14"
+          },
+          {
+            "name": "Don Valley North",
+            "num": "17",
+            "polls": "60",
+            "pollsReceived": "60",
+            "totalVoters": "81623",
+            "votesCounted": "32861",
+            "votesReceived": "24"
+          },
+          {
+            "name": "Willowdale",
+            "num": "18",
+            "polls": "56",
+            "pollsReceived": "56",
+            "totalVoters": "84671",
+            "votesCounted": "34223",
+            "votesReceived": "17"
+          },
+          {
+            "name": "Beaches-East York",
+            "num": "19",
+            "polls": "53",
+            "pollsReceived": "52",
+            "totalVoters": "85048",
+            "votesCounted": "46955",
+            "votesReceived": "5"
+          },
+          {
+            "name": "Scarborough Southwest",
+            "num": "20",
+            "polls": "61",
+            "pollsReceived": "61",
+            "totalVoters": "82427",
+            "votesCounted": "36538",
+            "votesReceived": "10"
+          },
+          {
+            "name": "Scarborough Centre",
+            "num": "21",
+            "polls": "49",
+            "pollsReceived": "49",
+            "totalVoters": "80557",
+            "votesCounted": "32532",
+            "votesReceived": "14"
+          },
+          {
+            "name": "Scarborough-Agincourt",
+            "num": "22",
+            "polls": "47",
+            "pollsReceived": "47",
+            "totalVoters": "75224",
+            "votesCounted": "29394",
+            "votesReceived": "29"
+          },
+          {
+            "name": "Scarborough North",
+            "num": "23",
+            "polls": "37",
+            "pollsReceived": "37",
+            "totalVoters": "66760",
+            "votesCounted": "27490",
+            "votesReceived": "48"
+          },
+          {
+            "name": "Scarborough-Guildwood",
+            "num": "24",
+            "polls": "48",
+            "pollsReceived": "48",
+            "totalVoters": "72345",
+            "votesCounted": "29274",
+            "votesReceived": "11"
+          },
+          {
+            "name": "Scarborough-Rouge Park",
+            "num": "25",
+            "polls": "40",
+            "pollsReceived": "38",
+            "totalVoters": "79420",
+            "votesCounted": "34158",
+            "votesReceived": "14"
+          }
+        ]
+      },
+      {
         "name": "Francis Mercieca",
-        "votesReceived": "345",
+        "votesReceived": "352",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8349,10 +8349,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "12"
+            "votesCounted": "53745",
+            "votesReceived": "13"
           },
           {
             "name": "Parkdale-High Park",
@@ -8367,18 +8367,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "46"
+            "votesCounted": "34900",
+            "votesReceived": "50"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "13"
           },
           {
@@ -8448,9 +8448,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "6"
           },
           {
@@ -8466,9 +8466,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "10"
           },
           {
@@ -8529,18 +8529,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "22"
+            "votesCounted": "27490",
+            "votesReceived": "24"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "13"
           },
           {
@@ -8556,7 +8556,7 @@
       },
       {
         "name": "Weizhen Tang",
-        "votesReceived": "344",
+        "votesReceived": "351",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8580,10 +8580,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "15"
+            "votesCounted": "53745",
+            "votesReceived": "16"
           },
           {
             "name": "Parkdale-High Park",
@@ -8598,18 +8598,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "18"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "14"
           },
           {
@@ -8679,9 +8679,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "7"
           },
           {
@@ -8697,9 +8697,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "13"
           },
           {
@@ -8760,18 +8760,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "48"
+            "votesCounted": "27490",
+            "votesReceived": "54"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "4"
           },
           {
@@ -8787,7 +8787,7 @@
       },
       {
         "name": "Thomas Hall",
-        "votesReceived": "335",
+        "votesReceived": "337",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8811,9 +8811,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "17"
           },
           {
@@ -8829,18 +8829,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "18"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "12"
           },
           {
@@ -8910,9 +8910,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "12"
           },
           {
@@ -8928,9 +8928,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "13"
           },
           {
@@ -8991,19 +8991,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "10"
+            "votesCounted": "27490",
+            "votesReceived": "11"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "17"
+            "votesCounted": "29274",
+            "votesReceived": "18"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -9018,7 +9018,7 @@
       },
       {
         "name": "Faisal Razi",
-        "votesReceived": "332",
+        "votesReceived": "334",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9042,9 +9042,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "12"
           },
           {
@@ -9060,18 +9060,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "23"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "12"
           },
           {
@@ -9141,9 +9141,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "7"
           },
           {
@@ -9159,9 +9159,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "13"
           },
           {
@@ -9222,19 +9222,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
-            "votesReceived": "19"
+            "votesCounted": "27490",
+            "votesReceived": "20"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "21"
+            "votesCounted": "29274",
+            "votesReceived": "22"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -9249,7 +9249,7 @@
       },
       {
         "name": "Gus Prokos",
-        "votesReceived": "322",
+        "votesReceived": "326",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9273,10 +9273,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "10"
+            "votesCounted": "53745",
+            "votesReceived": "12"
           },
           {
             "name": "Parkdale-High Park",
@@ -9291,18 +9291,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "15"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "9"
           },
           {
@@ -9372,10 +9372,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "15"
+            "votesCounted": "47360",
+            "votesReceived": "17"
           },
           {
             "name": "Don Valley West",
@@ -9390,9 +9390,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "10"
           },
           {
@@ -9453,18 +9453,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "5"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "10"
           },
           {
@@ -9480,7 +9480,7 @@
       },
       {
         "name": "Jack Hartley",
-        "votesReceived": "318",
+        "votesReceived": "321",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9504,10 +9504,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "21"
+            "votesCounted": "53745",
+            "votesReceived": "22"
           },
           {
             "name": "Parkdale-High Park",
@@ -9522,18 +9522,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "21"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "8"
           },
           {
@@ -9603,10 +9603,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "9"
+            "votesCounted": "47360",
+            "votesReceived": "11"
           },
           {
             "name": "Don Valley West",
@@ -9621,9 +9621,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "12"
           },
           {
@@ -9684,18 +9684,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "15"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "12"
           },
           {
@@ -9711,7 +9711,7 @@
       },
       {
         "name": "Joseph Osuji",
-        "votesReceived": "317",
+        "votesReceived": "318",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9735,9 +9735,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "12"
           },
           {
@@ -9753,18 +9753,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "19"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "12"
           },
           {
@@ -9834,9 +9834,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "8"
           },
           {
@@ -9852,10 +9852,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "11"
+            "votesCounted": "29582",
+            "votesReceived": "12"
           },
           {
             "name": "Don Valley North",
@@ -9915,18 +9915,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "12"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "20"
           },
           {
@@ -9942,7 +9942,7 @@
       },
       {
         "name": "Naomi Sayers",
-        "votesReceived": "266",
+        "votesReceived": "272",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9966,10 +9966,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "14"
+            "votesCounted": "53745",
+            "votesReceived": "16"
           },
           {
             "name": "Parkdale-High Park",
@@ -9984,18 +9984,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "13"
+            "votesCounted": "34900",
+            "votesReceived": "15"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "6"
           },
           {
@@ -10065,10 +10065,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "9"
+            "votesCounted": "47360",
+            "votesReceived": "11"
           },
           {
             "name": "Don Valley West",
@@ -10083,9 +10083,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "10"
           },
           {
@@ -10146,18 +10146,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "14"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "3"
           },
           {
@@ -10173,7 +10173,7 @@
       },
       {
         "name": "Peter Handjis",
-        "votesReceived": "265",
+        "votesReceived": "266",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10197,9 +10197,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "16"
           },
           {
@@ -10215,18 +10215,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "10"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "3"
           },
           {
@@ -10296,9 +10296,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "22"
           },
           {
@@ -10314,9 +10314,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "14"
           },
           {
@@ -10377,19 +10377,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "12"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "6"
+            "votesCounted": "29274",
+            "votesReceived": "7"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -10404,7 +10404,7 @@
       },
       {
         "name": "Isidoros Kyrlangitses",
-        "votesReceived": "254",
+        "votesReceived": "255",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10428,10 +10428,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
-            "votesReceived": "10"
+            "votesCounted": "53745",
+            "votesReceived": "11"
           },
           {
             "name": "Parkdale-High Park",
@@ -10446,18 +10446,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "6"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "9"
           },
           {
@@ -10527,9 +10527,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "27"
           },
           {
@@ -10545,9 +10545,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "14"
           },
           {
@@ -10608,18 +10608,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "12"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "10"
           },
           {
@@ -10659,9 +10659,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "3"
           },
           {
@@ -10677,18 +10677,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "10"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "6"
           },
           {
@@ -10758,9 +10758,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "3"
           },
           {
@@ -10776,9 +10776,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "7"
           },
           {
@@ -10839,18 +10839,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "11"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "9"
           },
           {
@@ -10866,7 +10866,7 @@
       },
       {
         "name": "Reagan Levermany",
-        "votesReceived": "199",
+        "votesReceived": "201",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10890,9 +10890,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "5"
           },
           {
@@ -10908,18 +10908,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "9"
+            "votesCounted": "34900",
+            "votesReceived": "10"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "4"
           },
           {
@@ -10989,9 +10989,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "3"
           },
           {
@@ -11007,9 +11007,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "1"
           },
           {
@@ -11070,19 +11070,19 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "26"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "18"
+            "votesCounted": "29274",
+            "votesReceived": "19"
           },
           {
             "name": "Scarborough-Rouge Park",
@@ -11097,7 +11097,7 @@
       },
       {
         "name": "Eddie Mayanja",
-        "votesReceived": "190",
+        "votesReceived": "191",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -11121,9 +11121,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "5"
           },
           {
@@ -11139,18 +11139,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "13"
+            "votesCounted": "34900",
+            "votesReceived": "14"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "7"
           },
           {
@@ -11220,9 +11220,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "10"
           },
           {
@@ -11238,9 +11238,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "4"
           },
           {
@@ -11301,18 +11301,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "11"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "10"
           },
           {
@@ -11328,7 +11328,7 @@
       },
       {
         "name": "Wincess Dorville",
-        "votesReceived": "172",
+        "votesReceived": "173",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -11352,9 +11352,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "4"
           },
           {
@@ -11370,18 +11370,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "18"
+            "votesCounted": "34900",
+            "votesReceived": "19"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "7"
           },
           {
@@ -11451,9 +11451,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "3"
           },
           {
@@ -11469,9 +11469,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "13"
           },
           {
@@ -11532,18 +11532,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "6"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "1"
           },
           {
@@ -11559,7 +11559,7 @@
       },
       {
         "name": "Henoke Yohannes",
-        "votesReceived": "154",
+        "votesReceived": "155",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -11583,9 +11583,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "3"
           },
           {
@@ -11601,18 +11601,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
-            "votesReceived": "12"
+            "votesCounted": "34900",
+            "votesReceived": "13"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "1"
           },
           {
@@ -11682,9 +11682,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "2"
           },
           {
@@ -11700,9 +11700,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "2"
           },
           {
@@ -11763,18 +11763,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "9"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "7"
           },
           {
@@ -11790,7 +11790,7 @@
       },
       {
         "name": "Jeffery Tunney",
-        "votesReceived": "131",
+        "votesReceived": "132",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -11814,9 +11814,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "5"
           },
           {
@@ -11832,18 +11832,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "9"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "1"
           },
           {
@@ -11913,9 +11913,9 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
+            "votesCounted": "47360",
             "votesReceived": "2"
           },
           {
@@ -11931,10 +11931,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
-            "votesReceived": "3"
+            "votesCounted": "29582",
+            "votesReceived": "4"
           },
           {
             "name": "Don Valley North",
@@ -11994,18 +11994,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "5"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "6"
           },
           {
@@ -12021,7 +12021,7 @@
       },
       {
         "name": "Jack Weenen",
-        "votesReceived": "68",
+        "votesReceived": "69",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -12045,9 +12045,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "79",
+            "pollsReceived": "81",
             "totalVoters": "116485",
-            "votesCounted": "52932",
+            "votesCounted": "53745",
             "votesReceived": "4"
           },
           {
@@ -12063,18 +12063,18 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "62",
             "totalVoters": "83515",
-            "votesCounted": "33544",
+            "votesCounted": "34900",
             "votesReceived": "3"
           },
           {
             "name": "York Centre",
             "num": "6",
             "polls": "50",
-            "pollsReceived": "49",
+            "pollsReceived": "50",
             "totalVoters": "79015",
-            "votesCounted": "34555",
+            "votesCounted": "34592",
             "votesReceived": "1"
           },
           {
@@ -12144,10 +12144,10 @@
             "name": "Toronto-Danforth",
             "num": "14",
             "polls": "48",
-            "pollsReceived": "45",
+            "pollsReceived": "47",
             "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "4"
+            "votesCounted": "47360",
+            "votesReceived": "5"
           },
           {
             "name": "Don Valley West",
@@ -12162,9 +12162,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "61",
+            "pollsReceived": "62",
             "totalVoters": "70080",
-            "votesCounted": "28891",
+            "votesCounted": "29582",
             "votesReceived": "1"
           },
           {
@@ -12225,18 +12225,18 @@
             "name": "Scarborough North",
             "num": "23",
             "polls": "37",
-            "pollsReceived": "36",
+            "pollsReceived": "37",
             "totalVoters": "66760",
-            "votesCounted": "26336",
+            "votesCounted": "27490",
             "votesReceived": "4"
           },
           {
             "name": "Scarborough-Guildwood",
             "num": "24",
             "polls": "48",
-            "pollsReceived": "47",
+            "pollsReceived": "48",
             "totalVoters": "72345",
-            "votesCounted": "28415",
+            "votesCounted": "29274",
             "votesReceived": "1"
           },
           {
@@ -12252,5 +12252,5 @@
       }
     ]
   },
-  "seq": "1793068866146"
+  "seq": "1793068925885"
 }
