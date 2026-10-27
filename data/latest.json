@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated_utc": "2026-10-27T02:03:29.137029+00:00",
+    "last_updated_utc": "2026-10-27T02:03:42.511446+00:00",
     "election_desc": "2026 Municipal Election",
     "seq": "1793066586353",
     "status": "Live - Polls Open / Reporting",
@@ -589,52 +589,52 @@
       "ward_num": 5,
       "ward_name": "York South-Weston",
       "polls_total": 62,
-      "polls_reported": 59,
-      "polls_reporting_pct": 95.16,
-      "total_votes": 32652,
+      "polls_reported": 60,
+      "polls_reporting_pct": 96.77,
+      "total_votes": 33544,
       "registered_voters": 83515,
-      "turnout_pct": 39.1,
+      "turnout_pct": 40.17,
       "chow": {
-        "votes": 15922,
-        "percentage": 48.76
+        "votes": 16341,
+        "percentage": 48.72
       },
       "bradford": {
-        "votes": 14310,
-        "percentage": 43.83
+        "votes": 14746,
+        "percentage": 43.96
       },
-      "head_to_head_margin": 1612,
-      "head_to_head_margin_pct": 4.93,
+      "head_to_head_margin": 1595,
+      "head_to_head_margin_pct": 4.76,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 15922,
-          "percentage": 48.76
+          "votes": 16341,
+          "percentage": 48.72
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 14310,
-          "percentage": 43.83
+          "votes": 14746,
+          "percentage": 43.96
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 363,
+          "votes": 374,
           "percentage": 1.11
         },
         {
           "rank": 4,
           "name": "Chris Alexander",
-          "votes": 188,
-          "percentage": 0.58
+          "votes": 189,
+          "percentage": 0.56
         },
         {
           "rank": 5,
           "name": "Imad Abdulkadir",
           "votes": 142,
-          "percentage": 0.43
+          "percentage": 0.42
         }
       ],
       "council": {
@@ -3422,10 +3422,10 @@
     {
       "ward_num": 5,
       "ward_name": "York South-Weston",
-      "chow_votes": 15922,
-      "bradford_votes": 14310,
-      "margin": 1612,
-      "margin_pct": 4.93,
+      "chow_votes": 16341,
+      "bradford_votes": 14746,
+      "margin": 1595,
+      "margin_pct": 4.76,
       "leader": "Olivia Chow"
     },
     {

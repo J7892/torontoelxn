@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "1404",
+    "pollsReceived": "1405",
     "totalVoters": "2143771",
-    "votesReceived": "964222",
+    "votesReceived": "965114",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "522139",
+        "votesReceived": "522558",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -51,10 +51,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "15922"
+            "votesCounted": "33544",
+            "votesReceived": "16341"
           },
           {
             "name": "York Centre",
@@ -240,7 +240,7 @@
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "396558",
+        "votesReceived": "396994",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -282,10 +282,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "14310"
+            "votesCounted": "33544",
+            "votesReceived": "14746"
           },
           {
             "name": "York Centre",
@@ -471,7 +471,7 @@
       },
       {
         "name": "Braeden Chow",
-        "votesReceived": "7929",
+        "votesReceived": "7940",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -513,10 +513,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "363"
+            "votesCounted": "33544",
+            "votesReceived": "374"
           },
           {
             "name": "York Centre",
@@ -702,7 +702,7 @@
       },
       {
         "name": "Chris Alexander",
-        "votesReceived": "3503",
+        "votesReceived": "3504",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -744,10 +744,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "188"
+            "votesCounted": "33544",
+            "votesReceived": "189"
           },
           {
             "name": "York Centre",
@@ -933,7 +933,7 @@
       },
       {
         "name": "Edward Gong",
-        "votesReceived": "3386",
+        "votesReceived": "3387",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -975,10 +975,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "125"
+            "votesCounted": "33544",
+            "votesReceived": "126"
           },
           {
             "name": "York Centre",
@@ -1164,7 +1164,7 @@
       },
       {
         "name": "Laura Dean",
-        "votesReceived": "2168",
+        "votesReceived": "2169",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1206,10 +1206,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "95"
+            "votesCounted": "33544",
+            "votesReceived": "96"
           },
           {
             "name": "York Centre",
@@ -1395,7 +1395,7 @@
       },
       {
         "name": "Darrell Brown",
-        "votesReceived": "2030",
+        "votesReceived": "2032",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1437,10 +1437,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "105"
+            "votesCounted": "33544",
+            "votesReceived": "107"
           },
           {
             "name": "York Centre",
@@ -1668,9 +1668,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "142"
           },
           {
@@ -1899,9 +1899,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "80"
           },
           {
@@ -2088,7 +2088,7 @@
       },
       {
         "name": "Logan Choy",
-        "votesReceived": "1257",
+        "votesReceived": "1259",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2130,10 +2130,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "54"
+            "votesCounted": "33544",
+            "votesReceived": "56"
           },
           {
             "name": "York Centre",
@@ -2319,7 +2319,7 @@
       },
       {
         "name": "Rick Lee",
-        "votesReceived": "1254",
+        "votesReceived": "1257",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2361,10 +2361,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "48"
+            "votesCounted": "33544",
+            "votesReceived": "51"
           },
           {
             "name": "York Centre",
@@ -2592,9 +2592,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "17"
           },
           {
@@ -2823,9 +2823,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "47"
           },
           {
@@ -3012,7 +3012,7 @@
       },
       {
         "name": "Georgios Kalkounis",
-        "votesReceived": "1063",
+        "votesReceived": "1066",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3054,10 +3054,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "48"
+            "votesCounted": "33544",
+            "votesReceived": "51"
           },
           {
             "name": "York Centre",
@@ -3243,7 +3243,7 @@
       },
       {
         "name": "Roberto Curto",
-        "votesReceived": "942",
+        "votesReceived": "943",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3285,10 +3285,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "101"
+            "votesCounted": "33544",
+            "votesReceived": "102"
           },
           {
             "name": "York Centre",
@@ -3474,7 +3474,7 @@
       },
       {
         "name": "Sarah McVie",
-        "votesReceived": "941",
+        "votesReceived": "942",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3516,10 +3516,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "106"
+            "votesCounted": "33544",
+            "votesReceived": "107"
           },
           {
             "name": "York Centre",
@@ -3705,7 +3705,7 @@
       },
       {
         "name": "Jamie Atkinson",
-        "votesReceived": "914",
+        "votesReceived": "916",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3747,10 +3747,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "55"
+            "votesCounted": "33544",
+            "votesReceived": "57"
           },
           {
             "name": "York Centre",
@@ -3936,7 +3936,7 @@
       },
       {
         "name": "Amy Rosen",
-        "votesReceived": "903",
+        "votesReceived": "904",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3978,10 +3978,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "33"
+            "votesCounted": "33544",
+            "votesReceived": "34"
           },
           {
             "name": "York Centre",
@@ -4209,9 +4209,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "62"
           },
           {
@@ -4440,9 +4440,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "41"
           },
           {
@@ -4671,9 +4671,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "62"
           },
           {
@@ -4860,7 +4860,7 @@
       },
       {
         "name": "Joshua Thompson",
-        "votesReceived": "688",
+        "votesReceived": "689",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4902,10 +4902,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "34"
+            "votesCounted": "33544",
+            "votesReceived": "35"
           },
           {
             "name": "York Centre",
@@ -5091,7 +5091,7 @@
       },
       {
         "name": "Brian Buffey",
-        "votesReceived": "634",
+        "votesReceived": "636",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5133,10 +5133,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "41"
+            "votesCounted": "33544",
+            "votesReceived": "43"
           },
           {
             "name": "York Centre",
@@ -5364,9 +5364,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "44"
           },
           {
@@ -5595,9 +5595,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "21"
           },
           {
@@ -5826,9 +5826,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "17"
           },
           {
@@ -6057,9 +6057,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "34"
           },
           {
@@ -6288,9 +6288,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "27"
           },
           {
@@ -6477,7 +6477,7 @@
       },
       {
         "name": "Martin Fraser",
-        "votesReceived": "429",
+        "votesReceived": "430",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6519,10 +6519,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "32"
+            "votesCounted": "33544",
+            "votesReceived": "33"
           },
           {
             "name": "York Centre",
@@ -6708,7 +6708,7 @@
       },
       {
         "name": "Alton Frederick",
-        "votesReceived": "421",
+        "votesReceived": "422",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6750,10 +6750,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "36"
+            "votesCounted": "33544",
+            "votesReceived": "37"
           },
           {
             "name": "York Centre",
@@ -6981,9 +6981,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "14"
           },
           {
@@ -7212,9 +7212,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "17"
           },
           {
@@ -7443,9 +7443,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "21"
           },
           {
@@ -7632,7 +7632,7 @@
       },
       {
         "name": "Alex Cruze",
-        "votesReceived": "358",
+        "votesReceived": "359",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7674,10 +7674,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "25"
+            "votesCounted": "33544",
+            "votesReceived": "26"
           },
           {
             "name": "York Centre",
@@ -7905,9 +7905,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "11"
           },
           {
@@ -8136,9 +8136,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "13"
           },
           {
@@ -8367,9 +8367,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "46"
           },
           {
@@ -8598,9 +8598,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "18"
           },
           {
@@ -8829,9 +8829,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "18"
           },
           {
@@ -9060,9 +9060,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "23"
           },
           {
@@ -9291,9 +9291,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "15"
           },
           {
@@ -9522,9 +9522,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "21"
           },
           {
@@ -9711,7 +9711,7 @@
       },
       {
         "name": "Joseph Osuji",
-        "votesReceived": "315",
+        "votesReceived": "317",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9753,10 +9753,10 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "17"
+            "votesCounted": "33544",
+            "votesReceived": "19"
           },
           {
             "name": "York Centre",
@@ -9984,9 +9984,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "13"
           },
           {
@@ -10215,9 +10215,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "10"
           },
           {
@@ -10446,9 +10446,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "6"
           },
           {
@@ -10677,9 +10677,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "10"
           },
           {
@@ -10908,9 +10908,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "9"
           },
           {
@@ -11139,9 +11139,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "13"
           },
           {
@@ -11370,9 +11370,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "18"
           },
           {
@@ -11601,9 +11601,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "12"
           },
           {
@@ -11832,9 +11832,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "9"
           },
           {
@@ -12063,9 +12063,9 @@
             "name": "York South-Weston",
             "num": "5",
             "polls": "62",
-            "pollsReceived": "59",
+            "pollsReceived": "60",
             "totalVoters": "83515",
-            "votesCounted": "32652",
+            "votesCounted": "33544",
             "votesReceived": "3"
           },
           {
@@ -12252,5 +12252,5 @@
       }
     ]
   },
-  "seq": "1793066586305"
+  "seq": "1793066615973"
 }
