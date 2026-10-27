@@ -130,5 +130,16 @@
     "chow_pct": 51.93,
     "bradford_pct": 43.07,
     "margin": 30081
+  },
+  {
+    "time": "2026-10-27T01:40:38.005113+00:00",
+    "polls_reported": 306,
+    "polls_pct": 21.38,
+    "total_votes": 351461,
+    "chow_votes": 181721,
+    "bradford_votes": 152278,
+    "chow_pct": 51.7,
+    "bradford_pct": 43.33,
+    "margin": 29443
   }
 ]
