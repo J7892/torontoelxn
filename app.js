@@ -208,20 +208,42 @@ function setupEventListeners() {
     });
   }
 
-  // Table Search Input
-  const searchInput = document.getElementById('tableSearch');
-  if (searchInput) {
-    searchInput.addEventListener('input', () => {
-      renderWardTable();
+  // Council Search Input
+  const councilSearch = document.getElementById('councilSearch');
+  if (councilSearch) {
+    councilSearch.addEventListener('input', () => {
+      renderCouncilGrid();
     });
   }
 
-  // Table Filter Pills
-  document.querySelectorAll('.filter-pills .filter-pill').forEach(pill => {
+  // Council Sort Select
+  const councilSort = document.getElementById('councilSort');
+  if (councilSort) {
+    councilSort.addEventListener('change', () => {
+      renderCouncilGrid();
+    });
+  }
+
+  // Council Filter Pills
+  document.querySelectorAll('.council-filter-pills .filter-pill').forEach(pill => {
     pill.addEventListener('click', (e) => {
-      document.querySelectorAll('.filter-pills .filter-pill').forEach(p => p.classList.remove('active'));
-      e.target.classList.add('active');
-      renderWardTable();
+      document.querySelectorAll('.council-filter-pills .filter-pill').forEach(p => p.classList.remove('active'));
+      e.currentTarget.classList.add('active');
+      renderCouncilGrid();
+    });
+  });
+
+  // Ward Inspector Race Tabs (Council vs Mayor)
+  document.querySelectorAll('.insp-tab-btn').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      const tab = e.currentTarget.dataset.inspTab;
+      document.querySelectorAll('.insp-tab-btn').forEach(b => b.classList.toggle('active', b.dataset.inspTab === tab));
+      const councilPanel = document.getElementById('inspCouncilPanel');
+      const mayorPanel = document.getElementById('inspMayorPanel');
+      if (councilPanel && mayorPanel) {
+        councilPanel.classList.toggle('hidden', tab !== 'council');
+        mayorPanel.classList.toggle('hidden', tab !== 'mayor');
+      }
     });
   });
 
@@ -367,8 +389,7 @@ function renderDashboard() {
   renderShowdown();
   renderTop5Candidates();
   renderGeoJSONLayer();
-  renderBattlegrounds();
-  renderWardTable();
+  renderCouncilGrid();
   renderHistoryChart();
 
   // If a ward was previously selected, re-inspect it with updated numbers
@@ -601,6 +622,20 @@ function styleFeature(feature) {
       } else {
         fillColor = '#8b5cf6'; // Other candidate
       }
+    } else if (currentMapView === 'council') {
+      const council = wardData.council || {};
+      const reported = (council.polls_reported || 0) > 0 && (council.total_votes || 0) > 0;
+      const mPct = council.margin_pct || 0;
+      if (!reported) {
+        fillColor = palette.pending;
+        fillOpacity = 0.55;
+      } else if (mPct <= 5.0) {
+        fillColor = '#f59e0b'; // Close council race (<5%)
+      } else if (mPct <= 15.0) {
+        fillColor = '#0d9488'; // Moderate council lead (5-15%)
+      } else {
+        fillColor = '#10b981'; // Safe council lead (>15%)
+      }
     } else if (currentMapView === 'turnout') {
       const pct = wardData.polls_reporting_pct || 0;
       if (pct === 0) fillColor = palette.pending;
@@ -634,35 +669,43 @@ function onEachFeature(feature, layer) {
   const wardData = getWardData(wardNum);
   const wardName = wardData ? wardData.ward_name : feature.properties.AREA_NAME;
 
-  // Rich Tooltip on Hover
+  // Rich Tooltip on Hover (adapts to Mayoral or Council view)
   layer.bindTooltip(() => {
     const wd = getWardData(wardNum);
     if (!wd) return `<strong>Ward ${wardNum}: ${wardName}</strong>`;
 
+    const council = wd.council || {};
+    const cTop2 = (council.top3 || []).slice(0, 2);
+    const cLeaderHtml = cTop2.length > 0
+      ? cTop2.map((c, idx) => `
+          <div style="display: flex; justify-content: space-between; font-size: 0.78rem; margin-bottom: 2px;">
+            <span>#${idx + 1} ${c.name}:</span>
+            <strong>${c.votes.toLocaleString()} (${c.percentage.toFixed(1)}%)</strong>
+          </div>
+        `).join('')
+      : `<div style="font-size: 0.75rem; color: #94a3b8;">Awaiting votes</div>`;
+
     const margin = wd.head_to_head_margin;
     const marginStr = margin > 0 ? `<span style="color:#fdba74">Chow +${margin.toLocaleString()}</span>` :
                       margin < 0 ? `<span style="color:#93c5fd">Bradford +${Math.abs(margin).toLocaleString()}</span>` :
-                      `<span style="color:#94a3b8">Tied</span>`;
+                      `<span style="color:#94a3b8">Tied / Pending</span>`;
 
     return `
-      <div style="font-family: sans-serif; min-width: 170px;">
+      <div style="font-family: sans-serif; min-width: 195px;">
         <div style="font-weight: 700; font-size: 0.9rem; margin-bottom: 2px;">Ward ${wd.ward_num}: ${wd.ward_name}</div>
-        <div style="font-size: 0.75rem; color: #94a3b8; margin-bottom: 6px;">Polls: ${wd.polls_reported}/${wd.polls_total} (${wd.polls_reporting_pct.toFixed(0)}%)</div>
-        <div style="display: flex; justify-content: space-between; font-size: 0.8rem; margin-bottom: 2px;">
-          <span style="color: #fdba74;">Chow:</span>
-          <strong>${wd.chow.votes.toLocaleString()} (${wd.chow.percentage.toFixed(1)}%)</strong>
-        </div>
-        <div style="display: flex; justify-content: space-between; font-size: 0.8rem; margin-bottom: 4px;">
-          <span style="color: #93c5fd;">Bradford:</span>
-          <strong>${wd.bradford.votes.toLocaleString()} (${wd.bradford.percentage.toFixed(1)}%)</strong>
-        </div>
-        <div style="border-top: 1px solid #334155; padding-top: 4px; font-size: 0.75rem; display: flex; justify-content: space-between;">
+        <div style="font-size: 0.73rem; color: #94a3b8; margin-bottom: 6px;">Polls: ${wd.polls_reported}/${wd.polls_total} (${wd.polls_reporting_pct.toFixed(0)}%)</div>
+        <div style="font-size: 0.7rem; text-transform: uppercase; color: #94a3b8; font-weight: 700; margin-bottom: 2px;">Mayor (Chow vs Bradford)</div>
+        <div style="display: flex; justify-content: space-between; font-size: 0.78rem; margin-bottom: 4px;">
           <span>Margin:</span>
           <strong>${marginStr}</strong>
         </div>
+        <div style="border-top: 1px solid rgba(148, 163, 184, 0.25); padding-top: 4px; margin-top: 4px;">
+          <div style="font-size: 0.7rem; text-transform: uppercase; color: #34d399; font-weight: 700; margin-bottom: 2px;">Council Race Top 2</div>
+          ${cLeaderHtml}
+        </div>
       </div>
     `;
-  }, { className: 'custom-ward-tooltip', sticky: true, opacity: 0.95 });
+  }, { className: 'custom-ward-tooltip', sticky: true, opacity: 0.96 });
 
   // Interactions
   layer.on({
@@ -691,23 +734,31 @@ function selectWard(wardNum, layer) {
 
   if (layer) {
     leafletMap.fitBounds(layer.getBounds(), { padding: [40, 40], maxZoom: 13 });
+  } else if (geojsonLayer) {
+    geojsonLayer.eachLayer(l => {
+      if (parseInt(l.feature.properties.AREA_SHORT_CODE, 10) === wardNum) {
+        leafletMap.fitBounds(l.getBounds(), { padding: [40, 40], maxZoom: 13 });
+      }
+    });
   }
 
-  // Scroll to inspector on small screens
-  if (window.innerWidth < 1024) {
-    const inspector = document.getElementById('wardInspectorCard');
-    if (inspector) inspector.scrollIntoView({ behavior: 'smooth' });
-  }
+  // Highlight selected card in Council Grid
+  document.querySelectorAll('.council-ward-card').forEach(card => {
+    card.classList.toggle('selected', parseInt(card.dataset.wardNum, 10) === wardNum);
+  });
 }
 
 function clearSelectedWard() {
   selectedWardNum = null;
   updateMapStyles();
   inspectWard(10); // fallback
+  document.querySelectorAll('.council-ward-card').forEach(card => {
+    card.classList.remove('selected');
+  });
 }
 
 /**
- * Render Ward Inspector Panel
+ * Render Ward Inspector Panel (Both Council & Mayor Tabs)
  */
 function inspectWard(wardNum) {
   const wd = getWardData(wardNum);
@@ -716,6 +767,44 @@ function inspectWard(wardNum) {
   document.getElementById('inspectorWardTitle').textContent = `Ward ${wd.ward_num} — ${wd.ward_name}`;
   document.getElementById('inspectorReporting').textContent = `${wd.polls_reported} of ${wd.polls_total} polls (${wd.polls_reporting_pct.toFixed(1)}%)`;
 
+  // 1. Populate Council Panel
+  const council = wd.council || {};
+  const inspCouncilMargin = document.getElementById('inspCouncilMargin');
+  if (inspCouncilMargin) {
+    if ((council.polls_reported || 0) > 0 && (council.total_votes || 0) > 0 && council.leader !== 'Pending') {
+      if (council.leader === 'Tied') {
+        inspCouncilMargin.className = 'table-badge council-close';
+        inspCouncilMargin.textContent = 'Tied Race';
+      } else {
+        inspCouncilMargin.className = council.is_close_race ? 'table-badge council-close' : 'table-badge council-lead';
+        inspCouncilMargin.textContent = `${council.leader} +${(council.margin_votes || 0).toLocaleString()} (+${(council.margin_pct || 0).toFixed(1)}%)`;
+      }
+    } else {
+      inspCouncilMargin.className = 'table-badge pending';
+      inspCouncilMargin.textContent = `Awaiting Polls (${council.candidates_count || 0} candidates)`;
+    }
+  }
+
+  const councilListEl = document.getElementById('inspectorCouncilCandidates');
+  if (councilListEl) {
+    councilListEl.innerHTML = '';
+    const allCouncilCands = council.all_candidates || council.top3 || [];
+    const hasCouncilVotes = (council.total_votes || 0) > 0;
+    allCouncilCands.forEach((c, idx) => {
+      const item = document.createElement('div');
+      item.className = 'cand-item-small';
+      const isLeader = hasCouncilVotes && idx === 0 && c.votes > 0;
+      item.innerHTML = `
+        <span style="font-weight: ${isLeader ? '700' : '500'}; color: ${isLeader ? 'var(--accent-green)' : 'var(--text-main)'};">
+          #${c.rank || idx + 1} ${c.name}
+        </span>
+        <span><strong>${(c.votes || 0).toLocaleString()}</strong> (${(c.percentage || 0).toFixed(1)}%)</span>
+      `;
+      councilListEl.appendChild(item);
+    });
+  }
+
+  // 2. Populate Mayor Panel
   document.getElementById('inspChowVotes').textContent = wd.chow.votes.toLocaleString();
   document.getElementById('inspChowPct').textContent = `${wd.chow.percentage.toFixed(1)}%`;
 
@@ -746,7 +835,7 @@ function inspectWard(wardNum) {
   if (chowMiniBar) chowMiniBar.style.width = `${chowTwoWay}%`;
   if (bradfordMiniBar) bradfordMiniBar.style.width = `${100 - chowTwoWay}%`;
 
-  // Top 5 Candidates in this ward
+  // Top 5 Mayoral Candidates in this ward
   const candList = document.getElementById('inspectorTopCandidates');
   if (candList) {
     candList.innerHTML = '';
@@ -755,10 +844,10 @@ function inspectWard(wardNum) {
       item.className = 'cand-item-small';
       const isChow = c.name.toLowerCase().includes('chow');
       const isBradford = c.name.toLowerCase().includes('bradford');
-      const color = isChow ? '#fdba74' : isBradford ? '#93c5fd' : '#cbd5e1';
+      const colorClass = isChow ? 'text-chow' : isBradford ? 'text-bradford' : '';
 
       item.innerHTML = `
-        <span style="color: ${color}; font-weight: ${isChow || isBradford ? '700' : '500'};">#${c.rank} ${c.name}</span>
+        <span class="${colorClass}" style="font-weight: ${isChow || isBradford ? '700' : '500'};">#${c.rank} ${c.name}</span>
         <span><strong>${c.votes.toLocaleString()}</strong> (${c.percentage.toFixed(1)}%)</span>
       `;
       candList.appendChild(item);
@@ -769,8 +858,8 @@ function inspectWard(wardNum) {
   const statsBox = document.getElementById('inspectorStats');
   if (statsBox) {
     statsBox.innerHTML = `
-      <div style="display:flex; justify-content:space-between; font-size:0.8rem; color:#94a3b8;">
-        <span>Total Votes: <strong>${wd.total_votes.toLocaleString()}</strong></span>
+      <div style="display:flex; justify-content:space-between; font-size:0.8rem; color:var(--text-muted);">
+        <span>Council Votes: <strong>${(council.total_votes || 0).toLocaleString()}</strong></span>
         <span>Turnout: <strong>${wd.turnout_pct.toFixed(1)}%</strong></span>
       </div>
     `;
@@ -778,131 +867,195 @@ function inspectWard(wardNum) {
 }
 
 /**
- * Render Ward-by-Ward Comparison Table
+ * Render All 25 City Council Ward Races At-a-Glance Grid
  */
-function renderWardTable() {
-  const tbody = document.getElementById('wardTableBody');
-  if (!tbody || !electionData.wards) return;
+const REGION_WARDS = {
+  etobicoke: [1, 2, 3],
+  northyork: [5, 6, 7, 8, 15, 16, 17, 18],
+  torontoeastyork: [4, 9, 10, 11, 12, 13, 14, 19],
+  scarborough: [20, 21, 22, 23, 24, 25]
+};
 
-  const searchQuery = (document.getElementById('tableSearch')?.value || '').toLowerCase().trim();
-  const activeFilter = document.querySelector('.filter-pills .filter-pill.active')?.dataset.filter || 'all';
+function renderCouncilGrid() {
+  const grid = document.getElementById('councilGrid');
+  if (!grid || !electionData || !electionData.wards) return;
 
-  let wards = [...electionData.wards];
+  const allWards = electionData.wards;
 
-  // Apply Search filter
+  // Update summary pills
+  const reportingWardsCount = allWards.filter(w => (w.council?.polls_reported || 0) > 0).length;
+  const closeRacesCount = allWards.filter(w => w.council?.is_close_race).length;
+
+  const repPill = document.getElementById('councilReportingCount');
+  const closePill = document.getElementById('councilCloseCount');
+  if (repPill) repPill.textContent = `${reportingWardsCount} / 25 Wards Reporting`;
+  if (closePill) closePill.textContent = `${closeRacesCount} Close Races (<5%)`;
+
+  const searchQuery = (document.getElementById('councilSearch')?.value || '').toLowerCase().trim();
+  const activeFilter = document.querySelector('.council-filter-pills .filter-pill.active')?.dataset.councilFilter || 'all';
+  const sortMode = document.getElementById('councilSort')?.value || 'ward';
+
+  let wards = [...allWards];
+
+  // Filter by search query (matches ward #, ward name, or ANY council candidate name)
   if (searchQuery) {
-    wards = wards.filter(w =>
-      w.ward_num.toString().includes(searchQuery) ||
-      w.ward_name.toLowerCase().includes(searchQuery)
-    );
+    wards = wards.filter(w => {
+      const matchWard = w.ward_num.toString() === searchQuery ||
+                        `w${w.ward_num}` === searchQuery ||
+                        `ward ${w.ward_num}`.includes(searchQuery) ||
+                        w.ward_name.toLowerCase().includes(searchQuery);
+      const matchCand = (w.council?.all_candidates || w.council?.top3 || []).some(c =>
+        c.name.toLowerCase().includes(searchQuery)
+      );
+      return matchWard || matchCand;
+    });
   }
 
-  // Apply Category filter
-  if (activeFilter === 'chow') {
-    wards = wards.filter(w => w.head_to_head_margin > 0);
-  } else if (activeFilter === 'bradford') {
-    wards = wards.filter(w => w.head_to_head_margin < 0);
-  } else if (activeFilter === 'battleground') {
-    // Top battlegrounds: absolute margin pct < 5% or close
-    wards = wards.filter(w => Math.abs(w.head_to_head_margin_pct) <= 7.0);
+  // Filter by region or close status
+  if (activeFilter === 'close') {
+    const anyReporting = allWards.some(w => (w.council?.total_votes || 0) > 0);
+    if (anyReporting) {
+      wards = wards.filter(w => (w.council?.total_votes || 0) > 0 && (w.council?.margin_pct || 0) <= 5.0);
+    } else {
+      // Before polls report, show all wards sorted by candidate count or closest margin
+      wards = wards.slice().sort((a, b) => (b.council?.candidates_count || 0) - (a.council?.candidates_count || 0));
+    }
+  } else if (REGION_WARDS[activeFilter]) {
+    const allowed = REGION_WARDS[activeFilter];
+    wards = wards.filter(w => allowed.includes(w.ward_num));
   }
 
-  tbody.innerHTML = '';
+  // Sort wards
+  if (sortMode === 'margin') {
+    wards.sort((a, b) => {
+      const aHas = (a.council?.total_votes || 0) > 0 ? 0 : 1;
+      const bHas = (b.council?.total_votes || 0) > 0 ? 0 : 1;
+      if (aHas !== bHas) return aHas - bHas;
+      return (a.council?.margin_pct || 0) - (b.council?.margin_pct || 0) || (a.ward_num - b.ward_num);
+    });
+  } else if (sortMode === 'votes') {
+    wards.sort((a, b) => (b.council?.total_votes || 0) - (a.council?.total_votes || 0) || (a.ward_num - b.ward_num));
+  } else if (sortMode === 'reporting') {
+    wards.sort((a, b) => (b.council?.polls_reporting_pct || 0) - (a.council?.polls_reporting_pct || 0) || (a.ward_num - b.ward_num));
+  } else {
+    wards.sort((a, b) => a.ward_num - b.ward_num);
+  }
+
+  grid.innerHTML = '';
 
   if (wards.length === 0) {
-    tbody.innerHTML = `<tr><td colspan="7" style="text-align:center; padding: 2rem; color: #64748b;">No wards found matching criteria</td></tr>`;
+    grid.innerHTML = `
+      <div style="grid-column: 1 / -1; text-align: center; padding: 2.5rem; color: var(--text-muted); background: var(--bg-card); border-radius: var(--radius-md); border: 1px solid var(--border-color);">
+        No wards or council candidates found matching "<strong>${searchQuery}</strong>".
+      </div>
+    `;
     return;
   }
 
   wards.forEach(w => {
-    const tr = document.createElement('tr');
-    tr.style.cursor = 'pointer';
+    const council = w.council || {};
+    const cTotalVotes = council.total_votes || 0;
+    const cPollsRep = council.polls_reported || w.polls_reported || 0;
+    const cPollsTot = council.polls_total || w.polls_total || 0;
+    const cPollsPct = council.polls_reporting_pct || w.polls_reporting_pct || 0;
+    const hasVotes = cTotalVotes > 0;
+    const isClose = council.is_close_race;
 
-    const margin = w.head_to_head_margin;
+    const article = document.createElement('article');
+    article.className = `council-ward-card${selectedWardNum === w.ward_num ? ' selected' : ''}${isClose ? ' close-race' : ''}`;
+    article.dataset.wardNum = w.ward_num;
+
+    // Status / Margin Badge
     let badgeHtml = '';
-    if (margin > 0) {
-      badgeHtml = `<span class="table-badge chow">Chow +${margin.toLocaleString()} (${w.head_to_head_margin_pct.toFixed(1)}%)</span>`;
-    } else if (margin < 0) {
-      badgeHtml = `<span class="table-badge bradford">Bradford +${Math.abs(margin).toLocaleString()} (${Math.abs(w.head_to_head_margin_pct).toFixed(1)}%)</span>`;
+    if (hasVotes && council.leader && council.leader !== 'Pending') {
+      if (council.leader === 'Tied') {
+        badgeHtml = `<span class="table-badge council-close">TIED</span>`;
+      } else {
+        const lastName = council.leader.split(' ').slice(-1)[0];
+        const cls = isClose ? 'table-badge council-close' : 'table-badge council-lead';
+        const prefix = isClose ? '🔥 ' : '';
+        badgeHtml = `<span class="${cls}" title="${council.leader} leading by ${(council.margin_votes || 0).toLocaleString()} votes">${prefix}${lastName} +${(council.margin_pct || 0).toFixed(1)}%</span>`;
+      }
     } else {
-      badgeHtml = `<span class="table-badge pending">${w.polls_reported > 0 ? 'Tied' : 'Pending'}</span>`;
+      badgeHtml = `<span class="table-badge pending">Awaiting Polls</span>`;
     }
 
-    tr.innerHTML = `
-      <td><strong>${w.ward_num}</strong></td>
-      <td><strong>${w.ward_name}</strong></td>
-      <td>${w.polls_reported}/${w.polls_total} (${w.polls_reporting_pct.toFixed(0)}%)</td>
-      <td>${w.total_votes.toLocaleString()}</td>
-      <td style="color:#fdba74"><strong>${w.chow.votes.toLocaleString()}</strong> (${w.chow.percentage.toFixed(1)}%)</td>
-      <td style="color:#93c5fd"><strong>${w.bradford.votes.toLocaleString()}</strong> (${w.bradford.percentage.toFixed(1)}%)</td>
-      <td>${badgeHtml}</td>
-    `;
-
-    tr.addEventListener('click', () => {
-      // Find layer in GeoJSON
-      if (geojsonLayer) {
-        geojsonLayer.eachLayer(layer => {
-          if (parseInt(layer.feature.properties.AREA_SHORT_CODE, 10) === w.ward_num) {
-            selectWard(w.ward_num, layer);
-          }
-        });
+    // Determine Top 3 candidates to display (plus any lower-ranked candidate matching searchQuery)
+    const allCands = council.all_candidates || council.top3 || [];
+    const displayCands = allCands.slice(0, 3);
+    if (searchQuery) {
+      const extraMatch = allCands.slice(3).find(c => c.name.toLowerCase().includes(searchQuery));
+      if (extraMatch) {
+        displayCands.push(extraMatch);
       }
-    });
-
-    tbody.appendChild(tr);
-  });
-}
-
-/**
- * Render Key Battlegrounds Spotlight
- */
-function renderBattlegrounds() {
-  const container = document.getElementById('battlegroundsContainer');
-  if (!container || !electionData.battlegrounds) return;
-
-  container.innerHTML = '';
-  electionData.battlegrounds.forEach(b => {
-    const card = document.createElement('div');
-    card.className = 'battle-card';
-
-    const margin = b.margin;
-    const isChow = margin > 0;
-    const isBradford = margin < 0;
-
-    let marginStr = 'Pending';
-    let marginClass = 'color: #94a3b8;';
-    if (isChow) {
-      marginStr = `Chow +${margin.toLocaleString()} (+${b.margin_pct.toFixed(1)}%)`;
-      marginClass = 'color: #fdba74;';
-    } else if (isBradford) {
-      marginStr = `Bradford +${Math.abs(margin).toLocaleString()} (+${Math.abs(b.margin_pct).toFixed(1)}%)`;
-      marginClass = 'color: #93c5fd;';
     }
 
-    card.innerHTML = `
-      <div class="battle-header">
-        <span class="battle-name">Ward ${b.ward_num}: ${b.ward_name}</span>
-      </div>
-      <div style="font-size: 0.8rem; display: flex; justify-content: space-between;">
-        <span>Chow: ${(b.chow_votes || 0).toLocaleString()}</span>
-        <span>Bradford: ${(b.bradford_votes || 0).toLocaleString()}</span>
-      </div>
-      <div class="battle-margin" style="${marginClass}">
-        ${marginStr}
-      </div>
+    const maxCandPct = Math.max(1, ...displayCands.map(c => c.percentage || 0));
+
+    const candsHtml = displayCands.map((cand, idx) => {
+      const rank = cand.rank || (idx + 1);
+      const isLeaderRow = hasVotes && rank === 1 && cand.votes > 0;
+      const isSearchMatch = searchQuery && cand.name.toLowerCase().includes(searchQuery);
+      const rankClass = hasVotes && cand.votes > 0
+        ? (rank === 1 ? 'rank-1-active' : rank === 2 ? 'rank-2-active' : rank === 3 ? 'rank-3-active' : '')
+        : '';
+      const fillClass = rank === 1 ? 'fill-rank-1' : rank === 2 ? 'fill-rank-2' : 'fill-rank-3';
+      const barWidth = hasVotes ? Math.min(100, Math.max(3, (cand.percentage / maxCandPct) * 100)) : 0;
+
+      return `
+        <li class="council-cand-item${isLeaderRow ? ' is-leader' : ''}${isSearchMatch ? ' match-highlight' : ''}">
+          <div class="council-cand-row">
+            <div class="council-cand-left">
+              <span class="council-rank ${rankClass}">${rank}</span>
+              <span class="council-cand-name" title="${cand.name}">${cand.name}</span>
+            </div>
+            <div class="council-cand-stats">
+              <span class="council-cand-votes">${(cand.votes || 0).toLocaleString()}</span>
+              <span class="council-cand-pct">${(cand.percentage || 0).toFixed(1)}%</span>
+            </div>
+          </div>
+          <div class="council-mini-bar-track">
+            <div class="council-mini-bar-fill ${fillClass}" style="width: ${barWidth}%"></div>
+          </div>
+        </li>
+      `;
+    }).join('');
+
+    const totalCandCount = council.candidates_count || allCands.length;
+    const remainingCount = Math.max(0, totalCandCount - displayCands.length);
+
+    article.innerHTML = `
+      <header class="council-card-header">
+        <div class="council-ward-title-group">
+          <span class="ward-num-pill">W${w.ward_num}</span>
+          <h3 title="Ward ${w.ward_num}: ${w.ward_name}">${w.ward_name}</h3>
+        </div>
+        ${badgeHtml}
+      </header>
+      <ul class="council-top3-list">
+        ${candsHtml}
+      </ul>
+      <footer class="council-card-footer">
+        <div class="council-polls-bar">
+          <div class="council-polls-fill" style="width: ${Math.min(100, cPollsPct)}%"></div>
+        </div>
+        <div class="council-footer-meta">
+          <span>${cPollsRep}/${cPollsTot} polls (${cPollsPct.toFixed(0)}%) • ${cTotalVotes.toLocaleString()} votes</span>
+          <span>${remainingCount > 0 ? `+${remainingCount} more` : `${totalCandCount} cands`} →</span>
+        </div>
+      </footer>
     `;
 
-    card.addEventListener('click', () => {
-      if (geojsonLayer) {
-        geojsonLayer.eachLayer(layer => {
-          if (parseInt(layer.feature.properties.AREA_SHORT_CODE, 10) === b.ward_num) {
-            selectWard(b.ward_num, layer);
-          }
-        });
-      }
+    article.addEventListener('click', () => {
+      // Switch inspector tab to 'council' automatically when clicking a council card
+      document.querySelectorAll('.insp-tab-btn').forEach(b => b.classList.toggle('active', b.dataset.inspTab === 'council'));
+      document.getElementById('inspCouncilPanel')?.classList.remove('hidden');
+      document.getElementById('inspMayorPanel')?.classList.add('hidden');
+
+      selectWard(w.ward_num, null);
     });
 
-    container.appendChild(card);
+    grid.appendChild(article);
   });
 }
 
@@ -1049,6 +1202,14 @@ function updateMapLegend() {
       <div class="legend-item"><div class="legend-swatch" style="background:${palette.chow.medium};"></div> Olivia Chow</div>
       <div class="legend-item"><div class="legend-swatch" style="background:${palette.bradford.medium};"></div> Brad Bradford</div>
       <div class="legend-item"><div class="legend-swatch" style="background:#8b5cf6;"></div> Other Candidate</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:${palette.pending};"></div> Awaiting Reports</div>
+    `;
+  } else if (currentMapView === 'council') {
+    legend.innerHTML = `
+      <span style="font-weight:700; margin-right: 4px;">Council Lead Margin:</span>
+      <div class="legend-item"><div class="legend-swatch" style="background:#f59e0b;"></div> Close Race (&le;5%)</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:#0d9488;"></div> Moderate Lead (5-15%)</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:#10b981;"></div> Strong Lead (&gt;15%)</div>
       <div class="legend-item"><div class="legend-swatch" style="background:${palette.pending};"></div> Awaiting Reports</div>
     `;
   } else if (currentMapView === 'turnout') {

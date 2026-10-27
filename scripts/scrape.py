@@ -53,40 +53,56 @@ def main():
     os.makedirs(DATA_DIR, exist_ok=True)
     print(f"[{datetime.now(timezone.utc).isoformat()}] Fetching election results...")
 
-    try:
-        raw_unofficial = fetch_json(UNOFFICIAL_URL)
-        print("  Fetched unofficialresult.json successfully")
-    except Exception as e:
-        print(f"  Error fetching unofficialresult.json: {e}", file=sys.stderr)
-        raw_unofficial = None
+    use_cached = "--use-cached" in sys.argv
+    raw_unofficial = None
+    raw_wbw = None
 
-    try:
-        raw_wbw = fetch_json(WARDBYWARD_URL)
-        print("  Fetched unofficialresult-wardbyward.json successfully")
-    except Exception as e:
-        print(f"  Error fetching unofficialresult-wardbyward.json: {e}", file=sys.stderr)
-        raw_wbw = None
+    if not use_cached:
+        try:
+            raw_unofficial = fetch_json(UNOFFICIAL_URL)
+            print("  Fetched unofficialresult.json successfully")
+        except Exception as e:
+            print(f"  Error fetching unofficialresult.json: {e}", file=sys.stderr)
+
+        try:
+            raw_wbw = fetch_json(WARDBYWARD_URL)
+            print("  Fetched unofficialresult-wardbyward.json successfully")
+        except Exception as e:
+            print(f"  Error fetching unofficialresult-wardbyward.json: {e}", file=sys.stderr)
+
+    if use_cached:
+        u_path = os.path.join(DATA_DIR, "unofficialresult.json")
+        w_path = os.path.join(DATA_DIR, "unofficialresult-wardbyward.json")
+        if os.path.exists(u_path):
+            with open(u_path, "r", encoding="utf-8") as f:
+                raw_unofficial = json.load(f)
+        if os.path.exists(w_path):
+            with open(w_path, "r", encoding="utf-8") as f:
+                raw_wbw = json.load(f)
 
     if not raw_unofficial and not raw_wbw:
         print("Failed to fetch both endpoints. Exiting.", file=sys.stderr)
         sys.exit(1)
 
     # Save raw files for archival/debugging
-    if raw_unofficial:
+    if raw_unofficial and not use_cached:
         with open(os.path.join(DATA_DIR, "unofficialresult.json"), "w", encoding="utf-8") as f:
             json.dump(raw_unofficial, f, indent=2)
 
-    if raw_wbw:
+    if raw_wbw and not use_cached:
         with open(os.path.join(DATA_DIR, "unofficialresult-wardbyward.json"), "w", encoding="utf-8") as f:
             json.dump(raw_wbw, f, indent=2)
 
-    # Find Mayor race in raw_unofficial
+    # Find Mayor and Councillor races in raw_unofficial
     mayor_office = None
+    councillor_office = None
     if raw_unofficial and "office" in raw_unofficial:
         for off in raw_unofficial["office"]:
-            if off.get("name", "").strip().lower() == "mayor":
+            off_name = off.get("name", "").strip().lower()
+            if off_name == "mayor":
                 mayor_office = off
-                break
+            elif off_name == "councillor":
+                councillor_office = off
         if not mayor_office and len(raw_unofficial["office"]) > 0:
             mayor_office = raw_unofficial["office"][0]
 
@@ -162,8 +178,100 @@ def main():
             "head_to_head_margin": 0,
             "head_to_head_margin_pct": 0.0,
             "leader": "Pending",
-            "top5": []
+            "top5": [],
+            "council": {
+                "polls_total": 0,
+                "polls_reported": 0,
+                "polls_reporting_pct": 0.0,
+                "total_votes": 0,
+                "candidates_count": 0,
+                "leader": "Pending",
+                "runner_up": "",
+                "margin_votes": 0,
+                "margin_pct": 0.0,
+                "is_close_race": False,
+                "top3": [],
+                "all_candidates": []
+            }
         }
+
+    # Process Councillor Ward Data from raw_unofficial
+    if councillor_office and "ward" in councillor_office:
+        for cw in councillor_office["ward"]:
+            w_num = safe_int(cw.get("num"))
+            if w_num not in wards_dict:
+                continue
+            wd = wards_dict[w_num]
+            if not wd["ward_name"] and cw.get("name"):
+                wd["ward_name"] = cw.get("name")
+            if wd["registered_voters"] == 0 and cw.get("totalVoters"):
+                wd["registered_voters"] = safe_int(cw.get("totalVoters"))
+            if wd["polls_total"] == 0 and cw.get("polls"):
+                wd["polls_total"] = safe_int(cw.get("polls"))
+
+            c_polls_total = safe_int(cw.get("polls"))
+            c_polls_reported = safe_int(cw.get("pollsReceived"))
+            c_polls_pct = round((c_polls_reported / c_polls_total * 100), 2) if c_polls_total > 0 else 0.0
+            c_total_votes = safe_int(cw.get("votesReceived"))
+
+            c_cands_raw = cw.get("candidate", [])
+            c_cands = []
+            for cc in c_cands_raw:
+                cc_name = cc.get("name", "").strip()
+                cc_votes = safe_int(cc.get("votesReceived", 0))
+                cc_pct = safe_float(cc.get("percentage", 0.0))
+                c_cands.append({
+                    "name": cc_name,
+                    "votes": cc_votes,
+                    "percentage": cc_pct
+                })
+
+            sum_c_votes = sum(x["votes"] for x in c_cands)
+            if sum_c_votes > c_total_votes:
+                c_total_votes = sum_c_votes
+
+            # Sort by votes descending, then alphabetically by name
+            c_cands.sort(key=lambda x: (-x["votes"], x["name"]))
+            for idx, cc in enumerate(c_cands, 1):
+                cc["rank"] = idx
+                if c_total_votes > 0:
+                    cc["percentage"] = round((cc["votes"] / c_total_votes * 100), 2)
+
+            top3_council = c_cands[:3]
+            c_leader = "Pending"
+            c_runner_up = c_cands[1]["name"] if len(c_cands) > 1 else ""
+            c_margin_votes = 0
+            c_margin_pct = 0.0
+            c_is_close = False
+
+            if c_polls_reported > 0 or c_total_votes > 0:
+                if len(c_cands) >= 2:
+                    c_margin_votes = c_cands[0]["votes"] - c_cands[1]["votes"]
+                    c_margin_pct = round(c_cands[0]["percentage"] - c_cands[1]["percentage"], 2)
+                    if c_cands[0]["votes"] > 0 and c_cands[0]["votes"] == c_cands[1]["votes"]:
+                        c_leader = "Tied"
+                    elif c_cands[0]["votes"] > 0:
+                        c_leader = c_cands[0]["name"]
+                    c_is_close = (c_total_votes > 0 and c_margin_pct <= 5.0)
+                elif len(c_cands) == 1 and c_cands[0]["votes"] > 0:
+                    c_leader = c_cands[0]["name"]
+                    c_margin_votes = c_cands[0]["votes"]
+                    c_margin_pct = c_cands[0]["percentage"]
+
+            wd["council"] = {
+                "polls_total": c_polls_total,
+                "polls_reported": c_polls_reported,
+                "polls_reporting_pct": c_polls_pct,
+                "total_votes": c_total_votes,
+                "candidates_count": len(c_cands),
+                "leader": c_leader,
+                "runner_up": c_runner_up,
+                "margin_votes": c_margin_votes,
+                "margin_pct": c_margin_pct,
+                "is_close_race": c_is_close,
+                "top3": top3_council,
+                "all_candidates": c_cands
+            }
 
     for c in wbw_candidates:
         c_name = c.get("name", "").strip()
@@ -172,11 +280,11 @@ def main():
             if w_num not in wards_dict:
                 continue
             wd = wards_dict[w_num]
-            if not wd["ward_name"]:
-                wd["ward_name"] = w.get("name", f"Ward {w_num}")
-                wd["polls_total"] = safe_int(w.get("polls"))
+            if not wd["candidates"]:
+                wd["ward_name"] = w.get("name", wd["ward_name"] or f"Ward {w_num}")
+                wd["polls_total"] = safe_int(w.get("polls")) or wd["polls_total"]
                 wd["polls_reported"] = safe_int(w.get("pollsReceived"))
-                wd["registered_voters"] = safe_int(w.get("totalVoters"))
+                wd["registered_voters"] = safe_int(w.get("totalVoters")) or wd["registered_voters"]
                 wd["total_votes"] = safe_int(w.get("votesCounted"))
 
             c_ward_votes = safe_int(w.get("votesReceived"))

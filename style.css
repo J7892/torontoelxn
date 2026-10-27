@@ -935,95 +935,36 @@ body {
   border-radius: 4px;
 }
 
-/* WARD TABLE SECTION */
-.table-section {
-  background: var(--bg-secondary);
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius-md);
-  padding: 1.25rem;
-}
-
-.table-toolbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  margin-bottom: 1rem;
-}
-
-.search-input {
-  background: var(--bg-primary);
-  border: 1px solid var(--border-color);
-  color: var(--text-main);
-  padding: 0.45rem 0.85rem;
-  border-radius: var(--radius-sm);
-  font-size: 0.85rem;
-  min-width: 240px;
-}
-
-.search-input:focus {
-  outline: none;
-  border-color: #3b82f6;
-}
-
-.filter-pills {
-  display: flex;
-  gap: 0.35rem;
-  flex-wrap: wrap;
-}
-
-.filter-pill {
+/* Inspector Race Tabs */
+.inspector-race-tabs {
+  display: inline-flex;
   background: var(--bg-card);
   border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  padding: 2px;
+  gap: 2px;
+  flex-shrink: 0;
+}
+
+.insp-tab-btn {
+  background: transparent;
+  border: none;
   color: var(--text-muted);
   font-size: 0.75rem;
-  font-weight: 600;
-  padding: 0.3rem 0.65rem;
-  border-radius: 9999px;
+  font-weight: 700;
+  padding: 0.28rem 0.6rem;
+  border-radius: 4px;
   cursor: pointer;
   transition: all 0.15s ease;
 }
 
-.filter-pill.active {
+.insp-tab-btn:hover {
+  color: var(--text-main);
+}
+
+.insp-tab-btn.active {
   background: #2563eb;
-  color: #fff;
-  border-color: #3b82f6;
-}
-
-.table-wrap {
-  overflow-x: auto;
-}
-
-.ward-table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 0.85rem;
-  text-align: left;
-}
-
-.ward-table th {
-  background: var(--bg-card);
-  color: var(--text-muted);
-  padding: 0.65rem 0.85rem;
-  font-weight: 600;
-  border-bottom: 1px solid var(--border-color);
-  cursor: pointer;
-  white-space: nowrap;
-}
-
-.ward-table th:hover {
-  color: var(--text-contrast);
-}
-
-.ward-table td {
-  padding: 0.65rem 0.85rem;
-  border-bottom: 1px solid var(--table-border);
-  white-space: nowrap;
-}
-
-.ward-table tr:hover td {
-  background: var(--table-hover);
+  color: #ffffff;
 }
 
 .table-badge {
@@ -1044,51 +985,382 @@ body {
   color: var(--bradford-text);
 }
 
+.table-badge.council-lead {
+  background: light-dark(rgba(16, 185, 129, 0.14), rgba(16, 185, 129, 0.18));
+  color: light-dark(#047857, #34d399);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+}
+
+.table-badge.council-close {
+  background: light-dark(rgba(245, 158, 11, 0.15), rgba(245, 158, 11, 0.2));
+  color: light-dark(#b45309, #fbbf24);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+}
+
 .table-badge.pending {
   background: var(--box-inset);
   color: var(--text-dim);
 }
 
-/* Key Battlegrounds Section */
-.battleground-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1rem;
-  margin-top: 1rem;
+/* Search & Filter Inputs */
+.search-input {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  color: var(--text-main);
+  padding: 0.45rem 0.85rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.85rem;
+  min-width: 250px;
 }
 
-.battle-card {
+.search-input:focus {
+  outline: none;
+  border-color: #3b82f6;
+}
+
+.filter-pills {
+  display: flex;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.filter-pill {
   background: var(--bg-card);
   border: 1px solid var(--border-color);
-  border-radius: var(--radius-sm);
-  padding: 1rem;
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.32rem 0.7rem;
+  border-radius: 9999px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.filter-pill:hover {
+  color: var(--text-main);
+  border-color: var(--text-dim);
+}
+
+.filter-pill.active {
+  background: #2563eb;
+  color: #fff;
+  border-color: #3b82f6;
+}
+
+/* CITY COUNCIL RACES SECTION (25 WARDS AT-A-GLANCE GRID) */
+.council-section {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 1.35rem;
   display: flex;
   flex-direction: column;
+  gap: 1.15rem;
+}
+
+.council-header-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.council-summary-pills {
+  display: flex;
+  align-items: center;
   gap: 0.5rem;
-  cursor: pointer;
-  transition: all 0.2s ease;
+  flex-wrap: wrap;
 }
 
-.battle-card:hover {
-  border-color: #3b82f6;
-  transform: translateY(-2px);
+.council-stat-pill {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.3rem 0.7rem;
+  border-radius: 9999px;
 }
 
-.battle-header {
+.council-stat-pill.close-pill {
+  background: light-dark(rgba(245, 158, 11, 0.12), rgba(245, 158, 11, 0.15));
+  border-color: rgba(245, 158, 11, 0.35);
+  color: light-dark(#b45309, #fbbf24);
+}
+
+.council-toolbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-color);
 }
 
-.battle-name {
+.council-search-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.council-select {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  color: var(--text-main);
+  padding: 0.45rem 0.75rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.82rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.council-select:focus {
+  outline: none;
+  border-color: #3b82f6;
+}
+
+.council-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+  gap: 1rem;
+}
+
+/* Semantic <article> Card for each Ward's Council Race */
+.council-ward-card {
+  container-type: inline-size;
+  background: var(--bg-card);
+  border: 2px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 0.85rem;
+  cursor: pointer;
+  transition: border-color 0.18s ease, box-shadow 0.18s ease, background-color 0.18s ease;
+}
+
+.council-ward-card:hover {
+  border-color: #3b82f6;
+  box-shadow: var(--shadow-md);
+}
+
+.council-ward-card.selected {
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.25);
+}
+
+.council-ward-card.close-race {
+  border-color: rgba(245, 158, 11, 0.5);
+}
+
+.council-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.council-ward-title-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 0;
+}
+
+.ward-num-pill {
+  background: var(--vs-bg);
+  border: 1px solid var(--vs-border);
+  color: var(--vs-color);
+  font-size: 0.72rem;
+  font-weight: 800;
+  padding: 0.2rem 0.45rem;
+  border-radius: 5px;
+  flex-shrink: 0;
+}
+
+.council-ward-title-group h3 {
+  font-size: 0.95rem;
   font-weight: 700;
-  font-size: 0.9rem;
+  color: var(--text-contrast);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Top 3 Candidates List inside Card */
+.council-top3-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  margin: 0;
+  padding: 0;
+}
+
+.council-cand-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.22rem;
+  background: var(--box-inset);
+  padding: 0.45rem 0.6rem;
+  border-radius: 6px;
+  border: 1px solid transparent;
+}
+
+.council-cand-item.is-leader {
+  background: light-dark(rgba(16, 185, 129, 0.08), rgba(16, 185, 129, 0.1));
+  border-color: rgba(16, 185, 129, 0.28);
+}
+
+.council-cand-item.match-highlight {
+  border-color: #3b82f6;
+  background: light-dark(rgba(59, 130, 246, 0.1), rgba(59, 130, 246, 0.15));
+}
+
+.council-cand-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.council-cand-left {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-width: 0;
+}
+
+.council-rank {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  font-size: 0.68rem;
+  font-weight: 800;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--vs-bg);
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
+.council-rank.rank-1-active {
+  background: #10b981;
+  color: #ffffff;
+}
+
+.council-rank.rank-2-active {
+  background: #3b82f6;
+  color: #ffffff;
+}
+
+.council-rank.rank-3-active {
+  background: #8b5cf6;
+  color: #ffffff;
+}
+
+.council-cand-name {
+  font-size: 0.83rem;
+  font-weight: 600;
+  color: var(--text-contrast);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.council-cand-stats {
+  display: flex;
+  align-items: baseline;
+  gap: 0.35rem;
+  flex-shrink: 0;
+  font-size: 0.8rem;
+}
+
+.council-cand-votes {
+  font-weight: 700;
   color: var(--text-contrast);
 }
 
-.battle-margin {
-  font-size: 0.8rem;
-  font-weight: 700;
+.council-cand-pct {
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  min-width: 38px;
+  text-align: right;
+}
+
+.council-mini-bar-track {
+  width: 100%;
+  height: 5px;
+  background: var(--progress-track);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.council-mini-bar-fill {
+  height: 100%;
+  border-radius: 3px;
+  transition: width 0.4s ease;
+  background: #64748b;
+}
+
+.council-mini-bar-fill.fill-rank-1 {
+  background: #10b981;
+}
+
+.council-mini-bar-fill.fill-rank-2 {
+  background: #3b82f6;
+}
+
+.council-mini-bar-fill.fill-rank-3 {
+  background: #8b5cf6;
+}
+
+/* Card Footer */
+.council-card-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding-top: 0.55rem;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.council-footer-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.73rem;
+  color: var(--text-muted);
+}
+
+.council-polls-bar {
+  width: 100%;
+  height: 4px;
+  background: var(--progress-track);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.council-polls-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #3b82f6, #10b981);
+  border-radius: 2px;
+  transition: width 0.5s ease;
+}
+
+/* Container query for wider cards */
+@container (min-width: 360px) {
+  .council-ward-title-group h3 {
+    font-size: 1rem;
+  }
+  .council-cand-name {
+    font-size: 0.86rem;
+  }
 }
 
 /* History Chart */

@@ -257,8 +257,9 @@
       <section class="map-card">
         <div class="map-toolbar">
           <div class="map-view-toggles" role="group" aria-label="Map Data Mode">
-            <button class="toggle-btn active" data-view="margin">Chow vs Bradford Margin</button>
-            <button class="toggle-btn" data-view="winner">Ward Winner</button>
+            <button class="toggle-btn active" data-view="margin">Mayor: Chow vs Bradford</button>
+            <button class="toggle-btn" data-view="winner">Mayor: Ward Winner</button>
+            <button class="toggle-btn" data-view="council">Council: Race Margin</button>
             <button class="toggle-btn" data-view="turnout">Polls Reporting</button>
           </div>
           <div class="map-toolbar-actions">
@@ -289,97 +290,109 @@
         <div class="inspector-header">
           <div class="inspector-title">
             <h4 id="inspectorWardTitle">Select a Ward</h4>
-            <span id="inspectorReporting">Click any ward on map or table</span>
+            <span id="inspectorReporting">Click any ward on map or council cards below</span>
+          </div>
+          <div class="inspector-race-tabs" role="tablist" aria-label="Ward race view">
+            <button type="button" class="insp-tab-btn active" data-insp-tab="council">Council</button>
+            <button type="button" class="insp-tab-btn" data-insp-tab="mayor">Mayor</button>
           </div>
         </div>
 
-        <div class="ward-breakdown-box">
-          <div class="h2h-row">
-            <span class="h2h-name" style="color: #fdba74;">Olivia Chow</span>
-            <span class="h2h-stat" id="inspChowVotes">0</span>
-            <span class="ticker-sub" id="inspChowPct">0.0%</span>
-          </div>
-          <div class="h2h-row">
-            <span class="h2h-name" style="color: #93c5fd;">Brad Bradford</span>
-            <span class="h2h-stat" id="inspBradfordVotes">0</span>
-            <span class="ticker-sub" id="inspBradfordPct">0.0%</span>
-          </div>
-
-          <!-- Mini bar -->
-          <div class="two-way-meter" style="height: 8px;">
-            <div id="inspChowMiniBar" class="two-way-chow" style="width: 50%"></div>
-            <div id="inspBradfordMiniBar" class="two-way-bradford" style="width: 50%"></div>
-          </div>
-
-          <div style="display:flex; justify-content:space-between; align-items:center; margin-top:0.25rem;">
-            <span class="ticker-label" style="font-size:0.7rem;">Ward Margin:</span>
-            <span id="inspMargin" class="table-badge pending">Pending</span>
+        <!-- Inspector: Council Tab Panel -->
+        <div id="inspCouncilPanel" class="inspector-tab-panel">
+          <div class="ward-breakdown-box">
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+              <span class="ticker-label" style="font-size:0.7rem;">Council Race Status:</span>
+              <span id="inspCouncilMargin" class="table-badge pending">Pending</span>
+            </div>
+            <div id="inspectorCouncilCandidates" class="inspector-candidates-list" style="max-height: 240px; overflow-y: auto;">
+              <!-- Dynamically populated with all council candidates in this ward -->
+            </div>
           </div>
         </div>
 
-        <div>
-          <span class="ticker-label" style="margin-bottom: 0.5rem; display:block;">Ward Top Candidates</span>
-          <div id="inspectorTopCandidates" class="inspector-candidates-list">
-            <!-- Dynamically populated -->
+        <!-- Inspector: Mayor Tab Panel -->
+        <div id="inspMayorPanel" class="inspector-tab-panel hidden">
+          <div class="ward-breakdown-box">
+            <div class="h2h-row">
+              <span class="h2h-name text-chow">Olivia Chow</span>
+              <span class="h2h-stat" id="inspChowVotes">0</span>
+              <span class="ticker-sub" id="inspChowPct">0.0%</span>
+            </div>
+            <div class="h2h-row">
+              <span class="h2h-name text-bradford">Brad Bradford</span>
+              <span class="h2h-stat" id="inspBradfordVotes">0</span>
+              <span class="ticker-sub" id="inspBradfordPct">0.0%</span>
+            </div>
+
+            <!-- Mini bar -->
+            <div class="two-way-meter" style="height: 8px;">
+              <div id="inspChowMiniBar" class="two-way-chow" style="width: 50%"></div>
+              <div id="inspBradfordMiniBar" class="two-way-bradford" style="width: 50%"></div>
+            </div>
+
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-top:0.25rem;">
+              <span class="ticker-label" style="font-size:0.7rem;">Mayoral Margin:</span>
+              <span id="inspMargin" class="table-badge pending">Pending</span>
+            </div>
+          </div>
+
+          <div style="margin-top: 0.75rem;">
+            <span class="ticker-label" style="margin-bottom: 0.5rem; display:block;">Ward Top 5 Mayoral</span>
+            <div id="inspectorTopCandidates" class="inspector-candidates-list">
+              <!-- Dynamically populated -->
+            </div>
           </div>
         </div>
 
-        <div id="inspectorStats" style="border-top: 1px solid var(--border-color); padding-top: 0.75rem;">
+        <div id="inspectorStats" style="border-top: 1px solid var(--border-color); padding-top: 0.75rem; margin-top: auto;">
           <!-- Turnout and votes in ward -->
         </div>
       </section>
     </div>
 
-    <!-- KEY BATTLEGROUNDS -->
-    <section class="ticker-card">
-      <div class="section-title-wrap" style="margin-bottom: 0.5rem;">
-        <h3 class="section-title" style="font-size: 1.05rem;">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
-          </svg>
-          Key Battlegrounds & Swing Wards
-        </h3>
-        <span class="ticker-sub">Districts with the closest vote margin</span>
-      </div>
-      <div id="battlegroundsContainer" class="battleground-cards">
-        <!-- Rendered by app.js -->
-      </div>
-    </section>
-
-    <!-- WARD RESULTS TABLE -->
-    <section class="table-section">
-      <div class="table-toolbar">
-        <h3 class="section-title" style="font-size: 1.05rem;">
-          Ward-by-Ward Results Explorer
-        </h3>
-        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
-          <input type="text" id="tableSearch" class="search-input" placeholder="Search ward name or number...">
-          <div class="filter-pills">
-            <button class="filter-pill active" data-filter="all">All Wards (25)</button>
-            <button class="filter-pill" data-filter="chow">Chow Leading</button>
-            <button class="filter-pill" data-filter="bradford">Bradford Leading</button>
-            <button class="filter-pill" data-filter="battleground">Battlegrounds</button>
-          </div>
+    <!-- CITY COUNCIL RACES: ALL 25 WARDS AT-A-GLANCE -->
+    <section class="council-section">
+      <div class="council-header-wrap">
+        <div>
+          <h2 class="section-title">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+            </svg>
+            City Council Races — All 25 Wards
+          </h2>
+          <p class="ticker-sub" style="margin-top: 0.2rem;">
+            At-a-glance leaderboard showing the top 3 council contenders, vote share bars, and margins in every ward. Click any card to inspect the full ballot and zoom on the map.
+          </p>
+        </div>
+        <div id="councilSummaryStats" class="council-summary-pills">
+          <span class="council-stat-pill" id="councilReportingCount">0 / 25 Wards Reporting</span>
+          <span class="council-stat-pill close-pill" id="councilCloseCount">0 Close Races (&lt;5%)</span>
         </div>
       </div>
 
-      <div class="table-wrap">
-        <table class="ward-table">
-          <thead>
-            <tr>
-              <th>Ward #</th>
-              <th>Ward Name</th>
-              <th>Polls Reporting</th>
-              <th>Total Votes</th>
-              <th>Olivia Chow</th>
-              <th>Brad Bradford</th>
-              <th>Lead Margin</th>
-            </tr>
-          </thead>
-          <tbody id="wardTableBody">
-            <!-- Dynamic table rows -->
-          </tbody>
-        </table>
+      <div class="council-toolbar">
+        <div class="council-search-wrap">
+          <input type="text" id="councilSearch" class="search-input" placeholder="Search ward name, # or candidate name..." aria-label="Search council wards or candidates">
+          <select id="councilSort" class="council-select" aria-label="Sort council wards">
+            <option value="ward">Sort: Ward # (1–25)</option>
+            <option value="margin">Sort: Closest Race Margin</option>
+            <option value="votes">Sort: Most Votes Counted</option>
+            <option value="reporting">Sort: Highest Polls Reporting %</option>
+          </select>
+        </div>
+        <div class="filter-pills council-filter-pills" role="group" aria-label="Filter wards by region or status">
+          <button type="button" class="filter-pill active" data-council-filter="all">All 25 Wards</button>
+          <button type="button" class="filter-pill" data-council-filter="close">Close Races (&lt;5%)</button>
+          <button type="button" class="filter-pill" data-council-filter="etobicoke">Etobicoke (W1–3)</button>
+          <button type="button" class="filter-pill" data-council-filter="northyork">York / North York</button>
+          <button type="button" class="filter-pill" data-council-filter="torontoeastyork">Toronto &amp; East York</button>
+          <button type="button" class="filter-pill" data-council-filter="scarborough">Scarborough (W20–25)</button>
+        </div>
+      </div>
+
+      <div id="councilGrid" class="council-grid">
+        <!-- 25 Ward Council Cards rendered dynamically by app.js -->
       </div>
     </section>
 

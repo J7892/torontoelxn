@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated_utc": "2026-10-26T23:58:15.228086+00:00",
+    "last_updated_utc": "2026-10-27T00:34:14.556240+00:00",
     "election_desc": "2026 Municipal Election",
     "seq": "1790647481807",
     "status": "Awaiting Results - Polls Closing",
@@ -126,7 +126,101 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 46,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 10,
+        "leader": "Pending",
+        "runner_up": "Ala'a Adib",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Abraham Abbey",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Ala'a Adib",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Chloe Brown",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Abraham Abbey",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Ala'a Adib",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Chloe Brown",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Hard Parmar",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Joseph Martino",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Kristian Santos",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          },
+          {
+            "name": "Nathen Masri",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 7
+          },
+          {
+            "name": "Norman Hamilton",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 8
+          },
+          {
+            "name": "Saima Babar",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 9
+          },
+          {
+            "name": "Vincent Crisanti",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 10
+          }
+        ]
+      }
     },
     {
       "ward_num": 2,
@@ -179,7 +273,59 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 67,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 3,
+        "leader": "Pending",
+        "runner_up": "Katie Andrachuk",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Jennifer Alexander",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Katie Andrachuk",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Stephen Holyday",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Jennifer Alexander",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Katie Andrachuk",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Stephen Holyday",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ]
+      }
     },
     {
       "ward_num": 3,
@@ -232,7 +378,65 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 82,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 4,
+        "leader": "Pending",
+        "runner_up": "Anthony Internicola",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Amber Morley",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Anthony Internicola",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Mihaela Andrei",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Amber Morley",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Anthony Internicola",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Mihaela Andrei",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Ted Opitz",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          }
+        ]
+      }
     },
     {
       "ward_num": 4,
@@ -285,7 +489,101 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 67,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 10,
+        "leader": "Pending",
+        "runner_up": "Andy Potega",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Adam Pham",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Andy Potega",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Bridget Ogundipe",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Adam Pham",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Andy Potega",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Bridget Ogundipe",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Debbie King",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Diana Chan McNally",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Holly Weber",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          },
+          {
+            "name": "Michael Corcoran",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 7
+          },
+          {
+            "name": "Nadia Guerrera",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 8
+          },
+          {
+            "name": "Steve Yuen",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 9
+          },
+          {
+            "name": "Vanessa Raponi",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 10
+          }
+        ]
+      }
     },
     {
       "ward_num": 5,
@@ -338,7 +636,95 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 62,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 9,
+        "leader": "Pending",
+        "runner_up": "Chiara Padovani",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Ahmed Mawel",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Chiara Padovani",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Daniel Di Giorgio",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Ahmed Mawel",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Chiara Padovani",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Daniel Di Giorgio",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Frances Nunziata",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Maryama Farah",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Matthew Boateng",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          },
+          {
+            "name": "Nekpen Obasogie",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 7
+          },
+          {
+            "name": "Sharmarke Ali",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 8
+          },
+          {
+            "name": "Sileen Phillips",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 9
+          }
+        ]
+      }
     },
     {
       "ward_num": 6,
@@ -391,7 +777,59 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 50,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 3,
+        "leader": "Pending",
+        "runner_up": "Conroy Irving",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Alexander Artamonov",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Conroy Irving",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "James Pasternak",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Alexander Artamonov",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Conroy Irving",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "James Pasternak",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ]
+      }
     },
     {
       "ward_num": 7,
@@ -444,7 +882,59 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 45,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 3,
+        "leader": "Pending",
+        "runner_up": "Anthony Perruzza",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Amanda Coombs",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Anthony Perruzza",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Lorna Antwi",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Amanda Coombs",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Anthony Perruzza",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Lorna Antwi",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ]
+      }
     },
     {
       "ward_num": 8,
@@ -497,7 +987,77 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 61,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 6,
+        "leader": "Pending",
+        "runner_up": "Domenico Maiolo",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Daniel Trayes",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Domenico Maiolo",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Enzo Torrone",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Daniel Trayes",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Domenico Maiolo",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Enzo Torrone",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Jason McDonald",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Liz Grade",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Mike Colle",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          }
+        ]
+      }
     },
     {
       "ward_num": 9,
@@ -550,7 +1110,65 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 53,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 4,
+        "leader": "Pending",
+        "runner_up": "Ashley Jansen",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Alejandra Bravo",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Ashley Jansen",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Marco Martins",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Alejandra Bravo",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Ashley Jansen",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Marco Martins",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Neil Simon",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          }
+        ]
+      }
     },
     {
       "ward_num": 10,
@@ -603,7 +1221,89 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 80,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 8,
+        "leader": "Pending",
+        "runner_up": "Andi Ho\u00e0ng-Lefranc",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Aanchal Vashistha",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Andi Ho\u00e0ng-Lefranc",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Ausma Malik",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Aanchal Vashistha",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Andi Ho\u00e0ng-Lefranc",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Ausma Malik",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Bashar Kassir",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Husain Neemuchwala",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Ian Cunningham",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          },
+          {
+            "name": "Paul Nash",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 7
+          },
+          {
+            "name": "Xue Ding",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 8
+          }
+        ]
+      }
     },
     {
       "ward_num": 11,
@@ -656,7 +1356,95 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 72,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 9,
+        "leader": "Pending",
+        "runner_up": "Diana Yoon",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Alice Li",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Diana Yoon",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Gian Pileri",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Alice Li",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Diana Yoon",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Gian Pileri",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Huy Lieu",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Karina Lemke",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Keenan Courtis",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          },
+          {
+            "name": "Mike Layton",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 7
+          },
+          {
+            "name": "Paul Viret",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 8
+          },
+          {
+            "name": "Terri Hawkes",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 9
+          }
+        ]
+      }
     },
     {
       "ward_num": 12,
@@ -709,7 +1497,77 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 58,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 6,
+        "leader": "Pending",
+        "runner_up": "Bob Murphy",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Ahmed Kamal",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Bob Murphy",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "David Cottrell",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Ahmed Kamal",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Bob Murphy",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "David Cottrell",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Jenny Kalimbet",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Josh Matlow",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Mina Nadimi",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          }
+        ]
+      }
     },
     {
       "ward_num": 13,
@@ -762,7 +1620,107 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 78,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 11,
+        "leader": "Pending",
+        "runner_up": "Cleveland Marshall",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Chris Moise",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Cleveland Marshall",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Curran Stikuts",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Chris Moise",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Cleveland Marshall",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Curran Stikuts",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Daniel Tate",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Joe Cadeau",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Morgan Harris",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          },
+          {
+            "name": "Nicki Ward",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 7
+          },
+          {
+            "name": "Norman MacLeod",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 8
+          },
+          {
+            "name": "Tom Cai",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 9
+          },
+          {
+            "name": "Victoria Davis",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 10
+          },
+          {
+            "name": "Walied Khogali Ali",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 11
+          }
+        ]
+      }
     },
     {
       "ward_num": 14,
@@ -815,7 +1773,149 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 48,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 18,
+        "leader": "Pending",
+        "runner_up": "Christiane Tetreault",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Caryma Sa'd",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Christiane Tetreault",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Denise Walcott",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Caryma Sa'd",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Christiane Tetreault",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Denise Walcott",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Dennis Corcoran",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Devyn Stackhouse",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Dianne Saxe",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          },
+          {
+            "name": "George Fawcett",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 7
+          },
+          {
+            "name": "Jason Stevens",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 8
+          },
+          {
+            "name": "John Kladitis",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 9
+          },
+          {
+            "name": "Maqsood Ahmad",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 10
+          },
+          {
+            "name": "Maria Voutsinas",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 11
+          },
+          {
+            "name": "Mary Fragedakis",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 12
+          },
+          {
+            "name": "Michael Connor",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 13
+          },
+          {
+            "name": "Michael Mitchell",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 14
+          },
+          {
+            "name": "Peter De Marco",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 15
+          },
+          {
+            "name": "Robb Dagenais",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 16
+          },
+          {
+            "name": "Sara Ehrhardt",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 17
+          },
+          {
+            "name": "Susan Chapelle",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 18
+          }
+        ]
+      }
     },
     {
       "ward_num": 15,
@@ -868,7 +1968,59 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 49,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 3,
+        "leader": "Pending",
+        "runner_up": "Rachel Chernos Lin",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Denis Tsang",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Rachel Chernos Lin",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Sheena Sharp",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Denis Tsang",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Rachel Chernos Lin",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Sheena Sharp",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ]
+      }
     },
     {
       "ward_num": 16,
@@ -921,7 +2073,65 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 62,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 4,
+        "leader": "Pending",
+        "runner_up": "Jon Burnside",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Didi Moffat",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Jon Burnside",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Sinan Erdemir",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Didi Moffat",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Jon Burnside",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Sinan Erdemir",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Stacey Moffatt",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          }
+        ]
+      }
     },
     {
       "ward_num": 17,
@@ -974,7 +2184,83 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 60,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 7,
+        "leader": "Pending",
+        "runner_up": "Hong Xiao",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Hassan Mubarak Noor Mohamed",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Hong Xiao",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Jeffery Adamson",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Hassan Mubarak Noor Mohamed",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Hong Xiao",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Jeffery Adamson",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Jethro Adir Kavod",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Roy Samathanam",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Sabrina Zuniga",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          },
+          {
+            "name": "Shelley Carroll",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 7
+          }
+        ]
+      }
     },
     {
       "ward_num": 18,
@@ -1027,7 +2313,77 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 56,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 6,
+        "leader": "Pending",
+        "runner_up": "David Magazzinich",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Ardeshir Zarezade",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "David Magazzinich",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Hamid Shakeri",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Ardeshir Zarezade",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "David Magazzinich",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Hamid Shakeri",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Lily Cheng",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Nathan Yusifov",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Nicole Daneshvar",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          }
+        ]
+      }
     },
     {
       "ward_num": 19,
@@ -1080,7 +2436,119 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 53,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 13,
+        "leader": "Pending",
+        "runner_up": "Austin Vieira",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Adam Smith",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Austin Vieira",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Devin Wilkins",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Adam Smith",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Austin Vieira",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Devin Wilkins",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Fatima Ibrahimi",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "James Dann",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Jeff Wahl",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          },
+          {
+            "name": "Jennie Worden",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 7
+          },
+          {
+            "name": "Karsten Riedel",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 8
+          },
+          {
+            "name": "Kevin Morrison",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 9
+          },
+          {
+            "name": "Mohammad Shabani",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 10
+          },
+          {
+            "name": "Natalie Johnson",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 11
+          },
+          {
+            "name": "Nate Erskine-Smith",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 12
+          },
+          {
+            "name": "Syeda Jaana Ali",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 13
+          }
+        ]
+      }
     },
     {
       "ward_num": 20,
@@ -1133,7 +2601,89 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 61,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 8,
+        "leader": "Pending",
+        "runner_up": "Kevin Rupasinghe",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Ariel-Rachel Karokis",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Kevin Rupasinghe",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Laikul Choudhury",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Ariel-Rachel Karokis",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Kevin Rupasinghe",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Laikul Choudhury",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Luigi Lisciandro",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Mohammad Ali Reza",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Naser Kaid",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          },
+          {
+            "name": "Parthi Kandavel",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 7
+          },
+          {
+            "name": "Sharmina Nasrin",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 8
+          }
+        ]
+      }
     },
     {
       "ward_num": 21,
@@ -1186,7 +2736,107 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 49,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 11,
+        "leader": "Pending",
+        "runner_up": "Bahareh Barahmand",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Akina Lalla",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Bahareh Barahmand",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Krissan Veerasingam",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Akina Lalla",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Bahareh Barahmand",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Krissan Veerasingam",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Madura Shanmugaratnam",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Michael Thompson",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Nisha Kumari",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          },
+          {
+            "name": "Patience Evbagharu",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 7
+          },
+          {
+            "name": "Stella Kargiannakis",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 8
+          },
+          {
+            "name": "Taiba Ahmed",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 9
+          },
+          {
+            "name": "Uthish Ganesh",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 10
+          },
+          {
+            "name": "Willie Reodica",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 11
+          }
+        ]
+      }
     },
     {
       "ward_num": 22,
@@ -1239,7 +2889,101 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 47,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 10,
+        "leader": "Pending",
+        "runner_up": "Bill Chan",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Aaron Lal",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Bill Chan",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Dan Lovell",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Aaron Lal",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Bill Chan",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Dan Lovell",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Donny Morgan",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Jackson Ho",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Madhuri Azad",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          },
+          {
+            "name": "Nick Mantas",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 7
+          },
+          {
+            "name": "Rakhee Kotecha",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 8
+          },
+          {
+            "name": "Serge Khatchadourian",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 9
+          },
+          {
+            "name": "Sindia Vijayarajan",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 10
+          }
+        ]
+      }
     },
     {
       "ward_num": 23,
@@ -1292,7 +3036,89 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 37,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 8,
+        "leader": "Pending",
+        "runner_up": "Jamaal Myers",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Han Dong",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Jamaal Myers",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "John-Mark Oleh",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Han Dong",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Jamaal Myers",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "John-Mark Oleh",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Kevin Li",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Piravena Sathiyanantham",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Ronald Phen",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          },
+          {
+            "name": "Sajawal Javed",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 7
+          },
+          {
+            "name": "Shaun Chen",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 8
+          }
+        ]
+      }
     },
     {
       "ward_num": 24,
@@ -1345,7 +3171,77 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 48,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 6,
+        "leader": "Pending",
+        "runner_up": "Arun Sivanandan",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "An Wu",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Arun Sivanandan",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Jithender Mulamalla",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "An Wu",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Arun Sivanandan",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Jithender Mulamalla",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Nachi Ramasamy",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Paul Ainslie",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Robert Bazil",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          }
+        ]
+      }
     },
     {
       "ward_num": 25,
@@ -1398,7 +3294,101 @@
           "votes": 0,
           "percentage": 0.0
         }
-      ]
+      ],
+      "council": {
+        "polls_total": 40,
+        "polls_reported": 0,
+        "polls_reporting_pct": 0.0,
+        "total_votes": 0,
+        "candidates_count": 10,
+        "leader": "Pending",
+        "runner_up": "Dharshan Casinathen",
+        "margin_votes": 0,
+        "margin_pct": 0.0,
+        "is_close_race": false,
+        "top3": [
+          {
+            "name": "Ashan Fernando",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Dharshan Casinathen",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Dianna Robinson",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          }
+        ],
+        "all_candidates": [
+          {
+            "name": "Ashan Fernando",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 1
+          },
+          {
+            "name": "Dharshan Casinathen",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 2
+          },
+          {
+            "name": "Dianna Robinson",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 3
+          },
+          {
+            "name": "Jannette Lumley",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 4
+          },
+          {
+            "name": "Kannan S'ree Jr",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 5
+          },
+          {
+            "name": "Neethan Shan",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 6
+          },
+          {
+            "name": "Shawn Allen",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 7
+          },
+          {
+            "name": "Somas Kaneshapillai",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 8
+          },
+          {
+            "name": "Vane Stavrev",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 9
+          },
+          {
+            "name": "Zakir Patel",
+            "votes": 0,
+            "percentage": 0.0,
+            "rank": 10
+          }
+        ]
+      }
     }
   ],
   "battlegrounds": [
