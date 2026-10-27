@@ -9,33 +9,33 @@
           "name": "City-wide",
           "num": "0",
           "polls": "1431",
-          "pollsReceived": "1405",
+          "pollsReceived": "1406",
           "totalVoters": "2143771",
-          "votesReceived": "965114",
+          "votesReceived": "965391",
           "candidate": [
             {
               "name": "Olivia Chow",
-              "votesReceived": "522558",
-              "percentage": "54.14"
+              "votesReceived": "522731",
+              "percentage": "54.15"
             },
             {
               "name": "Brad Bradford",
-              "votesReceived": "396994",
+              "votesReceived": "397078",
               "percentage": "41.13"
             },
             {
               "name": "Braeden Chow",
-              "votesReceived": "7940",
+              "votesReceived": "7944",
               "percentage": "0.82"
             },
             {
               "name": "Chris Alexander",
-              "votesReceived": "3504",
+              "votesReceived": "3505",
               "percentage": "0.36"
             },
             {
               "name": "Edward Gong",
-              "votesReceived": "3387",
+              "votesReceived": "3390",
               "percentage": "0.35"
             },
             {
@@ -45,7 +45,7 @@
             },
             {
               "name": "Darrell Brown",
-              "votesReceived": "2032",
+              "votesReceived": "2033",
               "percentage": "0.21"
             },
             {
@@ -55,7 +55,7 @@
             },
             {
               "name": "Bahira Abdulsalam",
-              "votesReceived": "1671",
+              "votesReceived": "1673",
               "percentage": "0.17"
             },
             {
@@ -70,12 +70,12 @@
             },
             {
               "name": "Sandeep Srivastava",
-              "votesReceived": "1127",
+              "votesReceived": "1130",
               "percentage": "0.12"
             },
             {
               "name": "Kevin Clarke",
-              "votesReceived": "1066",
+              "votesReceived": "1067",
               "percentage": "0.11"
             },
             {
@@ -105,7 +105,7 @@
             },
             {
               "name": "Paul Collins",
-              "votesReceived": "829",
+              "votesReceived": "830",
               "percentage": "0.09"
             },
             {
@@ -120,7 +120,7 @@
             },
             {
               "name": "Joshua Thompson",
-              "votesReceived": "689",
+              "votesReceived": "691",
               "percentage": "0.07"
             },
             {
@@ -175,7 +175,7 @@
             },
             {
               "name": "Faizan Haider",
-              "votesReceived": "361",
+              "votesReceived": "362",
               "percentage": "0.04"
             },
             {
@@ -220,7 +220,7 @@
             },
             {
               "name": "Jack Hartley",
-              "votesReceived": "317",
+              "votesReceived": "318",
               "percentage": "0.03"
             },
             {
@@ -975,29 +975,29 @@
           "name": "Don Valley East",
           "num": "16",
           "polls": "62",
-          "pollsReceived": "60",
+          "pollsReceived": "61",
           "totalVoters": "70080",
-          "votesReceived": "26672",
+          "votesReceived": "26928",
           "candidate": [
             {
               "name": "Jon Burnside",
-              "votesReceived": "19072",
-              "percentage": "71.51"
+              "votesReceived": "19180",
+              "percentage": "71.23"
             },
             {
               "name": "Sinan Erdemir",
-              "votesReceived": "3290",
-              "percentage": "12.34"
+              "votesReceived": "3326",
+              "percentage": "12.35"
             },
             {
               "name": "Stacey Moffatt",
-              "votesReceived": "2209",
-              "percentage": "8.28"
+              "votesReceived": "2286",
+              "percentage": "8.49"
             },
             {
               "name": "Didi Moffat",
-              "votesReceived": "2101",
-              "percentage": "7.88"
+              "votesReceived": "2136",
+              "percentage": "7.93"
             }
           ]
         },
@@ -1768,44 +1768,44 @@
         {
           "num": "8",
           "polls": "111",
-          "pollsReceived": "109",
+          "pollsReceived": "110",
           "totalVoters": "89581",
-          "votesReceived": "46611",
+          "votesReceived": "46825",
           "candidate": [
             {
               "name": "Farzana Rajwani",
-              "votesReceived": "13612",
-              "percentage": "29.20"
+              "votesReceived": "13651",
+              "percentage": "29.15"
             },
             {
               "name": "Tracey Haddleton",
-              "votesReceived": "11434",
-              "percentage": "24.53"
+              "votesReceived": "11501",
+              "percentage": "24.56"
             },
             {
               "name": "Christine McGirr",
-              "votesReceived": "8813",
-              "percentage": "18.91"
+              "votesReceived": "8860",
+              "percentage": "18.92"
             },
             {
               "name": "Spiros Kapoglis",
-              "votesReceived": "4102",
-              "percentage": "8.80"
+              "votesReceived": "4118",
+              "percentage": "8.79"
             },
             {
               "name": "Imran Khan",
-              "votesReceived": "3308",
+              "votesReceived": "3323",
               "percentage": "7.10"
             },
             {
               "name": "Ibrahim Hatia",
-              "votesReceived": "2824",
-              "percentage": "6.06"
+              "votesReceived": "2832",
+              "percentage": "6.05"
             },
             {
               "name": "Dewitt Lee III",
-              "votesReceived": "2518",
-              "percentage": "5.40"
+              "votesReceived": "2540",
+              "percentage": "5.42"
             }
           ]
         },
@@ -2224,19 +2224,19 @@
         {
           "num": "11",
           "polls": "272",
-          "pollsReceived": "265",
+          "pollsReceived": "266",
           "totalVoters": "90868",
-          "votesReceived": "15397",
+          "votesReceived": "15430",
           "candidate": [
             {
               "name": "Angela Kennedy",
-              "votesReceived": "11499",
-              "percentage": "74.68"
+              "votesReceived": "11529",
+              "percentage": "74.72"
             },
             {
               "name": "Anton Perera",
-              "votesReceived": "3898",
-              "percentage": "25.32"
+              "votesReceived": "3901",
+              "percentage": "25.28"
             }
           ]
         },
@@ -2263,7 +2263,7 @@
         {
           "num": "2",
           "polls": "559",
-          "pollsReceived": "552",
+          "pollsReceived": "553",
           "totalVoters": "97554",
           "votesReceived": "0",
           "candidate": [
@@ -2340,29 +2340,29 @@
         {
           "num": "4",
           "polls": "554",
-          "pollsReceived": "543",
+          "pollsReceived": "544",
           "totalVoters": "88529",
-          "votesReceived": "1298",
+          "votesReceived": "1302",
           "candidate": [
             {
               "name": "Rhea Dechaine",
-              "votesReceived": "925",
-              "percentage": "71.26"
+              "votesReceived": "928",
+              "percentage": "71.27"
             },
             {
               "name": "Derek McNulty",
               "votesReceived": "194",
-              "percentage": "14.95"
+              "percentage": "14.90"
             },
             {
               "name": "Clescadine Gustave",
-              "votesReceived": "179",
-              "percentage": "13.79"
+              "votesReceived": "180",
+              "percentage": "13.82"
             }
           ]
         }
       ]
     }
   ],
-  "seq": "1793066826276"
+  "seq": "1793066915989"
 }

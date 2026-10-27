@@ -1,35 +1,35 @@
 {
   "metadata": {
-    "last_updated_utc": "2026-10-27T02:07:45.316628+00:00",
+    "last_updated_utc": "2026-10-27T02:09:02.344741+00:00",
     "election_desc": "2026 Municipal Election",
-    "seq": "1793066826276",
+    "seq": "1793066915989",
     "status": "Live - Polls Open / Reporting",
     "source_url": "https://electionresults.toronto.ca/"
   },
   "citywide": {
     "total_polls": 1431,
-    "polls_reported": 1405,
-    "polls_reporting_pct": 98.18,
-    "total_votes": 965114,
+    "polls_reported": 1406,
+    "polls_reporting_pct": 98.25,
+    "total_votes": 965391,
     "registered_voters": 2143771,
-    "turnout_pct": 45.02
+    "turnout_pct": 45.03
   },
   "head_to_head": {
     "leader": "Olivia Chow",
-    "vote_margin": 125564,
-    "pct_margin": 13.01,
-    "total_head_to_head_votes": 919552,
+    "vote_margin": 125653,
+    "pct_margin": 13.02,
+    "total_head_to_head_votes": 919809,
     "chow": {
       "name": "Olivia Chow",
-      "votes": 522558,
-      "percentage": 54.14,
+      "votes": 522731,
+      "percentage": 54.15,
       "two_way_percentage": 56.83,
       "wards_leading": 19,
       "color": "#e05a1e"
     },
     "bradford": {
       "name": "Brad Bradford",
-      "votes": 396994,
+      "votes": 397078,
       "percentage": 41.13,
       "two_way_percentage": 43.17,
       "wards_leading": 6,
@@ -39,38 +39,38 @@
   "top5_candidates": [
     {
       "name": "Olivia Chow",
-      "votes": 522558,
-      "percentage": 54.14,
+      "votes": 522731,
+      "percentage": 54.15,
       "rank": 1,
       "margin_from_leader": 0
     },
     {
       "name": "Brad Bradford",
-      "votes": 396994,
+      "votes": 397078,
       "percentage": 41.13,
       "rank": 2,
-      "margin_from_leader": -125564
+      "margin_from_leader": -125653
     },
     {
       "name": "Braeden Chow",
-      "votes": 7940,
+      "votes": 7944,
       "percentage": 0.82,
       "rank": 3,
-      "margin_from_leader": -514618
+      "margin_from_leader": -514787
     },
     {
       "name": "Chris Alexander",
-      "votes": 3504,
+      "votes": 3505,
       "percentage": 0.36,
       "rank": 4,
-      "margin_from_leader": -519054
+      "margin_from_leader": -519226
     },
     {
       "name": "Edward Gong",
-      "votes": 3387,
+      "votes": 3390,
       "percentage": 0.35,
       "rank": 5,
-      "margin_from_leader": -519171
+      "margin_from_leader": -519341
     }
   ],
   "all_candidates_count": 53,
@@ -2026,108 +2026,108 @@
       "ward_num": 16,
       "ward_name": "Don Valley East",
       "polls_total": 62,
-      "polls_reported": 60,
-      "polls_reporting_pct": 96.77,
-      "total_votes": 28614,
+      "polls_reported": 61,
+      "polls_reporting_pct": 98.39,
+      "total_votes": 28891,
       "registered_voters": 70080,
-      "turnout_pct": 40.83,
+      "turnout_pct": 41.23,
       "chow": {
-        "votes": 15257,
-        "percentage": 53.32
+        "votes": 15430,
+        "percentage": 53.41
       },
       "bradford": {
-        "votes": 11832,
-        "percentage": 41.35
+        "votes": 11916,
+        "percentage": 41.24
       },
-      "head_to_head_margin": 3425,
-      "head_to_head_margin_pct": 11.97,
+      "head_to_head_margin": 3514,
+      "head_to_head_margin_pct": 12.17,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 15257,
-          "percentage": 53.32
+          "votes": 15430,
+          "percentage": 53.41
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 11832,
-          "percentage": 41.35
+          "votes": 11916,
+          "percentage": 41.24
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 283,
+          "votes": 287,
           "percentage": 0.99
         },
         {
           "rank": 4,
           "name": "Edward Gong",
-          "votes": 113,
-          "percentage": 0.39
+          "votes": 116,
+          "percentage": 0.4
         },
         {
           "rank": 5,
           "name": "Chris Alexander",
-          "votes": 109,
+          "votes": 110,
           "percentage": 0.38
         }
       ],
       "council": {
         "polls_total": 62,
-        "polls_reported": 60,
-        "polls_reporting_pct": 96.77,
-        "total_votes": 26672,
+        "polls_reported": 61,
+        "polls_reporting_pct": 98.39,
+        "total_votes": 26928,
         "candidates_count": 4,
         "leader": "Jon Burnside",
         "runner_up": "Sinan Erdemir",
-        "margin_votes": 15782,
-        "margin_pct": 59.17,
+        "margin_votes": 15854,
+        "margin_pct": 58.88,
         "is_close_race": false,
         "top3": [
           {
             "name": "Jon Burnside",
-            "votes": 19072,
-            "percentage": 71.51,
+            "votes": 19180,
+            "percentage": 71.23,
             "rank": 1
           },
           {
             "name": "Sinan Erdemir",
-            "votes": 3290,
-            "percentage": 12.34,
+            "votes": 3326,
+            "percentage": 12.35,
             "rank": 2
           },
           {
             "name": "Stacey Moffatt",
-            "votes": 2209,
-            "percentage": 8.28,
+            "votes": 2286,
+            "percentage": 8.49,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Jon Burnside",
-            "votes": 19072,
-            "percentage": 71.51,
+            "votes": 19180,
+            "percentage": 71.23,
             "rank": 1
           },
           {
             "name": "Sinan Erdemir",
-            "votes": 3290,
-            "percentage": 12.34,
+            "votes": 3326,
+            "percentage": 12.35,
             "rank": 2
           },
           {
             "name": "Stacey Moffatt",
-            "votes": 2209,
-            "percentage": 8.28,
+            "votes": 2286,
+            "percentage": 8.49,
             "rank": 3
           },
           {
             "name": "Didi Moffat",
-            "votes": 2101,
-            "percentage": 7.88,
+            "votes": 2136,
+            "percentage": 7.93,
             "rank": 4
           }
         ]

@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "1405",
+    "pollsReceived": "1406",
     "totalVoters": "2143771",
-    "votesReceived": "965114",
+    "votesReceived": "965391",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "522558",
+        "votesReceived": "522731",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -150,10 +150,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
-            "votesReceived": "15257"
+            "votesCounted": "28891",
+            "votesReceived": "15430"
           },
           {
             "name": "Don Valley North",
@@ -240,7 +240,7 @@
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "396994",
+        "votesReceived": "397078",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -381,10 +381,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
-            "votesReceived": "11832"
+            "votesCounted": "28891",
+            "votesReceived": "11916"
           },
           {
             "name": "Don Valley North",
@@ -471,7 +471,7 @@
       },
       {
         "name": "Braeden Chow",
-        "votesReceived": "7940",
+        "votesReceived": "7944",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -612,10 +612,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
-            "votesReceived": "283"
+            "votesCounted": "28891",
+            "votesReceived": "287"
           },
           {
             "name": "Don Valley North",
@@ -702,7 +702,7 @@
       },
       {
         "name": "Chris Alexander",
-        "votesReceived": "3504",
+        "votesReceived": "3505",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -843,10 +843,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
-            "votesReceived": "109"
+            "votesCounted": "28891",
+            "votesReceived": "110"
           },
           {
             "name": "Don Valley North",
@@ -933,7 +933,7 @@
       },
       {
         "name": "Edward Gong",
-        "votesReceived": "3387",
+        "votesReceived": "3390",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1074,10 +1074,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
-            "votesReceived": "113"
+            "votesCounted": "28891",
+            "votesReceived": "116"
           },
           {
             "name": "Don Valley North",
@@ -1305,9 +1305,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "44"
           },
           {
@@ -1395,7 +1395,7 @@
       },
       {
         "name": "Darrell Brown",
-        "votesReceived": "2032",
+        "votesReceived": "2033",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1536,10 +1536,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
-            "votesReceived": "57"
+            "votesCounted": "28891",
+            "votesReceived": "58"
           },
           {
             "name": "Don Valley North",
@@ -1767,9 +1767,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "84"
           },
           {
@@ -1857,7 +1857,7 @@
       },
       {
         "name": "Bahira Abdulsalam",
-        "votesReceived": "1671",
+        "votesReceived": "1673",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1998,10 +1998,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
-            "votesReceived": "105"
+            "votesCounted": "28891",
+            "votesReceived": "107"
           },
           {
             "name": "Don Valley North",
@@ -2229,9 +2229,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "28"
           },
           {
@@ -2460,9 +2460,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "38"
           },
           {
@@ -2550,7 +2550,7 @@
       },
       {
         "name": "Sandeep Srivastava",
-        "votesReceived": "1127",
+        "votesReceived": "1130",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2691,10 +2691,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
-            "votesReceived": "18"
+            "votesCounted": "28891",
+            "votesReceived": "21"
           },
           {
             "name": "Don Valley North",
@@ -2781,7 +2781,7 @@
       },
       {
         "name": "Kevin Clarke",
-        "votesReceived": "1066",
+        "votesReceived": "1067",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2922,10 +2922,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
-            "votesReceived": "20"
+            "votesCounted": "28891",
+            "votesReceived": "21"
           },
           {
             "name": "Don Valley North",
@@ -3153,9 +3153,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "82"
           },
           {
@@ -3384,9 +3384,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "21"
           },
           {
@@ -3615,9 +3615,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "20"
           },
           {
@@ -3846,9 +3846,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "32"
           },
           {
@@ -4077,9 +4077,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "17"
           },
           {
@@ -4167,7 +4167,7 @@
       },
       {
         "name": "Paul Collins",
-        "votesReceived": "829",
+        "votesReceived": "830",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4308,10 +4308,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
-            "votesReceived": "10"
+            "votesCounted": "28891",
+            "votesReceived": "11"
           },
           {
             "name": "Don Valley North",
@@ -4539,9 +4539,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "33"
           },
           {
@@ -4770,9 +4770,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "34"
           },
           {
@@ -4860,7 +4860,7 @@
       },
       {
         "name": "Joshua Thompson",
-        "votesReceived": "689",
+        "votesReceived": "691",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5001,10 +5001,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
-            "votesReceived": "21"
+            "votesCounted": "28891",
+            "votesReceived": "23"
           },
           {
             "name": "Don Valley North",
@@ -5232,9 +5232,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "12"
           },
           {
@@ -5463,9 +5463,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "18"
           },
           {
@@ -5694,9 +5694,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "14"
           },
           {
@@ -5925,9 +5925,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "13"
           },
           {
@@ -6156,9 +6156,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "13"
           },
           {
@@ -6387,9 +6387,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "14"
           },
           {
@@ -6618,9 +6618,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "9"
           },
           {
@@ -6849,9 +6849,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "14"
           },
           {
@@ -7080,9 +7080,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "12"
           },
           {
@@ -7311,9 +7311,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "17"
           },
           {
@@ -7401,7 +7401,7 @@
       },
       {
         "name": "Faizan Haider",
-        "votesReceived": "361",
+        "votesReceived": "362",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7542,10 +7542,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
-            "votesReceived": "28"
+            "votesCounted": "28891",
+            "votesReceived": "29"
           },
           {
             "name": "Don Valley North",
@@ -7773,9 +7773,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "9"
           },
           {
@@ -8004,9 +8004,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "19"
           },
           {
@@ -8235,9 +8235,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "14"
           },
           {
@@ -8466,9 +8466,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "10"
           },
           {
@@ -8697,9 +8697,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "13"
           },
           {
@@ -8928,9 +8928,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "13"
           },
           {
@@ -9159,9 +9159,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "13"
           },
           {
@@ -9390,9 +9390,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "10"
           },
           {
@@ -9480,7 +9480,7 @@
       },
       {
         "name": "Jack Hartley",
-        "votesReceived": "317",
+        "votesReceived": "318",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9621,10 +9621,10 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
-            "votesReceived": "11"
+            "votesCounted": "28891",
+            "votesReceived": "12"
           },
           {
             "name": "Don Valley North",
@@ -9852,9 +9852,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "11"
           },
           {
@@ -10083,9 +10083,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "10"
           },
           {
@@ -10314,9 +10314,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "14"
           },
           {
@@ -10545,9 +10545,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "14"
           },
           {
@@ -10776,9 +10776,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "7"
           },
           {
@@ -11007,9 +11007,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "1"
           },
           {
@@ -11238,9 +11238,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "4"
           },
           {
@@ -11469,9 +11469,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "13"
           },
           {
@@ -11700,9 +11700,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "2"
           },
           {
@@ -11931,9 +11931,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "3"
           },
           {
@@ -12162,9 +12162,9 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "60",
+            "pollsReceived": "61",
             "totalVoters": "70080",
-            "votesCounted": "28614",
+            "votesCounted": "28891",
             "votesReceived": "1"
           },
           {
@@ -12252,5 +12252,5 @@
       }
     ]
   },
-  "seq": "1793066826245"
+  "seq": "1793066915955"
 }
