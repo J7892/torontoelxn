@@ -1,37 +1,37 @@
 {
   "metadata": {
-    "last_updated_utc": "2026-10-27T01:25:40.968831+00:00",
+    "last_updated_utc": "2026-10-27T01:27:11.205437+00:00",
     "election_desc": "2026 Municipal Election",
-    "seq": "1793064305050",
+    "seq": "1793064425047",
     "status": "Live - Polls Open / Reporting",
     "source_url": "https://electionresults.toronto.ca/"
   },
   "citywide": {
     "total_polls": 1431,
-    "polls_reported": 136,
-    "polls_reporting_pct": 9.5,
-    "total_votes": 111542,
+    "polls_reported": 137,
+    "polls_reporting_pct": 9.57,
+    "total_votes": 111894,
     "registered_voters": 2143771,
-    "turnout_pct": 5.2
+    "turnout_pct": 5.22
   },
   "head_to_head": {
     "leader": "Brad Bradford",
-    "vote_margin": -6847,
-    "pct_margin": -6.14,
-    "total_head_to_head_votes": 105773,
+    "vote_margin": -6843,
+    "pct_margin": -6.11,
+    "total_head_to_head_votes": 106087,
     "chow": {
       "name": "Olivia Chow",
-      "votes": 49463,
-      "percentage": 44.34,
-      "two_way_percentage": 46.76,
+      "votes": 49622,
+      "percentage": 44.35,
+      "two_way_percentage": 46.77,
       "wards_leading": 19,
       "color": "#e05a1e"
     },
     "bradford": {
       "name": "Brad Bradford",
-      "votes": 56310,
-      "percentage": 50.48,
-      "two_way_percentage": 53.24,
+      "votes": 56465,
+      "percentage": 50.46,
+      "two_way_percentage": 53.23,
       "wards_leading": 6,
       "color": "#0d6efd"
     }
@@ -39,38 +39,38 @@
   "top5_candidates": [
     {
       "name": "Brad Bradford",
-      "votes": 56310,
-      "percentage": 50.48,
+      "votes": 56465,
+      "percentage": 50.46,
       "rank": 1,
       "margin_from_leader": 0
     },
     {
       "name": "Olivia Chow",
-      "votes": 49463,
-      "percentage": 44.34,
+      "votes": 49622,
+      "percentage": 44.35,
       "rank": 2,
-      "margin_from_leader": -6847
+      "margin_from_leader": -6843
     },
     {
       "name": "Braeden Chow",
-      "votes": 861,
-      "percentage": 0.77,
+      "votes": 868,
+      "percentage": 0.78,
       "rank": 3,
-      "margin_from_leader": -55449
+      "margin_from_leader": -55597
     },
     {
       "name": "Chris Alexander",
-      "votes": 688,
+      "votes": 690,
       "percentage": 0.62,
       "rank": 4,
-      "margin_from_leader": -55622
+      "margin_from_leader": -55775
     },
     {
       "name": "Edward Gong",
-      "votes": 458,
+      "votes": 460,
       "percentage": 0.41,
       "rank": 5,
-      "margin_from_leader": -55852
+      "margin_from_leader": -56005
     }
   ],
   "all_candidates_count": 53,
@@ -835,102 +835,102 @@
       "ward_num": 7,
       "ward_name": "Humber River-Black Creek",
       "polls_total": 45,
-      "polls_reported": 8,
-      "polls_reporting_pct": 17.78,
-      "total_votes": 5644,
+      "polls_reported": 9,
+      "polls_reporting_pct": 20.0,
+      "total_votes": 5996,
       "registered_voters": 73832,
-      "turnout_pct": 7.64,
+      "turnout_pct": 8.12,
       "chow": {
-        "votes": 2798,
-        "percentage": 49.57
+        "votes": 2957,
+        "percentage": 49.32
       },
       "bradford": {
-        "votes": 2208,
-        "percentage": 39.12
+        "votes": 2363,
+        "percentage": 39.41
       },
-      "head_to_head_margin": 590,
-      "head_to_head_margin_pct": 10.45,
+      "head_to_head_margin": 594,
+      "head_to_head_margin_pct": 9.91,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 2798,
-          "percentage": 49.57
+          "votes": 2957,
+          "percentage": 49.32
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 2208,
-          "percentage": 39.12
+          "votes": 2363,
+          "percentage": 39.41
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 97,
-          "percentage": 1.72
+          "votes": 104,
+          "percentage": 1.73
         },
         {
           "rank": 4,
           "name": "Chris Alexander",
-          "votes": 61,
-          "percentage": 1.08
+          "votes": 63,
+          "percentage": 1.05
         },
         {
           "rank": 5,
           "name": "Edward Gong",
-          "votes": 38,
+          "votes": 40,
           "percentage": 0.67
         }
       ],
       "council": {
         "polls_total": 45,
-        "polls_reported": 8,
-        "polls_reporting_pct": 17.78,
-        "total_votes": 5539,
+        "polls_reported": 9,
+        "polls_reporting_pct": 20.0,
+        "total_votes": 5881,
         "candidates_count": 3,
         "leader": "Anthony Perruzza",
         "runner_up": "Amanda Coombs",
-        "margin_votes": 2428,
-        "margin_pct": 43.84,
+        "margin_votes": 2574,
+        "margin_pct": 43.77,
         "is_close_race": false,
         "top3": [
           {
             "name": "Anthony Perruzza",
-            "votes": 3783,
-            "percentage": 68.3,
+            "votes": 4016,
+            "percentage": 68.29,
             "rank": 1
           },
           {
             "name": "Amanda Coombs",
-            "votes": 1355,
-            "percentage": 24.46,
+            "votes": 1442,
+            "percentage": 24.52,
             "rank": 2
           },
           {
             "name": "Lorna Antwi",
-            "votes": 401,
-            "percentage": 7.24,
+            "votes": 423,
+            "percentage": 7.19,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Anthony Perruzza",
-            "votes": 3783,
-            "percentage": 68.3,
+            "votes": 4016,
+            "percentage": 68.29,
             "rank": 1
           },
           {
             "name": "Amanda Coombs",
-            "votes": 1355,
-            "percentage": 24.46,
+            "votes": 1442,
+            "percentage": 24.52,
             "rank": 2
           },
           {
             "name": "Lorna Antwi",
-            "votes": 401,
-            "percentage": 7.24,
+            "votes": 423,
+            "percentage": 7.19,
             "rank": 3
           }
         ]
