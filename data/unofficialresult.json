@@ -9,23 +9,23 @@
           "name": "City-wide",
           "num": "0",
           "polls": "1431",
-          "pollsReceived": "1424",
+          "pollsReceived": "1425",
           "totalVoters": "2143771",
-          "votesReceived": "978879",
+          "votesReceived": "978975",
           "candidate": [
             {
               "name": "Olivia Chow",
-              "votesReceived": "530328",
+              "votesReceived": "530392",
               "percentage": "54.18"
             },
             {
               "name": "Brad Bradford",
-              "votesReceived": "402307",
+              "votesReceived": "402329",
               "percentage": "41.10"
             },
             {
               "name": "Braeden Chow",
-              "votesReceived": "8053",
+              "votesReceived": "8062",
               "percentage": "0.82"
             },
             {
@@ -205,7 +205,7 @@
             },
             {
               "name": "Thomas Hall",
-              "votesReceived": "339",
+              "votesReceived": "340",
               "percentage": "0.03"
             },
             {
@@ -405,58 +405,58 @@
           "name": "Parkdale-High Park",
           "num": "4",
           "polls": "67",
-          "pollsReceived": "66",
+          "pollsReceived": "67",
           "totalVoters": "88529",
-          "votesReceived": "47774",
+          "votesReceived": "47836",
           "candidate": [
             {
               "name": "Diana Chan McNally",
-              "votesReceived": "20293",
-              "percentage": "42.48"
+              "votesReceived": "20314",
+              "percentage": "42.47"
             },
             {
               "name": "Nadia Guerrera",
-              "votesReceived": "13263",
-              "percentage": "27.76"
+              "votesReceived": "13275",
+              "percentage": "27.75"
             },
             {
               "name": "Adam Pham",
-              "votesReceived": "6339",
+              "votesReceived": "6346",
               "percentage": "13.27"
             },
             {
               "name": "Debbie King",
-              "votesReceived": "2942",
+              "votesReceived": "2949",
               "percentage": "6.16"
             },
             {
               "name": "Vanessa Raponi",
-              "votesReceived": "1759",
+              "votesReceived": "1762",
               "percentage": "3.68"
             },
             {
               "name": "Bridget Ogundipe",
-              "votesReceived": "1004",
+              "votesReceived": "1005",
               "percentage": "2.10"
             },
             {
               "name": "Holly Weber",
-              "votesReceived": "878",
+              "votesReceived": "882",
               "percentage": "1.84"
             },
             {
               "name": "Michael Corcoran",
-              "votesReceived": "575",
-              "percentage": "1.20"
+              "votesReceived": "579",
+              "percentage": "1.21"
             },
             {
               "name": "Steve Yuen",
-              "votesReceived": "471",
+              "votesReceived": "473",
               "percentage": "0.99"
             },
             {
               "name": "Andy Potega",
-              "votesReceived": "250",
+              "votesReceived": "251",
               "percentage": "0.52"
             }
           ]
@@ -1558,38 +1558,38 @@
         {
           "num": "3",
           "polls": "120",
-          "pollsReceived": "119",
+          "pollsReceived": "120",
           "totalVoters": "116485",
-          "votesReceived": "61877",
+          "votesReceived": "61919",
           "candidate": [
             {
               "name": "Alexis Dawson",
-              "votesReceived": "27060",
-              "percentage": "43.73"
+              "votesReceived": "27069",
+              "percentage": "43.72"
             },
             {
               "name": "Jennifer Webster",
-              "votesReceived": "8725",
-              "percentage": "14.10"
+              "votesReceived": "8734",
+              "percentage": "14.11"
             },
             {
               "name": "Andrew Waters",
-              "votesReceived": "8308",
+              "votesReceived": "8316",
               "percentage": "13.43"
             },
             {
               "name": "Daniel Choi",
-              "votesReceived": "6162",
+              "votesReceived": "6170",
               "percentage": "9.96"
             },
             {
               "name": "Christina Gural",
-              "votesReceived": "5968",
+              "votesReceived": "5971",
               "percentage": "9.64"
             },
             {
               "name": "Fatin Ishraq",
-              "votesReceived": "2801",
+              "votesReceived": "2802",
               "percentage": "4.53"
             },
             {
@@ -1599,7 +1599,7 @@
             },
             {
               "name": "Justin Mensah",
-              "votesReceived": "1020",
+              "votesReceived": "1024",
               "percentage": "1.65"
             }
           ]
@@ -2056,23 +2056,23 @@
         {
           "num": "4",
           "polls": "149",
-          "pollsReceived": "147",
+          "pollsReceived": "148",
           "totalVoters": "88529",
-          "votesReceived": "14850",
+          "votesReceived": "14857",
           "candidate": [
             {
               "name": "Teresa Lubinski",
-              "votesReceived": "8448",
+              "votesReceived": "8452",
               "percentage": "56.89"
             },
             {
               "name": "Maria Borreca",
-              "votesReceived": "4307",
+              "votesReceived": "4309",
               "percentage": "29.00"
             },
             {
               "name": "Peter Fracassi",
-              "votesReceived": "2095",
+              "votesReceived": "2096",
               "percentage": "14.11"
             }
           ]
@@ -2296,7 +2296,7 @@
         {
           "num": "4",
           "polls": "483",
-          "pollsReceived": "479",
+          "pollsReceived": "480",
           "totalVoters": "88529",
           "votesReceived": "0",
           "candidate": [
@@ -2316,7 +2316,7 @@
         {
           "num": "3",
           "polls": "877",
-          "pollsReceived": "872",
+          "pollsReceived": "873",
           "totalVoters": "116485",
           "votesReceived": "1982",
           "candidate": [
@@ -2364,5 +2364,5 @@
       ]
     }
   ],
-  "seq": "1793073096111"
+  "seq": "1793073186313"
 }

@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "1424",
+    "pollsReceived": "1425",
     "totalVoters": "2143771",
-    "votesReceived": "978879",
+    "votesReceived": "978975",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "530328",
+        "votesReceived": "530392",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -42,10 +42,10 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
-            "votesReceived": "34127"
+            "votesCounted": "49565",
+            "votesReceived": "34191"
           },
           {
             "name": "York South-Weston",
@@ -240,7 +240,7 @@
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "402307",
+        "votesReceived": "402329",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -273,10 +273,10 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
-            "votesReceived": "13427"
+            "votesCounted": "49565",
+            "votesReceived": "13449"
           },
           {
             "name": "York South-Weston",
@@ -471,7 +471,7 @@
       },
       {
         "name": "Braeden Chow",
-        "votesReceived": "8053",
+        "votesReceived": "8062",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -504,10 +504,10 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
-            "votesReceived": "406"
+            "votesCounted": "49565",
+            "votesReceived": "415"
           },
           {
             "name": "York South-Weston",
@@ -735,9 +735,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "156"
           },
           {
@@ -966,9 +966,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "53"
           },
           {
@@ -1197,9 +1197,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "171"
           },
           {
@@ -1428,9 +1428,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "116"
           },
           {
@@ -1659,9 +1659,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "46"
           },
           {
@@ -1890,9 +1890,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "47"
           },
           {
@@ -2121,9 +2121,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "26"
           },
           {
@@ -2352,9 +2352,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "46"
           },
           {
@@ -2583,9 +2583,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "28"
           },
           {
@@ -2814,9 +2814,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "30"
           },
           {
@@ -3045,9 +3045,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "41"
           },
           {
@@ -3276,9 +3276,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "48"
           },
           {
@@ -3507,9 +3507,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "69"
           },
           {
@@ -3738,9 +3738,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "33"
           },
           {
@@ -3969,9 +3969,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "66"
           },
           {
@@ -4200,9 +4200,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "30"
           },
           {
@@ -4431,9 +4431,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "36"
           },
           {
@@ -4662,9 +4662,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "20"
           },
           {
@@ -4893,9 +4893,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "17"
           },
           {
@@ -5124,9 +5124,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "26"
           },
           {
@@ -5355,9 +5355,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "33"
           },
           {
@@ -5586,9 +5586,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "21"
           },
           {
@@ -5817,9 +5817,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "14"
           },
           {
@@ -6048,9 +6048,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "22"
           },
           {
@@ -6279,9 +6279,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "30"
           },
           {
@@ -6510,9 +6510,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "12"
           },
           {
@@ -6741,9 +6741,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "8"
           },
           {
@@ -6972,9 +6972,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "12"
           },
           {
@@ -7203,9 +7203,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "15"
           },
           {
@@ -7434,9 +7434,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "3"
           },
           {
@@ -7665,9 +7665,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "17"
           },
           {
@@ -7896,9 +7896,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "16"
           },
           {
@@ -8127,9 +8127,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "17"
           },
           {
@@ -8358,9 +8358,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "18"
           },
           {
@@ -8589,9 +8589,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "10"
           },
           {
@@ -8787,7 +8787,7 @@
       },
       {
         "name": "Thomas Hall",
-        "votesReceived": "339",
+        "votesReceived": "340",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8820,10 +8820,10 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
-            "votesReceived": "18"
+            "votesCounted": "49565",
+            "votesReceived": "19"
           },
           {
             "name": "York South-Weston",
@@ -9051,9 +9051,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "5"
           },
           {
@@ -9282,9 +9282,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "12"
           },
           {
@@ -9513,9 +9513,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "12"
           },
           {
@@ -9744,9 +9744,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "14"
           },
           {
@@ -9975,9 +9975,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "15"
           },
           {
@@ -10206,9 +10206,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "14"
           },
           {
@@ -10437,9 +10437,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "29"
           },
           {
@@ -10668,9 +10668,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "9"
           },
           {
@@ -10899,9 +10899,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "7"
           },
           {
@@ -11130,9 +11130,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "4"
           },
           {
@@ -11361,9 +11361,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "3"
           },
           {
@@ -11592,9 +11592,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "6"
           },
           {
@@ -11823,9 +11823,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "7"
           },
           {
@@ -12054,9 +12054,9 @@
             "name": "Parkdale-High Park",
             "num": "4",
             "polls": "67",
-            "pollsReceived": "66",
+            "pollsReceived": "67",
             "totalVoters": "88529",
-            "votesCounted": "49469",
+            "votesCounted": "49565",
             "votesReceived": "1"
           },
           {
@@ -12252,5 +12252,5 @@
       }
     ]
   },
-  "seq": "1793073096053"
+  "seq": "1793073186278"
 }

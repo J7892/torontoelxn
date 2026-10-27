@@ -1,37 +1,37 @@
 {
   "metadata": {
-    "last_updated_utc": "2026-10-27T03:52:02.554078+00:00",
+    "last_updated_utc": "2026-10-27T03:53:19.364799+00:00",
     "election_desc": "2026 Municipal Election",
-    "seq": "1793073096111",
+    "seq": "1793073186313",
     "status": "Live - Polls Open / Reporting",
     "source_url": "https://electionresults.toronto.ca/"
   },
   "citywide": {
     "total_polls": 1431,
-    "polls_reported": 1424,
-    "polls_reporting_pct": 99.51,
-    "total_votes": 978879,
+    "polls_reported": 1425,
+    "polls_reporting_pct": 99.58,
+    "total_votes": 978975,
     "registered_voters": 2143771,
-    "turnout_pct": 45.66
+    "turnout_pct": 45.67
   },
   "head_to_head": {
     "leader": "Olivia Chow",
-    "vote_margin": 128021,
+    "vote_margin": 128063,
     "pct_margin": 13.08,
-    "total_head_to_head_votes": 932635,
+    "total_head_to_head_votes": 932721,
     "chow": {
       "name": "Olivia Chow",
-      "votes": 530328,
+      "votes": 530392,
       "percentage": 54.18,
-      "two_way_percentage": 56.86,
+      "two_way_percentage": 56.87,
       "wards_leading": 19,
       "color": "#e05a1e"
     },
     "bradford": {
       "name": "Brad Bradford",
-      "votes": 402307,
+      "votes": 402329,
       "percentage": 41.1,
-      "two_way_percentage": 43.14,
+      "two_way_percentage": 43.13,
       "wards_leading": 6,
       "color": "#0d6efd"
     }
@@ -39,38 +39,38 @@
   "top5_candidates": [
     {
       "name": "Olivia Chow",
-      "votes": 530328,
+      "votes": 530392,
       "percentage": 54.18,
       "rank": 1,
       "margin_from_leader": 0
     },
     {
       "name": "Brad Bradford",
-      "votes": 402307,
+      "votes": 402329,
       "percentage": 41.1,
       "rank": 2,
-      "margin_from_leader": -128021
+      "margin_from_leader": -128063
     },
     {
       "name": "Braeden Chow",
-      "votes": 8053,
+      "votes": 8062,
       "percentage": 0.82,
       "rank": 3,
-      "margin_from_leader": -522275
+      "margin_from_leader": -522330
     },
     {
       "name": "Chris Alexander",
       "votes": 3537,
       "percentage": 0.36,
       "rank": 4,
-      "margin_from_leader": -526791
+      "margin_from_leader": -526855
     },
     {
       "name": "Edward Gong",
       "votes": 3433,
       "percentage": 0.35,
       "rank": 5,
-      "margin_from_leader": -526895
+      "margin_from_leader": -526959
     }
   ],
   "all_candidates_count": 53,
@@ -442,40 +442,40 @@
       "ward_num": 4,
       "ward_name": "Parkdale-High Park",
       "polls_total": 67,
-      "polls_reported": 66,
-      "polls_reporting_pct": 98.51,
-      "total_votes": 49469,
+      "polls_reported": 67,
+      "polls_reporting_pct": 100.0,
+      "total_votes": 49565,
       "registered_voters": 88529,
-      "turnout_pct": 55.88,
+      "turnout_pct": 55.99,
       "chow": {
-        "votes": 34127,
-        "percentage": 68.99
+        "votes": 34191,
+        "percentage": 68.98
       },
       "bradford": {
-        "votes": 13427,
-        "percentage": 27.14
+        "votes": 13449,
+        "percentage": 27.13
       },
-      "head_to_head_margin": 20700,
+      "head_to_head_margin": 20742,
       "head_to_head_margin_pct": 41.85,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 34127,
-          "percentage": 68.99
+          "votes": 34191,
+          "percentage": 68.98
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 13427,
-          "percentage": 27.14
+          "votes": 13449,
+          "percentage": 27.13
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 406,
-          "percentage": 0.82
+          "votes": 415,
+          "percentage": 0.84
         },
         {
           "rank": 4,
@@ -487,36 +487,36 @@
           "rank": 5,
           "name": "Chris Alexander",
           "votes": 156,
-          "percentage": 0.32
+          "percentage": 0.31
         }
       ],
       "council": {
         "polls_total": 67,
-        "polls_reported": 66,
-        "polls_reporting_pct": 98.51,
-        "total_votes": 47774,
+        "polls_reported": 67,
+        "polls_reporting_pct": 100.0,
+        "total_votes": 47836,
         "candidates_count": 10,
         "leader": "Diana Chan McNally",
         "runner_up": "Nadia Guerrera",
-        "margin_votes": 7030,
+        "margin_votes": 7039,
         "margin_pct": 14.72,
         "is_close_race": false,
         "top3": [
           {
             "name": "Diana Chan McNally",
-            "votes": 20293,
-            "percentage": 42.48,
+            "votes": 20314,
+            "percentage": 42.47,
             "rank": 1
           },
           {
             "name": "Nadia Guerrera",
-            "votes": 13263,
-            "percentage": 27.76,
+            "votes": 13275,
+            "percentage": 27.75,
             "rank": 2
           },
           {
             "name": "Adam Pham",
-            "votes": 6339,
+            "votes": 6346,
             "percentage": 13.27,
             "rank": 3
           }
@@ -524,61 +524,61 @@
         "all_candidates": [
           {
             "name": "Diana Chan McNally",
-            "votes": 20293,
-            "percentage": 42.48,
+            "votes": 20314,
+            "percentage": 42.47,
             "rank": 1
           },
           {
             "name": "Nadia Guerrera",
-            "votes": 13263,
-            "percentage": 27.76,
+            "votes": 13275,
+            "percentage": 27.75,
             "rank": 2
           },
           {
             "name": "Adam Pham",
-            "votes": 6339,
+            "votes": 6346,
             "percentage": 13.27,
             "rank": 3
           },
           {
             "name": "Debbie King",
-            "votes": 2942,
+            "votes": 2949,
             "percentage": 6.16,
             "rank": 4
           },
           {
             "name": "Vanessa Raponi",
-            "votes": 1759,
+            "votes": 1762,
             "percentage": 3.68,
             "rank": 5
           },
           {
             "name": "Bridget Ogundipe",
-            "votes": 1004,
+            "votes": 1005,
             "percentage": 2.1,
             "rank": 6
           },
           {
             "name": "Holly Weber",
-            "votes": 878,
+            "votes": 882,
             "percentage": 1.84,
             "rank": 7
           },
           {
             "name": "Michael Corcoran",
-            "votes": 575,
-            "percentage": 1.2,
+            "votes": 579,
+            "percentage": 1.21,
             "rank": 8
           },
           {
             "name": "Steve Yuen",
-            "votes": 471,
+            "votes": 473,
             "percentage": 0.99,
             "rank": 9
           },
           {
             "name": "Andy Potega",
-            "votes": 250,
+            "votes": 251,
             "percentage": 0.52,
             "rank": 10
           }
