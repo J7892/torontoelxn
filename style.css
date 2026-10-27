@@ -95,7 +95,7 @@ body {
   background-color: var(--bg-secondary);
   background-image: var(--header-bg);
   border-bottom: 1px solid var(--border-color);
-  padding: 1.1rem 1.5rem;
+  padding: 0.45rem 1.25rem;
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -110,42 +110,44 @@ body {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 0.5rem;
 }
 
 .brand {
   display: flex;
   align-items: center;
-  gap: 0.85rem;
+  gap: 0.5rem;
 }
 
 .brand-badge {
   background: #2563eb;
   color: white;
   font-weight: 800;
-  font-size: 0.8rem;
-  letter-spacing: 0.05em;
-  padding: 0.35rem 0.65rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  padding: 0.18rem 0.45rem;
   border-radius: var(--radius-sm);
   text-transform: uppercase;
 }
 
 .brand-text h1 {
-  font-size: 1.35rem;
+  font-size: 1.05rem;
   font-weight: 700;
   color: var(--text-contrast);
   letter-spacing: -0.02em;
+  line-height: 1.2;
 }
 
 .brand-text p {
-  font-size: 0.85rem;
+  font-size: 0.72rem;
   color: var(--text-muted);
+  line-height: 1.1;
 }
 
 .header-controls {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
+  gap: 0.45rem;
   flex-wrap: wrap;
 }
 
@@ -164,14 +166,14 @@ body {
   background: transparent;
   border: none;
   color: var(--text-muted);
-  font-size: 0.78rem;
+  font-size: 0.72rem;
   font-weight: 600;
-  padding: 0.3rem 0.55rem;
+  padding: 0.22rem 0.45rem;
   border-radius: 4px;
   cursor: pointer;
   display: inline-flex;
   align-items: center;
-  gap: 0.35rem;
+  gap: 0.3rem;
   transition: all 0.15s ease;
   line-height: 1;
 }
@@ -190,13 +192,13 @@ body {
 .status-pill {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.35rem;
   background: rgba(16, 185, 129, 0.15);
   border: 1px solid rgba(16, 185, 129, 0.3);
   color: #34d399;
-  font-size: 0.8rem;
+  font-size: 0.72rem;
   font-weight: 600;
-  padding: 0.35rem 0.75rem;
+  padding: 0.2rem 0.55rem;
   border-radius: 9999px;
 }
 
@@ -207,8 +209,8 @@ body {
 }
 
 .status-pulse {
-  width: 8px;
-  height: 8px;
+  width: 7px;
+  height: 7px;
   border-radius: 50%;
   background: #10b981;
   box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7);
@@ -230,14 +232,14 @@ body {
   background: var(--bg-card);
   border: 1px solid var(--border-color);
   color: var(--text-main);
-  padding: 0.45rem 0.85rem;
+  padding: 0.28rem 0.6rem;
   border-radius: var(--radius-sm);
-  font-size: 0.85rem;
+  font-size: 0.78rem;
   font-weight: 500;
   cursor: pointer;
   display: inline-flex;
   align-items: center;
-  gap: 0.4rem;
+  gap: 0.35rem;
   transition: all 0.2s ease;
 }
 
@@ -257,18 +259,18 @@ body {
 }
 
 .btn-sm {
-  padding: 0.25rem 0.55rem;
-  font-size: 0.75rem;
+  padding: 0.2rem 0.45rem;
+  font-size: 0.72rem;
 }
 
 /* Main Container */
 .main-content {
   max-width: 1440px;
   margin: 0 auto;
-  padding: 1.5rem;
+  padding: 0.75rem 1.25rem;
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
+  gap: 0.75rem;
 }
 
 /* Polling Summary Ticker Bar */
@@ -276,24 +278,24 @@ body {
   background: var(--bg-secondary);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-md);
-  padding: 1.25rem;
+  padding: 0.6rem 0.9rem;
   box-shadow: var(--shadow-sm);
 }
 
 .ticker-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
-  gap: 1.25rem;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 0.75rem;
 }
 
 .ticker-item {
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
+  gap: 0.12rem;
 }
 
 .ticker-label {
-  font-size: 0.75rem;
+  font-size: 0.68rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--text-muted);
@@ -301,29 +303,30 @@ body {
 }
 
 .ticker-val {
-  font-size: 1.4rem;
+  font-size: 1.15rem;
   font-weight: 700;
   color: var(--text-contrast);
+  line-height: 1.2;
 }
 
 .ticker-sub {
-  font-size: 0.8rem;
+  font-size: 0.72rem;
   color: var(--text-muted);
 }
 
 .progress-track {
   width: 100%;
-  height: 8px;
+  height: 5px;
   background: var(--progress-track);
-  border-radius: 4px;
+  border-radius: 3px;
   overflow: hidden;
-  margin-top: 0.35rem;
+  margin-top: 0.2rem;
 }
 
 .progress-bar-fill {
   height: 100%;
   background: linear-gradient(90deg, #3b82f6, #10b981);
-  border-radius: 4px;
+  border-radius: 3px;
   transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -332,9 +335,9 @@ body {
   background-color: var(--bg-secondary);
   background-image: var(--showdown-bg);
   border: 1px solid var(--border-color);
-  border-radius: var(--radius-lg);
-  padding: 1.5rem;
-  box-shadow: var(--shadow-md);
+  border-radius: var(--radius-md);
+  padding: 0.75rem 0.9rem;
+  box-shadow: var(--shadow-sm);
   position: relative;
   overflow: hidden;
 }
@@ -345,7 +348,7 @@ body {
   top: 0;
   left: 0;
   right: 0;
-  height: 4px;
+  height: 3px;
   background: linear-gradient(90deg, var(--chow-primary) 0%, #a855f7 50%, var(--bradford-primary) 100%);
 }
 
@@ -353,25 +356,25 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 1.25rem;
+  margin-bottom: 0.45rem;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 0.35rem;
 }
 
 .section-title {
-  font-size: 1.15rem;
+  font-size: 0.95rem;
   font-weight: 700;
   color: var(--text-contrast);
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.4rem;
 }
 
 .showdown-grid {
   display: grid;
   grid-template-columns: 1fr auto 1fr;
   align-items: stretch;
-  gap: 1.25rem;
+  gap: 0.65rem;
 }
 
 @media (max-width: 900px) {
@@ -382,14 +385,15 @@ body {
 
 .candidate-card {
   background: var(--bg-card);
-  border: 2px solid transparent;
-  border-radius: var(--radius-md);
-  padding: 1.5rem;
+  border: 1.5px solid transparent;
+  border-radius: var(--radius-sm);
+  padding: 0.65rem 0.85rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   transition: all 0.2s ease;
   position: relative;
+  gap: 0.35rem;
 }
 
 .candidate-card.chow {
@@ -406,25 +410,26 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  margin-bottom: 1rem;
+  margin-bottom: 0.1rem;
 }
 
 .candidate-meta h3 {
-  font-size: 1.45rem;
+  font-size: 1.15rem;
   font-weight: 800;
   color: var(--text-contrast);
   letter-spacing: -0.01em;
+  line-height: 1.15;
 }
 
 .candidate-meta .subtitle {
-  font-size: 0.85rem;
+  font-size: 0.72rem;
   color: var(--text-muted);
 }
 
 .cand-badge {
-  padding: 0.25rem 0.65rem;
+  padding: 0.12rem 0.4rem;
   border-radius: 9999px;
-  font-size: 0.75rem;
+  font-size: 0.65rem;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -443,11 +448,11 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  margin-bottom: 1rem;
+  margin-bottom: 0.2rem;
 }
 
 .cand-votes {
-  font-size: 2.2rem;
+  font-size: 1.45rem;
   font-weight: 800;
   line-height: 1;
 }
@@ -461,33 +466,34 @@ body {
 }
 
 .cand-pct {
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   font-weight: 700;
   color: var(--text-contrast);
+  line-height: 1;
 }
 
 .cand-footer-stats {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 0.75rem;
+  gap: 0.45rem;
   border-top: 1px solid var(--border-color);
-  padding-top: 0.85rem;
+  padding-top: 0.4rem;
 }
 
 .cand-stat-box {
   background: var(--box-inset);
-  padding: 0.5rem 0.75rem;
+  padding: 0.25rem 0.45rem;
   border-radius: var(--radius-sm);
 }
 
 .cand-stat-box .stat-label {
-  font-size: 0.7rem;
+  font-size: 0.62rem;
   color: var(--text-muted);
   text-transform: uppercase;
 }
 
 .cand-stat-box .stat-val {
-  font-size: 0.95rem;
+  font-size: 0.82rem;
   font-weight: 700;
   color: var(--text-contrast);
 }
@@ -498,14 +504,14 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 0 1rem;
-  min-width: 220px;
-  gap: 0.75rem;
+  padding: 0 0.4rem;
+  min-width: 170px;
+  gap: 0.35rem;
 }
 
 .vs-badge {
-  width: 44px;
-  height: 44px;
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
   background: var(--vs-bg);
   border: 2px solid var(--vs-border);
@@ -513,14 +519,14 @@ body {
   align-items: center;
   justify-content: center;
   font-weight: 800;
-  font-size: 0.9rem;
+  font-size: 0.72rem;
   color: var(--vs-color);
 }
 
 .margin-pill {
-  padding: 0.4rem 0.85rem;
+  padding: 0.22rem 0.6rem;
   border-radius: 9999px;
-  font-size: 0.85rem;
+  font-size: 0.72rem;
   font-weight: 700;
   text-align: center;
 }
@@ -547,13 +553,13 @@ body {
   width: 100%;
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
+  gap: 0.15rem;
 }
 
 .two-way-meter {
   display: flex;
-  height: 12px;
-  border-radius: 6px;
+  height: 8px;
+  border-radius: 4px;
   overflow: hidden;
   background: var(--progress-track);
 }
@@ -571,7 +577,7 @@ body {
 .two-way-labels {
   display: flex;
   justify-content: space-between;
-  font-size: 0.75rem;
+  font-size: 0.68rem;
   font-weight: 600;
   color: var(--text-muted);
 }
@@ -581,11 +587,11 @@ body {
   background: var(--box-inset);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-sm);
-  padding: 0.5rem 0.75rem;
+  padding: 0.22rem 0.45rem;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  font-size: 0.8rem;
+  font-size: 0.72rem;
 }
 
 .ward-score-chow {
