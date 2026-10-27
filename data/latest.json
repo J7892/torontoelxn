@@ -1,76 +1,76 @@
 {
   "metadata": {
-    "last_updated_utc": "2026-10-27T01:32:33.765318+00:00",
+    "last_updated_utc": "2026-10-27T01:33:50.679371+00:00",
     "election_desc": "2026 Municipal Election",
-    "seq": "1793064725064",
+    "seq": "1793064815126",
     "status": "Live - Polls Open / Reporting",
     "source_url": "https://electionresults.toronto.ca/"
   },
   "citywide": {
     "total_polls": 1431,
-    "polls_reported": 177,
-    "polls_reporting_pct": 12.37,
-    "total_votes": 160917,
+    "polls_reported": 235,
+    "polls_reporting_pct": 16.42,
+    "total_votes": 242523,
     "registered_voters": 2143771,
-    "turnout_pct": 7.51
+    "turnout_pct": 11.31
   },
   "head_to_head": {
-    "leader": "Brad Bradford",
-    "vote_margin": -1052,
-    "pct_margin": -0.65,
-    "total_head_to_head_votes": 151508,
+    "leader": "Olivia Chow",
+    "vote_margin": 14071,
+    "pct_margin": 5.8,
+    "total_head_to_head_votes": 230239,
     "chow": {
       "name": "Olivia Chow",
-      "votes": 75228,
-      "percentage": 46.75,
-      "two_way_percentage": 49.65,
-      "wards_leading": 18,
+      "votes": 122155,
+      "percentage": 50.37,
+      "two_way_percentage": 53.06,
+      "wards_leading": 17,
       "color": "#e05a1e"
     },
     "bradford": {
       "name": "Brad Bradford",
-      "votes": 76280,
-      "percentage": 47.4,
-      "two_way_percentage": 50.35,
-      "wards_leading": 7,
+      "votes": 108084,
+      "percentage": 44.57,
+      "two_way_percentage": 46.94,
+      "wards_leading": 8,
       "color": "#0d6efd"
     }
   },
   "top5_candidates": [
     {
-      "name": "Brad Bradford",
-      "votes": 76280,
-      "percentage": 47.4,
+      "name": "Olivia Chow",
+      "votes": 122155,
+      "percentage": 50.37,
       "rank": 1,
       "margin_from_leader": 0
     },
     {
-      "name": "Olivia Chow",
-      "votes": 75228,
-      "percentage": 46.75,
+      "name": "Brad Bradford",
+      "votes": 108084,
+      "percentage": 44.57,
       "rank": 2,
-      "margin_from_leader": -1052
+      "margin_from_leader": -14071
     },
     {
       "name": "Braeden Chow",
-      "votes": 1384,
-      "percentage": 0.86,
+      "votes": 1952,
+      "percentage": 0.8,
       "rank": 3,
-      "margin_from_leader": -74896
+      "margin_from_leader": -120203
     },
     {
       "name": "Chris Alexander",
-      "votes": 978,
-      "percentage": 0.61,
+      "votes": 1294,
+      "percentage": 0.53,
       "rank": 4,
-      "margin_from_leader": -75302
+      "margin_from_leader": -120861
     },
     {
       "name": "Edward Gong",
-      "votes": 868,
-      "percentage": 0.54,
+      "votes": 993,
+      "percentage": 0.41,
       "rank": 5,
-      "margin_from_leader": -75412
+      "margin_from_leader": -121162
     }
   ],
   "all_candidates_count": 53,
@@ -79,144 +79,144 @@
       "ward_num": 1,
       "ward_name": "Etobicoke North",
       "polls_total": 46,
-      "polls_reported": 11,
-      "polls_reporting_pct": 23.91,
-      "total_votes": 4268,
+      "polls_reported": 13,
+      "polls_reporting_pct": 28.26,
+      "total_votes": 4542,
       "registered_voters": 78411,
-      "turnout_pct": 5.44,
+      "turnout_pct": 5.79,
       "chow": {
-        "votes": 2137,
-        "percentage": 50.07
+        "votes": 2255,
+        "percentage": 49.65
       },
       "bradford": {
-        "votes": 1626,
-        "percentage": 38.1
+        "votes": 1751,
+        "percentage": 38.55
       },
-      "head_to_head_margin": 511,
-      "head_to_head_margin_pct": 11.97,
+      "head_to_head_margin": 504,
+      "head_to_head_margin_pct": 11.1,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 2137,
-          "percentage": 50.07
+          "votes": 2255,
+          "percentage": 49.65
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 1626,
-          "percentage": 38.1
+          "votes": 1751,
+          "percentage": 38.55
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 63,
-          "percentage": 1.48
+          "votes": 69,
+          "percentage": 1.52
         },
         {
           "rank": 4,
           "name": "Sandeep Srivastava",
-          "votes": 39,
-          "percentage": 0.91
+          "votes": 42,
+          "percentage": 0.92
         },
         {
           "rank": 5,
           "name": "Imad Abdulkadir",
           "votes": 37,
-          "percentage": 0.87
+          "percentage": 0.81
         }
       ],
       "council": {
         "polls_total": 46,
-        "polls_reported": 11,
-        "polls_reporting_pct": 23.91,
-        "total_votes": 4150,
+        "polls_reported": 13,
+        "polls_reporting_pct": 28.26,
+        "total_votes": 4414,
         "candidates_count": 10,
         "leader": "Vincent Crisanti",
         "runner_up": "Chloe Brown",
-        "margin_votes": 1169,
-        "margin_pct": 28.17,
+        "margin_votes": 1279,
+        "margin_pct": 28.97,
         "is_close_race": false,
         "top3": [
           {
             "name": "Vincent Crisanti",
-            "votes": 1691,
-            "percentage": 40.75,
+            "votes": 1835,
+            "percentage": 41.57,
             "rank": 1
           },
           {
             "name": "Chloe Brown",
-            "votes": 522,
-            "percentage": 12.58,
+            "votes": 556,
+            "percentage": 12.6,
             "rank": 2
           },
           {
             "name": "Ala'a Adib",
-            "votes": 464,
-            "percentage": 11.18,
+            "votes": 475,
+            "percentage": 10.76,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Vincent Crisanti",
-            "votes": 1691,
-            "percentage": 40.75,
+            "votes": 1835,
+            "percentage": 41.57,
             "rank": 1
           },
           {
             "name": "Chloe Brown",
-            "votes": 522,
-            "percentage": 12.58,
+            "votes": 556,
+            "percentage": 12.6,
             "rank": 2
           },
           {
             "name": "Ala'a Adib",
-            "votes": 464,
-            "percentage": 11.18,
+            "votes": 475,
+            "percentage": 10.76,
             "rank": 3
           },
           {
             "name": "Saima Babar",
-            "votes": 355,
-            "percentage": 8.55,
+            "votes": 373,
+            "percentage": 8.45,
             "rank": 4
           },
           {
             "name": "Kristian Santos",
-            "votes": 306,
-            "percentage": 7.37,
+            "votes": 318,
+            "percentage": 7.2,
             "rank": 5
           },
           {
             "name": "Norman Hamilton",
-            "votes": 299,
-            "percentage": 7.2,
+            "votes": 310,
+            "percentage": 7.02,
             "rank": 6
           },
           {
             "name": "Hard Parmar",
-            "votes": 236,
-            "percentage": 5.69,
+            "votes": 243,
+            "percentage": 5.51,
             "rank": 7
           },
           {
             "name": "Joseph Martino",
-            "votes": 122,
-            "percentage": 2.94,
+            "votes": 137,
+            "percentage": 3.1,
             "rank": 8
           },
           {
             "name": "Abraham Abbey",
-            "votes": 81,
-            "percentage": 1.95,
+            "votes": 87,
+            "percentage": 1.97,
             "rank": 9
           },
           {
             "name": "Nathen Masri",
-            "votes": 74,
-            "percentage": 1.78,
+            "votes": 80,
+            "percentage": 1.81,
             "rank": 10
           }
         ]
@@ -331,108 +331,108 @@
       "ward_num": 3,
       "ward_name": "Etobicoke-Lakeshore",
       "polls_total": 82,
-      "polls_reported": 2,
-      "polls_reporting_pct": 2.44,
-      "total_votes": 1669,
+      "polls_reported": 3,
+      "polls_reporting_pct": 3.66,
+      "total_votes": 2476,
       "registered_voters": 116485,
-      "turnout_pct": 1.43,
+      "turnout_pct": 2.13,
       "chow": {
-        "votes": 765,
-        "percentage": 45.84
+        "votes": 1072,
+        "percentage": 43.3
       },
       "bradford": {
-        "votes": 857,
-        "percentage": 51.35
+        "votes": 1341,
+        "percentage": 54.16
       },
-      "head_to_head_margin": -92,
-      "head_to_head_margin_pct": -5.51,
+      "head_to_head_margin": -269,
+      "head_to_head_margin_pct": -10.86,
       "leader": "Brad Bradford",
       "top5": [
         {
           "rank": 1,
           "name": "Brad Bradford",
-          "votes": 857,
-          "percentage": 51.35
+          "votes": 1341,
+          "percentage": 54.16
         },
         {
           "rank": 2,
           "name": "Olivia Chow",
-          "votes": 765,
-          "percentage": 45.84
+          "votes": 1072,
+          "percentage": 43.3
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 12,
-          "percentage": 0.72
+          "votes": 15,
+          "percentage": 0.61
         },
         {
           "rank": 4,
-          "name": "Chris Alexander",
-          "votes": 8,
-          "percentage": 0.48
+          "name": "Laura Dean",
+          "votes": 9,
+          "percentage": 0.36
         },
         {
           "rank": 5,
-          "name": "Laura Dean",
-          "votes": 6,
-          "percentage": 0.36
+          "name": "Chris Alexander",
+          "votes": 8,
+          "percentage": 0.32
         }
       ],
       "council": {
         "polls_total": 82,
-        "polls_reported": 2,
-        "polls_reporting_pct": 2.44,
-        "total_votes": 1580,
+        "polls_reported": 3,
+        "polls_reporting_pct": 3.66,
+        "total_votes": 2350,
         "candidates_count": 4,
-        "leader": "Amber Morley",
-        "runner_up": "Ted Opitz",
-        "margin_votes": 49,
-        "margin_pct": 3.1,
+        "leader": "Ted Opitz",
+        "runner_up": "Amber Morley",
+        "margin_votes": 4,
+        "margin_pct": 0.17,
         "is_close_race": true,
         "top3": [
           {
-            "name": "Amber Morley",
-            "votes": 713,
-            "percentage": 45.13,
+            "name": "Ted Opitz",
+            "votes": 1034,
+            "percentage": 44.0,
             "rank": 1
           },
           {
-            "name": "Ted Opitz",
-            "votes": 664,
-            "percentage": 42.03,
+            "name": "Amber Morley",
+            "votes": 1030,
+            "percentage": 43.83,
             "rank": 2
           },
           {
             "name": "Mihaela Andrei",
-            "votes": 134,
-            "percentage": 8.48,
+            "votes": 194,
+            "percentage": 8.26,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
-            "name": "Amber Morley",
-            "votes": 713,
-            "percentage": 45.13,
+            "name": "Ted Opitz",
+            "votes": 1034,
+            "percentage": 44.0,
             "rank": 1
           },
           {
-            "name": "Ted Opitz",
-            "votes": 664,
-            "percentage": 42.03,
+            "name": "Amber Morley",
+            "votes": 1030,
+            "percentage": 43.83,
             "rank": 2
           },
           {
             "name": "Mihaela Andrei",
-            "votes": 134,
-            "percentage": 8.48,
+            "votes": 194,
+            "percentage": 8.26,
             "rank": 3
           },
           {
             "name": "Anthony Internicola",
-            "votes": 69,
-            "percentage": 4.37,
+            "votes": 92,
+            "percentage": 3.91,
             "rank": 4
           }
         ]
@@ -442,144 +442,144 @@
       "ward_num": 4,
       "ward_name": "Parkdale-High Park",
       "polls_total": 67,
-      "polls_reported": 4,
-      "polls_reporting_pct": 5.97,
-      "total_votes": 1263,
+      "polls_reported": 6,
+      "polls_reporting_pct": 8.96,
+      "total_votes": 3377,
       "registered_voters": 88529,
-      "turnout_pct": 1.43,
+      "turnout_pct": 3.81,
       "chow": {
-        "votes": 812,
-        "percentage": 64.29
+        "votes": 1993,
+        "percentage": 59.02
       },
       "bradford": {
-        "votes": 387,
-        "percentage": 30.64
+        "votes": 1272,
+        "percentage": 37.67
       },
-      "head_to_head_margin": 425,
-      "head_to_head_margin_pct": 33.65,
+      "head_to_head_margin": 721,
+      "head_to_head_margin_pct": 21.35,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 812,
-          "percentage": 64.29
+          "votes": 1993,
+          "percentage": 59.02
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 387,
-          "percentage": 30.64
+          "votes": 1272,
+          "percentage": 37.67
         },
         {
           "rank": 3,
           "name": "Laura Dean",
-          "votes": 11,
-          "percentage": 0.87
+          "votes": 19,
+          "percentage": 0.56
         },
         {
           "rank": 4,
           "name": "Braeden Chow",
-          "votes": 8,
-          "percentage": 0.63
+          "votes": 18,
+          "percentage": 0.53
         },
         {
           "rank": 5,
           "name": "Chris Alexander",
-          "votes": 8,
-          "percentage": 0.63
+          "votes": 11,
+          "percentage": 0.33
         }
       ],
       "council": {
         "polls_total": 67,
-        "polls_reported": 4,
-        "polls_reporting_pct": 5.97,
-        "total_votes": 1206,
+        "polls_reported": 6,
+        "polls_reporting_pct": 8.96,
+        "total_votes": 3278,
         "candidates_count": 10,
         "leader": "Diana Chan McNally",
         "runner_up": "Nadia Guerrera",
-        "margin_votes": 157,
-        "margin_pct": 13.02,
-        "is_close_race": false,
+        "margin_votes": 10,
+        "margin_pct": 0.3,
+        "is_close_race": true,
         "top3": [
           {
             "name": "Diana Chan McNally",
-            "votes": 458,
-            "percentage": 37.98,
+            "votes": 1051,
+            "percentage": 32.06,
             "rank": 1
           },
           {
             "name": "Nadia Guerrera",
-            "votes": 301,
-            "percentage": 24.96,
+            "votes": 1041,
+            "percentage": 31.76,
             "rank": 2
           },
           {
             "name": "Adam Pham",
-            "votes": 190,
-            "percentage": 15.75,
+            "votes": 688,
+            "percentage": 20.99,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Diana Chan McNally",
-            "votes": 458,
-            "percentage": 37.98,
+            "votes": 1051,
+            "percentage": 32.06,
             "rank": 1
           },
           {
             "name": "Nadia Guerrera",
-            "votes": 301,
-            "percentage": 24.96,
+            "votes": 1041,
+            "percentage": 31.76,
             "rank": 2
           },
           {
             "name": "Adam Pham",
-            "votes": 190,
-            "percentage": 15.75,
+            "votes": 688,
+            "percentage": 20.99,
             "rank": 3
           },
           {
             "name": "Debbie King",
-            "votes": 85,
-            "percentage": 7.05,
+            "votes": 159,
+            "percentage": 4.85,
             "rank": 4
           },
           {
             "name": "Vanessa Raponi",
-            "votes": 75,
-            "percentage": 6.22,
+            "votes": 129,
+            "percentage": 3.94,
             "rank": 5
           },
           {
             "name": "Holly Weber",
-            "votes": 42,
-            "percentage": 3.48,
+            "votes": 73,
+            "percentage": 2.23,
             "rank": 6
           },
           {
             "name": "Michael Corcoran",
-            "votes": 23,
-            "percentage": 1.91,
+            "votes": 47,
+            "percentage": 1.43,
             "rank": 7
           },
           {
             "name": "Bridget Ogundipe",
-            "votes": 16,
-            "percentage": 1.33,
+            "votes": 38,
+            "percentage": 1.16,
             "rank": 8
           },
           {
             "name": "Steve Yuen",
-            "votes": 12,
-            "percentage": 1.0,
+            "votes": 31,
+            "percentage": 0.95,
             "rank": 9
           },
           {
             "name": "Andy Potega",
-            "votes": 4,
-            "percentage": 0.33,
+            "votes": 21,
+            "percentage": 0.64,
             "rank": 10
           }
         ]
@@ -730,102 +730,102 @@
       "ward_num": 6,
       "ward_name": "York Centre",
       "polls_total": 50,
-      "polls_reported": 6,
-      "polls_reporting_pct": 12.0,
-      "total_votes": 9602,
+      "polls_reported": 9,
+      "polls_reporting_pct": 18.0,
+      "total_votes": 10220,
       "registered_voters": 79015,
-      "turnout_pct": 12.15,
+      "turnout_pct": 12.93,
       "chow": {
-        "votes": 2645,
-        "percentage": 27.55
+        "votes": 2927,
+        "percentage": 28.64
       },
       "bradford": {
-        "votes": 6614,
-        "percentage": 68.88
+        "votes": 6906,
+        "percentage": 67.57
       },
-      "head_to_head_margin": -3969,
-      "head_to_head_margin_pct": -41.33,
+      "head_to_head_margin": -3979,
+      "head_to_head_margin_pct": -38.93,
       "leader": "Brad Bradford",
       "top5": [
         {
           "rank": 1,
           "name": "Brad Bradford",
-          "votes": 6614,
-          "percentage": 68.88
+          "votes": 6906,
+          "percentage": 67.57
         },
         {
           "rank": 2,
           "name": "Olivia Chow",
-          "votes": 2645,
-          "percentage": 27.55
+          "votes": 2927,
+          "percentage": 28.64
         },
         {
           "rank": 3,
-          "name": "Chris Alexander",
-          "votes": 55,
-          "percentage": 0.57
+          "name": "Braeden Chow",
+          "votes": 59,
+          "percentage": 0.58
         },
         {
           "rank": 4,
-          "name": "Braeden Chow",
-          "votes": 50,
-          "percentage": 0.52
+          "name": "Chris Alexander",
+          "votes": 58,
+          "percentage": 0.57
         },
         {
           "rank": 5,
           "name": "Edward Gong",
           "votes": 30,
-          "percentage": 0.31
+          "percentage": 0.29
         }
       ],
       "council": {
         "polls_total": 50,
-        "polls_reported": 6,
-        "polls_reporting_pct": 12.0,
-        "total_votes": 9219,
+        "polls_reported": 9,
+        "polls_reporting_pct": 18.0,
+        "total_votes": 9813,
         "candidates_count": 3,
         "leader": "James Pasternak",
         "runner_up": "Conroy Irving",
-        "margin_votes": 5428,
-        "margin_pct": 58.87,
+        "margin_votes": 5596,
+        "margin_pct": 57.03,
         "is_close_race": false,
         "top3": [
           {
             "name": "James Pasternak",
-            "votes": 7063,
-            "percentage": 76.61,
+            "votes": 7399,
+            "percentage": 75.4,
             "rank": 1
           },
           {
             "name": "Conroy Irving",
-            "votes": 1635,
-            "percentage": 17.74,
+            "votes": 1803,
+            "percentage": 18.37,
             "rank": 2
           },
           {
             "name": "Alexander Artamonov",
-            "votes": 521,
-            "percentage": 5.65,
+            "votes": 611,
+            "percentage": 6.23,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "James Pasternak",
-            "votes": 7063,
-            "percentage": 76.61,
+            "votes": 7399,
+            "percentage": 75.4,
             "rank": 1
           },
           {
             "name": "Conroy Irving",
-            "votes": 1635,
-            "percentage": 17.74,
+            "votes": 1803,
+            "percentage": 18.37,
             "rank": 2
           },
           {
             "name": "Alexander Artamonov",
-            "votes": 521,
-            "percentage": 5.65,
+            "votes": 611,
+            "percentage": 6.23,
             "rank": 3
           }
         ]
@@ -835,102 +835,102 @@
       "ward_num": 7,
       "ward_name": "Humber River-Black Creek",
       "polls_total": 45,
-      "polls_reported": 9,
-      "polls_reporting_pct": 20.0,
-      "total_votes": 5996,
+      "polls_reported": 15,
+      "polls_reporting_pct": 33.33,
+      "total_votes": 8140,
       "registered_voters": 73832,
-      "turnout_pct": 8.12,
+      "turnout_pct": 11.03,
       "chow": {
-        "votes": 2957,
-        "percentage": 49.32
+        "votes": 4005,
+        "percentage": 49.2
       },
       "bradford": {
-        "votes": 2363,
-        "percentage": 39.41
+        "votes": 3245,
+        "percentage": 39.86
       },
-      "head_to_head_margin": 594,
-      "head_to_head_margin_pct": 9.91,
+      "head_to_head_margin": 760,
+      "head_to_head_margin_pct": 9.34,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 2957,
-          "percentage": 49.32
+          "votes": 4005,
+          "percentage": 49.2
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 2363,
-          "percentage": 39.41
+          "votes": 3245,
+          "percentage": 39.86
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 104,
-          "percentage": 1.73
+          "votes": 139,
+          "percentage": 1.71
         },
         {
           "rank": 4,
           "name": "Chris Alexander",
-          "votes": 63,
-          "percentage": 1.05
+          "votes": 80,
+          "percentage": 0.98
         },
         {
           "rank": 5,
           "name": "Edward Gong",
-          "votes": 40,
-          "percentage": 0.67
+          "votes": 54,
+          "percentage": 0.66
         }
       ],
       "council": {
         "polls_total": 45,
-        "polls_reported": 9,
-        "polls_reporting_pct": 20.0,
-        "total_votes": 5881,
+        "polls_reported": 15,
+        "polls_reporting_pct": 33.33,
+        "total_votes": 7989,
         "candidates_count": 3,
         "leader": "Anthony Perruzza",
         "runner_up": "Amanda Coombs",
-        "margin_votes": 2574,
-        "margin_pct": 43.77,
+        "margin_votes": 3521,
+        "margin_pct": 44.07,
         "is_close_race": false,
         "top3": [
           {
             "name": "Anthony Perruzza",
-            "votes": 4016,
-            "percentage": 68.29,
+            "votes": 5467,
+            "percentage": 68.43,
             "rank": 1
           },
           {
             "name": "Amanda Coombs",
-            "votes": 1442,
-            "percentage": 24.52,
+            "votes": 1946,
+            "percentage": 24.36,
             "rank": 2
           },
           {
             "name": "Lorna Antwi",
-            "votes": 423,
-            "percentage": 7.19,
+            "votes": 576,
+            "percentage": 7.21,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Anthony Perruzza",
-            "votes": 4016,
-            "percentage": 68.29,
+            "votes": 5467,
+            "percentage": 68.43,
             "rank": 1
           },
           {
             "name": "Amanda Coombs",
-            "votes": 1442,
-            "percentage": 24.52,
+            "votes": 1946,
+            "percentage": 24.36,
             "rank": 2
           },
           {
             "name": "Lorna Antwi",
-            "votes": 423,
-            "percentage": 7.19,
+            "votes": 576,
+            "percentage": 7.21,
             "rank": 3
           }
         ]
@@ -940,120 +940,120 @@
       "ward_num": 8,
       "ward_name": "Eglinton-Lawrence",
       "polls_total": 61,
-      "polls_reported": 6,
-      "polls_reporting_pct": 9.84,
-      "total_votes": 17415,
+      "polls_reported": 8,
+      "polls_reporting_pct": 13.11,
+      "total_votes": 18946,
       "registered_voters": 89581,
-      "turnout_pct": 19.44,
+      "turnout_pct": 21.15,
       "chow": {
-        "votes": 4311,
-        "percentage": 24.75
+        "votes": 4606,
+        "percentage": 24.31
       },
       "bradford": {
-        "votes": 12720,
-        "percentage": 73.04
+        "votes": 13916,
+        "percentage": 73.45
       },
-      "head_to_head_margin": -8409,
-      "head_to_head_margin_pct": -48.29,
+      "head_to_head_margin": -9310,
+      "head_to_head_margin_pct": -49.14,
       "leader": "Brad Bradford",
       "top5": [
         {
           "rank": 1,
           "name": "Brad Bradford",
-          "votes": 12720,
-          "percentage": 73.04
+          "votes": 13916,
+          "percentage": 73.45
         },
         {
           "rank": 2,
           "name": "Olivia Chow",
-          "votes": 4311,
-          "percentage": 24.75
+          "votes": 4606,
+          "percentage": 24.31
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 85,
+          "votes": 92,
           "percentage": 0.49
         },
         {
           "rank": 4,
           "name": "Chris Alexander",
-          "votes": 47,
-          "percentage": 0.27
+          "votes": 50,
+          "percentage": 0.26
         },
         {
           "rank": 5,
           "name": "Edward Gong",
-          "votes": 22,
+          "votes": 25,
           "percentage": 0.13
         }
       ],
       "council": {
         "polls_total": 61,
-        "polls_reported": 6,
-        "polls_reporting_pct": 9.84,
-        "total_votes": 16698,
+        "polls_reported": 8,
+        "polls_reporting_pct": 13.11,
+        "total_votes": 18156,
         "candidates_count": 6,
         "leader": "Mike Colle",
         "runner_up": "Liz Grade",
-        "margin_votes": 11029,
-        "margin_pct": 66.05,
+        "margin_votes": 12058,
+        "margin_pct": 66.41,
         "is_close_race": false,
         "top3": [
           {
             "name": "Mike Colle",
-            "votes": 12811,
-            "percentage": 76.72,
+            "votes": 13957,
+            "percentage": 76.87,
             "rank": 1
           },
           {
             "name": "Liz Grade",
-            "votes": 1782,
-            "percentage": 10.67,
+            "votes": 1899,
+            "percentage": 10.46,
             "rank": 2
           },
           {
             "name": "Jason McDonald",
-            "votes": 1023,
-            "percentage": 6.13,
+            "votes": 1120,
+            "percentage": 6.17,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Mike Colle",
-            "votes": 12811,
-            "percentage": 76.72,
+            "votes": 13957,
+            "percentage": 76.87,
             "rank": 1
           },
           {
             "name": "Liz Grade",
-            "votes": 1782,
-            "percentage": 10.67,
+            "votes": 1899,
+            "percentage": 10.46,
             "rank": 2
           },
           {
             "name": "Jason McDonald",
-            "votes": 1023,
-            "percentage": 6.13,
+            "votes": 1120,
+            "percentage": 6.17,
             "rank": 3
           },
           {
             "name": "Enzo Torrone",
-            "votes": 728,
-            "percentage": 4.36,
+            "votes": 786,
+            "percentage": 4.33,
             "rank": 4
           },
           {
             "name": "Domenico Maiolo",
-            "votes": 193,
-            "percentage": 1.16,
+            "votes": 216,
+            "percentage": 1.19,
             "rank": 5
           },
           {
             "name": "Daniel Trayes",
-            "votes": 161,
-            "percentage": 0.96,
+            "votes": 178,
+            "percentage": 0.98,
             "rank": 6
           }
         ]
@@ -1063,108 +1063,108 @@
       "ward_num": 9,
       "ward_name": "Davenport",
       "polls_total": 53,
-      "polls_reported": 2,
-      "polls_reporting_pct": 3.77,
-      "total_votes": 1433,
+      "polls_reported": 4,
+      "polls_reporting_pct": 7.55,
+      "total_votes": 11140,
       "registered_voters": 84706,
-      "turnout_pct": 1.69,
+      "turnout_pct": 13.15,
       "chow": {
-        "votes": 1048,
-        "percentage": 73.13
+        "votes": 8064,
+        "percentage": 72.39
       },
       "bradford": {
-        "votes": 334,
-        "percentage": 23.31
+        "votes": 2732,
+        "percentage": 24.52
       },
-      "head_to_head_margin": 714,
-      "head_to_head_margin_pct": 49.82,
+      "head_to_head_margin": 5332,
+      "head_to_head_margin_pct": 47.87,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 1048,
-          "percentage": 73.13
+          "votes": 8064,
+          "percentage": 72.39
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 334,
-          "percentage": 23.31
+          "votes": 2732,
+          "percentage": 24.52
         },
         {
           "rank": 3,
-          "name": "Chris Alexander",
-          "votes": 14,
-          "percentage": 0.98
+          "name": "Braeden Chow",
+          "votes": 63,
+          "percentage": 0.57
         },
         {
           "rank": 4,
-          "name": "Braeden Chow",
-          "votes": 9,
-          "percentage": 0.63
+          "name": "Chris Alexander",
+          "votes": 55,
+          "percentage": 0.49
         },
         {
           "rank": 5,
           "name": "Laura Dean",
-          "votes": 6,
-          "percentage": 0.42
+          "votes": 23,
+          "percentage": 0.21
         }
       ],
       "council": {
         "polls_total": 53,
-        "polls_reported": 2,
-        "polls_reporting_pct": 3.77,
-        "total_votes": 1373,
+        "polls_reported": 4,
+        "polls_reporting_pct": 7.55,
+        "total_votes": 10831,
         "candidates_count": 4,
         "leader": "Alejandra Bravo",
         "runner_up": "Marco Martins",
-        "margin_votes": 676,
-        "margin_pct": 49.24,
+        "margin_votes": 5615,
+        "margin_pct": 51.84,
         "is_close_race": false,
         "top3": [
           {
             "name": "Alejandra Bravo",
-            "votes": 987,
-            "percentage": 71.89,
+            "votes": 7973,
+            "percentage": 73.61,
             "rank": 1
           },
           {
             "name": "Marco Martins",
-            "votes": 311,
-            "percentage": 22.65,
+            "votes": 2358,
+            "percentage": 21.77,
             "rank": 2
           },
           {
             "name": "Neil Simon",
-            "votes": 39,
-            "percentage": 2.84,
+            "votes": 255,
+            "percentage": 2.35,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Alejandra Bravo",
-            "votes": 987,
-            "percentage": 71.89,
+            "votes": 7973,
+            "percentage": 73.61,
             "rank": 1
           },
           {
             "name": "Marco Martins",
-            "votes": 311,
-            "percentage": 22.65,
+            "votes": 2358,
+            "percentage": 21.77,
             "rank": 2
           },
           {
             "name": "Neil Simon",
-            "votes": 39,
-            "percentage": 2.84,
+            "votes": 255,
+            "percentage": 2.35,
             "rank": 3
           },
           {
             "name": "Ashley Jansen",
-            "votes": 36,
-            "percentage": 2.62,
+            "votes": 245,
+            "percentage": 2.26,
             "rank": 4
           }
         ]
@@ -1174,132 +1174,132 @@
       "ward_num": 10,
       "ward_name": "Spadina-Fort York",
       "polls_total": 80,
-      "polls_reported": 7,
-      "polls_reporting_pct": 8.75,
-      "total_votes": 2700,
+      "polls_reported": 12,
+      "polls_reporting_pct": 15.0,
+      "total_votes": 14053,
       "registered_voters": 123597,
-      "turnout_pct": 2.18,
+      "turnout_pct": 11.37,
       "chow": {
-        "votes": 1666,
-        "percentage": 61.7
+        "votes": 9193,
+        "percentage": 65.42
       },
       "bradford": {
-        "votes": 934,
-        "percentage": 34.59
+        "votes": 4427,
+        "percentage": 31.5
       },
-      "head_to_head_margin": 732,
-      "head_to_head_margin_pct": 27.11,
+      "head_to_head_margin": 4766,
+      "head_to_head_margin_pct": 33.92,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 1666,
-          "percentage": 61.7
+          "votes": 9193,
+          "percentage": 65.42
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 934,
-          "percentage": 34.59
+          "votes": 4427,
+          "percentage": 31.5
         },
         {
           "rank": 3,
-          "name": "Chris Alexander",
-          "votes": 18,
-          "percentage": 0.67
+          "name": "Braeden Chow",
+          "votes": 75,
+          "percentage": 0.53
         },
         {
           "rank": 4,
-          "name": "Braeden Chow",
-          "votes": 15,
-          "percentage": 0.56
+          "name": "Chris Alexander",
+          "votes": 72,
+          "percentage": 0.51
         },
         {
           "rank": 5,
           "name": "Laura Dean",
-          "votes": 12,
-          "percentage": 0.44
+          "votes": 32,
+          "percentage": 0.23
         }
       ],
       "council": {
         "polls_total": 80,
-        "polls_reported": 7,
-        "polls_reporting_pct": 8.75,
-        "total_votes": 2397,
+        "polls_reported": 12,
+        "polls_reporting_pct": 15.0,
+        "total_votes": 12672,
         "candidates_count": 8,
         "leader": "Ausma Malik",
         "runner_up": "Ian Cunningham",
-        "margin_votes": 395,
-        "margin_pct": 16.48,
+        "margin_votes": 2933,
+        "margin_pct": 23.15,
         "is_close_race": false,
         "top3": [
           {
             "name": "Ausma Malik",
-            "votes": 1103,
-            "percentage": 46.02,
+            "votes": 6229,
+            "percentage": 49.16,
             "rank": 1
           },
           {
             "name": "Ian Cunningham",
-            "votes": 708,
-            "percentage": 29.54,
+            "votes": 3296,
+            "percentage": 26.01,
             "rank": 2
           },
           {
             "name": "Xue Ding",
-            "votes": 185,
-            "percentage": 7.72,
+            "votes": 1033,
+            "percentage": 8.15,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Ausma Malik",
-            "votes": 1103,
-            "percentage": 46.02,
+            "votes": 6229,
+            "percentage": 49.16,
             "rank": 1
           },
           {
             "name": "Ian Cunningham",
-            "votes": 708,
-            "percentage": 29.54,
+            "votes": 3296,
+            "percentage": 26.01,
             "rank": 2
           },
           {
             "name": "Xue Ding",
-            "votes": 185,
-            "percentage": 7.72,
+            "votes": 1033,
+            "percentage": 8.15,
             "rank": 3
           },
           {
             "name": "Paul Nash",
-            "votes": 157,
-            "percentage": 6.55,
+            "votes": 842,
+            "percentage": 6.64,
             "rank": 4
           },
           {
             "name": "Andi Ho\u00e0ng-Lefranc",
-            "votes": 109,
-            "percentage": 4.55,
+            "votes": 617,
+            "percentage": 4.87,
             "rank": 5
           },
           {
             "name": "Aanchal Vashistha",
-            "votes": 66,
-            "percentage": 2.75,
+            "votes": 267,
+            "percentage": 2.11,
             "rank": 6
           },
           {
             "name": "Bashar Kassir",
-            "votes": 48,
-            "percentage": 2.0,
+            "votes": 228,
+            "percentage": 1.8,
             "rank": 7
           },
           {
             "name": "Husain Neemuchwala",
-            "votes": 21,
-            "percentage": 0.88,
+            "votes": 160,
+            "percentage": 1.26,
             "rank": 8
           }
         ]
@@ -1309,138 +1309,138 @@
       "ward_num": 11,
       "ward_name": "University-Rosedale",
       "polls_total": 72,
-      "polls_reported": 3,
-      "polls_reporting_pct": 4.17,
-      "total_votes": 739,
+      "polls_reported": 7,
+      "polls_reporting_pct": 9.72,
+      "total_votes": 12291,
       "registered_voters": 90868,
-      "turnout_pct": 0.81,
+      "turnout_pct": 13.53,
       "chow": {
-        "votes": 419,
-        "percentage": 56.7
+        "votes": 7470,
+        "percentage": 60.78
       },
       "bradford": {
-        "votes": 283,
-        "percentage": 38.29
+        "votes": 4516,
+        "percentage": 36.74
       },
-      "head_to_head_margin": 136,
-      "head_to_head_margin_pct": 18.41,
+      "head_to_head_margin": 2954,
+      "head_to_head_margin_pct": 24.04,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 419,
-          "percentage": 56.7
+          "votes": 7470,
+          "percentage": 60.78
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 283,
-          "percentage": 38.29
+          "votes": 4516,
+          "percentage": 36.74
         },
         {
           "rank": 3,
-          "name": "Chris Alexander",
-          "votes": 16,
-          "percentage": 2.17
+          "name": "Braeden Chow",
+          "votes": 77,
+          "percentage": 0.63
         },
         {
           "rank": 4,
-          "name": "Braeden Chow",
-          "votes": 8,
-          "percentage": 1.08
+          "name": "Chris Alexander",
+          "votes": 60,
+          "percentage": 0.49
         },
         {
           "rank": 5,
-          "name": "Laura Dean",
-          "votes": 2,
-          "percentage": 0.27
+          "name": "Amy Rosen",
+          "votes": 17,
+          "percentage": 0.14
         }
       ],
       "council": {
         "polls_total": 72,
-        "polls_reported": 3,
-        "polls_reporting_pct": 4.17,
-        "total_votes": 686,
+        "polls_reported": 7,
+        "polls_reporting_pct": 9.72,
+        "total_votes": 11532,
         "candidates_count": 9,
         "leader": "Mike Layton",
         "runner_up": "Karina Lemke",
-        "margin_votes": 221,
-        "margin_pct": 32.22,
+        "margin_votes": 4209,
+        "margin_pct": 36.49,
         "is_close_race": false,
         "top3": [
           {
             "name": "Mike Layton",
-            "votes": 353,
-            "percentage": 51.46,
+            "votes": 5944,
+            "percentage": 51.54,
             "rank": 1
           },
           {
             "name": "Karina Lemke",
-            "votes": 132,
-            "percentage": 19.24,
+            "votes": 1735,
+            "percentage": 15.05,
             "rank": 2
           },
           {
             "name": "Diana Yoon",
-            "votes": 62,
-            "percentage": 9.04,
+            "votes": 1656,
+            "percentage": 14.36,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Mike Layton",
-            "votes": 353,
-            "percentage": 51.46,
+            "votes": 5944,
+            "percentage": 51.54,
             "rank": 1
           },
           {
             "name": "Karina Lemke",
-            "votes": 132,
-            "percentage": 19.24,
+            "votes": 1735,
+            "percentage": 15.05,
             "rank": 2
           },
           {
             "name": "Diana Yoon",
-            "votes": 62,
-            "percentage": 9.04,
+            "votes": 1656,
+            "percentage": 14.36,
             "rank": 3
           },
           {
             "name": "Terri Hawkes",
-            "votes": 53,
-            "percentage": 7.73,
+            "votes": 1007,
+            "percentage": 8.73,
             "rank": 4
           },
           {
             "name": "Alice Li",
-            "votes": 41,
-            "percentage": 5.98,
+            "votes": 576,
+            "percentage": 4.99,
             "rank": 5
           },
           {
             "name": "Keenan Courtis",
-            "votes": 37,
-            "percentage": 5.39,
+            "votes": 410,
+            "percentage": 3.56,
             "rank": 6
           },
           {
             "name": "Gian Pileri",
-            "votes": 5,
-            "percentage": 0.73,
+            "votes": 106,
+            "percentage": 0.92,
             "rank": 7
           },
           {
-            "name": "Huy Lieu",
-            "votes": 3,
-            "percentage": 0.44,
+            "name": "Paul Viret",
+            "votes": 64,
+            "percentage": 0.55,
             "rank": 8
           },
           {
-            "name": "Paul Viret",
-            "votes": 0,
-            "percentage": 0.0,
+            "name": "Huy Lieu",
+            "votes": 34,
+            "percentage": 0.29,
             "rank": 9
           }
         ]
@@ -1450,120 +1450,120 @@
       "ward_num": 12,
       "ward_name": "Toronto-St. Paul's",
       "polls_total": 58,
-      "polls_reported": 3,
-      "polls_reporting_pct": 5.17,
-      "total_votes": 2342,
+      "polls_reported": 9,
+      "polls_reporting_pct": 15.52,
+      "total_votes": 19714,
       "registered_voters": 95032,
-      "turnout_pct": 2.46,
+      "turnout_pct": 20.74,
       "chow": {
-        "votes": 1191,
-        "percentage": 50.85
+        "votes": 8682,
+        "percentage": 44.04
       },
       "bradford": {
-        "votes": 1072,
-        "percentage": 45.77
+        "votes": 10536,
+        "percentage": 53.44
       },
-      "head_to_head_margin": 119,
-      "head_to_head_margin_pct": 5.08,
-      "leader": "Olivia Chow",
+      "head_to_head_margin": -1854,
+      "head_to_head_margin_pct": -9.4,
+      "leader": "Brad Bradford",
       "top5": [
         {
           "rank": 1,
-          "name": "Olivia Chow",
-          "votes": 1191,
-          "percentage": 50.85
+          "name": "Brad Bradford",
+          "votes": 10536,
+          "percentage": 53.44
         },
         {
           "rank": 2,
-          "name": "Brad Bradford",
-          "votes": 1072,
-          "percentage": 45.77
+          "name": "Olivia Chow",
+          "votes": 8682,
+          "percentage": 44.04
         },
         {
           "rank": 3,
-          "name": "Chris Alexander",
-          "votes": 26,
-          "percentage": 1.11
+          "name": "Braeden Chow",
+          "votes": 131,
+          "percentage": 0.66
         },
         {
           "rank": 4,
-          "name": "Braeden Chow",
-          "votes": 15,
-          "percentage": 0.64
+          "name": "Chris Alexander",
+          "votes": 78,
+          "percentage": 0.4
         },
         {
           "rank": 5,
           "name": "Laura Dean",
-          "votes": 9,
-          "percentage": 0.38
+          "votes": 37,
+          "percentage": 0.19
         }
       ],
       "council": {
         "polls_total": 58,
-        "polls_reported": 3,
-        "polls_reporting_pct": 5.17,
-        "total_votes": 2197,
+        "polls_reported": 9,
+        "polls_reporting_pct": 15.52,
+        "total_votes": 18538,
         "candidates_count": 6,
         "leader": "Josh Matlow",
         "runner_up": "Jenny Kalimbet",
-        "margin_votes": 1219,
-        "margin_pct": 55.49,
+        "margin_votes": 8120,
+        "margin_pct": 43.8,
         "is_close_race": false,
         "top3": [
           {
             "name": "Josh Matlow",
-            "votes": 1584,
-            "percentage": 72.1,
+            "votes": 12381,
+            "percentage": 66.79,
             "rank": 1
           },
           {
             "name": "Jenny Kalimbet",
-            "votes": 365,
-            "percentage": 16.61,
+            "votes": 4261,
+            "percentage": 22.99,
             "rank": 2
           },
           {
             "name": "David Cottrell",
-            "votes": 99,
-            "percentage": 4.51,
+            "votes": 701,
+            "percentage": 3.78,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Josh Matlow",
-            "votes": 1584,
-            "percentage": 72.1,
+            "votes": 12381,
+            "percentage": 66.79,
             "rank": 1
           },
           {
             "name": "Jenny Kalimbet",
-            "votes": 365,
-            "percentage": 16.61,
+            "votes": 4261,
+            "percentage": 22.99,
             "rank": 2
           },
           {
             "name": "David Cottrell",
-            "votes": 99,
-            "percentage": 4.51,
+            "votes": 701,
+            "percentage": 3.78,
             "rank": 3
           },
           {
             "name": "Bob Murphy",
-            "votes": 55,
-            "percentage": 2.5,
+            "votes": 436,
+            "percentage": 2.35,
             "rank": 4
           },
           {
-            "name": "Ahmed Kamal",
-            "votes": 53,
-            "percentage": 2.41,
+            "name": "Mina Nadimi",
+            "votes": 381,
+            "percentage": 2.06,
             "rank": 5
           },
           {
-            "name": "Mina Nadimi",
-            "votes": 41,
-            "percentage": 1.87,
+            "name": "Ahmed Kamal",
+            "votes": 378,
+            "percentage": 2.04,
             "rank": 6
           }
         ]
@@ -1573,150 +1573,150 @@
       "ward_num": 13,
       "ward_name": "Toronto Centre",
       "polls_total": 78,
-      "polls_reported": 4,
-      "polls_reporting_pct": 5.13,
-      "total_votes": 1503,
+      "polls_reported": 9,
+      "polls_reporting_pct": 11.54,
+      "total_votes": 13827,
       "registered_voters": 101769,
-      "turnout_pct": 1.48,
+      "turnout_pct": 13.59,
       "chow": {
-        "votes": 1086,
-        "percentage": 72.26
+        "votes": 9965,
+        "percentage": 72.07
       },
       "bradford": {
-        "votes": 329,
-        "percentage": 21.89
+        "votes": 3177,
+        "percentage": 22.98
       },
-      "head_to_head_margin": 757,
-      "head_to_head_margin_pct": 50.37,
+      "head_to_head_margin": 6788,
+      "head_to_head_margin_pct": 49.09,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 1086,
-          "percentage": 72.26
+          "votes": 9965,
+          "percentage": 72.07
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 329,
-          "percentage": 21.89
+          "votes": 3177,
+          "percentage": 22.98
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 26,
-          "percentage": 1.73
+          "votes": 123,
+          "percentage": 0.89
         },
         {
           "rank": 4,
           "name": "Chris Alexander",
-          "votes": 16,
-          "percentage": 1.06
+          "votes": 86,
+          "percentage": 0.62
         },
         {
           "rank": 5,
-          "name": "Darrell Brown",
-          "votes": 5,
-          "percentage": 0.33
+          "name": "Imad Abdulkadir",
+          "votes": 43,
+          "percentage": 0.31
         }
       ],
       "council": {
         "polls_total": 78,
-        "polls_reported": 4,
-        "polls_reporting_pct": 5.13,
-        "total_votes": 1380,
+        "polls_reported": 9,
+        "polls_reporting_pct": 11.54,
+        "total_votes": 12969,
         "candidates_count": 11,
         "leader": "Curran Stikuts",
         "runner_up": "Chris Moise",
-        "margin_votes": 101,
-        "margin_pct": 7.32,
-        "is_close_race": false,
+        "margin_votes": 333,
+        "margin_pct": 2.57,
+        "is_close_race": true,
         "top3": [
           {
             "name": "Curran Stikuts",
-            "votes": 405,
-            "percentage": 29.35,
+            "votes": 3645,
+            "percentage": 28.11,
             "rank": 1
           },
           {
             "name": "Chris Moise",
-            "votes": 304,
-            "percentage": 22.03,
+            "votes": 3312,
+            "percentage": 25.54,
             "rank": 2
           },
           {
             "name": "Daniel Tate",
-            "votes": 213,
-            "percentage": 15.43,
+            "votes": 1842,
+            "percentage": 14.2,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Curran Stikuts",
-            "votes": 405,
-            "percentage": 29.35,
+            "votes": 3645,
+            "percentage": 28.11,
             "rank": 1
           },
           {
             "name": "Chris Moise",
-            "votes": 304,
-            "percentage": 22.03,
+            "votes": 3312,
+            "percentage": 25.54,
             "rank": 2
           },
           {
             "name": "Daniel Tate",
-            "votes": 213,
-            "percentage": 15.43,
+            "votes": 1842,
+            "percentage": 14.2,
             "rank": 3
           },
           {
             "name": "Walied Khogali Ali",
-            "votes": 131,
-            "percentage": 9.49,
+            "votes": 1166,
+            "percentage": 8.99,
             "rank": 4
           },
           {
-            "name": "Joe Cadeau",
-            "votes": 79,
-            "percentage": 5.72,
+            "name": "Nicki Ward",
+            "votes": 861,
+            "percentage": 6.64,
             "rank": 5
           },
           {
-            "name": "Victoria Davis",
-            "votes": 77,
-            "percentage": 5.58,
+            "name": "Joe Cadeau",
+            "votes": 693,
+            "percentage": 5.34,
             "rank": 6
           },
           {
-            "name": "Nicki Ward",
-            "votes": 74,
-            "percentage": 5.36,
+            "name": "Victoria Davis",
+            "votes": 569,
+            "percentage": 4.39,
             "rank": 7
           },
           {
-            "name": "Tom Cai",
-            "votes": 31,
-            "percentage": 2.25,
+            "name": "Morgan Harris",
+            "votes": 310,
+            "percentage": 2.39,
             "rank": 8
           },
           {
-            "name": "Morgan Harris",
-            "votes": 29,
-            "percentage": 2.1,
+            "name": "Tom Cai",
+            "votes": 260,
+            "percentage": 2.0,
             "rank": 9
           },
           {
-            "name": "Cleveland Marshall",
-            "votes": 22,
-            "percentage": 1.59,
+            "name": "Norman MacLeod",
+            "votes": 193,
+            "percentage": 1.49,
             "rank": 10
           },
           {
-            "name": "Norman MacLeod",
-            "votes": 15,
-            "percentage": 1.09,
+            "name": "Cleveland Marshall",
+            "votes": 118,
+            "percentage": 0.91,
             "rank": 11
           }
         ]
@@ -1921,102 +1921,102 @@
       "ward_num": 15,
       "ward_name": "Don Valley West",
       "polls_total": 49,
-      "polls_reported": 4,
-      "polls_reporting_pct": 8.16,
-      "total_votes": 3824,
+      "polls_reported": 6,
+      "polls_reporting_pct": 12.24,
+      "total_votes": 5252,
       "registered_voters": 76936,
-      "turnout_pct": 4.97,
+      "turnout_pct": 6.83,
       "chow": {
-        "votes": 1765,
-        "percentage": 46.16
+        "votes": 2194,
+        "percentage": 41.77
       },
       "bradford": {
-        "votes": 1951,
-        "percentage": 51.02
+        "votes": 2930,
+        "percentage": 55.79
       },
-      "head_to_head_margin": -186,
-      "head_to_head_margin_pct": -4.86,
+      "head_to_head_margin": -736,
+      "head_to_head_margin_pct": -14.02,
       "leader": "Brad Bradford",
       "top5": [
         {
           "rank": 1,
           "name": "Brad Bradford",
-          "votes": 1951,
-          "percentage": 51.02
+          "votes": 2930,
+          "percentage": 55.79
         },
         {
           "rank": 2,
           "name": "Olivia Chow",
-          "votes": 1765,
-          "percentage": 46.16
+          "votes": 2194,
+          "percentage": 41.77
         },
         {
           "rank": 3,
-          "name": "Laura Dean",
-          "votes": 18,
-          "percentage": 0.47
+          "name": "Braeden Chow",
+          "votes": 20,
+          "percentage": 0.38
         },
         {
           "rank": 4,
-          "name": "Braeden Chow",
-          "votes": 17,
-          "percentage": 0.44
+          "name": "Laura Dean",
+          "votes": 20,
+          "percentage": 0.38
         },
         {
           "rank": 5,
           "name": "Chris Alexander",
-          "votes": 13,
-          "percentage": 0.34
+          "votes": 14,
+          "percentage": 0.27
         }
       ],
       "council": {
         "polls_total": 49,
-        "polls_reported": 4,
-        "polls_reporting_pct": 8.16,
-        "total_votes": 3463,
+        "polls_reported": 6,
+        "polls_reporting_pct": 12.24,
+        "total_votes": 4623,
         "candidates_count": 3,
         "leader": "Rachel Chernos Lin",
         "runner_up": "Sheena Sharp",
-        "margin_votes": 1608,
-        "margin_pct": 46.43,
+        "margin_votes": 2065,
+        "margin_pct": 44.67,
         "is_close_race": false,
         "top3": [
           {
             "name": "Rachel Chernos Lin",
-            "votes": 2384,
-            "percentage": 68.84,
+            "votes": 3113,
+            "percentage": 67.34,
             "rank": 1
           },
           {
             "name": "Sheena Sharp",
-            "votes": 776,
-            "percentage": 22.41,
+            "votes": 1048,
+            "percentage": 22.67,
             "rank": 2
           },
           {
             "name": "Denis Tsang",
-            "votes": 303,
-            "percentage": 8.75,
+            "votes": 462,
+            "percentage": 9.99,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Rachel Chernos Lin",
-            "votes": 2384,
-            "percentage": 68.84,
+            "votes": 3113,
+            "percentage": 67.34,
             "rank": 1
           },
           {
             "name": "Sheena Sharp",
-            "votes": 776,
-            "percentage": 22.41,
+            "votes": 1048,
+            "percentage": 22.67,
             "rank": 2
           },
           {
             "name": "Denis Tsang",
-            "votes": 303,
-            "percentage": 8.75,
+            "votes": 462,
+            "percentage": 9.99,
             "rank": 3
           }
         ]
@@ -2026,108 +2026,108 @@
       "ward_num": 16,
       "ward_name": "Don Valley East",
       "polls_total": 62,
-      "polls_reported": 10,
-      "polls_reporting_pct": 16.13,
-      "total_votes": 4238,
+      "polls_reported": 11,
+      "polls_reporting_pct": 17.74,
+      "total_votes": 5173,
       "registered_voters": 70080,
-      "turnout_pct": 6.05,
+      "turnout_pct": 7.38,
       "chow": {
-        "votes": 2086,
-        "percentage": 49.22
+        "votes": 2571,
+        "percentage": 49.7
       },
       "bradford": {
-        "votes": 1966,
-        "percentage": 46.39
+        "votes": 2381,
+        "percentage": 46.03
       },
-      "head_to_head_margin": 120,
-      "head_to_head_margin_pct": 2.83,
+      "head_to_head_margin": 190,
+      "head_to_head_margin_pct": 3.67,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 2086,
-          "percentage": 49.22
+          "votes": 2571,
+          "percentage": 49.7
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 1966,
-          "percentage": 46.39
+          "votes": 2381,
+          "percentage": 46.03
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 42,
-          "percentage": 0.99
+          "votes": 50,
+          "percentage": 0.97
         },
         {
           "rank": 4,
           "name": "Edward Gong",
-          "votes": 18,
-          "percentage": 0.42
+          "votes": 21,
+          "percentage": 0.41
         },
         {
           "rank": 5,
           "name": "Chris Alexander",
           "votes": 17,
-          "percentage": 0.4
+          "percentage": 0.33
         }
       ],
       "council": {
         "polls_total": 62,
-        "polls_reported": 10,
-        "polls_reporting_pct": 16.13,
-        "total_votes": 3917,
+        "polls_reported": 11,
+        "polls_reporting_pct": 17.74,
+        "total_votes": 4818,
         "candidates_count": 4,
         "leader": "Jon Burnside",
         "runner_up": "Sinan Erdemir",
-        "margin_votes": 2614,
-        "margin_pct": 66.73,
+        "margin_votes": 3214,
+        "margin_pct": 66.71,
         "is_close_race": false,
         "top3": [
           {
             "name": "Jon Burnside",
-            "votes": 2999,
-            "percentage": 76.56,
+            "votes": 3691,
+            "percentage": 76.61,
             "rank": 1
           },
           {
             "name": "Sinan Erdemir",
-            "votes": 385,
-            "percentage": 9.83,
+            "votes": 477,
+            "percentage": 9.9,
             "rank": 2
           },
           {
             "name": "Stacey Moffatt",
-            "votes": 267,
-            "percentage": 6.82,
+            "votes": 333,
+            "percentage": 6.91,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Jon Burnside",
-            "votes": 2999,
-            "percentage": 76.56,
+            "votes": 3691,
+            "percentage": 76.61,
             "rank": 1
           },
           {
             "name": "Sinan Erdemir",
-            "votes": 385,
-            "percentage": 9.83,
+            "votes": 477,
+            "percentage": 9.9,
             "rank": 2
           },
           {
             "name": "Stacey Moffatt",
-            "votes": 267,
-            "percentage": 6.82,
+            "votes": 333,
+            "percentage": 6.91,
             "rank": 3
           },
           {
             "name": "Didi Moffat",
-            "votes": 266,
-            "percentage": 6.79,
+            "votes": 317,
+            "percentage": 6.58,
             "rank": 4
           }
         ]
@@ -2137,126 +2137,126 @@
       "ward_num": 17,
       "ward_name": "Don Valley North",
       "polls_total": 60,
-      "polls_reported": 15,
-      "polls_reporting_pct": 25.0,
-      "total_votes": 12260,
+      "polls_reported": 17,
+      "polls_reporting_pct": 28.33,
+      "total_votes": 13368,
       "registered_voters": 81623,
-      "turnout_pct": 15.02,
+      "turnout_pct": 16.38,
       "chow": {
-        "votes": 5767,
-        "percentage": 47.04
+        "votes": 6276,
+        "percentage": 46.95
       },
       "bradford": {
-        "votes": 5848,
-        "percentage": 47.7
+        "votes": 6402,
+        "percentage": 47.89
       },
-      "head_to_head_margin": -81,
-      "head_to_head_margin_pct": -0.66,
+      "head_to_head_margin": -126,
+      "head_to_head_margin_pct": -0.94,
       "leader": "Brad Bradford",
       "top5": [
         {
           "rank": 1,
           "name": "Brad Bradford",
-          "votes": 5848,
-          "percentage": 47.7
+          "votes": 6402,
+          "percentage": 47.89
         },
         {
           "rank": 2,
           "name": "Olivia Chow",
-          "votes": 5767,
-          "percentage": 47.04
+          "votes": 6276,
+          "percentage": 46.95
         },
         {
           "rank": 3,
           "name": "Chris Alexander",
-          "votes": 89,
-          "percentage": 0.73
+          "votes": 92,
+          "percentage": 0.69
         },
         {
           "rank": 4,
           "name": "Braeden Chow",
-          "votes": 85,
-          "percentage": 0.69
+          "votes": 88,
+          "percentage": 0.66
         },
         {
           "rank": 5,
           "name": "Edward Gong",
-          "votes": 81,
-          "percentage": 0.66
+          "votes": 84,
+          "percentage": 0.63
         }
       ],
       "council": {
         "polls_total": 60,
-        "polls_reported": 15,
-        "polls_reporting_pct": 25.0,
-        "total_votes": 11556,
+        "polls_reported": 17,
+        "polls_reporting_pct": 28.33,
+        "total_votes": 12599,
         "candidates_count": 7,
         "leader": "Shelley Carroll",
         "runner_up": "Sabrina Zuniga",
-        "margin_votes": 6033,
-        "margin_pct": 52.2,
+        "margin_votes": 6597,
+        "margin_pct": 52.36,
         "is_close_race": false,
         "top3": [
           {
             "name": "Shelley Carroll",
-            "votes": 7527,
-            "percentage": 65.13,
+            "votes": 8199,
+            "percentage": 65.08,
             "rank": 1
           },
           {
             "name": "Sabrina Zuniga",
-            "votes": 1494,
-            "percentage": 12.93,
+            "votes": 1602,
+            "percentage": 12.72,
             "rank": 2
           },
           {
             "name": "Hong Xiao",
-            "votes": 801,
-            "percentage": 6.93,
+            "votes": 879,
+            "percentage": 6.98,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Shelley Carroll",
-            "votes": 7527,
-            "percentage": 65.13,
+            "votes": 8199,
+            "percentage": 65.08,
             "rank": 1
           },
           {
             "name": "Sabrina Zuniga",
-            "votes": 1494,
-            "percentage": 12.93,
+            "votes": 1602,
+            "percentage": 12.72,
             "rank": 2
           },
           {
             "name": "Hong Xiao",
-            "votes": 801,
-            "percentage": 6.93,
+            "votes": 879,
+            "percentage": 6.98,
             "rank": 3
           },
           {
             "name": "Jeffery Adamson",
-            "votes": 783,
-            "percentage": 6.78,
+            "votes": 862,
+            "percentage": 6.84,
             "rank": 4
           },
           {
             "name": "Hassan Mubarak Noor Mohamed",
-            "votes": 600,
-            "percentage": 5.19,
+            "votes": 663,
+            "percentage": 5.26,
             "rank": 5
           },
           {
             "name": "Roy Samathanam",
-            "votes": 208,
-            "percentage": 1.8,
+            "votes": 228,
+            "percentage": 1.81,
             "rank": 6
           },
           {
             "name": "Jethro Adir Kavod",
-            "votes": 143,
-            "percentage": 1.24,
+            "votes": 166,
+            "percentage": 1.32,
             "rank": 7
           }
         ]
@@ -2266,120 +2266,120 @@
       "ward_num": 18,
       "ward_name": "Willowdale",
       "polls_total": 56,
-      "polls_reported": 7,
-      "polls_reporting_pct": 12.5,
-      "total_votes": 9820,
+      "polls_reported": 9,
+      "polls_reporting_pct": 16.07,
+      "total_votes": 10670,
       "registered_voters": 84671,
-      "turnout_pct": 11.6,
+      "turnout_pct": 12.6,
       "chow": {
-        "votes": 4480,
-        "percentage": 45.62
+        "votes": 4812,
+        "percentage": 45.1
       },
       "bradford": {
-        "votes": 4859,
-        "percentage": 49.48
+        "votes": 5330,
+        "percentage": 49.95
       },
-      "head_to_head_margin": -379,
-      "head_to_head_margin_pct": -3.86,
+      "head_to_head_margin": -518,
+      "head_to_head_margin_pct": -4.85,
       "leader": "Brad Bradford",
       "top5": [
         {
           "rank": 1,
           "name": "Brad Bradford",
-          "votes": 4859,
-          "percentage": 49.48
+          "votes": 5330,
+          "percentage": 49.95
         },
         {
           "rank": 2,
           "name": "Olivia Chow",
-          "votes": 4480,
-          "percentage": 45.62
+          "votes": 4812,
+          "percentage": 45.1
         },
         {
           "rank": 3,
           "name": "Chris Alexander",
-          "votes": 83,
-          "percentage": 0.85
+          "votes": 88,
+          "percentage": 0.82
         },
         {
           "rank": 4,
           "name": "Braeden Chow",
-          "votes": 61,
-          "percentage": 0.62
+          "votes": 69,
+          "percentage": 0.65
         },
         {
           "rank": 5,
           "name": "Edward Gong",
-          "votes": 38,
-          "percentage": 0.39
+          "votes": 40,
+          "percentage": 0.37
         }
       ],
       "council": {
         "polls_total": 56,
-        "polls_reported": 7,
-        "polls_reporting_pct": 12.5,
-        "total_votes": 9532,
+        "polls_reported": 9,
+        "polls_reporting_pct": 16.07,
+        "total_votes": 10338,
         "candidates_count": 6,
         "leader": "Lily Cheng",
         "runner_up": "David Magazzinich",
-        "margin_votes": 4116,
-        "margin_pct": 43.18,
+        "margin_votes": 4350,
+        "margin_pct": 42.08,
         "is_close_race": false,
         "top3": [
           {
             "name": "Lily Cheng",
-            "votes": 6189,
-            "percentage": 64.93,
+            "votes": 6645,
+            "percentage": 64.28,
             "rank": 1
           },
           {
             "name": "David Magazzinich",
-            "votes": 2073,
-            "percentage": 21.75,
+            "votes": 2295,
+            "percentage": 22.2,
             "rank": 2
           },
           {
             "name": "Ardeshir Zarezade",
-            "votes": 566,
-            "percentage": 5.94,
+            "votes": 607,
+            "percentage": 5.87,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Lily Cheng",
-            "votes": 6189,
-            "percentage": 64.93,
+            "votes": 6645,
+            "percentage": 64.28,
             "rank": 1
           },
           {
             "name": "David Magazzinich",
-            "votes": 2073,
-            "percentage": 21.75,
+            "votes": 2295,
+            "percentage": 22.2,
             "rank": 2
           },
           {
             "name": "Ardeshir Zarezade",
-            "votes": 566,
-            "percentage": 5.94,
+            "votes": 607,
+            "percentage": 5.87,
             "rank": 3
           },
           {
             "name": "Hamid Shakeri",
-            "votes": 298,
-            "percentage": 3.13,
+            "votes": 318,
+            "percentage": 3.08,
             "rank": 4
           },
           {
             "name": "Nicole Daneshvar",
-            "votes": 234,
-            "percentage": 2.45,
+            "votes": 257,
+            "percentage": 2.49,
             "rank": 5
           },
           {
             "name": "Nathan Yusifov",
-            "votes": 172,
-            "percentage": 1.8,
+            "votes": 216,
+            "percentage": 2.09,
             "rank": 6
           }
         ]
@@ -2389,162 +2389,162 @@
       "ward_num": 19,
       "ward_name": "Beaches-East York",
       "polls_total": 53,
-      "polls_reported": 3,
-      "polls_reporting_pct": 5.66,
-      "total_votes": 1596,
+      "polls_reported": 6,
+      "polls_reporting_pct": 11.32,
+      "total_votes": 4089,
       "registered_voters": 85048,
-      "turnout_pct": 1.88,
+      "turnout_pct": 4.81,
       "chow": {
-        "votes": 922,
-        "percentage": 57.77
+        "votes": 2174,
+        "percentage": 53.17
       },
       "bradford": {
-        "votes": 603,
-        "percentage": 37.78
+        "votes": 1757,
+        "percentage": 42.97
       },
-      "head_to_head_margin": 319,
-      "head_to_head_margin_pct": 19.99,
+      "head_to_head_margin": 417,
+      "head_to_head_margin_pct": 10.2,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 922,
-          "percentage": 57.77
+          "votes": 2174,
+          "percentage": 53.17
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 603,
-          "percentage": 37.78
+          "votes": 1757,
+          "percentage": 42.97
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 16,
-          "percentage": 1.0
+          "votes": 39,
+          "percentage": 0.95
         },
         {
           "rank": 4,
           "name": "Chris Alexander",
-          "votes": 16,
-          "percentage": 1.0
+          "votes": 22,
+          "percentage": 0.54
         },
         {
           "rank": 5,
-          "name": "Edward Gong",
-          "votes": 5,
-          "percentage": 0.31
+          "name": "Georgios Kalkounis",
+          "votes": 15,
+          "percentage": 0.37
         }
       ],
       "council": {
         "polls_total": 53,
-        "polls_reported": 3,
-        "polls_reporting_pct": 5.66,
-        "total_votes": 1526,
+        "polls_reported": 6,
+        "polls_reporting_pct": 11.32,
+        "total_votes": 3947,
         "candidates_count": 13,
         "leader": "Nate Erskine-Smith",
         "runner_up": "Natalie Johnson",
-        "margin_votes": 360,
-        "margin_pct": 23.59,
+        "margin_votes": 335,
+        "margin_pct": 8.49,
         "is_close_race": false,
         "top3": [
           {
             "name": "Nate Erskine-Smith",
-            "votes": 750,
-            "percentage": 49.15,
+            "votes": 1715,
+            "percentage": 43.45,
             "rank": 1
           },
           {
             "name": "Natalie Johnson",
-            "votes": 390,
-            "percentage": 25.56,
+            "votes": 1380,
+            "percentage": 34.96,
             "rank": 2
           },
           {
             "name": "James Dann",
-            "votes": 125,
-            "percentage": 8.19,
+            "votes": 297,
+            "percentage": 7.52,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Nate Erskine-Smith",
-            "votes": 750,
-            "percentage": 49.15,
+            "votes": 1715,
+            "percentage": 43.45,
             "rank": 1
           },
           {
             "name": "Natalie Johnson",
-            "votes": 390,
-            "percentage": 25.56,
+            "votes": 1380,
+            "percentage": 34.96,
             "rank": 2
           },
           {
             "name": "James Dann",
-            "votes": 125,
-            "percentage": 8.19,
+            "votes": 297,
+            "percentage": 7.52,
             "rank": 3
           },
           {
             "name": "Jennie Worden",
-            "votes": 90,
-            "percentage": 5.9,
+            "votes": 163,
+            "percentage": 4.13,
             "rank": 4
           },
           {
-            "name": "Kevin Morrison",
-            "votes": 64,
-            "percentage": 4.19,
+            "name": "Adam Smith",
+            "votes": 106,
+            "percentage": 2.69,
             "rank": 5
           },
           {
-            "name": "Adam Smith",
-            "votes": 35,
-            "percentage": 2.29,
+            "name": "Kevin Morrison",
+            "votes": 102,
+            "percentage": 2.58,
             "rank": 6
           },
           {
             "name": "Karsten Riedel",
-            "votes": 15,
-            "percentage": 0.98,
+            "votes": 61,
+            "percentage": 1.55,
             "rank": 7
           },
           {
             "name": "Fatima Ibrahimi",
-            "votes": 13,
-            "percentage": 0.85,
+            "votes": 30,
+            "percentage": 0.76,
             "rank": 8
           },
           {
             "name": "Syeda Jaana Ali",
-            "votes": 12,
-            "percentage": 0.79,
+            "votes": 28,
+            "percentage": 0.71,
             "rank": 9
           },
           {
-            "name": "Jeff Wahl",
-            "votes": 10,
-            "percentage": 0.66,
+            "name": "Mohammad Shabani",
+            "votes": 21,
+            "percentage": 0.53,
             "rank": 10
           },
           {
-            "name": "Mohammad Shabani",
-            "votes": 9,
-            "percentage": 0.59,
+            "name": "Devin Wilkins",
+            "votes": 17,
+            "percentage": 0.43,
             "rank": 11
           },
           {
-            "name": "Devin Wilkins",
-            "votes": 8,
-            "percentage": 0.52,
+            "name": "Austin Vieira",
+            "votes": 15,
+            "percentage": 0.38,
             "rank": 12
           },
           {
-            "name": "Austin Vieira",
-            "votes": 5,
-            "percentage": 0.33,
+            "name": "Jeff Wahl",
+            "votes": 12,
+            "percentage": 0.3,
             "rank": 13
           }
         ]
@@ -2554,132 +2554,132 @@
       "ward_num": 20,
       "ward_name": "Scarborough Southwest",
       "polls_total": 61,
-      "polls_reported": 7,
-      "polls_reporting_pct": 11.48,
-      "total_votes": 2071,
+      "polls_reported": 10,
+      "polls_reporting_pct": 16.39,
+      "total_votes": 3383,
       "registered_voters": 82427,
-      "turnout_pct": 2.51,
+      "turnout_pct": 4.1,
       "chow": {
-        "votes": 1153,
-        "percentage": 55.67
+        "votes": 1982,
+        "percentage": 58.59
       },
       "bradford": {
-        "votes": 792,
-        "percentage": 38.24
+        "votes": 1191,
+        "percentage": 35.21
       },
-      "head_to_head_margin": 361,
-      "head_to_head_margin_pct": 17.43,
+      "head_to_head_margin": 791,
+      "head_to_head_margin_pct": 23.38,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 1153,
-          "percentage": 55.67
+          "votes": 1982,
+          "percentage": 58.59
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 792,
-          "percentage": 38.24
+          "votes": 1191,
+          "percentage": 35.21
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 24,
-          "percentage": 1.16
+          "votes": 36,
+          "percentage": 1.06
         },
         {
           "rank": 4,
           "name": "Edward Gong",
-          "votes": 13,
-          "percentage": 0.63
+          "votes": 19,
+          "percentage": 0.56
         },
         {
           "rank": 5,
           "name": "Chris Alexander",
-          "votes": 12,
-          "percentage": 0.58
+          "votes": 16,
+          "percentage": 0.47
         }
       ],
       "council": {
         "polls_total": 61,
-        "polls_reported": 7,
-        "polls_reporting_pct": 11.48,
-        "total_votes": 1920,
+        "polls_reported": 10,
+        "polls_reporting_pct": 16.39,
+        "total_votes": 3126,
         "candidates_count": 8,
         "leader": "Parthi Kandavel",
         "runner_up": "Kevin Rupasinghe",
-        "margin_votes": 101,
-        "margin_pct": 5.26,
-        "is_close_race": false,
+        "margin_votes": 42,
+        "margin_pct": 1.35,
+        "is_close_race": true,
         "top3": [
           {
             "name": "Parthi Kandavel",
-            "votes": 650,
-            "percentage": 33.85,
+            "votes": 994,
+            "percentage": 31.8,
             "rank": 1
           },
           {
             "name": "Kevin Rupasinghe",
-            "votes": 549,
-            "percentage": 28.59,
+            "votes": 952,
+            "percentage": 30.45,
             "rank": 2
           },
           {
             "name": "Sharmina Nasrin",
-            "votes": 179,
-            "percentage": 9.32,
+            "votes": 315,
+            "percentage": 10.08,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Parthi Kandavel",
-            "votes": 650,
-            "percentage": 33.85,
+            "votes": 994,
+            "percentage": 31.8,
             "rank": 1
           },
           {
             "name": "Kevin Rupasinghe",
-            "votes": 549,
-            "percentage": 28.59,
+            "votes": 952,
+            "percentage": 30.45,
             "rank": 2
           },
           {
             "name": "Sharmina Nasrin",
-            "votes": 179,
-            "percentage": 9.32,
+            "votes": 315,
+            "percentage": 10.08,
             "rank": 3
           },
           {
             "name": "Ariel-Rachel Karokis",
-            "votes": 171,
-            "percentage": 8.91,
+            "votes": 252,
+            "percentage": 8.06,
             "rank": 4
           },
           {
             "name": "Luigi Lisciandro",
-            "votes": 159,
-            "percentage": 8.28,
+            "votes": 237,
+            "percentage": 7.58,
             "rank": 5
           },
           {
             "name": "Mohammad Ali Reza",
-            "votes": 93,
-            "percentage": 4.84,
+            "votes": 181,
+            "percentage": 5.79,
             "rank": 6
           },
           {
             "name": "Laikul Choudhury",
-            "votes": 90,
-            "percentage": 4.69,
+            "votes": 138,
+            "percentage": 4.41,
             "rank": 7
           },
           {
             "name": "Naser Kaid",
-            "votes": 29,
-            "percentage": 1.51,
+            "votes": 57,
+            "percentage": 1.82,
             "rank": 8
           }
         ]
@@ -2689,150 +2689,150 @@
       "ward_num": 21,
       "ward_name": "Scarborough Centre",
       "polls_total": 49,
-      "polls_reported": 14,
-      "polls_reporting_pct": 28.57,
-      "total_votes": 13688,
+      "polls_reported": 17,
+      "polls_reporting_pct": 34.69,
+      "total_votes": 15933,
       "registered_voters": 80557,
-      "turnout_pct": 16.99,
+      "turnout_pct": 19.78,
       "chow": {
-        "votes": 6976,
-        "percentage": 50.96
+        "votes": 8108,
+        "percentage": 50.89
       },
       "bradford": {
-        "votes": 5710,
-        "percentage": 41.72
+        "votes": 6674,
+        "percentage": 41.89
       },
-      "head_to_head_margin": 1266,
-      "head_to_head_margin_pct": 9.24,
+      "head_to_head_margin": 1434,
+      "head_to_head_margin_pct": 9.0,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 6976,
-          "percentage": 50.96
+          "votes": 8108,
+          "percentage": 50.89
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 5710,
-          "percentage": 41.72
+          "votes": 6674,
+          "percentage": 41.89
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 160,
+          "votes": 186,
           "percentage": 1.17
         },
         {
           "rank": 4,
           "name": "Edward Gong",
-          "votes": 96,
-          "percentage": 0.7
+          "votes": 116,
+          "percentage": 0.73
         },
         {
           "rank": 5,
-          "name": "Chris Alexander",
-          "votes": 59,
+          "name": "Joshua Thompson",
+          "votes": 68,
           "percentage": 0.43
         }
       ],
       "council": {
         "polls_total": 49,
-        "polls_reported": 14,
-        "polls_reporting_pct": 28.57,
-        "total_votes": 13262,
+        "polls_reported": 17,
+        "polls_reporting_pct": 34.69,
+        "total_votes": 15423,
         "candidates_count": 11,
         "leader": "Michael Thompson",
         "runner_up": "Krissan Veerasingam",
-        "margin_votes": 5306,
-        "margin_pct": 40.01,
+        "margin_votes": 6002,
+        "margin_pct": 38.92,
         "is_close_race": false,
         "top3": [
           {
             "name": "Michael Thompson",
-            "votes": 7148,
-            "percentage": 53.9,
+            "votes": 8186,
+            "percentage": 53.08,
             "rank": 1
           },
           {
             "name": "Krissan Veerasingam",
-            "votes": 1842,
-            "percentage": 13.89,
+            "votes": 2184,
+            "percentage": 14.16,
             "rank": 2
           },
           {
             "name": "Stella Kargiannakis",
-            "votes": 874,
-            "percentage": 6.59,
+            "votes": 1022,
+            "percentage": 6.63,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Michael Thompson",
-            "votes": 7148,
-            "percentage": 53.9,
+            "votes": 8186,
+            "percentage": 53.08,
             "rank": 1
           },
           {
             "name": "Krissan Veerasingam",
-            "votes": 1842,
-            "percentage": 13.89,
+            "votes": 2184,
+            "percentage": 14.16,
             "rank": 2
           },
           {
             "name": "Stella Kargiannakis",
-            "votes": 874,
-            "percentage": 6.59,
+            "votes": 1022,
+            "percentage": 6.63,
             "rank": 3
           },
           {
             "name": "Taiba Ahmed",
-            "votes": 856,
+            "votes": 995,
             "percentage": 6.45,
             "rank": 4
           },
           {
             "name": "Uthish Ganesh",
-            "votes": 744,
-            "percentage": 5.61,
+            "votes": 810,
+            "percentage": 5.25,
             "rank": 5
           },
           {
-            "name": "Bahareh Barahmand",
-            "votes": 436,
-            "percentage": 3.29,
+            "name": "Willie Reodica",
+            "votes": 497,
+            "percentage": 3.22,
             "rank": 6
           },
           {
-            "name": "Willie Reodica",
-            "votes": 392,
-            "percentage": 2.96,
+            "name": "Bahareh Barahmand",
+            "votes": 484,
+            "percentage": 3.14,
             "rank": 7
           },
           {
-            "name": "Madura Shanmugaratnam",
-            "votes": 356,
-            "percentage": 2.68,
+            "name": "Akina Lalla",
+            "votes": 464,
+            "percentage": 3.01,
             "rank": 8
           },
           {
-            "name": "Akina Lalla",
-            "votes": 354,
-            "percentage": 2.67,
+            "name": "Madura Shanmugaratnam",
+            "votes": 445,
+            "percentage": 2.89,
             "rank": 9
           },
           {
             "name": "Nisha Kumari",
-            "votes": 168,
-            "percentage": 1.27,
+            "votes": 222,
+            "percentage": 1.44,
             "rank": 10
           },
           {
             "name": "Patience Evbagharu",
-            "votes": 92,
-            "percentage": 0.69,
+            "votes": 114,
+            "percentage": 0.74,
             "rank": 11
           }
         ]
@@ -2842,143 +2842,143 @@
       "ward_num": 22,
       "ward_name": "Scarborough-Agincourt",
       "polls_total": 47,
-      "polls_reported": 7,
-      "polls_reporting_pct": 14.89,
-      "total_votes": 9663,
+      "polls_reported": 8,
+      "polls_reporting_pct": 17.02,
+      "total_votes": 9816,
       "registered_voters": 75224,
-      "turnout_pct": 12.85,
+      "turnout_pct": 13.05,
       "chow": {
-        "votes": 5412,
-        "percentage": 56.01
+        "votes": 5537,
+        "percentage": 56.41
       },
       "bradford": {
-        "votes": 3522,
-        "percentage": 36.45
+        "votes": 3536,
+        "percentage": 36.02
       },
-      "head_to_head_margin": 1890,
-      "head_to_head_margin_pct": 19.56,
+      "head_to_head_margin": 2001,
+      "head_to_head_margin_pct": 20.39,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 5412,
-          "percentage": 56.01
+          "votes": 5537,
+          "percentage": 56.41
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 3522,
-          "percentage": 36.45
+          "votes": 3536,
+          "percentage": 36.02
         },
         {
           "rank": 3,
           "name": "Edward Gong",
-          "votes": 142,
-          "percentage": 1.47
+          "votes": 143,
+          "percentage": 1.46
         },
         {
           "rank": 4,
           "name": "Braeden Chow",
-          "votes": 91,
-          "percentage": 0.94
+          "votes": 94,
+          "percentage": 0.96
         },
         {
           "rank": 5,
           "name": "Chris Alexander",
-          "votes": 73,
-          "percentage": 0.76
+          "votes": 74,
+          "percentage": 0.75
         }
       ],
       "council": {
         "polls_total": 47,
-        "polls_reported": 7,
-        "polls_reporting_pct": 14.89,
-        "total_votes": 9218,
+        "polls_reported": 8,
+        "polls_reporting_pct": 17.02,
+        "total_votes": 9355,
         "candidates_count": 10,
         "leader": "Nick Mantas",
         "runner_up": "Bill Chan",
-        "margin_votes": 2434,
-        "margin_pct": 26.41,
+        "margin_votes": 2333,
+        "margin_pct": 24.94,
         "is_close_race": false,
         "top3": [
           {
             "name": "Nick Mantas",
-            "votes": 4031,
-            "percentage": 43.73,
+            "votes": 4037,
+            "percentage": 43.15,
             "rank": 1
           },
           {
             "name": "Bill Chan",
-            "votes": 1597,
-            "percentage": 17.32,
+            "votes": 1704,
+            "percentage": 18.21,
             "rank": 2
           },
           {
             "name": "Donny Morgan",
-            "votes": 902,
-            "percentage": 9.79,
+            "votes": 912,
+            "percentage": 9.75,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Nick Mantas",
-            "votes": 4031,
-            "percentage": 43.73,
+            "votes": 4037,
+            "percentage": 43.15,
             "rank": 1
           },
           {
             "name": "Bill Chan",
-            "votes": 1597,
-            "percentage": 17.32,
+            "votes": 1704,
+            "percentage": 18.21,
             "rank": 2
           },
           {
             "name": "Donny Morgan",
-            "votes": 902,
-            "percentage": 9.79,
+            "votes": 912,
+            "percentage": 9.75,
             "rank": 3
           },
           {
             "name": "Dan Lovell",
-            "votes": 894,
-            "percentage": 9.7,
+            "votes": 897,
+            "percentage": 9.59,
             "rank": 4
           },
           {
             "name": "Jackson Ho",
             "votes": 604,
-            "percentage": 6.55,
+            "percentage": 6.46,
             "rank": 5
           },
           {
             "name": "Madhuri Azad",
-            "votes": 371,
+            "votes": 376,
             "percentage": 4.02,
             "rank": 6
           },
           {
             "name": "Sindia Vijayarajan",
-            "votes": 303,
-            "percentage": 3.29,
+            "votes": 306,
+            "percentage": 3.27,
             "rank": 7
           },
           {
             "name": "Serge Khatchadourian",
-            "votes": 284,
-            "percentage": 3.08,
+            "votes": 286,
+            "percentage": 3.06,
             "rank": 8
           },
           {
             "name": "Aaron Lal",
             "votes": 158,
-            "percentage": 1.71,
+            "percentage": 1.69,
             "rank": 9
           },
           {
             "name": "Rakhee Kotecha",
-            "votes": 74,
+            "votes": 75,
             "percentage": 0.8,
             "rank": 10
           }
@@ -2989,131 +2989,131 @@
       "ward_num": 23,
       "ward_name": "Scarborough North",
       "polls_total": 37,
-      "polls_reported": 10,
-      "polls_reporting_pct": 27.03,
-      "total_votes": 12507,
+      "polls_reported": 11,
+      "polls_reporting_pct": 29.73,
+      "total_votes": 13124,
       "registered_voters": 66760,
-      "turnout_pct": 18.73,
+      "turnout_pct": 19.66,
       "chow": {
-        "votes": 7081,
-        "percentage": 56.62
+        "votes": 7453,
+        "percentage": 56.79
       },
       "bradford": {
-        "votes": 4290,
-        "percentage": 34.3
+        "votes": 4481,
+        "percentage": 34.14
       },
-      "head_to_head_margin": 2791,
-      "head_to_head_margin_pct": 22.32,
+      "head_to_head_margin": 2972,
+      "head_to_head_margin_pct": 22.65,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 7081,
-          "percentage": 56.62
+          "votes": 7453,
+          "percentage": 56.79
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 4290,
-          "percentage": 34.3
+          "votes": 4481,
+          "percentage": 34.14
         },
         {
           "rank": 3,
           "name": "Edward Gong",
-          "votes": 145,
-          "percentage": 1.16
+          "votes": 147,
+          "percentage": 1.12
         },
         {
           "rank": 4,
           "name": "Braeden Chow",
-          "votes": 125,
-          "percentage": 1.0
+          "votes": 129,
+          "percentage": 0.98
         },
         {
           "rank": 5,
           "name": "Rick Lee",
-          "votes": 108,
-          "percentage": 0.86
+          "votes": 109,
+          "percentage": 0.83
         }
       ],
       "council": {
         "polls_total": 37,
-        "polls_reported": 10,
-        "polls_reporting_pct": 27.03,
-        "total_votes": 12529,
+        "polls_reported": 11,
+        "polls_reporting_pct": 29.73,
+        "total_votes": 13142,
         "candidates_count": 8,
         "leader": "Shaun Chen",
         "runner_up": "Jamaal Myers",
-        "margin_votes": 1508,
-        "margin_pct": 12.04,
+        "margin_votes": 1516,
+        "margin_pct": 11.53,
         "is_close_race": false,
         "top3": [
           {
             "name": "Shaun Chen",
-            "votes": 4659,
-            "percentage": 37.19,
+            "votes": 4868,
+            "percentage": 37.04,
             "rank": 1
           },
           {
             "name": "Jamaal Myers",
-            "votes": 3151,
-            "percentage": 25.15,
+            "votes": 3352,
+            "percentage": 25.51,
             "rank": 2
           },
           {
             "name": "Kevin Li",
-            "votes": 1693,
-            "percentage": 13.51,
+            "votes": 1708,
+            "percentage": 13.0,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Shaun Chen",
-            "votes": 4659,
-            "percentage": 37.19,
+            "votes": 4868,
+            "percentage": 37.04,
             "rank": 1
           },
           {
             "name": "Jamaal Myers",
-            "votes": 3151,
-            "percentage": 25.15,
+            "votes": 3352,
+            "percentage": 25.51,
             "rank": 2
           },
           {
             "name": "Kevin Li",
-            "votes": 1693,
-            "percentage": 13.51,
+            "votes": 1708,
+            "percentage": 13.0,
             "rank": 3
           },
           {
             "name": "Han Dong",
-            "votes": 1589,
-            "percentage": 12.68,
+            "votes": 1686,
+            "percentage": 12.83,
             "rank": 4
           },
           {
             "name": "Piravena Sathiyanantham",
-            "votes": 1190,
-            "percentage": 9.5,
+            "votes": 1238,
+            "percentage": 9.42,
             "rank": 5
           },
           {
             "name": "Sajawal Javed",
-            "votes": 127,
-            "percentage": 1.01,
+            "votes": 158,
+            "percentage": 1.2,
             "rank": 6
           },
           {
             "name": "John-Mark Oleh",
-            "votes": 75,
-            "percentage": 0.6,
+            "votes": 85,
+            "percentage": 0.65,
             "rank": 7
           },
           {
             "name": "Ronald Phen",
-            "votes": 45,
+            "votes": 47,
             "percentage": 0.36,
             "rank": 8
           }
@@ -3247,144 +3247,144 @@
       "ward_num": 25,
       "ward_name": "Scarborough-Rouge Park",
       "polls_total": 40,
-      "polls_reported": 14,
-      "polls_reporting_pct": 35.0,
-      "total_votes": 16370,
+      "polls_reported": 16,
+      "polls_reporting_pct": 40.0,
+      "total_votes": 17039,
       "registered_voters": 79420,
-      "turnout_pct": 20.61,
+      "turnout_pct": 21.45,
       "chow": {
-        "votes": 8045,
-        "percentage": 49.14
+        "votes": 8312,
+        "percentage": 48.78
       },
       "bradford": {
-        "votes": 7498,
-        "percentage": 45.8
+        "votes": 7861,
+        "percentage": 46.14
       },
-      "head_to_head_margin": 547,
-      "head_to_head_margin_pct": 3.34,
+      "head_to_head_margin": 451,
+      "head_to_head_margin_pct": 2.64,
       "leader": "Olivia Chow",
       "top5": [
         {
           "rank": 1,
           "name": "Olivia Chow",
-          "votes": 8045,
-          "percentage": 49.14
+          "votes": 8312,
+          "percentage": 48.78
         },
         {
           "rank": 2,
           "name": "Brad Bradford",
-          "votes": 7498,
-          "percentage": 45.8
+          "votes": 7861,
+          "percentage": 46.14
         },
         {
           "rank": 3,
           "name": "Braeden Chow",
-          "votes": 130,
-          "percentage": 0.79
+          "votes": 142,
+          "percentage": 0.83
         },
         {
           "rank": 4,
           "name": "Edward Gong",
-          "votes": 67,
-          "percentage": 0.41
+          "votes": 71,
+          "percentage": 0.42
         },
         {
           "rank": 5,
-          "name": "Chris Alexander",
-          "votes": 58,
-          "percentage": 0.35
+          "name": "Darrell Brown",
+          "votes": 61,
+          "percentage": 0.36
         }
       ],
       "council": {
         "polls_total": 40,
-        "polls_reported": 14,
-        "polls_reporting_pct": 35.0,
-        "total_votes": 16014,
+        "polls_reported": 16,
+        "polls_reporting_pct": 40.0,
+        "total_votes": 16671,
         "candidates_count": 10,
         "leader": "Neethan Shan",
         "runner_up": "Shawn Allen",
-        "margin_votes": 2085,
-        "margin_pct": 13.02,
+        "margin_votes": 2076,
+        "margin_pct": 12.45,
         "is_close_race": false,
         "top3": [
           {
             "name": "Neethan Shan",
-            "votes": 6898,
-            "percentage": 43.07,
+            "votes": 7125,
+            "percentage": 42.74,
             "rank": 1
           },
           {
             "name": "Shawn Allen",
-            "votes": 4813,
-            "percentage": 30.05,
+            "votes": 5049,
+            "percentage": 30.29,
             "rank": 2
           },
           {
             "name": "Zakir Patel",
-            "votes": 2189,
-            "percentage": 13.67,
+            "votes": 2291,
+            "percentage": 13.74,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Neethan Shan",
-            "votes": 6898,
-            "percentage": 43.07,
+            "votes": 7125,
+            "percentage": 42.74,
             "rank": 1
           },
           {
             "name": "Shawn Allen",
-            "votes": 4813,
-            "percentage": 30.05,
+            "votes": 5049,
+            "percentage": 30.29,
             "rank": 2
           },
           {
             "name": "Zakir Patel",
-            "votes": 2189,
-            "percentage": 13.67,
+            "votes": 2291,
+            "percentage": 13.74,
             "rank": 3
           },
           {
             "name": "Dharshan Casinathen",
-            "votes": 814,
-            "percentage": 5.08,
+            "votes": 845,
+            "percentage": 5.07,
             "rank": 4
           },
           {
             "name": "Dianna Robinson",
-            "votes": 638,
-            "percentage": 3.98,
+            "votes": 665,
+            "percentage": 3.99,
             "rank": 5
           },
           {
             "name": "Ashan Fernando",
-            "votes": 289,
+            "votes": 300,
             "percentage": 1.8,
             "rank": 6
           },
           {
             "name": "Jannette Lumley",
-            "votes": 194,
-            "percentage": 1.21,
+            "votes": 203,
+            "percentage": 1.22,
             "rank": 7
           },
           {
             "name": "Vane Stavrev",
-            "votes": 94,
-            "percentage": 0.59,
+            "votes": 103,
+            "percentage": 0.62,
             "rank": 8
           },
           {
             "name": "Somas Kaneshapillai",
-            "votes": 65,
-            "percentage": 0.41,
+            "votes": 67,
+            "percentage": 0.4,
             "rank": 9
           },
           {
             "name": "Kannan S'ree Jr",
-            "votes": 20,
-            "percentage": 0.12,
+            "votes": 23,
+            "percentage": 0.14,
             "rank": 10
           }
         ]
@@ -3395,46 +3395,46 @@
     {
       "ward_num": 17,
       "ward_name": "Don Valley North",
-      "chow_votes": 5767,
-      "bradford_votes": 5848,
-      "margin": -81,
-      "margin_pct": -0.66,
+      "chow_votes": 6276,
+      "bradford_votes": 6402,
+      "margin": -126,
+      "margin_pct": -0.94,
       "leader": "Brad Bradford"
-    },
-    {
-      "ward_num": 3,
-      "ward_name": "Etobicoke-Lakeshore",
-      "chow_votes": 765,
-      "bradford_votes": 857,
-      "margin": -92,
-      "margin_pct": -5.51,
-      "leader": "Brad Bradford"
-    },
-    {
-      "ward_num": 12,
-      "ward_name": "Toronto-St. Paul's",
-      "chow_votes": 1191,
-      "bradford_votes": 1072,
-      "margin": 119,
-      "margin_pct": 5.08,
-      "leader": "Olivia Chow"
     },
     {
       "ward_num": 16,
       "ward_name": "Don Valley East",
-      "chow_votes": 2086,
-      "bradford_votes": 1966,
-      "margin": 120,
-      "margin_pct": 2.83,
+      "chow_votes": 2571,
+      "bradford_votes": 2381,
+      "margin": 190,
+      "margin_pct": 3.67,
       "leader": "Olivia Chow"
     },
     {
-      "ward_num": 11,
-      "ward_name": "University-Rosedale",
-      "chow_votes": 419,
-      "bradford_votes": 283,
-      "margin": 136,
-      "margin_pct": 18.41,
+      "ward_num": 5,
+      "ward_name": "York South-Weston",
+      "chow_votes": 4096,
+      "bradford_votes": 3879,
+      "margin": 217,
+      "margin_pct": 2.5,
+      "leader": "Olivia Chow"
+    },
+    {
+      "ward_num": 3,
+      "ward_name": "Etobicoke-Lakeshore",
+      "chow_votes": 1072,
+      "bradford_votes": 1341,
+      "margin": -269,
+      "margin_pct": -10.86,
+      "leader": "Brad Bradford"
+    },
+    {
+      "ward_num": 14,
+      "ward_name": "Toronto-Danforth",
+      "chow_votes": 464,
+      "bradford_votes": 125,
+      "margin": 339,
+      "margin_pct": 53.81,
       "leader": "Olivia Chow"
     }
   ]
