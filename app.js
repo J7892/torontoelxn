@@ -621,27 +621,24 @@ function styleFeature(feature) {
       } else {
         fillColor = '#8b5cf6'; // Other candidate
       }
-    } else if (currentMapView === 'council') {
-      const council = wardData.council || {};
-      const reported = (council.polls_reported || 0) > 0 && (council.total_votes || 0) > 0;
-      const mPct = council.margin_pct || 0;
-      if (!reported) {
-        fillColor = palette.pending;
-        fillOpacity = 0.55;
-      } else if (mPct <= 5.0) {
-        fillColor = '#f59e0b'; // Close council race (<5%)
-      } else if (mPct <= 15.0) {
-        fillColor = '#0d9488'; // Moderate council lead (5-15%)
-      } else {
-        fillColor = '#10b981'; // Safe council lead (>15%)
-      }
     } else if (currentMapView === 'turnout') {
       const pct = wardData.polls_reporting_pct || 0;
-      if (pct === 0) fillColor = palette.pending;
-      else if (pct < 25) fillColor = '#1e3a8a';
-      else if (pct < 50) fillColor = '#0284c7';
-      else if (pct < 75) fillColor = '#0d9488';
-      else fillColor = '#16a34a';
+      if (pct === 0) {
+        fillColor = palette.pending;
+        fillOpacity = 0.5;
+      } else if (pct < 25) {
+        fillColor = '#ede9fe'; // 1-24%: Lightest lavender (pale)
+        fillOpacity = 0.75;
+      } else if (pct < 50) {
+        fillColor = '#c4b5fd'; // 25-49%: Light-medium violet
+        fillOpacity = 0.8;
+      } else if (pct < 75) {
+        fillColor = '#7c3aed'; // 50-74%: Dark rich purple
+        fillOpacity = 0.85;
+      } else {
+        fillColor = '#3b0764'; // 75-100%: Deepest dark purple
+        fillOpacity = 0.92;
+      }
     }
   }
 
@@ -1203,21 +1200,14 @@ function updateMapLegend() {
       <div class="legend-item"><div class="legend-swatch" style="background:#8b5cf6;"></div> Other Candidate</div>
       <div class="legend-item"><div class="legend-swatch" style="background:${palette.pending};"></div> Awaiting Reports</div>
     `;
-  } else if (currentMapView === 'council') {
-    legend.innerHTML = `
-      <span style="font-weight:700; margin-right: 4px;">Council Lead Margin:</span>
-      <div class="legend-item"><div class="legend-swatch" style="background:#f59e0b;"></div> Close Race (&le;5%)</div>
-      <div class="legend-item"><div class="legend-swatch" style="background:#0d9488;"></div> Moderate Lead (5-15%)</div>
-      <div class="legend-item"><div class="legend-swatch" style="background:#10b981;"></div> Strong Lead (&gt;15%)</div>
-      <div class="legend-item"><div class="legend-swatch" style="background:${palette.pending};"></div> Awaiting Reports</div>
-    `;
   } else if (currentMapView === 'turnout') {
     legend.innerHTML = `
       <span style="font-weight:700; margin-right: 4px;">Polls Reporting:</span>
-      <div class="legend-item"><div class="legend-swatch" style="background:#1e3a8a;"></div> 1-25%</div>
-      <div class="legend-item"><div class="legend-swatch" style="background:#0284c7;"></div> 26-50%</div>
-      <div class="legend-item"><div class="legend-swatch" style="background:#0d9488;"></div> 51-75%</div>
-      <div class="legend-item"><div class="legend-swatch" style="background:#16a34a;"></div> 76-100%</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:${palette.pending};"></div> 0% Pending</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:#ede9fe; border: 1px solid #c4b5fd;"></div> 1–24% (Light)</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:#c4b5fd;"></div> 25–49%</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:#7c3aed;"></div> 50–74%</div>
+      <div class="legend-item"><div class="legend-swatch" style="background:#3b0764;"></div> 75–100% (Darkest)</div>
     `;
   }
 }
