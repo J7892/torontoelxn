@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated_utc": "2026-10-27T02:57:44.570627+00:00",
+    "last_updated_utc": "2026-10-27T02:59:01.712281+00:00",
     "election_desc": "2026 Municipal Election",
-    "seq": "1793069825949",
+    "seq": "1793069886344",
     "status": "Live - Polls Open / Reporting",
     "source_url": "https://electionresults.toronto.ca/"
   },
@@ -1361,18 +1361,18 @@
         "polls_total": 72,
         "polls_reported": 71,
         "polls_reporting_pct": 98.61,
-        "total_votes": 41780,
+        "total_votes": 41781,
         "candidates_count": 9,
         "leader": "Mike Layton",
         "runner_up": "Diana Yoon",
         "margin_votes": 11380,
-        "margin_pct": 27.24,
+        "margin_pct": 27.23,
         "is_close_race": false,
         "top3": [
           {
             "name": "Mike Layton",
             "votes": 19338,
-            "percentage": 46.29,
+            "percentage": 46.28,
             "rank": 1
           },
           {
@@ -1392,7 +1392,7 @@
           {
             "name": "Mike Layton",
             "votes": 19338,
-            "percentage": 46.29,
+            "percentage": 46.28,
             "rank": 1
           },
           {
@@ -1415,7 +1415,7 @@
           },
           {
             "name": "Alice Li",
-            "votes": 2833,
+            "votes": 2834,
             "percentage": 6.78,
             "rank": 5
           },

@@ -692,12 +692,12 @@
           "polls": "72",
           "pollsReceived": "71",
           "totalVoters": "90868",
-          "votesReceived": "41780",
+          "votesReceived": "41781",
           "candidate": [
             {
               "name": "Mike Layton",
               "votesReceived": "19338",
-              "percentage": "46.29"
+              "percentage": "46.28"
             },
             {
               "name": "Diana Yoon",
@@ -716,7 +716,7 @@
             },
             {
               "name": "Alice Li",
-              "votesReceived": "2833",
+              "votesReceived": "2834",
               "percentage": "6.78"
             },
             {
@@ -2163,11 +2163,11 @@
           "polls": "288",
           "pollsReceived": "285",
           "totalVoters": "84706",
-          "votesReceived": "10713",
+          "votesReceived": "10714",
           "candidate": [
             {
               "name": "Jonathan Santos",
-              "votesReceived": "4138",
+              "votesReceived": "4139",
               "percentage": "38.63"
             },
             {
@@ -2364,5 +2364,5 @@
       ]
     }
   ],
-  "seq": "1793069825949"
+  "seq": "1793069886344"
 }
