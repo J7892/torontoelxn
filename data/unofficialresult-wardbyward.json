@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "301",
+    "pollsReceived": "302",
     "totalVoters": "2143771",
-    "votesReceived": "338011",
+    "votesReceived": "339445",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "175535",
+        "votesReceived": "176278",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -168,10 +168,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "5550"
+            "votesCounted": "13815",
+            "votesReceived": "6293"
           },
           {
             "name": "Beaches-East York",
@@ -240,7 +240,7 @@
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "145561",
+        "votesReceived": "146197",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -399,10 +399,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "6233"
+            "votesCounted": "13815",
+            "votesReceived": "6869"
           },
           {
             "name": "Beaches-East York",
@@ -471,7 +471,7 @@
       },
       {
         "name": "Braeden Chow",
-        "votesReceived": "2754",
+        "votesReceived": "2761",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -630,10 +630,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "82"
+            "votesCounted": "13815",
+            "votesReceived": "89"
           },
           {
             "name": "Beaches-East York",
@@ -702,7 +702,7 @@
       },
       {
         "name": "Chris Alexander",
-        "votesReceived": "1727",
+        "votesReceived": "1729",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -861,10 +861,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "92"
+            "votesCounted": "13815",
+            "votesReceived": "94"
           },
           {
             "name": "Beaches-East York",
@@ -933,7 +933,7 @@
       },
       {
         "name": "Edward Gong",
-        "votesReceived": "1320",
+        "votesReceived": "1324",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1092,10 +1092,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "48"
+            "votesCounted": "13815",
+            "votesReceived": "52"
           },
           {
             "name": "Beaches-East York",
@@ -1323,9 +1323,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "10"
           },
           {
@@ -1395,7 +1395,7 @@
       },
       {
         "name": "Darrell Brown",
-        "votesReceived": "685",
+        "votesReceived": "688",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1554,10 +1554,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "22"
+            "votesCounted": "13815",
+            "votesReceived": "25"
           },
           {
             "name": "Beaches-East York",
@@ -1626,7 +1626,7 @@
       },
       {
         "name": "Laura Dean",
-        "votesReceived": "650",
+        "votesReceived": "651",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1785,10 +1785,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "15"
+            "votesCounted": "13815",
+            "votesReceived": "16"
           },
           {
             "name": "Beaches-East York",
@@ -1857,7 +1857,7 @@
       },
       {
         "name": "Bahira Abdulsalam",
-        "votesReceived": "579",
+        "votesReceived": "580",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2016,10 +2016,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "10"
+            "votesCounted": "13815",
+            "votesReceived": "11"
           },
           {
             "name": "Beaches-East York",
@@ -2088,7 +2088,7 @@
       },
       {
         "name": "Rick Lee",
-        "votesReceived": "481",
+        "votesReceived": "484",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2247,10 +2247,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "42"
+            "votesCounted": "13815",
+            "votesReceived": "45"
           },
           {
             "name": "Beaches-East York",
@@ -2478,9 +2478,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "7"
           },
           {
@@ -2550,7 +2550,7 @@
       },
       {
         "name": "Logan Choy",
-        "votesReceived": "439",
+        "votesReceived": "441",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2709,10 +2709,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "17"
+            "votesCounted": "13815",
+            "votesReceived": "19"
           },
           {
             "name": "Beaches-East York",
@@ -2940,9 +2940,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "11"
           },
           {
@@ -3012,7 +3012,7 @@
       },
       {
         "name": "Georgios Kalkounis",
-        "votesReceived": "349",
+        "votesReceived": "350",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3171,10 +3171,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "7"
+            "votesCounted": "13815",
+            "votesReceived": "8"
           },
           {
             "name": "Beaches-East York",
@@ -3243,7 +3243,7 @@
       },
       {
         "name": "Amy Rosen",
-        "votesReceived": "344",
+        "votesReceived": "346",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3402,10 +3402,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "11"
+            "votesCounted": "13815",
+            "votesReceived": "13"
           },
           {
             "name": "Beaches-East York",
@@ -3474,7 +3474,7 @@
       },
       {
         "name": "Roberto Curto",
-        "votesReceived": "342",
+        "votesReceived": "343",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3633,10 +3633,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "8"
+            "votesCounted": "13815",
+            "votesReceived": "9"
           },
           {
             "name": "Beaches-East York",
@@ -3705,7 +3705,7 @@
       },
       {
         "name": "Sarah McVie",
-        "votesReceived": "341",
+        "votesReceived": "342",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3864,10 +3864,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "8"
+            "votesCounted": "13815",
+            "votesReceived": "9"
           },
           {
             "name": "Beaches-East York",
@@ -4095,9 +4095,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "13"
           },
           {
@@ -4167,7 +4167,7 @@
       },
       {
         "name": "Paul Collins",
-        "votesReceived": "314",
+        "votesReceived": "315",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4326,10 +4326,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "13"
+            "votesCounted": "13815",
+            "votesReceived": "14"
           },
           {
             "name": "Beaches-East York",
@@ -4398,7 +4398,7 @@
       },
       {
         "name": "Mohamad Kaaki",
-        "votesReceived": "284",
+        "votesReceived": "286",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4557,10 +4557,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "10"
+            "votesCounted": "13815",
+            "votesReceived": "12"
           },
           {
             "name": "Beaches-East York",
@@ -4788,9 +4788,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "6"
           },
           {
@@ -4860,7 +4860,7 @@
       },
       {
         "name": "Joshua Thompson",
-        "votesReceived": "243",
+        "votesReceived": "245",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5019,10 +5019,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "5"
+            "votesCounted": "13815",
+            "votesReceived": "7"
           },
           {
             "name": "Beaches-East York",
@@ -5091,7 +5091,7 @@
       },
       {
         "name": "Michael Lamoureux",
-        "votesReceived": "225",
+        "votesReceived": "226",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5250,10 +5250,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "8"
+            "votesCounted": "13815",
+            "votesReceived": "9"
           },
           {
             "name": "Beaches-East York",
@@ -5481,9 +5481,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "4"
           },
           {
@@ -5553,7 +5553,7 @@
       },
       {
         "name": "Brian Buffey",
-        "votesReceived": "200",
+        "votesReceived": "201",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5712,10 +5712,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "7"
+            "votesCounted": "13815",
+            "votesReceived": "8"
           },
           {
             "name": "Beaches-East York",
@@ -5784,7 +5784,7 @@
       },
       {
         "name": "Odessa Paloma Parker",
-        "votesReceived": "194",
+        "votesReceived": "195",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5943,10 +5943,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "1"
+            "votesCounted": "13815",
+            "votesReceived": "2"
           },
           {
             "name": "Beaches-East York",
@@ -6015,7 +6015,7 @@
       },
       {
         "name": "Heather He",
-        "votesReceived": "181",
+        "votesReceived": "189",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6174,10 +6174,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "14"
+            "votesCounted": "13815",
+            "votesReceived": "22"
           },
           {
             "name": "Beaches-East York",
@@ -6246,7 +6246,7 @@
       },
       {
         "name": "Robert Shusterman",
-        "votesReceived": "170",
+        "votesReceived": "171",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6405,10 +6405,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "21"
+            "votesCounted": "13815",
+            "votesReceived": "22"
           },
           {
             "name": "Beaches-East York",
@@ -6477,7 +6477,7 @@
       },
       {
         "name": "Mostafa Zandkarimi",
-        "votesReceived": "169",
+        "votesReceived": "171",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6636,10 +6636,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "28"
+            "votesCounted": "13815",
+            "votesReceived": "30"
           },
           {
             "name": "Beaches-East York",
@@ -6867,9 +6867,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "7"
           },
           {
@@ -7098,9 +7098,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "5"
           },
           {
@@ -7329,9 +7329,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "4"
           },
           {
@@ -7560,9 +7560,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "5"
           },
           {
@@ -7632,7 +7632,7 @@
       },
       {
         "name": "Alton Frederick",
-        "votesReceived": "135",
+        "votesReceived": "136",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7791,10 +7791,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "6"
+            "votesCounted": "13815",
+            "votesReceived": "7"
           },
           {
             "name": "Beaches-East York",
@@ -8022,9 +8022,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "6"
           },
           {
@@ -8253,9 +8253,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "3"
           },
           {
@@ -8325,7 +8325,7 @@
       },
       {
         "name": "Kuo Yu Tong",
-        "votesReceived": "126",
+        "votesReceived": "127",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8484,10 +8484,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "5"
+            "votesCounted": "13815",
+            "votesReceived": "6"
           },
           {
             "name": "Beaches-East York",
@@ -8715,9 +8715,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "8"
           },
           {
@@ -8787,7 +8787,7 @@
       },
       {
         "name": "Weizhen Tang",
-        "votesReceived": "120",
+        "votesReceived": "123",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8946,10 +8946,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "6"
+            "votesCounted": "13815",
+            "votesReceived": "9"
           },
           {
             "name": "Beaches-East York",
@@ -9018,7 +9018,7 @@
       },
       {
         "name": "Thomas Hall",
-        "votesReceived": "119",
+        "votesReceived": "120",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9177,10 +9177,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "3"
+            "votesCounted": "13815",
+            "votesReceived": "4"
           },
           {
             "name": "Beaches-East York",
@@ -9408,9 +9408,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "3"
           },
           {
@@ -9639,9 +9639,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "3"
           },
           {
@@ -9870,9 +9870,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "1"
           },
           {
@@ -10101,9 +10101,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "1"
           },
           {
@@ -10332,9 +10332,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "2"
           },
           {
@@ -10404,7 +10404,7 @@
       },
       {
         "name": "Leila Yohannes",
-        "votesReceived": "83",
+        "votesReceived": "84",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10563,10 +10563,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "3"
+            "votesCounted": "13815",
+            "votesReceived": "4"
           },
           {
             "name": "Beaches-East York",
@@ -10794,9 +10794,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "1"
           },
           {
@@ -11025,9 +11025,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "3"
           },
           {
@@ -11256,9 +11256,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "0"
           },
           {
@@ -11487,9 +11487,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "0"
           },
           {
@@ -11559,7 +11559,7 @@
       },
       {
         "name": "Wincess Dorville",
-        "votesReceived": "52",
+        "votesReceived": "53",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -11718,10 +11718,10 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
-            "votesReceived": "1"
+            "votesCounted": "13815",
+            "votesReceived": "2"
           },
           {
             "name": "Beaches-East York",
@@ -11949,9 +11949,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "1"
           },
           {
@@ -12180,9 +12180,9 @@
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "14",
+            "pollsReceived": "15",
             "totalVoters": "84671",
-            "votesCounted": "12381",
+            "votesCounted": "13815",
             "votesReceived": "1"
           },
           {
@@ -12252,5 +12252,5 @@
       }
     ]
   },
-  "seq": "1793065115134"
+  "seq": "1793065145125"
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated_utc": "2026-10-27T01:39:09.187079+00:00",
+    "last_updated_utc": "2026-10-27T01:39:20.926782+00:00",
     "election_desc": "2026 Municipal Election",
     "seq": "1793065145127",
     "status": "Live - Polls Open / Reporting",
@@ -2266,52 +2266,52 @@
       "ward_num": 18,
       "ward_name": "Willowdale",
       "polls_total": 56,
-      "polls_reported": 14,
-      "polls_reporting_pct": 25.0,
-      "total_votes": 12381,
+      "polls_reported": 15,
+      "polls_reporting_pct": 26.79,
+      "total_votes": 13815,
       "registered_voters": 84671,
-      "turnout_pct": 14.62,
+      "turnout_pct": 16.32,
       "chow": {
-        "votes": 5550,
-        "percentage": 44.83
+        "votes": 6293,
+        "percentage": 45.55
       },
       "bradford": {
-        "votes": 6233,
-        "percentage": 50.34
+        "votes": 6869,
+        "percentage": 49.72
       },
-      "head_to_head_margin": -683,
-      "head_to_head_margin_pct": -5.51,
+      "head_to_head_margin": -576,
+      "head_to_head_margin_pct": -4.17,
       "leader": "Brad Bradford",
       "top5": [
         {
           "rank": 1,
           "name": "Brad Bradford",
-          "votes": 6233,
-          "percentage": 50.34
+          "votes": 6869,
+          "percentage": 49.72
         },
         {
           "rank": 2,
           "name": "Olivia Chow",
-          "votes": 5550,
-          "percentage": 44.83
+          "votes": 6293,
+          "percentage": 45.55
         },
         {
           "rank": 3,
           "name": "Chris Alexander",
-          "votes": 92,
-          "percentage": 0.74
+          "votes": 94,
+          "percentage": 0.68
         },
         {
           "rank": 4,
           "name": "Braeden Chow",
-          "votes": 82,
-          "percentage": 0.66
+          "votes": 89,
+          "percentage": 0.64
         },
         {
           "rank": 5,
           "name": "Edward Gong",
-          "votes": 48,
-          "percentage": 0.39
+          "votes": 52,
+          "percentage": 0.38
         }
       ],
       "council": {
@@ -3420,6 +3420,15 @@
       "leader": "Olivia Chow"
     },
     {
+      "ward_num": 18,
+      "ward_name": "Willowdale",
+      "chow_votes": 6293,
+      "bradford_votes": 6869,
+      "margin": -576,
+      "margin_pct": -4.17,
+      "leader": "Brad Bradford"
+    },
+    {
       "ward_num": 25,
       "ward_name": "Scarborough-Rouge Park",
       "chow_votes": 9000,
@@ -3427,15 +3436,6 @@
       "margin": 608,
       "margin_pct": 3.32,
       "leader": "Olivia Chow"
-    },
-    {
-      "ward_num": 18,
-      "ward_name": "Willowdale",
-      "chow_votes": 5550,
-      "bradford_votes": 6233,
-      "margin": -683,
-      "margin_pct": -5.51,
-      "leader": "Brad Bradford"
     }
   ]
 }
