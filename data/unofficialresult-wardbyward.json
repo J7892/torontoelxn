@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "1422",
+    "pollsReceived": "1424",
     "totalVoters": "2143771",
-    "votesReceived": "977820",
+    "votesReceived": "978879",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "529786",
+        "votesReceived": "530328",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -116,17 +116,17 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
-            "votesReceived": "26635"
+            "votesCounted": "52119",
+            "votesReceived": "26636"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
-            "votesReceived": "32365"
+            "votesCounted": "44832",
+            "votesReceived": "32450"
           },
           {
             "name": "Toronto-Danforth",
@@ -231,16 +231,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "17405"
+            "votesCounted": "35099",
+            "votesReceived": "17861"
           }
         ]
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "401888",
+        "votesReceived": "402307",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -347,17 +347,17 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "23963"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
-            "votesReceived": "10483"
+            "votesCounted": "44832",
+            "votesReceived": "10505"
           },
           {
             "name": "Toronto-Danforth",
@@ -462,16 +462,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "14622"
+            "votesCounted": "35099",
+            "votesReceived": "15019"
           }
         ]
       },
       {
         "name": "Braeden Chow",
-        "votesReceived": "8040",
+        "votesReceived": "8053",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -578,17 +578,17 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "358"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
-            "votesReceived": "363"
+            "votesCounted": "44832",
+            "votesReceived": "369"
           },
           {
             "name": "Toronto-Danforth",
@@ -693,16 +693,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "321"
+            "votesCounted": "35099",
+            "votesReceived": "328"
           }
         ]
       },
       {
         "name": "Chris Alexander",
-        "votesReceived": "3530",
+        "votesReceived": "3537",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -809,16 +809,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "146"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "172"
           },
           {
@@ -924,16 +924,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "105"
+            "votesCounted": "35099",
+            "votesReceived": "112"
           }
         ]
       },
       {
         "name": "Edward Gong",
-        "votesReceived": "3425",
+        "votesReceived": "3433",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1040,16 +1040,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "38"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "57"
           },
           {
@@ -1155,16 +1155,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "198"
+            "votesCounted": "35099",
+            "votesReceived": "206"
           }
         ]
       },
       {
         "name": "Laura Dean",
-        "votesReceived": "2210",
+        "votesReceived": "2213",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1271,17 +1271,17 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "133"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
-            "votesReceived": "117"
+            "votesCounted": "44832",
+            "votesReceived": "119"
           },
           {
             "name": "Toronto-Danforth",
@@ -1386,16 +1386,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "52"
+            "votesCounted": "35099",
+            "votesReceived": "53"
           }
         ]
       },
       {
         "name": "Darrell Brown",
-        "votesReceived": "2066",
+        "votesReceived": "2069",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1502,16 +1502,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "75"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "82"
           },
           {
@@ -1617,16 +1617,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "116"
+            "votesCounted": "35099",
+            "votesReceived": "119"
           }
         ]
       },
       {
         "name": "Imad Abdulkadir",
-        "votesReceived": "1859",
+        "votesReceived": "1862",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1733,16 +1733,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "18"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "113"
           },
           {
@@ -1848,16 +1848,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "133"
+            "votesCounted": "35099",
+            "votesReceived": "136"
           }
         ]
       },
       {
         "name": "Bahira Abdulsalam",
-        "votesReceived": "1686",
+        "votesReceived": "1689",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1964,16 +1964,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "26"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "79"
           },
           {
@@ -2079,16 +2079,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "96"
+            "votesCounted": "35099",
+            "votesReceived": "99"
           }
         ]
       },
       {
         "name": "Rick Lee",
-        "votesReceived": "1277",
+        "votesReceived": "1282",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2195,16 +2195,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "22"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "35"
           },
           {
@@ -2310,16 +2310,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "45"
+            "votesCounted": "35099",
+            "votesReceived": "50"
           }
         ]
       },
       {
         "name": "Logan Choy",
-        "votesReceived": "1270",
+        "votesReceived": "1273",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2426,16 +2426,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "36"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "48"
           },
           {
@@ -2541,16 +2541,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "86"
+            "votesCounted": "35099",
+            "votesReceived": "89"
           }
         ]
       },
       {
         "name": "Sandeep Srivastava",
-        "votesReceived": "1138",
+        "votesReceived": "1146",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2657,16 +2657,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "11"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "19"
           },
           {
@@ -2772,16 +2772,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "121"
+            "votesCounted": "35099",
+            "votesReceived": "129"
           }
         ]
       },
       {
         "name": "Georgios Kalkounis",
-        "votesReceived": "1084",
+        "votesReceived": "1085",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2888,16 +2888,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "36"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "15"
           },
           {
@@ -3003,16 +3003,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "25"
+            "votesCounted": "35099",
+            "votesReceived": "26"
           }
         ]
       },
       {
         "name": "Kevin Clarke",
-        "votesReceived": "1083",
+        "votesReceived": "1084",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3119,16 +3119,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "27"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "40"
           },
           {
@@ -3234,10 +3234,10 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "61"
+            "votesCounted": "35099",
+            "votesReceived": "62"
           }
         ]
       },
@@ -3350,16 +3350,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "39"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "50"
           },
           {
@@ -3465,16 +3465,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "24"
           }
         ]
       },
       {
         "name": "Sarah McVie",
-        "votesReceived": "953",
+        "votesReceived": "955",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3581,17 +3581,17 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "41"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
-            "votesReceived": "47"
+            "votesCounted": "44832",
+            "votesReceived": "48"
           },
           {
             "name": "Toronto-Danforth",
@@ -3696,16 +3696,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "32"
+            "votesCounted": "35099",
+            "votesReceived": "33"
           }
         ]
       },
       {
         "name": "Jamie Atkinson",
-        "votesReceived": "930",
+        "votesReceived": "932",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3812,16 +3812,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "31"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "36"
           },
           {
@@ -3927,16 +3927,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "40"
+            "votesCounted": "35099",
+            "votesReceived": "42"
           }
         ]
       },
       {
         "name": "Amy Rosen",
-        "votesReceived": "913",
+        "votesReceived": "916",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4043,16 +4043,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "87"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "42"
           },
           {
@@ -4158,16 +4158,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "28"
+            "votesCounted": "35099",
+            "votesReceived": "31"
           }
         ]
       },
       {
         "name": "Paul Collins",
-        "votesReceived": "842",
+        "votesReceived": "843",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4274,16 +4274,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "21"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "28"
           },
           {
@@ -4389,16 +4389,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "34"
+            "votesCounted": "35099",
+            "votesReceived": "35"
           }
         ]
       },
       {
         "name": "Lyall Sanders",
-        "votesReceived": "778",
+        "votesReceived": "784",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4505,16 +4505,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "36"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "25"
           },
           {
@@ -4620,16 +4620,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "37"
+            "votesCounted": "35099",
+            "votesReceived": "43"
           }
         ]
       },
       {
         "name": "Mohamad Kaaki",
-        "votesReceived": "722",
+        "votesReceived": "724",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4736,16 +4736,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "10"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "55"
           },
           {
@@ -4851,16 +4851,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "34"
+            "votesCounted": "35099",
+            "votesReceived": "36"
           }
         ]
       },
       {
         "name": "Joshua Thompson",
-        "votesReceived": "703",
+        "votesReceived": "705",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4967,16 +4967,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "21"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "16"
           },
           {
@@ -5082,10 +5082,10 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "36"
+            "votesCounted": "35099",
+            "votesReceived": "38"
           }
         ]
       },
@@ -5198,16 +5198,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "20"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "32"
           },
           {
@@ -5313,16 +5313,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "23"
           }
         ]
       },
       {
         "name": "Laura Ellis",
-        "votesReceived": "627",
+        "votesReceived": "628",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5429,16 +5429,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "29"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "27"
           },
           {
@@ -5544,16 +5544,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "12"
+            "votesCounted": "35099",
+            "votesReceived": "13"
           }
         ]
       },
       {
         "name": "Michael Lamoureux",
-        "votesReceived": "561",
+        "votesReceived": "565",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5660,17 +5660,17 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "14"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
-            "votesReceived": "21"
+            "votesCounted": "44832",
+            "votesReceived": "22"
           },
           {
             "name": "Toronto-Danforth",
@@ -5775,16 +5775,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "14"
+            "votesCounted": "35099",
+            "votesReceived": "17"
           }
         ]
       },
       {
         "name": "Robert Shusterman",
-        "votesReceived": "516",
+        "votesReceived": "520",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5891,16 +5891,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "22"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "10"
           },
           {
@@ -6006,10 +6006,10 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "35"
+            "votesCounted": "35099",
+            "votesReceived": "39"
           }
         ]
       },
@@ -6122,16 +6122,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "14"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "39"
           },
           {
@@ -6237,16 +6237,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "19"
           }
         ]
       },
       {
         "name": "Odessa Paloma Parker",
-        "votesReceived": "455",
+        "votesReceived": "456",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6353,16 +6353,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "24"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "19"
           },
           {
@@ -6468,10 +6468,10 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "12"
+            "votesCounted": "35099",
+            "votesReceived": "13"
           }
         ]
       },
@@ -6584,16 +6584,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "15"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "10"
           },
           {
@@ -6699,16 +6699,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "20"
           }
         ]
       },
       {
         "name": "Alton Frederick",
-        "votesReceived": "428",
+        "votesReceived": "431",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6815,16 +6815,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "6"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "11"
           },
           {
@@ -6930,16 +6930,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "25"
+            "votesCounted": "35099",
+            "votesReceived": "28"
           }
         ]
       },
       {
         "name": "Heather He",
-        "votesReceived": "419",
+        "votesReceived": "420",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7046,16 +7046,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "13"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "10"
           },
           {
@@ -7161,16 +7161,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "12"
+            "votesCounted": "35099",
+            "votesReceived": "13"
           }
         ]
       },
       {
         "name": "Mostafa Zandkarimi",
-        "votesReceived": "392",
+        "votesReceived": "393",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7277,16 +7277,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "12"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "20"
           },
           {
@@ -7392,16 +7392,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "19"
+            "votesCounted": "35099",
+            "votesReceived": "20"
           }
         ]
       },
       {
         "name": "Faizan Haider",
-        "votesReceived": "366",
+        "votesReceived": "367",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7508,16 +7508,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "3"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "14"
           },
           {
@@ -7623,16 +7623,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "34"
+            "votesCounted": "35099",
+            "votesReceived": "35"
           }
         ]
       },
       {
         "name": "Alex Cruze",
-        "votesReceived": "363",
+        "votesReceived": "365",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7739,16 +7739,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "10"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "24"
           },
           {
@@ -7854,10 +7854,10 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "15"
+            "votesCounted": "35099",
+            "votesReceived": "17"
           }
         ]
       },
@@ -7970,16 +7970,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "12"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "15"
           },
           {
@@ -8085,9 +8085,9 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "14"
           }
         ]
@@ -8201,16 +8201,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "0"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "13"
           },
           {
@@ -8316,9 +8316,9 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "34"
           }
         ]
@@ -8432,16 +8432,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "3"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "9"
           },
           {
@@ -8547,9 +8547,9 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "11"
           }
         ]
@@ -8663,16 +8663,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "10"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "11"
           },
           {
@@ -8778,9 +8778,9 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "2"
           }
         ]
@@ -8894,16 +8894,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "8"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "11"
           },
           {
@@ -9009,16 +9009,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "11"
           }
         ]
       },
       {
         "name": "Faisal Razi",
-        "votesReceived": "335",
+        "votesReceived": "336",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9125,16 +9125,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "6"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "9"
           },
           {
@@ -9240,10 +9240,10 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "25"
+            "votesCounted": "35099",
+            "votesReceived": "26"
           }
         ]
       },
@@ -9356,16 +9356,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "29"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "7"
           },
           {
@@ -9471,9 +9471,9 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "9"
           }
         ]
@@ -9587,16 +9587,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "3"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "16"
           },
           {
@@ -9702,16 +9702,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "27"
           }
         ]
       },
       {
         "name": "Joseph Osuji",
-        "votesReceived": "317",
+        "votesReceived": "318",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9818,16 +9818,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "9"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "14"
           },
           {
@@ -9933,10 +9933,10 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "19"
+            "votesCounted": "35099",
+            "votesReceived": "20"
           }
         ]
       },
@@ -10049,16 +10049,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "11"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "10"
           },
           {
@@ -10164,9 +10164,9 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "21"
           }
         ]
@@ -10280,16 +10280,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "9"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "3"
           },
           {
@@ -10395,9 +10395,9 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "24"
           }
         ]
@@ -10511,16 +10511,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "6"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "7"
           },
           {
@@ -10626,9 +10626,9 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "10"
           }
         ]
@@ -10742,16 +10742,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "4"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "13"
           },
           {
@@ -10857,9 +10857,9 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "8"
           }
         ]
@@ -10973,16 +10973,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "2"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "6"
           },
           {
@@ -11088,9 +11088,9 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "19"
           }
         ]
@@ -11204,16 +11204,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "1"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "6"
           },
           {
@@ -11319,9 +11319,9 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "10"
           }
         ]
@@ -11435,16 +11435,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "5"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "11"
           },
           {
@@ -11550,9 +11550,9 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "10"
           }
         ]
@@ -11666,16 +11666,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "4"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "16"
           },
           {
@@ -11781,9 +11781,9 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "2"
           }
         ]
@@ -11897,16 +11897,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "2"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "7"
           },
           {
@@ -12012,16 +12012,16 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
+            "votesCounted": "35099",
             "votesReceived": "10"
           }
         ]
       },
       {
         "name": "Jack Weenen",
-        "votesReceived": "69",
+        "votesReceived": "71",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -12128,16 +12128,16 @@
             "polls": "58",
             "pollsReceived": "58",
             "totalVoters": "95032",
-            "votesCounted": "52118",
+            "votesCounted": "52119",
             "votesReceived": "2"
           },
           {
             "name": "Toronto Centre",
             "num": "13",
             "polls": "78",
-            "pollsReceived": "77",
+            "pollsReceived": "78",
             "totalVoters": "101769",
-            "votesCounted": "44715",
+            "votesCounted": "44832",
             "votesReceived": "7"
           },
           {
@@ -12243,14 +12243,14 @@
             "name": "Scarborough-Rouge Park",
             "num": "25",
             "polls": "40",
-            "pollsReceived": "38",
+            "pollsReceived": "39",
             "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "1"
+            "votesCounted": "35099",
+            "votesReceived": "3"
           }
         ]
       }
     ]
   },
-  "seq": "1793072616025"
+  "seq": "1793072706517"
 }
