@@ -1,35 +1,35 @@
 {
   "metadata": {
-    "last_updated_utc": "2026-10-27T02:03:42.511446+00:00",
+    "last_updated_utc": "2026-10-27T02:04:59.422536+00:00",
     "election_desc": "2026 Municipal Election",
-    "seq": "1793066586353",
+    "seq": "1793066675981",
     "status": "Live - Polls Open / Reporting",
     "source_url": "https://electionresults.toronto.ca/"
   },
   "citywide": {
     "total_polls": 1431,
-    "polls_reported": 1404,
-    "polls_reporting_pct": 98.11,
-    "total_votes": 964222,
+    "polls_reported": 1405,
+    "polls_reporting_pct": 98.18,
+    "total_votes": 965114,
     "registered_voters": 2143771,
-    "turnout_pct": 44.98
+    "turnout_pct": 45.02
   },
   "head_to_head": {
     "leader": "Olivia Chow",
-    "vote_margin": 125581,
-    "pct_margin": 13.02,
-    "total_head_to_head_votes": 918697,
+    "vote_margin": 125564,
+    "pct_margin": 13.01,
+    "total_head_to_head_votes": 919552,
     "chow": {
       "name": "Olivia Chow",
-      "votes": 522139,
-      "percentage": 54.15,
+      "votes": 522558,
+      "percentage": 54.14,
       "two_way_percentage": 56.83,
       "wards_leading": 19,
       "color": "#e05a1e"
     },
     "bradford": {
       "name": "Brad Bradford",
-      "votes": 396558,
+      "votes": 396994,
       "percentage": 41.13,
       "two_way_percentage": 43.17,
       "wards_leading": 6,
@@ -39,38 +39,38 @@
   "top5_candidates": [
     {
       "name": "Olivia Chow",
-      "votes": 522139,
-      "percentage": 54.15,
+      "votes": 522558,
+      "percentage": 54.14,
       "rank": 1,
       "margin_from_leader": 0
     },
     {
       "name": "Brad Bradford",
-      "votes": 396558,
+      "votes": 396994,
       "percentage": 41.13,
       "rank": 2,
-      "margin_from_leader": -125581
+      "margin_from_leader": -125564
     },
     {
       "name": "Braeden Chow",
-      "votes": 7929,
+      "votes": 7940,
       "percentage": 0.82,
       "rank": 3,
-      "margin_from_leader": -514210
+      "margin_from_leader": -514618
     },
     {
       "name": "Chris Alexander",
-      "votes": 3503,
+      "votes": 3504,
       "percentage": 0.36,
       "rank": 4,
-      "margin_from_leader": -518636
+      "margin_from_leader": -519054
     },
     {
       "name": "Edward Gong",
-      "votes": 3386,
+      "votes": 3387,
       "percentage": 0.35,
       "rank": 5,
-      "margin_from_leader": -518753
+      "margin_from_leader": -519171
     }
   ],
   "all_candidates_count": 53,
@@ -639,88 +639,88 @@
       ],
       "council": {
         "polls_total": 62,
-        "polls_reported": 59,
-        "polls_reporting_pct": 95.16,
-        "total_votes": 32132,
+        "polls_reported": 60,
+        "polls_reporting_pct": 96.77,
+        "total_votes": 32988,
         "candidates_count": 9,
         "leader": "Chiara Padovani",
         "runner_up": "Daniel Di Giorgio",
-        "margin_votes": 3223,
-        "margin_pct": 10.03,
+        "margin_votes": 3265,
+        "margin_pct": 9.89,
         "is_close_race": false,
         "top3": [
           {
             "name": "Chiara Padovani",
-            "votes": 12526,
-            "percentage": 38.98,
+            "votes": 12840,
+            "percentage": 38.92,
             "rank": 1
           },
           {
             "name": "Daniel Di Giorgio",
-            "votes": 9303,
-            "percentage": 28.95,
+            "votes": 9575,
+            "percentage": 29.03,
             "rank": 2
           },
           {
             "name": "Frances Nunziata",
-            "votes": 6940,
-            "percentage": 21.6,
+            "votes": 7133,
+            "percentage": 21.62,
             "rank": 3
           }
         ],
         "all_candidates": [
           {
             "name": "Chiara Padovani",
-            "votes": 12526,
-            "percentage": 38.98,
+            "votes": 12840,
+            "percentage": 38.92,
             "rank": 1
           },
           {
             "name": "Daniel Di Giorgio",
-            "votes": 9303,
-            "percentage": 28.95,
+            "votes": 9575,
+            "percentage": 29.03,
             "rank": 2
           },
           {
             "name": "Frances Nunziata",
-            "votes": 6940,
-            "percentage": 21.6,
+            "votes": 7133,
+            "percentage": 21.62,
             "rank": 3
           },
           {
             "name": "Matthew Boateng",
-            "votes": 835,
-            "percentage": 2.6,
+            "votes": 851,
+            "percentage": 2.58,
             "rank": 4
           },
           {
             "name": "Ahmed Mawel",
-            "votes": 663,
-            "percentage": 2.06,
+            "votes": 674,
+            "percentage": 2.04,
             "rank": 5
           },
           {
             "name": "Sharmarke Ali",
-            "votes": 651,
-            "percentage": 2.03,
+            "votes": 656,
+            "percentage": 1.99,
             "rank": 6
           },
           {
             "name": "Sileen Phillips",
-            "votes": 537,
-            "percentage": 1.67,
+            "votes": 564,
+            "percentage": 1.71,
             "rank": 7
           },
           {
             "name": "Maryama Farah",
-            "votes": 501,
-            "percentage": 1.56,
+            "votes": 517,
+            "percentage": 1.57,
             "rank": 8
           },
           {
             "name": "Nekpen Obasogie",
-            "votes": 176,
-            "percentage": 0.55,
+            "votes": 178,
+            "percentage": 0.54,
             "rank": 9
           }
         ]
