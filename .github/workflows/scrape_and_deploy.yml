@@ -2,8 +2,8 @@ name: Scrape Election Results & Update Data
 
 on:
   schedule:
-    # Run every 3 minutes in the cloud
-    - cron: '*/3 * * * *'
+    # Run every 5 minutes in GitHub Actions (standard minimum cron)
+    - cron: '*/5 * * * *'
   workflow_dispatch:
   push:
     branches:
@@ -31,18 +31,27 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Scrape live election data
-        run: |
-          python scripts/scrape.py
-
-      - name: Commit & push updated data
+      - name: Scrape live election data in active 30s loop
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          if ! git diff --staged --quiet; then
-            git commit -m "Live election update: $(date -u +'%Y-%m-%d %H:%M:%S UTC') [skip ci]"
-            git push
-          else
-            echo "No data changes detected. Everything up to date."
-          fi
+
+          # Run active scrape loop (checks live feeds every 30 seconds across ~4 minutes)
+          for i in {1..8}; do
+            echo "=== Scraping iteration $i/8 at $(date -u +'%T UTC') ==="
+            python scripts/scrape.py
+
+            git add data/
+            if ! git diff --staged --quiet; then
+              echo "New returns detected! Committing and pushing..."
+              git commit -m "Live election update: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+              git pull --rebase origin main || true
+              git push
+            else
+              echo "No data changes on iteration $i."
+            fi
+
+            if [ $i -lt 8 ]; then
+              sleep 30
+            fi
+          done

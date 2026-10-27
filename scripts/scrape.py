@@ -29,7 +29,8 @@ HEADERS = {
 }
 
 def fetch_json(url):
-    req = urllib.request.Request(f"{url}?_nocache={int(datetime.now(timezone.utc).timestamp()*1000)}", headers=HEADERS)
+    cache_bust = f"v={int(datetime.now(timezone.utc).timestamp()*1000)}"
+    req = urllib.request.Request(f"{url}?{cache_bust}", headers=HEADERS)
     with urllib.request.urlopen(req, timeout=25) as resp:
         return json.loads(resp.read().decode("utf-8"))
 
