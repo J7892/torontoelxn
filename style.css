@@ -46,6 +46,9 @@
   --leaflet-popup-text: light-dark(#0f172a, #ffffff);
   --leaflet-popup-border: light-dark(#cbd5e1, #334155);
 
+  --header-bg: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  --showdown-bg: linear-gradient(145deg, #ffffff 0%, #f8fafc 100%);
+
   --radius-sm: 6px;
   --radius-md: 10px;
   --radius-lg: 16px;
@@ -55,11 +58,22 @@
 :root:has(> head > meta[name="color-scheme"][content="dark"]),
 :root[data-theme="dark"] {
   color-scheme: dark;
+  --header-bg: linear-gradient(180deg, #162038 0%, #131b2e 100%);
+  --showdown-bg: linear-gradient(145deg, #141c30 0%, #17223b 100%);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]):not(:has(> head > meta[name="color-scheme"][content="light"])) {
+    --header-bg: linear-gradient(180deg, #162038 0%, #131b2e 100%);
+    --showdown-bg: linear-gradient(145deg, #141c30 0%, #17223b 100%);
+  }
 }
 
 :root:has(> head > meta[name="color-scheme"][content="light"]),
 :root[data-theme="light"] {
   color-scheme: light;
+  --header-bg: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  --showdown-bg: linear-gradient(145deg, #ffffff 0%, #f8fafc 100%);
 }
 
 * {
@@ -78,7 +92,8 @@ body {
 
 /* Header */
 .header {
-  background: light-dark(#ffffff, linear-gradient(180deg, #162038 0%, var(--bg-secondary) 100%));
+  background-color: var(--bg-secondary);
+  background-image: var(--header-bg);
   border-bottom: 1px solid var(--border-color);
   padding: 1.1rem 1.5rem;
   position: sticky;
@@ -314,7 +329,8 @@ body {
 
 /* SHOWDOWN SECTION: Olivia Chow vs Brad Bradford */
 .showdown-section {
-  background: light-dark(linear-gradient(145deg, #ffffff 0%, #f8fafc 100%), linear-gradient(145deg, #141c30 0%, #17223b 100%));
+  background-color: var(--bg-secondary);
+  background-image: var(--showdown-bg);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-lg);
   padding: 1.5rem;
