@@ -387,7 +387,6 @@ function renderDashboard() {
 
   renderHeaderAndTicker();
   renderShowdown();
-  renderTop5Candidates();
   renderGeoJSONLayer();
   renderCouncilGrid();
   renderHistoryChart();
