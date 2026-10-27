@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "1244",
+    "pollsReceived": "1253",
     "totalVoters": "2143771",
-    "votesReceived": "877448",
+    "votesReceived": "882687",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "473996",
+        "votesReceived": "477031",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -150,37 +150,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
-            "votesReceived": "10374"
+            "votesCounted": "20244",
+            "votesReceived": "10524"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "8209"
+            "votesCounted": "19133",
+            "votesReceived": "9085"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "6508"
+            "votesCounted": "15031",
+            "votesReceived": "6887"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "12644"
+            "votesCounted": "22273",
+            "votesReceived": "14274"
           },
           {
             "name": "Scarborough Southwest",
@@ -240,7 +240,7 @@
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "361782",
+        "votesReceived": "363764",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -381,37 +381,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
-            "votesReceived": "8606"
+            "votesCounted": "20244",
+            "votesReceived": "8735"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "8429"
+            "votesCounted": "19133",
+            "votesReceived": "9030"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "7022"
+            "votesCounted": "15031",
+            "votesReceived": "7442"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "6379"
+            "votesCounted": "22273",
+            "votesReceived": "7211"
           },
           {
             "name": "Scarborough Southwest",
@@ -471,7 +471,7 @@
       },
       {
         "name": "Braeden Chow",
-        "votesReceived": "7254",
+        "votesReceived": "7297",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -612,37 +612,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
-            "votesReceived": "184"
+            "votesCounted": "20244",
+            "votesReceived": "186"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "118"
+            "votesCounted": "19133",
+            "votesReceived": "139"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "91"
+            "votesCounted": "15031",
+            "votesReceived": "97"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "164"
+            "votesCounted": "22273",
+            "votesReceived": "178"
           },
           {
             "name": "Scarborough Southwest",
@@ -702,7 +702,7 @@
       },
       {
         "name": "Chris Alexander",
-        "votesReceived": "3285",
+        "votesReceived": "3300",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -843,37 +843,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "76"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "103"
+            "votesCounted": "19133",
+            "votesReceived": "108"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "97"
+            "votesCounted": "15031",
+            "votesReceived": "99"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "73"
+            "votesCounted": "22273",
+            "votesReceived": "81"
           },
           {
             "name": "Scarborough Southwest",
@@ -933,7 +933,7 @@
       },
       {
         "name": "Edward Gong",
-        "votesReceived": "3052",
+        "votesReceived": "3070",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1074,37 +1074,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "73"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "106"
+            "votesCounted": "19133",
+            "votesReceived": "115"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "53"
+            "votesCounted": "15031",
+            "votesReceived": "60"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "47"
+            "votesCounted": "22273",
+            "votesReceived": "49"
           },
           {
             "name": "Scarborough Southwest",
@@ -1164,7 +1164,7 @@
       },
       {
         "name": "Laura Dean",
-        "votesReceived": "1989",
+        "votesReceived": "2004",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1305,37 +1305,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
-            "votesReceived": "32"
+            "votesCounted": "20244",
+            "votesReceived": "34"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "41"
+            "votesCounted": "19133",
+            "votesReceived": "43"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "16"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "43"
+            "votesCounted": "22273",
+            "votesReceived": "54"
           },
           {
             "name": "Scarborough Southwest",
@@ -1395,7 +1395,7 @@
       },
       {
         "name": "Darrell Brown",
-        "votesReceived": "1847",
+        "votesReceived": "1861",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1536,37 +1536,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "38"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "46"
+            "votesCounted": "19133",
+            "votesReceived": "49"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "25"
+            "votesCounted": "15031",
+            "votesReceived": "30"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "23"
+            "votesCounted": "22273",
+            "votesReceived": "29"
           },
           {
             "name": "Scarborough Southwest",
@@ -1626,7 +1626,7 @@
       },
       {
         "name": "Imad Abdulkadir",
-        "votesReceived": "1690",
+        "votesReceived": "1699",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1767,37 +1767,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
-            "votesReceived": "45"
+            "votesCounted": "20244",
+            "votesReceived": "47"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "22"
+            "votesCounted": "19133",
+            "votesReceived": "26"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "10"
+            "votesCounted": "15031",
+            "votesReceived": "11"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "5"
+            "votesCounted": "22273",
+            "votesReceived": "7"
           },
           {
             "name": "Scarborough Southwest",
@@ -1857,7 +1857,7 @@
       },
       {
         "name": "Bahira Abdulsalam",
-        "votesReceived": "1517",
+        "votesReceived": "1528",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1998,37 +1998,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "67"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "27"
+            "votesCounted": "19133",
+            "votesReceived": "35"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "11"
+            "votesCounted": "15031",
+            "votesReceived": "13"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "13"
+            "votesCounted": "22273",
+            "votesReceived": "14"
           },
           {
             "name": "Scarborough Southwest",
@@ -2088,7 +2088,7 @@
       },
       {
         "name": "Logan Choy",
-        "votesReceived": "1149",
+        "votesReceived": "1155",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2229,37 +2229,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "20"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "20"
+            "votesCounted": "19133",
+            "votesReceived": "22"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "19"
+            "votesCounted": "15031",
+            "votesReceived": "20"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "24"
+            "votesCounted": "22273",
+            "votesReceived": "27"
           },
           {
             "name": "Scarborough Southwest",
@@ -2319,7 +2319,7 @@
       },
       {
         "name": "Rick Lee",
-        "votesReceived": "1100",
+        "votesReceived": "1106",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2460,36 +2460,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "14"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "38"
+            "votesCounted": "19133",
+            "votesReceived": "40"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "47"
+            "votesCounted": "15031",
+            "votesReceived": "51"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "13"
           },
           {
@@ -2550,7 +2550,7 @@
       },
       {
         "name": "Sandeep Srivastava",
-        "votesReceived": "1033",
+        "votesReceived": "1036",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2691,36 +2691,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "13"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "24"
+            "votesCounted": "19133",
+            "votesReceived": "27"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "7"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "7"
           },
           {
@@ -2781,7 +2781,7 @@
       },
       {
         "name": "Kevin Clarke",
-        "votesReceived": "993",
+        "votesReceived": "997",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2922,37 +2922,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "13"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "19"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "11"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "18"
+            "votesCounted": "22273",
+            "votesReceived": "22"
           },
           {
             "name": "Scarborough Southwest",
@@ -3012,7 +3012,7 @@
       },
       {
         "name": "Georgios Kalkounis",
-        "votesReceived": "947",
+        "votesReceived": "950",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3153,37 +3153,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "53"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "38"
+            "votesCounted": "19133",
+            "votesReceived": "39"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "9"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "25"
+            "votesCounted": "22273",
+            "votesReceived": "27"
           },
           {
             "name": "Scarborough Southwest",
@@ -3243,7 +3243,7 @@
       },
       {
         "name": "Roberto Curto",
-        "votesReceived": "890",
+        "votesReceived": "893",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3384,37 +3384,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "17"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "16"
+            "votesCounted": "19133",
+            "votesReceived": "18"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "9"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "8"
+            "votesCounted": "22273",
+            "votesReceived": "9"
           },
           {
             "name": "Scarborough Southwest",
@@ -3474,7 +3474,7 @@
       },
       {
         "name": "Sarah McVie",
-        "votesReceived": "872",
+        "votesReceived": "875",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3615,37 +3615,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "17"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "15"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "10"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "28"
+            "votesCounted": "22273",
+            "votesReceived": "31"
           },
           {
             "name": "Scarborough Southwest",
@@ -3705,7 +3705,7 @@
       },
       {
         "name": "Jamie Atkinson",
-        "votesReceived": "841",
+        "votesReceived": "848",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3846,37 +3846,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "22"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "16"
+            "votesCounted": "19133",
+            "votesReceived": "21"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "13"
+            "votesCounted": "15031",
+            "votesReceived": "14"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "21"
+            "votesCounted": "22273",
+            "votesReceived": "22"
           },
           {
             "name": "Scarborough Southwest",
@@ -3936,7 +3936,7 @@
       },
       {
         "name": "Amy Rosen",
-        "votesReceived": "828",
+        "votesReceived": "833",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4077,37 +4077,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "11"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "10"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "13"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "17"
+            "votesCounted": "22273",
+            "votesReceived": "22"
           },
           {
             "name": "Scarborough Southwest",
@@ -4167,7 +4167,7 @@
       },
       {
         "name": "Paul Collins",
-        "votesReceived": "768",
+        "votesReceived": "770",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4308,37 +4308,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "8"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "14"
+            "votesCounted": "19133",
+            "votesReceived": "15"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "14"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "9"
+            "votesCounted": "22273",
+            "votesReceived": "10"
           },
           {
             "name": "Scarborough Southwest",
@@ -4398,7 +4398,7 @@
       },
       {
         "name": "Lyall Sanders",
-        "votesReceived": "701",
+        "votesReceived": "702",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4539,36 +4539,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "20"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "11"
+            "votesCounted": "19133",
+            "votesReceived": "12"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "6"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "24"
           },
           {
@@ -4629,7 +4629,7 @@
       },
       {
         "name": "Mohamad Kaaki",
-        "votesReceived": "654",
+        "votesReceived": "656",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4770,37 +4770,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "19"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "9"
+            "votesCounted": "19133",
+            "votesReceived": "10"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "12"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "9"
+            "votesCounted": "22273",
+            "votesReceived": "10"
           },
           {
             "name": "Scarborough Southwest",
@@ -4860,7 +4860,7 @@
       },
       {
         "name": "Joshua Thompson",
-        "votesReceived": "633",
+        "votesReceived": "634",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5001,37 +5001,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "12"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "8"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "7"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "6"
+            "votesCounted": "22273",
+            "votesReceived": "7"
           },
           {
             "name": "Scarborough Southwest",
@@ -5091,7 +5091,7 @@
       },
       {
         "name": "Brian Buffey",
-        "votesReceived": "592",
+        "votesReceived": "594",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5232,37 +5232,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "7"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "15"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "8"
+            "votesCounted": "15031",
+            "votesReceived": "9"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "5"
+            "votesCounted": "22273",
+            "votesReceived": "6"
           },
           {
             "name": "Scarborough Southwest",
@@ -5322,7 +5322,7 @@
       },
       {
         "name": "Laura Ellis",
-        "votesReceived": "573",
+        "votesReceived": "576",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5463,37 +5463,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "14"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "10"
+            "votesCounted": "19133",
+            "votesReceived": "12"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "4"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "16"
+            "votesCounted": "22273",
+            "votesReceived": "17"
           },
           {
             "name": "Scarborough Southwest",
@@ -5553,7 +5553,7 @@
       },
       {
         "name": "Michael Lamoureux",
-        "votesReceived": "508",
+        "votesReceived": "513",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5694,37 +5694,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "11"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "14"
+            "votesCounted": "19133",
+            "votesReceived": "16"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "9"
+            "votesCounted": "15031",
+            "votesReceived": "11"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "6"
+            "votesCounted": "22273",
+            "votesReceived": "7"
           },
           {
             "name": "Scarborough Southwest",
@@ -5784,7 +5784,7 @@
       },
       {
         "name": "Robert Shusterman",
-        "votesReceived": "443",
+        "votesReceived": "446",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5925,37 +5925,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "10"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "14"
+            "votesCounted": "19133",
+            "votesReceived": "15"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "23"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "5"
+            "votesCounted": "22273",
+            "votesReceived": "7"
           },
           {
             "name": "Scarborough Southwest",
@@ -6015,7 +6015,7 @@
       },
       {
         "name": "Cory Deville",
-        "votesReceived": "431",
+        "votesReceived": "434",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6156,37 +6156,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "8"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "4"
+            "votesCounted": "19133",
+            "votesReceived": "6"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "5"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "9"
+            "votesCounted": "22273",
+            "votesReceived": "10"
           },
           {
             "name": "Scarborough Southwest",
@@ -6246,7 +6246,7 @@
       },
       {
         "name": "Odessa Paloma Parker",
-        "votesReceived": "418",
+        "votesReceived": "419",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6387,36 +6387,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "8"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "7"
+            "votesCounted": "19133",
+            "votesReceived": "8"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "2"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "4"
           },
           {
@@ -6618,36 +6618,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "6"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "8"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "5"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "5"
           },
           {
@@ -6708,7 +6708,7 @@
       },
       {
         "name": "Alton Frederick",
-        "votesReceived": "387",
+        "votesReceived": "390",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6849,37 +6849,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "7"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "5"
+            "votesCounted": "19133",
+            "votesReceived": "7"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "7"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "7"
+            "votesCounted": "22273",
+            "votesReceived": "8"
           },
           {
             "name": "Scarborough Southwest",
@@ -6939,7 +6939,7 @@
       },
       {
         "name": "Heather He",
-        "votesReceived": "370",
+        "votesReceived": "374",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7080,37 +7080,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "7"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "28"
+            "votesCounted": "19133",
+            "votesReceived": "31"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "23"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "5"
+            "votesCounted": "22273",
+            "votesReceived": "6"
           },
           {
             "name": "Scarborough Southwest",
@@ -7169,8 +7169,8 @@
         ]
       },
       {
-        "name": "Alex Cruze",
-        "votesReceived": "331",
+        "name": "Mostafa Zandkarimi",
+        "votesReceived": "335",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7179,7 +7179,7 @@
             "pollsReceived": "44",
             "totalVoters": "78411",
             "votesCounted": "27577",
-            "votesReceived": "38"
+            "votesReceived": "17"
           },
           {
             "name": "Etobicoke Centre",
@@ -7188,7 +7188,7 @@
             "pollsReceived": "66",
             "totalVoters": "97554",
             "votesCounted": "45351",
-            "votesReceived": "12"
+            "votesReceived": "9"
           },
           {
             "name": "Etobicoke-Lakeshore",
@@ -7197,7 +7197,7 @@
             "pollsReceived": "76",
             "totalVoters": "116485",
             "votesCounted": "51148",
-            "votesReceived": "12"
+            "votesReceived": "7"
           },
           {
             "name": "Parkdale-High Park",
@@ -7206,7 +7206,7 @@
             "pollsReceived": "65",
             "totalVoters": "88529",
             "votesCounted": "48597",
-            "votesReceived": "17"
+            "votesReceived": "15"
           },
           {
             "name": "York South-Weston",
@@ -7215,7 +7215,7 @@
             "pollsReceived": "59",
             "totalVoters": "83515",
             "votesCounted": "32652",
-            "votesReceived": "25"
+            "votesReceived": "17"
           },
           {
             "name": "York Centre",
@@ -7233,7 +7233,7 @@
             "pollsReceived": "45",
             "totalVoters": "73832",
             "votesCounted": "24519",
-            "votesReceived": "16"
+            "votesReceived": "15"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -7242,7 +7242,7 @@
             "pollsReceived": "60",
             "totalVoters": "89581",
             "votesCounted": "48332",
-            "votesReceived": "13"
+            "votesReceived": "12"
           },
           {
             "name": "Davenport",
@@ -7251,7 +7251,7 @@
             "pollsReceived": "52",
             "totalVoters": "84706",
             "votesCounted": "43317",
-            "votesReceived": "15"
+            "votesReceived": "3"
           },
           {
             "name": "Spadina-Fort York",
@@ -7260,7 +7260,7 @@
             "pollsReceived": "78",
             "totalVoters": "123597",
             "votesCounted": "48857",
-            "votesReceived": "7"
+            "votesReceived": "5"
           },
           {
             "name": "University-Rosedale",
@@ -7269,7 +7269,7 @@
             "pollsReceived": "71",
             "totalVoters": "90868",
             "votesCounted": "45429",
-            "votesReceived": "6"
+            "votesReceived": "7"
           },
           {
             "name": "Toronto-St. Paul's",
@@ -7278,7 +7278,7 @@
             "pollsReceived": "57",
             "totalVoters": "95032",
             "votesCounted": "51896",
-            "votesReceived": "10"
+            "votesReceived": "12"
           },
           {
             "name": "Toronto Centre",
@@ -7287,7 +7287,7 @@
             "pollsReceived": "75",
             "totalVoters": "101769",
             "votesCounted": "44519",
-            "votesReceived": "24"
+            "votesReceived": "20"
           },
           {
             "name": "Toronto-Danforth",
@@ -7296,7 +7296,7 @@
             "pollsReceived": "45",
             "totalVoters": "85786",
             "votesCounted": "44695",
-            "votesReceived": "10"
+            "votesReceived": "6"
           },
           {
             "name": "Don Valley West",
@@ -7305,43 +7305,43 @@
             "pollsReceived": "49",
             "totalVoters": "76936",
             "votesCounted": "38242",
-            "votesReceived": "3"
+            "votesReceived": "13"
           },
           {
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
-            "votesReceived": "5"
+            "votesCounted": "20244",
+            "votesReceived": "13"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "5"
+            "votesCounted": "19133",
+            "votesReceived": "16"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "6"
+            "votesCounted": "15031",
+            "votesReceived": "34"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "6"
+            "votesCounted": "22273",
+            "votesReceived": "0"
           },
           {
             "name": "Scarborough Southwest",
@@ -7350,7 +7350,7 @@
             "pollsReceived": "44",
             "totalVoters": "82427",
             "votesCounted": "27654",
-            "votesReceived": "9"
+            "votesReceived": "14"
           },
           {
             "name": "Scarborough Centre",
@@ -7359,7 +7359,7 @@
             "pollsReceived": "47",
             "totalVoters": "80557",
             "votesCounted": "31062",
-            "votesReceived": "12"
+            "votesReceived": "25"
           },
           {
             "name": "Scarborough-Agincourt",
@@ -7368,7 +7368,7 @@
             "pollsReceived": "47",
             "totalVoters": "75224",
             "votesCounted": "29394",
-            "votesReceived": "20"
+            "votesReceived": "17"
           },
           {
             "name": "Scarborough North",
@@ -7377,7 +7377,7 @@
             "pollsReceived": "35",
             "totalVoters": "66760",
             "votesCounted": "25637",
-            "votesReceived": "21"
+            "votesReceived": "15"
           },
           {
             "name": "Scarborough-Guildwood",
@@ -7395,13 +7395,13 @@
             "pollsReceived": "38",
             "totalVoters": "79420",
             "votesCounted": "34158",
-            "votesReceived": "15"
+            "votesReceived": "19"
           }
         ]
       },
       {
         "name": "Habiba Desai",
-        "votesReceived": "331",
+        "votesReceived": "334",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7542,36 +7542,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
-            "votesReceived": "6"
+            "votesCounted": "20244",
+            "votesReceived": "7"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "4"
+            "votesCounted": "19133",
+            "votesReceived": "5"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "7"
+            "votesCounted": "15031",
+            "votesReceived": "8"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "3"
           },
           {
@@ -7631,8 +7631,8 @@
         ]
       },
       {
-        "name": "Mostafa Zandkarimi",
-        "votesReceived": "327",
+        "name": "Alex Cruze",
+        "votesReceived": "332",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7641,7 +7641,7 @@
             "pollsReceived": "44",
             "totalVoters": "78411",
             "votesCounted": "27577",
-            "votesReceived": "17"
+            "votesReceived": "38"
           },
           {
             "name": "Etobicoke Centre",
@@ -7650,7 +7650,7 @@
             "pollsReceived": "66",
             "totalVoters": "97554",
             "votesCounted": "45351",
-            "votesReceived": "9"
+            "votesReceived": "12"
           },
           {
             "name": "Etobicoke-Lakeshore",
@@ -7659,7 +7659,7 @@
             "pollsReceived": "76",
             "totalVoters": "116485",
             "votesCounted": "51148",
-            "votesReceived": "7"
+            "votesReceived": "12"
           },
           {
             "name": "Parkdale-High Park",
@@ -7668,7 +7668,7 @@
             "pollsReceived": "65",
             "totalVoters": "88529",
             "votesCounted": "48597",
-            "votesReceived": "15"
+            "votesReceived": "17"
           },
           {
             "name": "York South-Weston",
@@ -7677,7 +7677,7 @@
             "pollsReceived": "59",
             "totalVoters": "83515",
             "votesCounted": "32652",
-            "votesReceived": "17"
+            "votesReceived": "25"
           },
           {
             "name": "York Centre",
@@ -7695,7 +7695,7 @@
             "pollsReceived": "45",
             "totalVoters": "73832",
             "votesCounted": "24519",
-            "votesReceived": "15"
+            "votesReceived": "16"
           },
           {
             "name": "Eglinton-Lawrence",
@@ -7704,7 +7704,7 @@
             "pollsReceived": "60",
             "totalVoters": "89581",
             "votesCounted": "48332",
-            "votesReceived": "12"
+            "votesReceived": "13"
           },
           {
             "name": "Davenport",
@@ -7713,7 +7713,7 @@
             "pollsReceived": "52",
             "totalVoters": "84706",
             "votesCounted": "43317",
-            "votesReceived": "3"
+            "votesReceived": "15"
           },
           {
             "name": "Spadina-Fort York",
@@ -7722,7 +7722,7 @@
             "pollsReceived": "78",
             "totalVoters": "123597",
             "votesCounted": "48857",
-            "votesReceived": "5"
+            "votesReceived": "7"
           },
           {
             "name": "University-Rosedale",
@@ -7731,7 +7731,7 @@
             "pollsReceived": "71",
             "totalVoters": "90868",
             "votesCounted": "45429",
-            "votesReceived": "7"
+            "votesReceived": "6"
           },
           {
             "name": "Toronto-St. Paul's",
@@ -7740,7 +7740,7 @@
             "pollsReceived": "57",
             "totalVoters": "95032",
             "votesCounted": "51896",
-            "votesReceived": "12"
+            "votesReceived": "10"
           },
           {
             "name": "Toronto Centre",
@@ -7749,7 +7749,7 @@
             "pollsReceived": "75",
             "totalVoters": "101769",
             "votesCounted": "44519",
-            "votesReceived": "20"
+            "votesReceived": "24"
           },
           {
             "name": "Toronto-Danforth",
@@ -7758,7 +7758,7 @@
             "pollsReceived": "45",
             "totalVoters": "85786",
             "votesCounted": "44695",
-            "votesReceived": "6"
+            "votesReceived": "10"
           },
           {
             "name": "Don Valley West",
@@ -7767,43 +7767,43 @@
             "pollsReceived": "49",
             "totalVoters": "76936",
             "votesCounted": "38242",
-            "votesReceived": "13"
+            "votesReceived": "3"
           },
           {
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
-            "votesReceived": "13"
+            "votesCounted": "20244",
+            "votesReceived": "5"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "12"
+            "votesCounted": "19133",
+            "votesReceived": "5"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "30"
+            "votesCounted": "15031",
+            "votesReceived": "6"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "0"
+            "votesCounted": "22273",
+            "votesReceived": "7"
           },
           {
             "name": "Scarborough Southwest",
@@ -7812,7 +7812,7 @@
             "pollsReceived": "44",
             "totalVoters": "82427",
             "votesCounted": "27654",
-            "votesReceived": "14"
+            "votesReceived": "9"
           },
           {
             "name": "Scarborough Centre",
@@ -7821,7 +7821,7 @@
             "pollsReceived": "47",
             "totalVoters": "80557",
             "votesCounted": "31062",
-            "votesReceived": "25"
+            "votesReceived": "12"
           },
           {
             "name": "Scarborough-Agincourt",
@@ -7830,7 +7830,7 @@
             "pollsReceived": "47",
             "totalVoters": "75224",
             "votesCounted": "29394",
-            "votesReceived": "17"
+            "votesReceived": "20"
           },
           {
             "name": "Scarborough North",
@@ -7839,7 +7839,7 @@
             "pollsReceived": "35",
             "totalVoters": "66760",
             "votesCounted": "25637",
-            "votesReceived": "15"
+            "votesReceived": "21"
           },
           {
             "name": "Scarborough-Guildwood",
@@ -7857,13 +7857,13 @@
             "pollsReceived": "38",
             "totalVoters": "79420",
             "votesCounted": "34158",
-            "votesReceived": "19"
+            "votesReceived": "15"
           }
         ]
       },
       {
         "name": "Faizan Haider",
-        "votesReceived": "325",
+        "votesReceived": "326",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8004,36 +8004,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "15"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "7"
+            "votesCounted": "19133",
+            "votesReceived": "8"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "4"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "3"
           },
           {
@@ -8089,6 +8089,237 @@
             "totalVoters": "79420",
             "votesCounted": "34158",
             "votesReceived": "34"
+          }
+        ]
+      },
+      {
+        "name": "Kuo Yu Tong",
+        "votesReceived": "325",
+        "ward": [
+          {
+            "name": "Etobicoke North",
+            "num": "1",
+            "polls": "46",
+            "pollsReceived": "44",
+            "totalVoters": "78411",
+            "votesCounted": "27577",
+            "votesReceived": "13"
+          },
+          {
+            "name": "Etobicoke Centre",
+            "num": "2",
+            "polls": "67",
+            "pollsReceived": "66",
+            "totalVoters": "97554",
+            "votesCounted": "45351",
+            "votesReceived": "10"
+          },
+          {
+            "name": "Etobicoke-Lakeshore",
+            "num": "3",
+            "polls": "82",
+            "pollsReceived": "76",
+            "totalVoters": "116485",
+            "votesCounted": "51148",
+            "votesReceived": "9"
+          },
+          {
+            "name": "Parkdale-High Park",
+            "num": "4",
+            "polls": "67",
+            "pollsReceived": "65",
+            "totalVoters": "88529",
+            "votesCounted": "48597",
+            "votesReceived": "16"
+          },
+          {
+            "name": "York South-Weston",
+            "num": "5",
+            "polls": "62",
+            "pollsReceived": "59",
+            "totalVoters": "83515",
+            "votesCounted": "32652",
+            "votesReceived": "13"
+          },
+          {
+            "name": "York Centre",
+            "num": "6",
+            "polls": "50",
+            "pollsReceived": "49",
+            "totalVoters": "79015",
+            "votesCounted": "34555",
+            "votesReceived": "15"
+          },
+          {
+            "name": "Humber River-Black Creek",
+            "num": "7",
+            "polls": "45",
+            "pollsReceived": "45",
+            "totalVoters": "73832",
+            "votesCounted": "24519",
+            "votesReceived": "25"
+          },
+          {
+            "name": "Eglinton-Lawrence",
+            "num": "8",
+            "polls": "61",
+            "pollsReceived": "60",
+            "totalVoters": "89581",
+            "votesCounted": "48332",
+            "votesReceived": "3"
+          },
+          {
+            "name": "Davenport",
+            "num": "9",
+            "polls": "53",
+            "pollsReceived": "52",
+            "totalVoters": "84706",
+            "votesCounted": "43317",
+            "votesReceived": "7"
+          },
+          {
+            "name": "Spadina-Fort York",
+            "num": "10",
+            "polls": "80",
+            "pollsReceived": "78",
+            "totalVoters": "123597",
+            "votesCounted": "48857",
+            "votesReceived": "8"
+          },
+          {
+            "name": "University-Rosedale",
+            "num": "11",
+            "polls": "72",
+            "pollsReceived": "71",
+            "totalVoters": "90868",
+            "votesCounted": "45429",
+            "votesReceived": "12"
+          },
+          {
+            "name": "Toronto-St. Paul's",
+            "num": "12",
+            "polls": "58",
+            "pollsReceived": "57",
+            "totalVoters": "95032",
+            "votesCounted": "51896",
+            "votesReceived": "12"
+          },
+          {
+            "name": "Toronto Centre",
+            "num": "13",
+            "polls": "78",
+            "pollsReceived": "75",
+            "totalVoters": "101769",
+            "votesCounted": "44519",
+            "votesReceived": "15"
+          },
+          {
+            "name": "Toronto-Danforth",
+            "num": "14",
+            "polls": "48",
+            "pollsReceived": "45",
+            "totalVoters": "85786",
+            "votesCounted": "44695",
+            "votesReceived": "9"
+          },
+          {
+            "name": "Don Valley West",
+            "num": "15",
+            "polls": "49",
+            "pollsReceived": "49",
+            "totalVoters": "76936",
+            "votesCounted": "38242",
+            "votesReceived": "2"
+          },
+          {
+            "name": "Don Valley East",
+            "num": "16",
+            "polls": "62",
+            "pollsReceived": "36",
+            "totalVoters": "70080",
+            "votesCounted": "20244",
+            "votesReceived": "10"
+          },
+          {
+            "name": "Don Valley North",
+            "num": "17",
+            "polls": "60",
+            "pollsReceived": "32",
+            "totalVoters": "81623",
+            "votesCounted": "19133",
+            "votesReceived": "15"
+          },
+          {
+            "name": "Willowdale",
+            "num": "18",
+            "polls": "56",
+            "pollsReceived": "19",
+            "totalVoters": "84671",
+            "votesCounted": "15031",
+            "votesReceived": "6"
+          },
+          {
+            "name": "Beaches-East York",
+            "num": "19",
+            "polls": "53",
+            "pollsReceived": "17",
+            "totalVoters": "85048",
+            "votesCounted": "22273",
+            "votesReceived": "3"
+          },
+          {
+            "name": "Scarborough Southwest",
+            "num": "20",
+            "polls": "61",
+            "pollsReceived": "44",
+            "totalVoters": "82427",
+            "votesCounted": "27654",
+            "votesReceived": "8"
+          },
+          {
+            "name": "Scarborough Centre",
+            "num": "21",
+            "polls": "49",
+            "pollsReceived": "47",
+            "totalVoters": "80557",
+            "votesCounted": "31062",
+            "votesReceived": "13"
+          },
+          {
+            "name": "Scarborough-Agincourt",
+            "num": "22",
+            "polls": "47",
+            "pollsReceived": "47",
+            "totalVoters": "75224",
+            "votesCounted": "29394",
+            "votesReceived": "29"
+          },
+          {
+            "name": "Scarborough North",
+            "num": "23",
+            "polls": "37",
+            "pollsReceived": "35",
+            "totalVoters": "66760",
+            "votesCounted": "25637",
+            "votesReceived": "47"
+          },
+          {
+            "name": "Scarborough-Guildwood",
+            "num": "24",
+            "polls": "48",
+            "pollsReceived": "47",
+            "totalVoters": "72345",
+            "votesCounted": "28415",
+            "votesReceived": "11"
+          },
+          {
+            "name": "Scarborough-Rouge Park",
+            "num": "25",
+            "polls": "40",
+            "pollsReceived": "38",
+            "totalVoters": "79420",
+            "votesCounted": "34158",
+            "votesReceived": "14"
           }
         ]
       },
@@ -8235,36 +8466,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "7"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "7"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "1"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "1"
           },
           {
@@ -8324,239 +8555,8 @@
         ]
       },
       {
-        "name": "Kuo Yu Tong",
-        "votesReceived": "323",
-        "ward": [
-          {
-            "name": "Etobicoke North",
-            "num": "1",
-            "polls": "46",
-            "pollsReceived": "44",
-            "totalVoters": "78411",
-            "votesCounted": "27577",
-            "votesReceived": "13"
-          },
-          {
-            "name": "Etobicoke Centre",
-            "num": "2",
-            "polls": "67",
-            "pollsReceived": "66",
-            "totalVoters": "97554",
-            "votesCounted": "45351",
-            "votesReceived": "10"
-          },
-          {
-            "name": "Etobicoke-Lakeshore",
-            "num": "3",
-            "polls": "82",
-            "pollsReceived": "76",
-            "totalVoters": "116485",
-            "votesCounted": "51148",
-            "votesReceived": "9"
-          },
-          {
-            "name": "Parkdale-High Park",
-            "num": "4",
-            "polls": "67",
-            "pollsReceived": "65",
-            "totalVoters": "88529",
-            "votesCounted": "48597",
-            "votesReceived": "16"
-          },
-          {
-            "name": "York South-Weston",
-            "num": "5",
-            "polls": "62",
-            "pollsReceived": "59",
-            "totalVoters": "83515",
-            "votesCounted": "32652",
-            "votesReceived": "13"
-          },
-          {
-            "name": "York Centre",
-            "num": "6",
-            "polls": "50",
-            "pollsReceived": "49",
-            "totalVoters": "79015",
-            "votesCounted": "34555",
-            "votesReceived": "15"
-          },
-          {
-            "name": "Humber River-Black Creek",
-            "num": "7",
-            "polls": "45",
-            "pollsReceived": "45",
-            "totalVoters": "73832",
-            "votesCounted": "24519",
-            "votesReceived": "25"
-          },
-          {
-            "name": "Eglinton-Lawrence",
-            "num": "8",
-            "polls": "61",
-            "pollsReceived": "60",
-            "totalVoters": "89581",
-            "votesCounted": "48332",
-            "votesReceived": "3"
-          },
-          {
-            "name": "Davenport",
-            "num": "9",
-            "polls": "53",
-            "pollsReceived": "52",
-            "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "7"
-          },
-          {
-            "name": "Spadina-Fort York",
-            "num": "10",
-            "polls": "80",
-            "pollsReceived": "78",
-            "totalVoters": "123597",
-            "votesCounted": "48857",
-            "votesReceived": "8"
-          },
-          {
-            "name": "University-Rosedale",
-            "num": "11",
-            "polls": "72",
-            "pollsReceived": "71",
-            "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "12"
-          },
-          {
-            "name": "Toronto-St. Paul's",
-            "num": "12",
-            "polls": "58",
-            "pollsReceived": "57",
-            "totalVoters": "95032",
-            "votesCounted": "51896",
-            "votesReceived": "12"
-          },
-          {
-            "name": "Toronto Centre",
-            "num": "13",
-            "polls": "78",
-            "pollsReceived": "75",
-            "totalVoters": "101769",
-            "votesCounted": "44519",
-            "votesReceived": "15"
-          },
-          {
-            "name": "Toronto-Danforth",
-            "num": "14",
-            "polls": "48",
-            "pollsReceived": "45",
-            "totalVoters": "85786",
-            "votesCounted": "44695",
-            "votesReceived": "9"
-          },
-          {
-            "name": "Don Valley West",
-            "num": "15",
-            "polls": "49",
-            "pollsReceived": "49",
-            "totalVoters": "76936",
-            "votesCounted": "38242",
-            "votesReceived": "2"
-          },
-          {
-            "name": "Don Valley East",
-            "num": "16",
-            "polls": "62",
-            "pollsReceived": "35",
-            "totalVoters": "70080",
-            "votesCounted": "19957",
-            "votesReceived": "10"
-          },
-          {
-            "name": "Don Valley North",
-            "num": "17",
-            "polls": "60",
-            "pollsReceived": "29",
-            "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "13"
-          },
-          {
-            "name": "Willowdale",
-            "num": "18",
-            "polls": "56",
-            "pollsReceived": "17",
-            "totalVoters": "84671",
-            "votesCounted": "14195",
-            "votesReceived": "6"
-          },
-          {
-            "name": "Beaches-East York",
-            "num": "19",
-            "polls": "53",
-            "pollsReceived": "14",
-            "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "3"
-          },
-          {
-            "name": "Scarborough Southwest",
-            "num": "20",
-            "polls": "61",
-            "pollsReceived": "44",
-            "totalVoters": "82427",
-            "votesCounted": "27654",
-            "votesReceived": "8"
-          },
-          {
-            "name": "Scarborough Centre",
-            "num": "21",
-            "polls": "49",
-            "pollsReceived": "47",
-            "totalVoters": "80557",
-            "votesCounted": "31062",
-            "votesReceived": "13"
-          },
-          {
-            "name": "Scarborough-Agincourt",
-            "num": "22",
-            "polls": "47",
-            "pollsReceived": "47",
-            "totalVoters": "75224",
-            "votesCounted": "29394",
-            "votesReceived": "29"
-          },
-          {
-            "name": "Scarborough North",
-            "num": "23",
-            "polls": "37",
-            "pollsReceived": "35",
-            "totalVoters": "66760",
-            "votesCounted": "25637",
-            "votesReceived": "47"
-          },
-          {
-            "name": "Scarborough-Guildwood",
-            "num": "24",
-            "polls": "48",
-            "pollsReceived": "47",
-            "totalVoters": "72345",
-            "votesCounted": "28415",
-            "votesReceived": "11"
-          },
-          {
-            "name": "Scarborough-Rouge Park",
-            "num": "25",
-            "polls": "40",
-            "pollsReceived": "38",
-            "totalVoters": "79420",
-            "votesCounted": "34158",
-            "votesReceived": "14"
-          }
-        ]
-      },
-      {
         "name": "Faisal Razi",
-        "votesReceived": "307",
+        "votesReceived": "308",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8697,37 +8697,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "8"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "3"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "3"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "3"
+            "votesCounted": "22273",
+            "votesReceived": "4"
           },
           {
             "name": "Scarborough Southwest",
@@ -8787,7 +8787,7 @@
       },
       {
         "name": "Weizhen Tang",
-        "votesReceived": "302",
+        "votesReceived": "303",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8928,37 +8928,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "7"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "17"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "9"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "2"
+            "votesCounted": "22273",
+            "votesReceived": "3"
           },
           {
             "name": "Scarborough Southwest",
@@ -9018,7 +9018,7 @@
       },
       {
         "name": "Thomas Hall",
-        "votesReceived": "300",
+        "votesReceived": "301",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9159,36 +9159,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
-            "votesReceived": "6"
+            "votesCounted": "20244",
+            "votesReceived": "7"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "3"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "4"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "6"
           },
           {
@@ -9390,36 +9390,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "9"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "5"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "8"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "4"
           },
           {
@@ -9480,7 +9480,7 @@
       },
       {
         "name": "Joseph Osuji",
-        "votesReceived": "295",
+        "votesReceived": "296",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9621,36 +9621,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "9"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "3"
+            "votesCounted": "19133",
+            "votesReceived": "4"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "3"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "2"
           },
           {
@@ -9711,7 +9711,7 @@
       },
       {
         "name": "Gus Prokos",
-        "votesReceived": "285",
+        "votesReceived": "288",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9852,37 +9852,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "5"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "7"
+            "votesCounted": "19133",
+            "votesReceived": "9"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "1"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "7"
+            "votesCounted": "22273",
+            "votesReceived": "8"
           },
           {
             "name": "Scarborough Southwest",
@@ -10083,36 +10083,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "8"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "6"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "3"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "4"
           },
           {
@@ -10173,7 +10173,7 @@
       },
       {
         "name": "Peter Handjis",
-        "votesReceived": "238",
+        "votesReceived": "240",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10314,37 +10314,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "8"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "5"
+            "votesCounted": "19133",
+            "votesReceived": "6"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "3"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "3"
+            "votesCounted": "22273",
+            "votesReceived": "4"
           },
           {
             "name": "Scarborough Southwest",
@@ -10545,36 +10545,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "6"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "3"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "2"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "2"
           },
           {
@@ -10635,7 +10635,7 @@
       },
       {
         "name": "Leila Yohannes",
-        "votesReceived": "192",
+        "votesReceived": "193",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10776,37 +10776,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "5"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "3"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "4"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "3"
+            "votesCounted": "22273",
+            "votesReceived": "4"
           },
           {
             "name": "Scarborough Southwest",
@@ -11007,36 +11007,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "1"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "2"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "1"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "1"
           },
           {
@@ -11097,7 +11097,7 @@
       },
       {
         "name": "Eddie Mayanja",
-        "votesReceived": "174",
+        "votesReceived": "175",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -11238,37 +11238,37 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "2"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "4"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "0"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
-            "votesReceived": "2"
+            "votesCounted": "22273",
+            "votesReceived": "3"
           },
           {
             "name": "Scarborough Southwest",
@@ -11469,36 +11469,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "10"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "3"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "2"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "1"
           },
           {
@@ -11700,36 +11700,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "2"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "0"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "0"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "7"
           },
           {
@@ -11931,36 +11931,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "2"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
+            "votesCounted": "19133",
             "votesReceived": "3"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "1"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "4"
           },
           {
@@ -12021,7 +12021,7 @@
       },
       {
         "name": "Jack Weenen",
-        "votesReceived": "63",
+        "votesReceived": "64",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -12162,36 +12162,36 @@
             "name": "Don Valley East",
             "num": "16",
             "polls": "62",
-            "pollsReceived": "35",
+            "pollsReceived": "36",
             "totalVoters": "70080",
-            "votesCounted": "19957",
+            "votesCounted": "20244",
             "votesReceived": "1"
           },
           {
             "name": "Don Valley North",
             "num": "17",
             "polls": "60",
-            "pollsReceived": "29",
+            "pollsReceived": "32",
             "totalVoters": "81623",
-            "votesCounted": "17560",
-            "votesReceived": "1"
+            "votesCounted": "19133",
+            "votesReceived": "2"
           },
           {
             "name": "Willowdale",
             "num": "18",
             "polls": "56",
-            "pollsReceived": "17",
+            "pollsReceived": "19",
             "totalVoters": "84671",
-            "votesCounted": "14195",
+            "votesCounted": "15031",
             "votesReceived": "1"
           },
           {
             "name": "Beaches-East York",
             "num": "19",
             "polls": "53",
-            "pollsReceived": "14",
+            "pollsReceived": "17",
             "totalVoters": "85048",
-            "votesCounted": "19730",
+            "votesCounted": "22273",
             "votesReceived": "1"
           },
           {
@@ -12252,5 +12252,5 @@
       }
     ]
   },
-  "seq": "1793066255834"
+  "seq": "1793066346099"
 }
