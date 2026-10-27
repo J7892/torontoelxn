@@ -458,13 +458,11 @@ function renderShowdown() {
   document.getElementById('chowVotes').textContent = (chow.votes || 0).toLocaleString();
   document.getElementById('chowPct').textContent = `${(chow.percentage || 0).toFixed(1)}%`;
   document.getElementById('chowWardsLed').textContent = `${chow.wards_leading || 0} Wards`;
-  document.getElementById('chowTwoWayPct').textContent = `${(chow.two_way_percentage || 50).toFixed(1)}%`;
 
   // Bradford Elements
   document.getElementById('bradfordVotes').textContent = (bradford.votes || 0).toLocaleString();
   document.getElementById('bradfordPct').textContent = `${(bradford.percentage || 0).toFixed(1)}%`;
   document.getElementById('bradfordWardsLed').textContent = `${bradford.wards_leading || 0} Wards`;
-  document.getElementById('bradfordTwoWayPct').textContent = `${(bradford.two_way_percentage || 50).toFixed(1)}%`;
 
   // Center Margin Banner
   const marginPill = document.getElementById('h2hMarginPill');

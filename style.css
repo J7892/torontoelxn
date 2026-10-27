@@ -474,16 +474,18 @@ body {
 
 .cand-footer-stats {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0.45rem;
+  grid-template-columns: 1fr;
   border-top: 1px solid var(--border-color);
-  padding-top: 0.4rem;
+  padding-top: 0.35rem;
 }
 
 .cand-stat-box {
   background: var(--box-inset);
-  padding: 0.25rem 0.45rem;
+  padding: 0.25rem 0.55rem;
   border-radius: var(--radius-sm);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .cand-stat-box .stat-label {
