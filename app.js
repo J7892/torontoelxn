@@ -13,7 +13,7 @@ let currentMapView = 'margin'; // 'margin' | 'winner' | 'turnout'
 let selectedWardNum = null;
 let historyChart = null;
 let autoRefreshTimer = null;
-let autoRefreshIntervalSec = 45;
+let autoRefreshIntervalSec = 30;
 let isRefreshing = false;
 
 // Theme & Basemap State

@@ -2,7 +2,7 @@ name: Scrape Election Results & Update Data
 
 on:
   schedule:
-    # Run every 5 minutes in GitHub Actions (standard minimum cron)
+    # Run every 5 minutes in GitHub Actions (safety net cron)
     - cron: '*/5 * * * *'
   workflow_dispatch:
   push:
@@ -14,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: "scrape-election-data"
@@ -31,14 +32,17 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Scrape live election data in active 30s loop
+      - name: Scrape live election data in active loop
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Run active scrape loop (checks live feeds every 30 seconds across ~4 minutes)
-          for i in {1..8}; do
-            echo "=== Scraping iteration $i/8 at $(date -u +'%T UTC') ==="
+          # Run 4 iterations spaced 75s apart (~5 minutes total).
+          # 75s interval ensures GitHub Pages deployments (~35s) complete without being cancelled by new pushes.
+          for i in {1..4}; do
+            echo "=== Scraping iteration $i/4 at $(date -u +'%T UTC') ==="
             python scripts/scrape.py
 
             git add data/
@@ -51,7 +55,12 @@ jobs:
               echo "No data changes on iteration $i."
             fi
 
-            if [ $i -lt 8 ]; then
-              sleep 30
+            if [ $i -lt 4 ]; then
+              echo "Waiting 75 seconds for GitHub Pages deployment before next check..."
+              sleep 75
             fi
           done
+
+          # Trigger the next continuous run to avoid cron queue lag
+          echo "Queueing next run..."
+          gh workflow run "Scrape Election Results & Update Data" || true
