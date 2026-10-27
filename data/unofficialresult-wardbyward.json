@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "1430",
+    "pollsReceived": "1431",
     "totalVoters": "2143771",
-    "votesReceived": "981062",
+    "votesReceived": "982660",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "531406",
+        "votesReceived": "532201",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -33,10 +33,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "25291"
+            "votesCounted": "55344",
+            "votesReceived": "26086"
           },
           {
             "name": "Parkdale-High Park",
@@ -240,7 +240,7 @@
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "403272",
+        "votesReceived": "404013",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -264,10 +264,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "26569"
+            "votesCounted": "55344",
+            "votesReceived": "27310"
           },
           {
             "name": "Parkdale-High Park",
@@ -471,7 +471,7 @@
       },
       {
         "name": "Braeden Chow",
-        "votesReceived": "8084",
+        "votesReceived": "8102",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -495,10 +495,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "386"
+            "votesCounted": "55344",
+            "votesReceived": "404"
           },
           {
             "name": "Parkdale-High Park",
@@ -702,7 +702,7 @@
       },
       {
         "name": "Chris Alexander",
-        "votesReceived": "3547",
+        "votesReceived": "3550",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -726,10 +726,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "163"
+            "votesCounted": "55344",
+            "votesReceived": "166"
           },
           {
             "name": "Parkdale-High Park",
@@ -933,7 +933,7 @@
       },
       {
         "name": "Edward Gong",
-        "votesReceived": "3439",
+        "votesReceived": "3443",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -957,10 +957,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "112"
+            "votesCounted": "55344",
+            "votesReceived": "116"
           },
           {
             "name": "Parkdale-High Park",
@@ -1164,7 +1164,7 @@
       },
       {
         "name": "Laura Dean",
-        "votesReceived": "2220",
+        "votesReceived": "2224",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1188,10 +1188,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "121"
+            "votesCounted": "55344",
+            "votesReceived": "125"
           },
           {
             "name": "Parkdale-High Park",
@@ -1419,9 +1419,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "99"
           },
           {
@@ -1626,7 +1626,7 @@
       },
       {
         "name": "Imad Abdulkadir",
-        "votesReceived": "1870",
+        "votesReceived": "1873",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1650,10 +1650,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "47"
+            "votesCounted": "55344",
+            "votesReceived": "50"
           },
           {
             "name": "Parkdale-High Park",
@@ -1857,7 +1857,7 @@
       },
       {
         "name": "Bahira Abdulsalam",
-        "votesReceived": "1692",
+        "votesReceived": "1696",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1881,10 +1881,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "32"
+            "votesCounted": "55344",
+            "votesReceived": "36"
           },
           {
             "name": "Parkdale-High Park",
@@ -2088,7 +2088,7 @@
       },
       {
         "name": "Rick Lee",
-        "votesReceived": "1287",
+        "votesReceived": "1288",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2112,10 +2112,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "39"
+            "votesCounted": "55344",
+            "votesReceived": "40"
           },
           {
             "name": "Parkdale-High Park",
@@ -2319,7 +2319,7 @@
       },
       {
         "name": "Logan Choy",
-        "votesReceived": "1279",
+        "votesReceived": "1282",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2343,10 +2343,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "40"
+            "votesCounted": "55344",
+            "votesReceived": "43"
           },
           {
             "name": "Parkdale-High Park",
@@ -2550,7 +2550,7 @@
       },
       {
         "name": "Sandeep Srivastava",
-        "votesReceived": "1148",
+        "votesReceived": "1149",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2574,10 +2574,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "27"
+            "votesCounted": "55344",
+            "votesReceived": "28"
           },
           {
             "name": "Parkdale-High Park",
@@ -2805,9 +2805,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "41"
           },
           {
@@ -3036,9 +3036,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "34"
           },
           {
@@ -3243,7 +3243,7 @@
       },
       {
         "name": "Roberto Curto",
-        "votesReceived": "957",
+        "votesReceived": "959",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3267,10 +3267,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "47"
+            "votesCounted": "55344",
+            "votesReceived": "49"
           },
           {
             "name": "Parkdale-High Park",
@@ -3474,7 +3474,7 @@
       },
       {
         "name": "Sarah McVie",
-        "votesReceived": "956",
+        "votesReceived": "957",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3498,10 +3498,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "53"
+            "votesCounted": "55344",
+            "votesReceived": "54"
           },
           {
             "name": "Parkdale-High Park",
@@ -3729,9 +3729,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "38"
           },
           {
@@ -3936,7 +3936,7 @@
       },
       {
         "name": "Amy Rosen",
-        "votesReceived": "917",
+        "votesReceived": "919",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3960,10 +3960,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "38"
+            "votesCounted": "55344",
+            "votesReceived": "40"
           },
           {
             "name": "Parkdale-High Park",
@@ -4167,7 +4167,7 @@
       },
       {
         "name": "Paul Collins",
-        "votesReceived": "844",
+        "votesReceived": "845",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4191,10 +4191,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "35"
+            "votesCounted": "55344",
+            "votesReceived": "36"
           },
           {
             "name": "Parkdale-High Park",
@@ -4422,9 +4422,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "34"
           },
           {
@@ -4653,9 +4653,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "11"
           },
           {
@@ -4860,7 +4860,7 @@
       },
       {
         "name": "Joshua Thompson",
-        "votesReceived": "707",
+        "votesReceived": "709",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4884,10 +4884,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "23"
+            "votesCounted": "55344",
+            "votesReceived": "25"
           },
           {
             "name": "Parkdale-High Park",
@@ -5115,9 +5115,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "38"
           },
           {
@@ -5346,9 +5346,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "34"
           },
           {
@@ -5553,7 +5553,7 @@
       },
       {
         "name": "Michael Lamoureux",
-        "votesReceived": "567",
+        "votesReceived": "570",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5577,10 +5577,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "36"
+            "votesCounted": "55344",
+            "votesReceived": "39"
           },
           {
             "name": "Parkdale-High Park",
@@ -5808,9 +5808,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "31"
           },
           {
@@ -6015,7 +6015,7 @@
       },
       {
         "name": "Cory Deville",
-        "votesReceived": "482",
+        "votesReceived": "485",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6039,10 +6039,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "23"
+            "votesCounted": "55344",
+            "votesReceived": "26"
           },
           {
             "name": "Parkdale-High Park",
@@ -6246,7 +6246,7 @@
       },
       {
         "name": "Odessa Paloma Parker",
-        "votesReceived": "456",
+        "votesReceived": "457",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6270,10 +6270,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "29"
+            "votesCounted": "55344",
+            "votesReceived": "30"
           },
           {
             "name": "Parkdale-High Park",
@@ -6501,9 +6501,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "23"
           },
           {
@@ -6732,9 +6732,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "17"
           },
           {
@@ -6939,7 +6939,7 @@
       },
       {
         "name": "Heather He",
-        "votesReceived": "420",
+        "votesReceived": "421",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6963,10 +6963,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "11"
+            "votesCounted": "55344",
+            "votesReceived": "12"
           },
           {
             "name": "Parkdale-High Park",
@@ -7194,9 +7194,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "7"
           },
           {
@@ -7401,7 +7401,7 @@
       },
       {
         "name": "Faizan Haider",
-        "votesReceived": "369",
+        "votesReceived": "370",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7425,10 +7425,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "6"
+            "votesCounted": "55344",
+            "votesReceived": "7"
           },
           {
             "name": "Parkdale-High Park",
@@ -7656,9 +7656,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "13"
           },
           {
@@ -7887,9 +7887,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "11"
           },
           {
@@ -8118,9 +8118,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "13"
           },
           {
@@ -8349,9 +8349,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "16"
           },
           {
@@ -8580,9 +8580,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "13"
           },
           {
@@ -8811,9 +8811,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "17"
           },
           {
@@ -9042,9 +9042,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "11"
           },
           {
@@ -9273,9 +9273,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "12"
           },
           {
@@ -9504,9 +9504,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "22"
           },
           {
@@ -9711,7 +9711,7 @@
       },
       {
         "name": "Joseph Osuji",
-        "votesReceived": "319",
+        "votesReceived": "320",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9735,10 +9735,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "11"
+            "votesCounted": "55344",
+            "votesReceived": "12"
           },
           {
             "name": "Parkdale-High Park",
@@ -9942,7 +9942,7 @@
       },
       {
         "name": "Naomi Sayers",
-        "votesReceived": "273",
+        "votesReceived": "274",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9966,10 +9966,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "16"
+            "votesCounted": "55344",
+            "votesReceived": "17"
           },
           {
             "name": "Parkdale-High Park",
@@ -10173,7 +10173,7 @@
       },
       {
         "name": "Peter Handjis",
-        "votesReceived": "269",
+        "votesReceived": "270",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10197,10 +10197,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "16"
+            "votesCounted": "55344",
+            "votesReceived": "17"
           },
           {
             "name": "Parkdale-High Park",
@@ -10428,9 +10428,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "11"
           },
           {
@@ -10659,9 +10659,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "3"
           },
           {
@@ -10890,9 +10890,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "5"
           },
           {
@@ -11121,9 +11121,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "5"
           },
           {
@@ -11352,9 +11352,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "4"
           },
           {
@@ -11559,7 +11559,7 @@
       },
       {
         "name": "Henoke Yohannes",
-        "votesReceived": "156",
+        "votesReceived": "157",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -11583,10 +11583,10 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
-            "votesReceived": "3"
+            "votesCounted": "55344",
+            "votesReceived": "4"
           },
           {
             "name": "Parkdale-High Park",
@@ -11814,9 +11814,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "5"
           },
           {
@@ -12045,9 +12045,9 @@
             "name": "Etobicoke-Lakeshore",
             "num": "3",
             "polls": "82",
-            "pollsReceived": "81",
+            "pollsReceived": "82",
             "totalVoters": "116485",
-            "votesCounted": "53746",
+            "votesCounted": "55344",
             "votesReceived": "4"
           },
           {
@@ -12252,5 +12252,5 @@
       }
     ]
   },
-  "seq": "1793077655908"
+  "seq": "1793077716233"
 }
