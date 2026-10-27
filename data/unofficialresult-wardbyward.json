@@ -3,13 +3,13 @@
   "office": {
     "name": "Mayor",
     "polls": "1431",
-    "pollsReceived": "1420",
+    "pollsReceived": "1422",
     "totalVoters": "2143771",
-    "votesReceived": "976550",
+    "votesReceived": "977820",
     "candidate": [
       {
         "name": "Olivia Chow",
-        "votesReceived": "529042",
+        "votesReceived": "529786",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -87,10 +87,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "30007"
+            "votesCounted": "44414",
+            "votesReceived": "30639"
           },
           {
             "name": "Spadina-Fort York",
@@ -105,10 +105,10 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "28815"
+            "votesCounted": "45602",
+            "votesReceived": "28927"
           },
           {
             "name": "Toronto-St. Paul's",
@@ -240,7 +240,7 @@
       },
       {
         "name": "Brad Bradford",
-        "votesReceived": "401415",
+        "votesReceived": "401888",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -318,10 +318,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "11828"
+            "votesCounted": "44414",
+            "votesReceived": "12249"
           },
           {
             "name": "Spadina-Fort York",
@@ -336,10 +336,10 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "15397"
+            "votesCounted": "45602",
+            "votesReceived": "15449"
           },
           {
             "name": "Toronto-St. Paul's",
@@ -471,7 +471,7 @@
       },
       {
         "name": "Braeden Chow",
-        "votesReceived": "8030",
+        "votesReceived": "8040",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -549,10 +549,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "271"
+            "votesCounted": "44414",
+            "votesReceived": "280"
           },
           {
             "name": "Spadina-Fort York",
@@ -567,10 +567,10 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "310"
+            "votesCounted": "45602",
+            "votesReceived": "311"
           },
           {
             "name": "Toronto-St. Paul's",
@@ -702,7 +702,7 @@
       },
       {
         "name": "Chris Alexander",
-        "votesReceived": "3526",
+        "votesReceived": "3530",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -780,10 +780,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "157"
+            "votesCounted": "44414",
+            "votesReceived": "160"
           },
           {
             "name": "Spadina-Fort York",
@@ -798,10 +798,10 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "116"
+            "votesCounted": "45602",
+            "votesReceived": "117"
           },
           {
             "name": "Toronto-St. Paul's",
@@ -1011,9 +1011,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "55"
           },
           {
@@ -1029,9 +1029,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "42"
           },
           {
@@ -1164,7 +1164,7 @@
       },
       {
         "name": "Laura Dean",
-        "votesReceived": "2199",
+        "votesReceived": "2210",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1242,10 +1242,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "128"
+            "votesCounted": "44414",
+            "votesReceived": "137"
           },
           {
             "name": "Spadina-Fort York",
@@ -1260,10 +1260,10 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "109"
+            "votesCounted": "45602",
+            "votesReceived": "111"
           },
           {
             "name": "Toronto-St. Paul's",
@@ -1395,7 +1395,7 @@
       },
       {
         "name": "Darrell Brown",
-        "votesReceived": "2065",
+        "votesReceived": "2066",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1473,10 +1473,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "69"
+            "votesCounted": "44414",
+            "votesReceived": "70"
           },
           {
             "name": "Spadina-Fort York",
@@ -1491,9 +1491,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "58"
           },
           {
@@ -1626,7 +1626,7 @@
       },
       {
         "name": "Imad Abdulkadir",
-        "votesReceived": "1858",
+        "votesReceived": "1859",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1704,10 +1704,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "29"
+            "votesCounted": "44414",
+            "votesReceived": "30"
           },
           {
             "name": "Spadina-Fort York",
@@ -1722,9 +1722,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "25"
           },
           {
@@ -1857,7 +1857,7 @@
       },
       {
         "name": "Bahira Abdulsalam",
-        "votesReceived": "1685",
+        "votesReceived": "1686",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -1935,9 +1935,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "33"
           },
           {
@@ -1953,10 +1953,10 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "38"
+            "votesCounted": "45602",
+            "votesReceived": "39"
           },
           {
             "name": "Toronto-St. Paul's",
@@ -2166,9 +2166,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "35"
           },
           {
@@ -2184,9 +2184,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "18"
           },
           {
@@ -2319,7 +2319,7 @@
       },
       {
         "name": "Logan Choy",
-        "votesReceived": "1268",
+        "votesReceived": "1270",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2397,10 +2397,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "29"
+            "votesCounted": "44414",
+            "votesReceived": "30"
           },
           {
             "name": "Spadina-Fort York",
@@ -2415,10 +2415,10 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "33"
+            "votesCounted": "45602",
+            "votesReceived": "34"
           },
           {
             "name": "Toronto-St. Paul's",
@@ -2628,9 +2628,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "9"
           },
           {
@@ -2646,9 +2646,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "9"
           },
           {
@@ -2781,7 +2781,7 @@
       },
       {
         "name": "Georgios Kalkounis",
-        "votesReceived": "1083",
+        "votesReceived": "1084",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -2859,10 +2859,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "20"
+            "votesCounted": "44414",
+            "votesReceived": "21"
           },
           {
             "name": "Spadina-Fort York",
@@ -2877,9 +2877,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "18"
           },
           {
@@ -3012,7 +3012,7 @@
       },
       {
         "name": "Kevin Clarke",
-        "votesReceived": "1081",
+        "votesReceived": "1083",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3090,10 +3090,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "33"
+            "votesCounted": "44414",
+            "votesReceived": "35"
           },
           {
             "name": "Spadina-Fort York",
@@ -3108,9 +3108,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "21"
           },
           {
@@ -3243,7 +3243,7 @@
       },
       {
         "name": "Roberto Curto",
-        "votesReceived": "955",
+        "votesReceived": "956",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3321,10 +3321,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "60"
+            "votesCounted": "44414",
+            "votesReceived": "61"
           },
           {
             "name": "Spadina-Fort York",
@@ -3339,9 +3339,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "31"
           },
           {
@@ -3552,9 +3552,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "42"
           },
           {
@@ -3570,9 +3570,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "30"
           },
           {
@@ -3705,7 +3705,7 @@
       },
       {
         "name": "Jamie Atkinson",
-        "votesReceived": "929",
+        "votesReceived": "930",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -3783,10 +3783,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "32"
+            "votesCounted": "44414",
+            "votesReceived": "33"
           },
           {
             "name": "Spadina-Fort York",
@@ -3801,9 +3801,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "27"
           },
           {
@@ -3936,7 +3936,7 @@
       },
       {
         "name": "Amy Rosen",
-        "votesReceived": "912",
+        "votesReceived": "913",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4014,10 +4014,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "43"
+            "votesCounted": "44414",
+            "votesReceived": "44"
           },
           {
             "name": "Spadina-Fort York",
@@ -4032,9 +4032,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "46"
           },
           {
@@ -4167,7 +4167,7 @@
       },
       {
         "name": "Paul Collins",
-        "votesReceived": "840",
+        "votesReceived": "842",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4245,10 +4245,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "28"
+            "votesCounted": "44414",
+            "votesReceived": "30"
           },
           {
             "name": "Spadina-Fort York",
@@ -4263,9 +4263,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "15"
           },
           {
@@ -4398,7 +4398,7 @@
       },
       {
         "name": "Lyall Sanders",
-        "votesReceived": "777",
+        "votesReceived": "778",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4476,10 +4476,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "29"
+            "votesCounted": "44414",
+            "votesReceived": "30"
           },
           {
             "name": "Spadina-Fort York",
@@ -4494,9 +4494,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "18"
           },
           {
@@ -4629,7 +4629,7 @@
       },
       {
         "name": "Mohamad Kaaki",
-        "votesReceived": "720",
+        "votesReceived": "722",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4707,10 +4707,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "14"
+            "votesCounted": "44414",
+            "votesReceived": "15"
           },
           {
             "name": "Spadina-Fort York",
@@ -4725,10 +4725,10 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "4"
+            "votesCounted": "45602",
+            "votesReceived": "5"
           },
           {
             "name": "Toronto-St. Paul's",
@@ -4860,7 +4860,7 @@
       },
       {
         "name": "Joshua Thompson",
-        "votesReceived": "702",
+        "votesReceived": "703",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -4938,10 +4938,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "17"
+            "votesCounted": "44414",
+            "votesReceived": "18"
           },
           {
             "name": "Spadina-Fort York",
@@ -4956,9 +4956,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "11"
           },
           {
@@ -5169,9 +5169,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "20"
           },
           {
@@ -5187,9 +5187,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "15"
           },
           {
@@ -5322,7 +5322,7 @@
       },
       {
         "name": "Laura Ellis",
-        "votesReceived": "626",
+        "votesReceived": "627",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -5400,10 +5400,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "24"
+            "votesCounted": "44414",
+            "votesReceived": "25"
           },
           {
             "name": "Spadina-Fort York",
@@ -5418,9 +5418,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "15"
           },
           {
@@ -5631,9 +5631,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "18"
           },
           {
@@ -5649,9 +5649,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "17"
           },
           {
@@ -5862,9 +5862,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "7"
           },
           {
@@ -5880,9 +5880,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "10"
           },
           {
@@ -6015,7 +6015,7 @@
       },
       {
         "name": "Cory Deville",
-        "votesReceived": "479",
+        "votesReceived": "480",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6093,10 +6093,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "20"
+            "votesCounted": "44414",
+            "votesReceived": "21"
           },
           {
             "name": "Spadina-Fort York",
@@ -6111,9 +6111,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "14"
           },
           {
@@ -6246,7 +6246,7 @@
       },
       {
         "name": "Odessa Paloma Parker",
-        "votesReceived": "454",
+        "votesReceived": "455",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -6324,10 +6324,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "25"
+            "votesCounted": "44414",
+            "votesReceived": "26"
           },
           {
             "name": "Spadina-Fort York",
@@ -6342,9 +6342,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "20"
           },
           {
@@ -6555,9 +6555,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "42"
           },
           {
@@ -6573,9 +6573,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "11"
           },
           {
@@ -6786,9 +6786,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "10"
           },
           {
@@ -6804,9 +6804,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "5"
           },
           {
@@ -7017,9 +7017,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "10"
           },
           {
@@ -7035,9 +7035,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "17"
           },
           {
@@ -7248,9 +7248,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "3"
           },
           {
@@ -7266,9 +7266,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "7"
           },
           {
@@ -7479,9 +7479,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "3"
           },
           {
@@ -7497,9 +7497,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "9"
           },
           {
@@ -7710,9 +7710,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "15"
           },
           {
@@ -7728,9 +7728,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "6"
           },
           {
@@ -7863,7 +7863,7 @@
       },
       {
         "name": "Kuo Yu Tong",
-        "votesReceived": "362",
+        "votesReceived": "363",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -7941,10 +7941,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "7"
+            "votesCounted": "44414",
+            "votesReceived": "8"
           },
           {
             "name": "Spadina-Fort York",
@@ -7959,9 +7959,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "12"
           },
           {
@@ -8094,7 +8094,7 @@
       },
       {
         "name": "Habiba Desai",
-        "votesReceived": "360",
+        "votesReceived": "361",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8172,9 +8172,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "4"
           },
           {
@@ -8190,10 +8190,10 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "2"
+            "votesCounted": "45602",
+            "votesReceived": "3"
           },
           {
             "name": "Toronto-St. Paul's",
@@ -8403,9 +8403,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "18"
           },
           {
@@ -8421,9 +8421,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "9"
           },
           {
@@ -8556,7 +8556,7 @@
       },
       {
         "name": "Weizhen Tang",
-        "votesReceived": "351",
+        "votesReceived": "352",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -8634,9 +8634,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "8"
           },
           {
@@ -8652,10 +8652,10 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
-            "votesReceived": "8"
+            "votesCounted": "45602",
+            "votesReceived": "9"
           },
           {
             "name": "Toronto-St. Paul's",
@@ -8865,9 +8865,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "6"
           },
           {
@@ -8883,9 +8883,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "4"
           },
           {
@@ -9018,7 +9018,7 @@
       },
       {
         "name": "Faisal Razi",
-        "votesReceived": "334",
+        "votesReceived": "335",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -9096,10 +9096,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "8"
+            "votesCounted": "44414",
+            "votesReceived": "9"
           },
           {
             "name": "Spadina-Fort York",
@@ -9114,9 +9114,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "1"
           },
           {
@@ -9327,9 +9327,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "15"
           },
           {
@@ -9345,9 +9345,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "8"
           },
           {
@@ -9558,9 +9558,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "11"
           },
           {
@@ -9576,9 +9576,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "12"
           },
           {
@@ -9789,9 +9789,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "9"
           },
           {
@@ -9807,9 +9807,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "7"
           },
           {
@@ -9942,7 +9942,7 @@
       },
       {
         "name": "Naomi Sayers",
-        "votesReceived": "272",
+        "votesReceived": "273",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10020,10 +10020,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "8"
+            "votesCounted": "44414",
+            "votesReceived": "9"
           },
           {
             "name": "Spadina-Fort York",
@@ -10038,9 +10038,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "6"
           },
           {
@@ -10173,7 +10173,7 @@
       },
       {
         "name": "Peter Handjis",
-        "votesReceived": "266",
+        "votesReceived": "267",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -10251,10 +10251,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "7"
+            "votesCounted": "44414",
+            "votesReceived": "8"
           },
           {
             "name": "Spadina-Fort York",
@@ -10269,9 +10269,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "7"
           },
           {
@@ -10482,9 +10482,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "11"
           },
           {
@@ -10500,9 +10500,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "2"
           },
           {
@@ -10713,9 +10713,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "6"
           },
           {
@@ -10731,9 +10731,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "3"
           },
           {
@@ -10944,9 +10944,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "5"
           },
           {
@@ -10962,9 +10962,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "1"
           },
           {
@@ -11175,9 +11175,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "9"
           },
           {
@@ -11193,9 +11193,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "0"
           },
           {
@@ -11328,7 +11328,7 @@
       },
       {
         "name": "Wincess Dorville",
-        "votesReceived": "173",
+        "votesReceived": "175",
         "ward": [
           {
             "name": "Etobicoke North",
@@ -11406,10 +11406,10 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
-            "votesReceived": "6"
+            "votesCounted": "44414",
+            "votesReceived": "8"
           },
           {
             "name": "Spadina-Fort York",
@@ -11424,9 +11424,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "1"
           },
           {
@@ -11637,9 +11637,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "5"
           },
           {
@@ -11655,9 +11655,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "3"
           },
           {
@@ -11868,9 +11868,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "5"
           },
           {
@@ -11886,9 +11886,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "2"
           },
           {
@@ -12099,9 +12099,9 @@
             "name": "Davenport",
             "num": "9",
             "polls": "53",
-            "pollsReceived": "52",
+            "pollsReceived": "53",
             "totalVoters": "84706",
-            "votesCounted": "43317",
+            "votesCounted": "44414",
             "votesReceived": "4"
           },
           {
@@ -12117,9 +12117,9 @@
             "name": "University-Rosedale",
             "num": "11",
             "polls": "72",
-            "pollsReceived": "71",
+            "pollsReceived": "72",
             "totalVoters": "90868",
-            "votesCounted": "45429",
+            "votesCounted": "45602",
             "votesReceived": "4"
           },
           {
@@ -12252,5 +12252,5 @@
       }
     ]
   },
-  "seq": "1793072345947"
+  "seq": "1793072465957"
 }
